@@ -18,6 +18,7 @@ import json
 import os
 import re
 import shutil
+import ssl
 import tempfile
 import time
 import urllib.parse
@@ -39,6 +40,7 @@ PAUSE_SECONDS = 1.0
 MATCH_THRESHOLD = 0.75
 PERCENT_TOLERANCE = 1.0
 INDEX = "index.json"
+INTERMEDIATE = Path(__file__).resolve().parent / "certs" / "maharain-chain.pem"
 NO_MAHARAIN_DATA = {"482", "483"}  # Mumbai City and Mumbai Suburban are not in Maharain
 AGENT = "MaharashtraFieldNotes/1.0 (public official data import)"
 CELLS = 12
@@ -64,9 +66,22 @@ TALUKA_ROW = re.compile(r'data-unique_code="(\d+_\d+)"')
 STAMP = re.compile(r"(\d{4}-\d{2}-\d{2}) \d{1,2}:\d{2}:\d{2}\s*[ap]m", re.I)
 
 
+def tls_context() -> ssl.SSLContext:
+    """Normal certificate verification, plus the intermediate Maharain's server leaves out.
+
+    Windows fetches missing intermediates itself; Linux (e.g. GitHub Actions) does not.
+    The chain still has to end at a root in the system store.
+    """
+    context = ssl.create_default_context()
+    if INTERMEDIATE.exists():
+        context.load_verify_locations(cafile=str(INTERMEDIATE))
+    return context
+
+
 class Client:
     def __init__(self) -> None:
-        self.opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()))
+        self.opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()),
+                                                  urllib.request.HTTPSHandler(context=tls_context()))
 
     def call(self, path: str, form: dict | None = None) -> str:
         data = urllib.parse.urlencode(form).encode() if form is not None else None
