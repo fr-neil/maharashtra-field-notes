@@ -1,0 +1,4451 @@
+{
+  "meta": {
+    "title": "Maharashtra Knowledge Hub",
+    "dataAsOf": "2026-10-27",
+    "builtFrom": "Workspace source register and checked public geography",
+    "observationDate": null,
+    "automaticRefresh": false,
+    "fieldDataImported": false,
+    "geographySource": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+    "mapSource": "https://github.com/guneetnarula/indian-district-boundaries",
+    "mapLicense": "MIT",
+    "mapNote": "Community visualization boundaries include Census 2011 and 2014 source vintages. Current LGD labels are crosswalked; geometry is not a current legal boundary survey.",
+    "scope": "Maharashtra: 36 districts and 358 talukas; verified Nashik village index; manual village entry elsewhere",
+    "weatherConnected": true,
+    "villageCoverage": "1981 verified Nashik villages; other districts accept manual entry"
+  },
+  "districts": [
+    {
+      "code": "466",
+      "name": "Ahilyanagar",
+      "nameMr": "अहिल्यानगर",
+      "census2001Code": "26",
+      "census2011Code": "522",
+      "talukaCount": 14,
+      "villageCount": 1613,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": [
+        "Ahmednagar",
+        "Ahmadnagar"
+      ]
+    },
+    {
+      "code": "467",
+      "name": "Akola",
+      "nameMr": "अकोला",
+      "census2001Code": "05",
+      "census2011Code": "501",
+      "talukaCount": 7,
+      "villageCount": 1046,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": []
+    },
+    {
+      "code": "468",
+      "name": "Amravati",
+      "nameMr": "अमरावती",
+      "census2001Code": "07",
+      "census2011Code": "503",
+      "talukaCount": 14,
+      "villageCount": 2027,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": []
+    },
+    {
+      "code": "469",
+      "name": "Chhatrapati Sambhajinagar",
+      "nameMr": "छत्रपती संभाजीनगर",
+      "census2001Code": "19",
+      "census2011Code": "515",
+      "talukaCount": 9,
+      "villageCount": 1380,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": [
+        "Aurangabad"
+      ]
+    },
+    {
+      "code": "470",
+      "name": "Beed",
+      "nameMr": "बीड",
+      "census2001Code": "27",
+      "census2011Code": "523",
+      "talukaCount": 11,
+      "villageCount": 1299,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": [
+        "Bid"
+      ]
+    },
+    {
+      "code": "471",
+      "name": "Bhandara",
+      "nameMr": "भंडारा",
+      "census2001Code": "10",
+      "census2011Code": "506",
+      "talukaCount": 7,
+      "villageCount": 898,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": []
+    },
+    {
+      "code": "472",
+      "name": "Buldhana",
+      "nameMr": "बुलढाणा",
+      "census2001Code": "04",
+      "census2011Code": "500",
+      "talukaCount": 13,
+      "villageCount": 1489,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": [
+        "Buldana"
+      ]
+    },
+    {
+      "code": "473",
+      "name": "Chandrapur",
+      "nameMr": "चंद्रपूर",
+      "census2001Code": "13",
+      "census2011Code": "509",
+      "talukaCount": 15,
+      "villageCount": 1838,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": []
+    },
+    {
+      "code": "474",
+      "name": "Dhule",
+      "nameMr": "धुळे",
+      "census2001Code": "02",
+      "census2011Code": "498",
+      "talukaCount": 4,
+      "villageCount": 692,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": []
+    },
+    {
+      "code": "475",
+      "name": "Gadchiroli",
+      "nameMr": "गडचिरोली",
+      "census2001Code": "12",
+      "census2011Code": "508",
+      "talukaCount": 12,
+      "villageCount": 1683,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": []
+    },
+    {
+      "code": "476",
+      "name": "Gondia",
+      "nameMr": "गोंदीया",
+      "census2001Code": "11",
+      "census2011Code": "507",
+      "talukaCount": 8,
+      "villageCount": 942,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": [
+        "Gondiya"
+      ]
+    },
+    {
+      "code": "477",
+      "name": "Hingoli",
+      "nameMr": "हिंगोली",
+      "census2001Code": "16",
+      "census2011Code": "512",
+      "talukaCount": 5,
+      "villageCount": 701,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": []
+    },
+    {
+      "code": "478",
+      "name": "Jalgaon",
+      "nameMr": "जळगाव",
+      "census2001Code": "03",
+      "census2011Code": "499",
+      "talukaCount": 15,
+      "villageCount": 1568,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": []
+    },
+    {
+      "code": "479",
+      "name": "Jalna",
+      "nameMr": "जालना",
+      "census2001Code": "18",
+      "census2011Code": "514",
+      "talukaCount": 8,
+      "villageCount": 955,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": []
+    },
+    {
+      "code": "480",
+      "name": "Kolhapur",
+      "nameMr": "कोल्हापूर",
+      "census2001Code": "34",
+      "census2011Code": "530",
+      "talukaCount": 12,
+      "villageCount": 1250,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": []
+    },
+    {
+      "code": "481",
+      "name": "Latur",
+      "nameMr": "लातूर",
+      "census2001Code": "28",
+      "census2011Code": "524",
+      "talukaCount": 10,
+      "villageCount": 928,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": []
+    },
+    {
+      "code": "482",
+      "name": "Mumbai",
+      "nameMr": "मुंबई",
+      "census2001Code": "23",
+      "census2011Code": "519",
+      "talukaCount": null,
+      "villageCount": null,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": [
+        "Mumbai City"
+      ]
+    },
+    {
+      "code": "483",
+      "name": "Mumbai Suburban",
+      "nameMr": "मुंबई उपनगर",
+      "census2001Code": "22",
+      "census2011Code": "518",
+      "talukaCount": 3,
+      "villageCount": 86,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": []
+    },
+    {
+      "code": "484",
+      "name": "Nagpur",
+      "nameMr": "नागपूर",
+      "census2001Code": "09",
+      "census2011Code": "505",
+      "talukaCount": 14,
+      "villageCount": 1991,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": []
+    },
+    {
+      "code": "485",
+      "name": "Nanded",
+      "nameMr": "नांदेड",
+      "census2001Code": "15",
+      "census2011Code": "511",
+      "talukaCount": 16,
+      "villageCount": 1628,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": []
+    },
+    {
+      "code": "486",
+      "name": "Nandurbar",
+      "nameMr": "नंदूरबार",
+      "census2001Code": "01",
+      "census2011Code": "497",
+      "talukaCount": 6,
+      "villageCount": 955,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": []
+    },
+    {
+      "code": "487",
+      "name": "Nashik",
+      "nameMr": "नाशिक",
+      "census2001Code": "20",
+      "census2011Code": "516",
+      "talukaCount": 15,
+      "villageCount": 1981,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": [
+        "Nasik"
+      ]
+    },
+    {
+      "code": "488",
+      "name": "Dharashiv",
+      "nameMr": "धाराशिव",
+      "census2001Code": "29",
+      "census2011Code": "525",
+      "talukaCount": 8,
+      "villageCount": 728,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": [
+        "Osmanabad"
+      ]
+    },
+    {
+      "code": "489",
+      "name": "Parbhani",
+      "nameMr": "परभणी",
+      "census2001Code": "17",
+      "census2011Code": "513",
+      "talukaCount": 9,
+      "villageCount": 847,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": []
+    },
+    {
+      "code": "490",
+      "name": "Pune",
+      "nameMr": "पुणे",
+      "census2001Code": "25",
+      "census2011Code": "521",
+      "talukaCount": 14,
+      "villageCount": 1952,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": []
+    },
+    {
+      "code": "491",
+      "name": "Raigad",
+      "nameMr": "रायगड",
+      "census2001Code": "24",
+      "census2011Code": "520",
+      "talukaCount": 15,
+      "villageCount": 2119,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": [
+        "Raigarh"
+      ]
+    },
+    {
+      "code": "492",
+      "name": "Ratnagiri",
+      "nameMr": "रत्नागिरी",
+      "census2001Code": "32",
+      "census2011Code": "528",
+      "talukaCount": 9,
+      "villageCount": 1540,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": []
+    },
+    {
+      "code": "493",
+      "name": "Sangli",
+      "nameMr": "सांगली",
+      "census2001Code": "35",
+      "census2011Code": "531",
+      "talukaCount": 10,
+      "villageCount": 765,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": []
+    },
+    {
+      "code": "494",
+      "name": "Satara",
+      "nameMr": "सातारा",
+      "census2001Code": "31",
+      "census2011Code": "527",
+      "talukaCount": 11,
+      "villageCount": 1763,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": []
+    },
+    {
+      "code": "495",
+      "name": "Sindhudurg",
+      "nameMr": "सिंधुदुर्ग",
+      "census2001Code": "33",
+      "census2011Code": "529",
+      "talukaCount": 8,
+      "villageCount": 761,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": []
+    },
+    {
+      "code": "496",
+      "name": "Solapur",
+      "nameMr": "सोलापूर",
+      "census2001Code": "30",
+      "census2011Code": "526",
+      "talukaCount": 11,
+      "villageCount": 1155,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": []
+    },
+    {
+      "code": "497",
+      "name": "Thane",
+      "nameMr": "ठाणे",
+      "census2001Code": "21",
+      "census2011Code": "517",
+      "talukaCount": 7,
+      "villageCount": 1002,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": []
+    },
+    {
+      "code": "498",
+      "name": "Wardha",
+      "nameMr": "वर्धा",
+      "census2001Code": "08",
+      "census2011Code": "504",
+      "talukaCount": 8,
+      "villageCount": 1407,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": []
+    },
+    {
+      "code": "499",
+      "name": "Washim",
+      "nameMr": "वाशिम",
+      "census2001Code": "06",
+      "census2011Code": "502",
+      "talukaCount": 6,
+      "villageCount": 809,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": []
+    },
+    {
+      "code": "500",
+      "name": "Yavatmal",
+      "nameMr": "यवतमाळ",
+      "census2001Code": "14",
+      "census2011Code": "510",
+      "talukaCount": 16,
+      "villageCount": 2122,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": []
+    },
+    {
+      "code": "665",
+      "name": "Palghar",
+      "nameMr": "पालघर",
+      "census2001Code": null,
+      "census2011Code": null,
+      "talukaCount": 8,
+      "villageCount": 1009,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27",
+      "aliases": []
+    }
+  ],
+  "talukas": [
+    {
+      "code": "4201",
+      "name": "Akole",
+      "nameMr": "अकोले",
+      "districtCode": "466",
+      "villageCount": 193,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4214",
+      "name": "Jamkhed",
+      "nameMr": "जामखेड",
+      "districtCode": "466",
+      "villageCount": 87,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4213",
+      "name": "Karjat",
+      "nameMr": "कर्जत",
+      "districtCode": "466",
+      "villageCount": 118,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4203",
+      "name": "Kopargaon",
+      "nameMr": "कोपरगाव",
+      "districtCode": "466",
+      "villageCount": 79,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4209",
+      "name": "Nagar",
+      "nameMr": "नगर",
+      "districtCode": "466",
+      "villageCount": 121,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4206",
+      "name": "Nevasa",
+      "nameMr": "नेवासा",
+      "districtCode": "466",
+      "villageCount": 127,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4211",
+      "name": "Parner",
+      "nameMr": "पारनेर",
+      "districtCode": "466",
+      "villageCount": 131,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4208",
+      "name": "Pathardi",
+      "nameMr": "पाथर्डी",
+      "districtCode": "466",
+      "villageCount": 139,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4204",
+      "name": "Rahta",
+      "nameMr": "रहाता",
+      "districtCode": "466",
+      "villageCount": 61,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4210",
+      "name": "Rahuri",
+      "nameMr": "राहुरी",
+      "districtCode": "466",
+      "villageCount": 97,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4202",
+      "name": "Sangamner",
+      "nameMr": "संगमनेर",
+      "districtCode": "466",
+      "villageCount": 175,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4207",
+      "name": "Shevgaon",
+      "nameMr": "शेगाव",
+      "districtCode": "466",
+      "villageCount": 113,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4212",
+      "name": "Shrigonda",
+      "nameMr": "श्रीगोंदा",
+      "districtCode": "466",
+      "villageCount": 116,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4205",
+      "name": "Shrirampur",
+      "nameMr": "श्रीरामपूर",
+      "districtCode": "466",
+      "villageCount": 56,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3991",
+      "name": "Akola",
+      "nameMr": "अकोला",
+      "districtCode": "467",
+      "villageCount": 203,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3989",
+      "name": "Akot",
+      "nameMr": "अकोट",
+      "districtCode": "467",
+      "villageCount": 192,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3990",
+      "name": "Balapur",
+      "nameMr": "बाळापूर",
+      "districtCode": "467",
+      "villageCount": 113,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3994",
+      "name": "Barshitakli",
+      "nameMr": "बार्शीटाकळी",
+      "districtCode": "467",
+      "villageCount": 163,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3992",
+      "name": "Murtijapur",
+      "nameMr": "मुर्तिजापूर",
+      "districtCode": "467",
+      "villageCount": 166,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3993",
+      "name": "Patur",
+      "nameMr": "पातूर",
+      "districtCode": "467",
+      "villageCount": 100,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3988",
+      "name": "Telhara",
+      "nameMr": "तेल्हारा",
+      "districtCode": "467",
+      "villageCount": 109,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4004",
+      "name": "Achalpur",
+      "nameMr": "अचलपूर",
+      "districtCode": "468",
+      "villageCount": 186,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4009",
+      "name": "Amravati",
+      "nameMr": "अमरावती",
+      "districtCode": "468",
+      "villageCount": 159,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4003",
+      "name": "Anjangaon Surji",
+      "nameMr": "अंजनगाव सुर्जी",
+      "districtCode": "468",
+      "villageCount": 128,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4010",
+      "name": "Bhatkuli",
+      "nameMr": "भातकुली",
+      "districtCode": "468",
+      "villageCount": 142,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4013",
+      "name": "Chandur Railway",
+      "nameMr": "चांदूर रेल्वे",
+      "districtCode": "468",
+      "villageCount": 94,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4005",
+      "name": "Chandurbazar",
+      "nameMr": "चांदूर बाजार",
+      "districtCode": "468",
+      "villageCount": 171,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4002",
+      "name": "Chikhaldara",
+      "nameMr": "चिखलदरा",
+      "districtCode": "468",
+      "villageCount": 161,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4011",
+      "name": "Daryapur",
+      "nameMr": "दर्यापूर",
+      "districtCode": "468",
+      "villageCount": 156,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4014",
+      "name": "Dhamangaon Railway",
+      "nameMr": "धामनगाव रेल्वे",
+      "districtCode": "468",
+      "villageCount": 115,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4001",
+      "name": "Dharni",
+      "nameMr": "धारणी",
+      "districtCode": "468",
+      "villageCount": 152,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4006",
+      "name": "Morshi",
+      "nameMr": "मोर्शी",
+      "districtCode": "468",
+      "villageCount": 161,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4012",
+      "name": "Nandgaon-Khandeshwar",
+      "nameMr": "नांदगाव खंडेश्वर",
+      "districtCode": "468",
+      "villageCount": 161,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4008",
+      "name": "Tiosa",
+      "nameMr": "तिवसा",
+      "districtCode": "468",
+      "villageCount": 99,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4007",
+      "name": "Warud",
+      "nameMr": "वरूड",
+      "districtCode": "468",
+      "villageCount": 142,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4137",
+      "name": "Chhatrapati Sambhajinagar",
+      "nameMr": "छत्रपती संभाजीनगर",
+      "districtCode": "469",
+      "villageCount": 221,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4140",
+      "name": "Gangapur",
+      "nameMr": "गंगापूर",
+      "districtCode": "469",
+      "villageCount": 226,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4133",
+      "name": "Kannad",
+      "nameMr": "कन्नड",
+      "districtCode": "469",
+      "villageCount": 196,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4138",
+      "name": "Khuldabad",
+      "nameMr": "खुलताबाद",
+      "districtCode": "469",
+      "villageCount": 73,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4141",
+      "name": "Paithan",
+      "nameMr": "पैठण",
+      "districtCode": "469",
+      "villageCount": 190,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4136",
+      "name": "Phulambri",
+      "nameMr": "फुलंब्री",
+      "districtCode": "469",
+      "villageCount": 92,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4135",
+      "name": "Sillod",
+      "nameMr": "सिल्लोड",
+      "districtCode": "469",
+      "villageCount": 131,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4134",
+      "name": "Soegaon",
+      "nameMr": "सोयगाव",
+      "districtCode": "469",
+      "villageCount": 84,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4139",
+      "name": "Vaijapur",
+      "nameMr": "वैजापूर",
+      "districtCode": "469",
+      "villageCount": 167,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4225",
+      "name": "Ambejogai",
+      "nameMr": "आंबेजोगाई",
+      "districtCode": "470",
+      "villageCount": 104,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4215",
+      "name": "Ashti",
+      "nameMr": "आष्टी",
+      "districtCode": "470",
+      "villageCount": 161,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4221",
+      "name": "Beed",
+      "nameMr": "बीड",
+      "districtCode": "470",
+      "villageCount": 236,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4223",
+      "name": "Dharur",
+      "nameMr": "धारूर",
+      "districtCode": "470",
+      "villageCount": 66,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4218",
+      "name": "Georai",
+      "nameMr": "गेवराई",
+      "districtCode": "470",
+      "villageCount": 183,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4222",
+      "name": "Kaij",
+      "nameMr": "केज",
+      "districtCode": "470",
+      "villageCount": 122,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4219",
+      "name": "Majalgaon",
+      "nameMr": "माजलगाव",
+      "districtCode": "470",
+      "villageCount": 113,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4224",
+      "name": "Parli",
+      "nameMr": "परळी",
+      "districtCode": "470",
+      "villageCount": 104,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4216",
+      "name": "Patoda",
+      "nameMr": "पाटोदा",
+      "districtCode": "470",
+      "villageCount": 91,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4217",
+      "name": "Shirur (Kasar)",
+      "nameMr": "शिरूर (कासार)",
+      "districtCode": "470",
+      "villageCount": 77,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4220",
+      "name": "Wadwani",
+      "nameMr": "वडवणी",
+      "districtCode": "470",
+      "villageCount": 42,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4039",
+      "name": "Bhandara",
+      "nameMr": "भंडारा",
+      "districtCode": "471",
+      "villageCount": 188,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4043",
+      "name": "Lakhandur",
+      "nameMr": "लाखंदूर",
+      "districtCode": "471",
+      "villageCount": 89,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4041",
+      "name": "Lakhani",
+      "nameMr": "लाखनी",
+      "districtCode": "471",
+      "villageCount": 104,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4038",
+      "name": "Mohadi",
+      "nameMr": "मोहाडी",
+      "districtCode": "471",
+      "villageCount": 108,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4042",
+      "name": "Pauni",
+      "nameMr": "पवनी",
+      "districtCode": "471",
+      "villageCount": 162,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4040",
+      "name": "Sakoli",
+      "nameMr": "साकोली",
+      "districtCode": "471",
+      "villageCount": 96,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4037",
+      "name": "Tumsar",
+      "nameMr": "तुमसर",
+      "districtCode": "471",
+      "villageCount": 151,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3984",
+      "name": "Buldana",
+      "nameMr": "बुलडाणा",
+      "districtCode": "472",
+      "villageCount": 103,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3983",
+      "name": "Chikhli",
+      "nameMr": "चिखली",
+      "districtCode": "472",
+      "villageCount": 159,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3985",
+      "name": "Deolgaon Raja",
+      "nameMr": "देउळगाव राजा",
+      "districtCode": "472",
+      "villageCount": 67,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3975",
+      "name": "Jalgaon (Jamod)",
+      "nameMr": "जळगाव (जामोद)",
+      "districtCode": "472",
+      "villageCount": 122,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3981",
+      "name": "Khamgaon",
+      "nameMr": "खामगाव",
+      "districtCode": "472",
+      "villageCount": 154,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3987",
+      "name": "Lonar",
+      "nameMr": "लोणार",
+      "districtCode": "472",
+      "villageCount": 93,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3979",
+      "name": "Malkapur",
+      "nameMr": "मलकापूर",
+      "districtCode": "472",
+      "villageCount": 78,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3982",
+      "name": "Mehkar",
+      "nameMr": "मेहकर",
+      "districtCode": "472",
+      "villageCount": 170,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3980",
+      "name": "Motala",
+      "nameMr": "मोताळा",
+      "districtCode": "472",
+      "villageCount": 124,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3978",
+      "name": "Nandura",
+      "nameMr": "नांदुरा",
+      "districtCode": "472",
+      "villageCount": 113,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3976",
+      "name": "Sangrampur",
+      "nameMr": "संग्रामपूर",
+      "districtCode": "472",
+      "villageCount": 109,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3977",
+      "name": "Shegaon",
+      "nameMr": "शेगाव",
+      "districtCode": "472",
+      "villageCount": 80,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3986",
+      "name": "Sindkhed Raja",
+      "nameMr": "सिंदखेड राजा",
+      "districtCode": "472",
+      "villageCount": 117,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4074",
+      "name": "Ballarpur",
+      "nameMr": "बल्लारपूर",
+      "districtCode": "473",
+      "villageCount": 35,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4070",
+      "name": "Bhadravati",
+      "nameMr": "भद्रावती",
+      "districtCode": "473",
+      "villageCount": 162,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4067",
+      "name": "Brahmapuri",
+      "nameMr": "ब्रम्हपुरी",
+      "districtCode": "473",
+      "villageCount": 140,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4071",
+      "name": "Chandrapur",
+      "nameMr": "चंद्रपूर",
+      "districtCode": "473",
+      "villageCount": 102,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4065",
+      "name": "Chimur",
+      "nameMr": "चिमूर",
+      "districtCode": "473",
+      "villageCount": 259,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4078",
+      "name": "Gondpipri",
+      "nameMr": "गोंडपिपरी",
+      "districtCode": "473",
+      "villageCount": 98,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4076",
+      "name": "Jiwati",
+      "nameMr": "जिवती",
+      "districtCode": "473",
+      "villageCount": 83,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4075",
+      "name": "Korpana",
+      "nameMr": "कोरपना",
+      "districtCode": "473",
+      "villageCount": 113,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4072",
+      "name": "Mul",
+      "nameMr": "मुल",
+      "districtCode": "473",
+      "villageCount": 113,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4066",
+      "name": "Nagbhid",
+      "nameMr": "नागभिड",
+      "districtCode": "473",
+      "villageCount": 138,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4073",
+      "name": "Pombhurna",
+      "nameMr": "पोम्भूर्णा",
+      "districtCode": "473",
+      "villageCount": 71,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4077",
+      "name": "Rajura",
+      "nameMr": "राजुरा",
+      "districtCode": "473",
+      "villageCount": 111,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4068",
+      "name": "Sawali",
+      "nameMr": "सावली",
+      "districtCode": "473",
+      "villageCount": 111,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4069",
+      "name": "Sindewahi",
+      "nameMr": "सिंदेवाही",
+      "districtCode": "473",
+      "villageCount": 115,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4064",
+      "name": "Warora",
+      "nameMr": "वरोरा",
+      "districtCode": "473",
+      "villageCount": 187,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3959",
+      "name": "Dhule",
+      "nameMr": "धुळे",
+      "districtCode": "474",
+      "villageCount": 170,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3958",
+      "name": "Sakri",
+      "nameMr": "साक्री",
+      "districtCode": "474",
+      "villageCount": 240,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3956",
+      "name": "Shirpur",
+      "nameMr": "शिरपूर",
+      "districtCode": "474",
+      "villageCount": 139,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3957",
+      "name": "Sindkhede",
+      "nameMr": "सिंदखेडे",
+      "districtCode": "474",
+      "villageCount": 143,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4062",
+      "name": "Aheri",
+      "nameMr": "अहेरी",
+      "districtCode": "475",
+      "villageCount": 182,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4053",
+      "name": "Armori",
+      "nameMr": "आरमोरी",
+      "districtCode": "475",
+      "villageCount": 103,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4061",
+      "name": "Bhamragad",
+      "nameMr": "भामरागड",
+      "districtCode": "475",
+      "villageCount": 128,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4058",
+      "name": "Chamorshi",
+      "nameMr": "चामोर्शी",
+      "districtCode": "475",
+      "villageCount": 204,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4052",
+      "name": "Desaiganj (Vadasa)",
+      "nameMr": "देसाईगंज (वडसा)",
+      "districtCode": "475",
+      "villageCount": 40,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4056",
+      "name": "Dhanora",
+      "nameMr": "धानोरा",
+      "districtCode": "475",
+      "villageCount": 228,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4060",
+      "name": "Etapalli",
+      "nameMr": "एटापल्ली",
+      "districtCode": "475",
+      "villageCount": 196,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4057",
+      "name": "Gadchiroli",
+      "nameMr": "गडचिरोली",
+      "districtCode": "475",
+      "villageCount": 128,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4055",
+      "name": "Korchi",
+      "nameMr": "कोरची",
+      "districtCode": "475",
+      "villageCount": 133,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4054",
+      "name": "Kurkheda",
+      "nameMr": "कुरखेडा",
+      "districtCode": "475",
+      "villageCount": 128,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4059",
+      "name": "Mulchera",
+      "nameMr": "मुलचेरा",
+      "districtCode": "475",
+      "villageCount": 68,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4063",
+      "name": "Sironcha",
+      "nameMr": "सिरोंचा",
+      "districtCode": "475",
+      "villageCount": 145,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4047",
+      "name": "Amgaon",
+      "nameMr": "आमगाव",
+      "districtCode": "476",
+      "villageCount": 83,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4050",
+      "name": "Arjuni Morgaon",
+      "nameMr": "अर्जुनी मोरगाव",
+      "districtCode": "476",
+      "villageCount": 153,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4051",
+      "name": "Deori",
+      "nameMr": "देवरी",
+      "districtCode": "476",
+      "villageCount": 135,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4046",
+      "name": "Gondiya",
+      "nameMr": "गोंदिया",
+      "districtCode": "476",
+      "villageCount": 149,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4045",
+      "name": "Goregaon",
+      "nameMr": "गोरेगाव",
+      "districtCode": "476",
+      "villageCount": 97,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4049",
+      "name": "Sadak-Arjuni",
+      "nameMr": "सडक अर्जुनी",
+      "districtCode": "476",
+      "villageCount": 108,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4048",
+      "name": "Salekasa",
+      "nameMr": "सालेकसा",
+      "districtCode": "476",
+      "villageCount": 92,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4044",
+      "name": "Tirora",
+      "nameMr": "तिरोडा",
+      "districtCode": "476",
+      "villageCount": 125,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4113",
+      "name": "Aundha (Nagnath)",
+      "nameMr": "औंढा (नागनाथ)",
+      "districtCode": "477",
+      "villageCount": 122,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4112",
+      "name": "Hingoli",
+      "nameMr": "हिंगोली",
+      "districtCode": "477",
+      "villageCount": 149,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4114",
+      "name": "Kalamnuri",
+      "nameMr": "कळमनुरी",
+      "districtCode": "477",
+      "villageCount": 148,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4111",
+      "name": "Sengaon",
+      "nameMr": "सेनगाव",
+      "districtCode": "477",
+      "villageCount": 131,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4115",
+      "name": "Vasmath",
+      "nameMr": "वसमत",
+      "districtCode": "477",
+      "villageCount": 151,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3969",
+      "name": "Amalner",
+      "nameMr": "अमळनेर",
+      "districtCode": "478",
+      "villageCount": 158,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3971",
+      "name": "Bhadgaon",
+      "nameMr": "भडगाव",
+      "districtCode": "478",
+      "villageCount": 71,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3965",
+      "name": "Bhusawal",
+      "nameMr": "भुसावळ",
+      "districtCode": "478",
+      "villageCount": 60,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3964",
+      "name": "Bodvad",
+      "nameMr": "बोधवड",
+      "districtCode": "478",
+      "villageCount": 53,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3972",
+      "name": "Chalisgaon",
+      "nameMr": "चाळीसगाव",
+      "districtCode": "478",
+      "villageCount": 151,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3960",
+      "name": "Chopda",
+      "nameMr": "चोपडा",
+      "districtCode": "478",
+      "villageCount": 119,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3968",
+      "name": "Dharangaon",
+      "nameMr": "धरणगाव",
+      "districtCode": "478",
+      "villageCount": 90,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3967",
+      "name": "Erandol",
+      "nameMr": "एरंडोल",
+      "districtCode": "478",
+      "villageCount": 68,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3966",
+      "name": "Jalgaon",
+      "nameMr": "जळगाव",
+      "districtCode": "478",
+      "villageCount": 100,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3974",
+      "name": "Jamner",
+      "nameMr": "जामनेर",
+      "districtCode": "478",
+      "villageCount": 162,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3963",
+      "name": "Muktainagar (Edlabad)",
+      "nameMr": "मुक्ताईनगर(एदलाबाद)",
+      "districtCode": "478",
+      "villageCount": 83,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3973",
+      "name": "Pachora",
+      "nameMr": "पाचोरा",
+      "districtCode": "478",
+      "villageCount": 129,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3970",
+      "name": "Parola",
+      "nameMr": "पारोळा",
+      "districtCode": "478",
+      "villageCount": 116,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3962",
+      "name": "Raver",
+      "nameMr": "रावेर",
+      "districtCode": "478",
+      "villageCount": 121,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3961",
+      "name": "Yawal",
+      "nameMr": "यावल",
+      "districtCode": "478",
+      "villageCount": 87,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4129",
+      "name": "Ambad",
+      "nameMr": "अंबड",
+      "districtCode": "479",
+      "villageCount": 138,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4128",
+      "name": "Badnapur",
+      "nameMr": "बदनापूर",
+      "districtCode": "479",
+      "villageCount": 86,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4125",
+      "name": "Bhokardan",
+      "nameMr": "भोकरदन",
+      "districtCode": "479",
+      "villageCount": 156,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4130",
+      "name": "Ghansawangi",
+      "nameMr": "घनसावंगी",
+      "districtCode": "479",
+      "villageCount": 117,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4126",
+      "name": "Jafrabad",
+      "nameMr": "जाफ्राबाद",
+      "districtCode": "479",
+      "villageCount": 101,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4127",
+      "name": "Jalna",
+      "nameMr": "जालना",
+      "districtCode": "479",
+      "villageCount": 144,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4132",
+      "name": "Mantha",
+      "nameMr": "मंठा",
+      "districtCode": "479",
+      "villageCount": 115,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4131",
+      "name": "Partur",
+      "nameMr": "परतूर",
+      "districtCode": "479",
+      "villageCount": 98,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4292",
+      "name": "Ajra",
+      "nameMr": "आजरा",
+      "districtCode": "480",
+      "villageCount": 99,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4291",
+      "name": "Bhudargad",
+      "nameMr": "भूदरगड",
+      "districtCode": "480",
+      "villageCount": 118,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4294",
+      "name": "Chandgad",
+      "nameMr": "चंदगड",
+      "districtCode": "480",
+      "villageCount": 155,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4293",
+      "name": "Gadhinglaj",
+      "nameMr": "गडहिंग्लज",
+      "districtCode": "480",
+      "villageCount": 95,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4288",
+      "name": "Gaganbawada",
+      "nameMr": "गगनबावडा",
+      "districtCode": "480",
+      "villageCount": 44,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4285",
+      "name": "Hatkanangle",
+      "nameMr": "हातकणंगले",
+      "districtCode": "480",
+      "villageCount": 64,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4290",
+      "name": "Kagal",
+      "nameMr": "कागल",
+      "districtCode": "480",
+      "villageCount": 85,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4287",
+      "name": "Karvir",
+      "nameMr": "करवीर",
+      "districtCode": "480",
+      "villageCount": 133,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4284",
+      "name": "Panhala",
+      "nameMr": "पन्हाळा",
+      "districtCode": "480",
+      "villageCount": 129,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4289",
+      "name": "Radhanagari",
+      "nameMr": "राधानगरी",
+      "districtCode": "480",
+      "villageCount": 131,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4283",
+      "name": "Shahuwadi",
+      "nameMr": "शाहूवाडी",
+      "districtCode": "480",
+      "villageCount": 144,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4286",
+      "name": "Shirol",
+      "nameMr": "शिरोळ",
+      "districtCode": "480",
+      "villageCount": 53,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4228",
+      "name": "Ahmadpur",
+      "nameMr": "अहमदपूर",
+      "districtCode": "481",
+      "villageCount": 121,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4232",
+      "name": "Ausa",
+      "nameMr": "औसा",
+      "districtCode": "481",
+      "villageCount": 132,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4230",
+      "name": "Chakur",
+      "nameMr": "चाकूर",
+      "districtCode": "481",
+      "villageCount": 81,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4234",
+      "name": "Deoni",
+      "nameMr": "देवनी",
+      "districtCode": "481",
+      "villageCount": 51,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4229",
+      "name": "Jalkot",
+      "nameMr": "जलकोट",
+      "districtCode": "481",
+      "villageCount": 46,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4226",
+      "name": "Latur",
+      "nameMr": "लातूर",
+      "districtCode": "481",
+      "villageCount": 120,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4233",
+      "name": "Nilanga",
+      "nameMr": "निलंगा",
+      "districtCode": "481",
+      "villageCount": 163,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4227",
+      "name": "Renapur",
+      "nameMr": "रेनापूर",
+      "districtCode": "481",
+      "villageCount": 68,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4231",
+      "name": "Shirur Anantpal",
+      "nameMr": "शिरूर अनंतपाळ",
+      "districtCode": "481",
+      "villageCount": 48,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4235",
+      "name": "Udgir",
+      "nameMr": "उदगीर",
+      "districtCode": "481",
+      "villageCount": 98,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "7179",
+      "name": "Andheri",
+      "nameMr": "अंधेरी",
+      "districtCode": "483",
+      "villageCount": 25,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "7181",
+      "name": "Borivali",
+      "nameMr": "बोरीवली",
+      "districtCode": "483",
+      "villageCount": 32,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "7180",
+      "name": "Kurla",
+      "nameMr": "कुर्ला",
+      "districtCode": "483",
+      "villageCount": 29,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4036",
+      "name": "Bhiwapur",
+      "nameMr": "भिवापूर",
+      "districtCode": "484",
+      "villageCount": 149,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4033",
+      "name": "Hingna",
+      "nameMr": "हिंगणा",
+      "districtCode": "484",
+      "villageCount": 156,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4025",
+      "name": "Kalameshwar",
+      "nameMr": "कळमेश्वर",
+      "districtCode": "484",
+      "villageCount": 108,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4030",
+      "name": "Kamptee",
+      "nameMr": "कामठी",
+      "districtCode": "484",
+      "villageCount": 77,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4024",
+      "name": "Katol",
+      "nameMr": "काटोल",
+      "districtCode": "484",
+      "villageCount": 189,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4035",
+      "name": "Kuhi",
+      "nameMr": "कुही",
+      "districtCode": "484",
+      "villageCount": 202,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4029",
+      "name": "Mauda",
+      "nameMr": "मौदा",
+      "districtCode": "484",
+      "villageCount": 126,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4031",
+      "name": "Nagpur (Rural)",
+      "nameMr": "नागपूर (ग्रामीण)",
+      "districtCode": "484",
+      "villageCount": 161,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4032",
+      "name": "Nagpur (Urban)",
+      "nameMr": "नागपूर (शहर)",
+      "districtCode": "484",
+      "villageCount": 54,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4023",
+      "name": "Narkhed",
+      "nameMr": "नरखेड",
+      "districtCode": "484",
+      "villageCount": 155,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4027",
+      "name": "Parseoni",
+      "nameMr": "पारशिवनी",
+      "districtCode": "484",
+      "villageCount": 122,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4028",
+      "name": "Ramtek",
+      "nameMr": "रामटेक",
+      "districtCode": "484",
+      "villageCount": 164,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4026",
+      "name": "Savner",
+      "nameMr": "सावनेर",
+      "districtCode": "484",
+      "villageCount": 136,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4034",
+      "name": "Umred",
+      "nameMr": "उमरेड",
+      "districtCode": "484",
+      "villageCount": 192,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4099",
+      "name": "Ardhapur",
+      "nameMr": "अर्धापूर",
+      "districtCode": "485",
+      "villageCount": 68,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4102",
+      "name": "Bhokar",
+      "nameMr": "भोकर",
+      "districtCode": "485",
+      "villageCount": 87,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4105",
+      "name": "Biloli",
+      "nameMr": "बिलोली",
+      "districtCode": "485",
+      "villageCount": 92,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4110",
+      "name": "Deglur",
+      "nameMr": "देगलुर",
+      "districtCode": "485",
+      "villageCount": 111,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4104",
+      "name": "Dharmabad",
+      "nameMr": "धर्माबाद",
+      "districtCode": "485",
+      "villageCount": 56,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4098",
+      "name": "Hadgaon",
+      "nameMr": "हदगाव",
+      "districtCode": "485",
+      "villageCount": 144,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4097",
+      "name": "Himayatnagar",
+      "nameMr": "हिमायतनगर",
+      "districtCode": "485",
+      "villageCount": 68,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4108",
+      "name": "Kandhar",
+      "nameMr": "कंधार",
+      "districtCode": "485",
+      "villageCount": 133,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4096",
+      "name": "Kinwat",
+      "nameMr": "किनवत",
+      "districtCode": "485",
+      "villageCount": 181,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4107",
+      "name": "Loha",
+      "nameMr": "लोहा",
+      "districtCode": "485",
+      "villageCount": 153,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4095",
+      "name": "Mahur",
+      "nameMr": "माहूर",
+      "districtCode": "485",
+      "villageCount": 86,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4101",
+      "name": "Mudkhed",
+      "nameMr": "मुदखेड",
+      "districtCode": "485",
+      "villageCount": 57,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4109",
+      "name": "Mukhed",
+      "nameMr": "मुखेड",
+      "districtCode": "485",
+      "villageCount": 135,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4106",
+      "name": "Naigaon (Khairgaon)",
+      "nameMr": "नायगाव (खैरगाव)",
+      "districtCode": "485",
+      "villageCount": 89,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4100",
+      "name": "Nanded",
+      "nameMr": "नांदेड",
+      "districtCode": "485",
+      "villageCount": 105,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4103",
+      "name": "Umri",
+      "nameMr": "उमरी",
+      "districtCode": "485",
+      "villageCount": 63,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3950",
+      "name": "Akkalkuwa",
+      "nameMr": "अक्कलकुवा",
+      "districtCode": "486",
+      "villageCount": 193,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3951",
+      "name": "Akrani",
+      "nameMr": "अकर्नी",
+      "districtCode": "486",
+      "villageCount": 167,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3954",
+      "name": "Nandurbar",
+      "nameMr": "नंदूरबार",
+      "districtCode": "486",
+      "villageCount": 155,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3955",
+      "name": "Nawapur",
+      "nameMr": "नवापूर",
+      "districtCode": "486",
+      "villageCount": 165,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3953",
+      "name": "Shahade",
+      "nameMr": "शहादा",
+      "districtCode": "486",
+      "villageCount": 181,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3952",
+      "name": "Talode",
+      "nameMr": "तलोदा",
+      "districtCode": "486",
+      "villageCount": 94,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4145",
+      "name": "Baglan",
+      "nameMr": "बागलण",
+      "districtCode": "487",
+      "villageCount": 172,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4148",
+      "name": "Chandvad",
+      "nameMr": "चांदवड",
+      "districtCode": "487",
+      "villageCount": 112,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4144",
+      "name": "Deola",
+      "nameMr": "देवळा",
+      "districtCode": "487",
+      "villageCount": 46,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4149",
+      "name": "Dindori",
+      "nameMr": "दिंडोरी",
+      "districtCode": "487",
+      "villageCount": 157,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4153",
+      "name": "Igatpuri",
+      "nameMr": "इगतपूरी",
+      "districtCode": "487",
+      "villageCount": 126,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4143",
+      "name": "Kalwan",
+      "nameMr": "कालवण",
+      "districtCode": "487",
+      "villageCount": 152,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4146",
+      "name": "Malegaon",
+      "nameMr": "मालेगाव",
+      "districtCode": "487",
+      "villageCount": 151,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4147",
+      "name": "Nandgaon",
+      "nameMr": "नांदगाव",
+      "districtCode": "487",
+      "villageCount": 101,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4152",
+      "name": "Nashik",
+      "nameMr": "नाशिक",
+      "districtCode": "487",
+      "villageCount": 109,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4155",
+      "name": "Niphad",
+      "nameMr": "निफाड",
+      "districtCode": "487",
+      "villageCount": 138,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4150",
+      "name": "Peth",
+      "nameMr": "पेठ",
+      "districtCode": "487",
+      "villageCount": 146,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4154",
+      "name": "Sinnar",
+      "nameMr": "सिन्नर",
+      "districtCode": "487",
+      "villageCount": 131,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4142",
+      "name": "Surgana",
+      "nameMr": "सुरगना",
+      "districtCode": "487",
+      "villageCount": 191,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4151",
+      "name": "Trimbakeshwar",
+      "nameMr": "त्र्यंबक",
+      "districtCode": "487",
+      "villageCount": 125,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4156",
+      "name": "Yevla",
+      "nameMr": "येवला",
+      "districtCode": "487",
+      "villageCount": 124,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4237",
+      "name": "Bhum",
+      "nameMr": "भूम",
+      "districtCode": "488",
+      "villageCount": 95,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4240",
+      "name": "Dharashiv",
+      "nameMr": "धाराशिव",
+      "districtCode": "488",
+      "villageCount": 126,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4239",
+      "name": "Kalamb",
+      "nameMr": "कळंब",
+      "districtCode": "488",
+      "villageCount": 98,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4242",
+      "name": "Lohara",
+      "nameMr": "लोहारा",
+      "districtCode": "488",
+      "villageCount": 49,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4243",
+      "name": "Omarga",
+      "nameMr": "उमरगा",
+      "districtCode": "488",
+      "villageCount": 99,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4236",
+      "name": "Paranda",
+      "nameMr": "परंडा",
+      "districtCode": "488",
+      "villageCount": 91,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4241",
+      "name": "Tuljapur",
+      "nameMr": "तुळजापूर",
+      "districtCode": "488",
+      "villageCount": 117,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4238",
+      "name": "Washi",
+      "nameMr": "वाशी",
+      "districtCode": "488",
+      "villageCount": 53,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4122",
+      "name": "Gangakhed",
+      "nameMr": "गंगाखेड",
+      "districtCode": "489",
+      "villageCount": 106,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4117",
+      "name": "Jintur",
+      "nameMr": "जिंतुर",
+      "districtCode": "489",
+      "villageCount": 173,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4119",
+      "name": "Manwath",
+      "nameMr": "मानवत",
+      "districtCode": "489",
+      "villageCount": 53,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4123",
+      "name": "Palam",
+      "nameMr": "पालम",
+      "districtCode": "489",
+      "villageCount": 82,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4118",
+      "name": "Parbhani",
+      "nameMr": "परभणी",
+      "districtCode": "489",
+      "villageCount": 130,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4120",
+      "name": "Pathri",
+      "nameMr": "पाथ्री",
+      "districtCode": "489",
+      "villageCount": 56,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4124",
+      "name": "Purna",
+      "nameMr": "पुर्णा",
+      "districtCode": "489",
+      "villageCount": 94,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4116",
+      "name": "Selu",
+      "nameMr": "सेलू",
+      "districtCode": "489",
+      "villageCount": 95,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4121",
+      "name": "Sonpeth",
+      "nameMr": "सोनपेठ",
+      "districtCode": "489",
+      "villageCount": 58,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4188",
+      "name": "Ambegaon",
+      "nameMr": "आंबेगाव",
+      "districtCode": "490",
+      "villageCount": 143,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4199",
+      "name": "Baramati",
+      "nameMr": "बारामती",
+      "districtCode": "490",
+      "villageCount": 119,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4198",
+      "name": "Bhor",
+      "nameMr": "भोर",
+      "districtCode": "490",
+      "villageCount": 200,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4195",
+      "name": "Daund",
+      "nameMr": "दौंड",
+      "districtCode": "490",
+      "villageCount": 100,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4193",
+      "name": "Haveli",
+      "nameMr": "हवेली",
+      "districtCode": "490",
+      "villageCount": 185,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4200",
+      "name": "Indapur",
+      "nameMr": "इंदापूर",
+      "districtCode": "490",
+      "villageCount": 142,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4187",
+      "name": "Junnar",
+      "nameMr": "जुन्नर",
+      "districtCode": "490",
+      "villageCount": 189,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4190",
+      "name": "Khed",
+      "nameMr": "खेड",
+      "districtCode": "490",
+      "villageCount": 192,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4191",
+      "name": "Mawal",
+      "nameMr": "मावळ",
+      "districtCode": "490",
+      "villageCount": 191,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4192",
+      "name": "Mulshi",
+      "nameMr": "मुळशी",
+      "districtCode": "490",
+      "villageCount": 147,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4194",
+      "name": "Pune City",
+      "nameMr": "पुणे शहर",
+      "districtCode": "490",
+      "villageCount": 6,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4196",
+      "name": "Purandhar",
+      "nameMr": "पुरंदर",
+      "districtCode": "490",
+      "villageCount": 103,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4197",
+      "name": "Rajgad",
+      "nameMr": "राजगड",
+      "districtCode": "490",
+      "villageCount": 130,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4189",
+      "name": "Shirur",
+      "nameMr": "शिरूर",
+      "districtCode": "490",
+      "villageCount": 105,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4177",
+      "name": "Alibag",
+      "nameMr": "अलिबाग",
+      "districtCode": "491",
+      "villageCount": 233,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4174",
+      "name": "Karjat",
+      "nameMr": "कर्जत",
+      "districtCode": "491",
+      "villageCount": 208,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4175",
+      "name": "Khalapur",
+      "nameMr": "खालापूर",
+      "districtCode": "491",
+      "villageCount": 157,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4185",
+      "name": "Mahad",
+      "nameMr": "महाड",
+      "districtCode": "491",
+      "villageCount": 188,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4181",
+      "name": "Mangaon",
+      "nameMr": "मानगाव",
+      "districtCode": "491",
+      "villageCount": 206,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4184",
+      "name": "Mhasla",
+      "nameMr": "म्हासळा",
+      "districtCode": "491",
+      "villageCount": 85,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4178",
+      "name": "Murud",
+      "nameMr": "मुरूड",
+      "districtCode": "491",
+      "villageCount": 76,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4173",
+      "name": "Panvel",
+      "nameMr": "पनवेल",
+      "districtCode": "491",
+      "villageCount": 188,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4176",
+      "name": "Pen",
+      "nameMr": "पेण",
+      "districtCode": "491",
+      "villageCount": 189,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4186",
+      "name": "Poladpur",
+      "nameMr": "पोलादपूर",
+      "districtCode": "491",
+      "villageCount": 88,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4179",
+      "name": "Roha",
+      "nameMr": "रोहा",
+      "districtCode": "491",
+      "villageCount": 185,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4183",
+      "name": "Shrivardhan",
+      "nameMr": "श्रीवर्धन",
+      "districtCode": "491",
+      "villageCount": 78,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4180",
+      "name": "Sudhagad",
+      "nameMr": "सुधागड",
+      "districtCode": "491",
+      "villageCount": 104,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4182",
+      "name": "Tala",
+      "nameMr": "तळा",
+      "districtCode": "491",
+      "villageCount": 69,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4172",
+      "name": "Uran",
+      "nameMr": "उरण",
+      "districtCode": "491",
+      "villageCount": 65,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4269",
+      "name": "Chiplun",
+      "nameMr": "चिपळूण",
+      "districtCode": "492",
+      "villageCount": 168,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4267",
+      "name": "Dapoli",
+      "nameMr": "दापोली",
+      "districtCode": "492",
+      "villageCount": 177,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4270",
+      "name": "Guhagar",
+      "nameMr": "गुहाघर",
+      "districtCode": "492",
+      "villageCount": 122,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4268",
+      "name": "Khed",
+      "nameMr": "खेड",
+      "districtCode": "492",
+      "villageCount": 200,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4273",
+      "name": "Lanja",
+      "nameMr": "लांजा",
+      "districtCode": "492",
+      "villageCount": 123,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4266",
+      "name": "Mandangad",
+      "nameMr": "मंडणगड",
+      "districtCode": "492",
+      "villageCount": 109,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4274",
+      "name": "Rajapur",
+      "nameMr": "राजापूर",
+      "districtCode": "492",
+      "villageCount": 237,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4271",
+      "name": "Ratnagiri",
+      "nameMr": "रत्नागिरी",
+      "districtCode": "492",
+      "villageCount": 206,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4272",
+      "name": "Sangameshwar",
+      "nameMr": "संगमेश्वर",
+      "districtCode": "492",
+      "villageCount": 198,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4300",
+      "name": "Atpadi",
+      "nameMr": "आटपाडी",
+      "districtCode": "493",
+      "villageCount": 59,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4304",
+      "name": "Jat",
+      "nameMr": "जत",
+      "districtCode": "493",
+      "villageCount": 123,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4298",
+      "name": "Kadegaon",
+      "nameMr": "कडेगाव",
+      "districtCode": "493",
+      "villageCount": 62,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4303",
+      "name": "Kavathemahankal",
+      "nameMr": "कवठेमहांकाळ",
+      "districtCode": "493",
+      "villageCount": 60,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4299",
+      "name": "Khanapur",
+      "nameMr": "खानापूर",
+      "districtCode": "493",
+      "villageCount": 68,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4302",
+      "name": "Miraj",
+      "nameMr": "मिरज",
+      "districtCode": "493",
+      "villageCount": 77,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4297",
+      "name": "Palus",
+      "nameMr": "पलुस",
+      "districtCode": "493",
+      "villageCount": 35,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4295",
+      "name": "Shirala",
+      "nameMr": "शिराळा",
+      "districtCode": "493",
+      "villageCount": 113,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4301",
+      "name": "Tasgaon",
+      "nameMr": "तासगाव",
+      "districtCode": "493",
+      "villageCount": 69,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4296",
+      "name": "Walwa",
+      "nameMr": "वाळवा",
+      "districtCode": "493",
+      "villageCount": 99,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4263",
+      "name": "Jaoli",
+      "nameMr": "जावळी",
+      "districtCode": "494",
+      "villageCount": 154,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4265",
+      "name": "Karad",
+      "nameMr": "कराड",
+      "districtCode": "494",
+      "villageCount": 225,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4257",
+      "name": "Khandala",
+      "nameMr": "खंडाळा",
+      "districtCode": "494",
+      "villageCount": 71,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4260",
+      "name": "Khatav",
+      "nameMr": "खटाव",
+      "districtCode": "494",
+      "villageCount": 144,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4261",
+      "name": "Koregaon",
+      "nameMr": "कोरेगाव",
+      "districtCode": "494",
+      "villageCount": 142,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4255",
+      "name": "Mahabaleshwar",
+      "nameMr": "महाबळेश्वर",
+      "districtCode": "494",
+      "villageCount": 113,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4259",
+      "name": "Man",
+      "nameMr": "माण",
+      "districtCode": "494",
+      "villageCount": 109,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4264",
+      "name": "Patan",
+      "nameMr": "पाटण",
+      "districtCode": "494",
+      "villageCount": 327,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4258",
+      "name": "Phaltan",
+      "nameMr": "फलटण",
+      "districtCode": "494",
+      "villageCount": 136,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4262",
+      "name": "Satara",
+      "nameMr": "सातारा",
+      "districtCode": "494",
+      "villageCount": 221,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4256",
+      "name": "Wai",
+      "nameMr": "वाई",
+      "districtCode": "494",
+      "villageCount": 121,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4275",
+      "name": "Devgad",
+      "nameMr": "देवगड",
+      "districtCode": "495",
+      "villageCount": 98,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4282",
+      "name": "Dodamarg",
+      "nameMr": "दोडामार्ग",
+      "districtCode": "495",
+      "villageCount": 62,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4277",
+      "name": "Kankavli",
+      "nameMr": "कणकवली",
+      "districtCode": "495",
+      "villageCount": 106,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4280",
+      "name": "Kudal",
+      "nameMr": "कुडाळ",
+      "districtCode": "495",
+      "villageCount": 126,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4278",
+      "name": "Malwan",
+      "nameMr": "मालवण",
+      "districtCode": "495",
+      "villageCount": 136,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4281",
+      "name": "Sawantwadi",
+      "nameMr": "सावंतवाडी",
+      "districtCode": "495",
+      "villageCount": 90,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4276",
+      "name": "Vaibhavvadi",
+      "nameMr": "वैभववाडी",
+      "districtCode": "495",
+      "villageCount": 59,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4279",
+      "name": "Vengurla",
+      "nameMr": "वेंगुर्ला",
+      "districtCode": "495",
+      "villageCount": 84,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4254",
+      "name": "Akkalkot",
+      "nameMr": "अक्कलकोट",
+      "districtCode": "496",
+      "villageCount": 134,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4246",
+      "name": "Barshi",
+      "nameMr": "बार्शी",
+      "districtCode": "496",
+      "villageCount": 138,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4244",
+      "name": "Karmala",
+      "nameMr": "करमाळा",
+      "districtCode": "496",
+      "villageCount": 124,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4245",
+      "name": "Madha",
+      "nameMr": "माढा",
+      "districtCode": "496",
+      "villageCount": 118,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4250",
+      "name": "Malshiras",
+      "nameMr": "माळशिरस",
+      "districtCode": "496",
+      "villageCount": 114,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4252",
+      "name": "Mangalvedhe",
+      "nameMr": "मंगळवेढे",
+      "districtCode": "496",
+      "villageCount": 83,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4248",
+      "name": "Mohol",
+      "nameMr": "मोहोळ",
+      "districtCode": "496",
+      "villageCount": 104,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4249",
+      "name": "Pandharpur",
+      "nameMr": "पंढरपूर",
+      "districtCode": "496",
+      "villageCount": 96,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4251",
+      "name": "Sangole",
+      "nameMr": "सांगोले",
+      "districtCode": "496",
+      "villageCount": 99,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4247",
+      "name": "Solapur North",
+      "nameMr": "उत्तर सोलापूर",
+      "districtCode": "496",
+      "villageCount": 54,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4253",
+      "name": "Solapur South",
+      "nameMr": "दक्षिण सोलापूर",
+      "districtCode": "496",
+      "villageCount": 91,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4170",
+      "name": "Ambarnath",
+      "nameMr": "अंबरनाथ",
+      "districtCode": "497",
+      "villageCount": 98,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4166",
+      "name": "Bhiwandi",
+      "nameMr": "भिवंडी",
+      "districtCode": "497",
+      "villageCount": 240,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4168",
+      "name": "Kalyan",
+      "nameMr": "कल्याण",
+      "districtCode": "497",
+      "villageCount": 125,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4171",
+      "name": "Murbad",
+      "nameMr": "मुरबाड",
+      "districtCode": "497",
+      "villageCount": 209,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4167",
+      "name": "Shahapur",
+      "nameMr": "शहापूर",
+      "districtCode": "497",
+      "villageCount": 229,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4165",
+      "name": "Thane",
+      "nameMr": "ठाणे",
+      "districtCode": "497",
+      "villageCount": 100,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4169",
+      "name": "Ulhasnagar",
+      "nameMr": "उल्हासनगर",
+      "districtCode": "497",
+      "villageCount": 1,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4017",
+      "name": "Arvi",
+      "nameMr": "आर्वी",
+      "districtCode": "498",
+      "villageCount": 238,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4015",
+      "name": "Ashti",
+      "nameMr": "आष्टी",
+      "districtCode": "498",
+      "villageCount": 157,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4020",
+      "name": "Deoli",
+      "nameMr": "देवळी",
+      "districtCode": "498",
+      "villageCount": 150,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4021",
+      "name": "Hinganghat",
+      "nameMr": "हिंगणघाट",
+      "districtCode": "498",
+      "villageCount": 188,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4016",
+      "name": "Karanja",
+      "nameMr": "कारंजा",
+      "districtCode": "498",
+      "villageCount": 121,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4022",
+      "name": "Samudrapur",
+      "nameMr": "समुद्रपूर",
+      "districtCode": "498",
+      "villageCount": 222,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4018",
+      "name": "Seloo",
+      "nameMr": "सेलू",
+      "districtCode": "498",
+      "villageCount": 175,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4019",
+      "name": "Wardha",
+      "nameMr": "वर्धा",
+      "districtCode": "498",
+      "villageCount": 156,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3997",
+      "name": "Karanja",
+      "nameMr": "कारंजा",
+      "districtCode": "499",
+      "villageCount": 168,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3995",
+      "name": "Malegaon",
+      "nameMr": "मालेगाव",
+      "districtCode": "499",
+      "villageCount": 127,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3996",
+      "name": "Mangrulpir",
+      "nameMr": "मंगरूळपीर",
+      "districtCode": "499",
+      "villageCount": 138,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3998",
+      "name": "Manora",
+      "nameMr": "मानोरा",
+      "districtCode": "499",
+      "villageCount": 138,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4000",
+      "name": "Risod",
+      "nameMr": "रिसोड",
+      "districtCode": "499",
+      "villageCount": 105,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "3999",
+      "name": "Washim",
+      "nameMr": "वाशिम",
+      "districtCode": "499",
+      "villageCount": 133,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4088",
+      "name": "Arni",
+      "nameMr": "अर्नी",
+      "districtCode": "500",
+      "villageCount": 111,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4080",
+      "name": "Babulgaon",
+      "nameMr": "बाबूलगाव",
+      "districtCode": "500",
+      "villageCount": 142,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4083",
+      "name": "Darwha",
+      "nameMr": "धारवा",
+      "districtCode": "500",
+      "villageCount": 150,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4084",
+      "name": "Digras",
+      "nameMr": "दिग्रस",
+      "districtCode": "500",
+      "villageCount": 83,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4089",
+      "name": "Ghatanji",
+      "nameMr": "घाटंजी",
+      "districtCode": "500",
+      "villageCount": 127,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4081",
+      "name": "Kalamb",
+      "nameMr": "कळंब",
+      "districtCode": "500",
+      "villageCount": 142,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4090",
+      "name": "Kelapur",
+      "nameMr": "केलापूर",
+      "districtCode": "500",
+      "villageCount": 133,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4087",
+      "name": "Mahagaon",
+      "nameMr": "महागाव",
+      "districtCode": "500",
+      "villageCount": 116,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4092",
+      "name": "Maregaon",
+      "nameMr": "मारेगाव",
+      "districtCode": "500",
+      "villageCount": 109,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4079",
+      "name": "Ner",
+      "nameMr": "नेर",
+      "districtCode": "500",
+      "villageCount": 122,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4085",
+      "name": "Pusad",
+      "nameMr": "पूसद",
+      "districtCode": "500",
+      "villageCount": 188,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4091",
+      "name": "Ralegaon",
+      "nameMr": "राळेगाव",
+      "districtCode": "500",
+      "villageCount": 135,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4086",
+      "name": "Umarkhed",
+      "nameMr": "उमरखेड",
+      "districtCode": "500",
+      "villageCount": 141,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4094",
+      "name": "Wani",
+      "nameMr": "वनी",
+      "districtCode": "500",
+      "villageCount": 167,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4082",
+      "name": "Yavatmal",
+      "nameMr": "यवतमाळ",
+      "districtCode": "500",
+      "villageCount": 138,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4093",
+      "name": "Zari-Jamani",
+      "nameMr": "जरी जामनी",
+      "districtCode": "500",
+      "villageCount": 118,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4158",
+      "name": "Dahanu",
+      "nameMr": "डहाणू",
+      "districtCode": "665",
+      "villageCount": 183,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4160",
+      "name": "Jawhar",
+      "nameMr": "जव्हार",
+      "districtCode": "665",
+      "villageCount": 109,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4161",
+      "name": "Mokhada",
+      "nameMr": "मोखाडा",
+      "districtCode": "665",
+      "villageCount": 59,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4163",
+      "name": "Palghar",
+      "nameMr": "पालघर",
+      "districtCode": "665",
+      "villageCount": 224,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4157",
+      "name": "Talasari",
+      "nameMr": "तलासरी",
+      "districtCode": "665",
+      "villageCount": 42,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4164",
+      "name": "Vasai",
+      "nameMr": "वसई",
+      "districtCode": "665",
+      "villageCount": 125,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4159",
+      "name": "Vikramgad",
+      "nameMr": "विक्रमगड",
+      "districtCode": "665",
+      "villageCount": 95,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4162",
+      "name": "Wada",
+      "nameMr": "वाडा",
+      "districtCode": "665",
+      "villageCount": 172,
+      "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    }
+  ],
+  "nashikTalukas": [
+    {
+      "code": "4142",
+      "name": "Surgana",
+      "nameMr": "सुरगना",
+      "districtCode": "487",
+      "sourceUrl": "https://nashik.gov.in/en/about-district/administrative-setup/tehsil/",
+      "codeSourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4143",
+      "name": "Kalwan",
+      "nameMr": "कालवण",
+      "districtCode": "487",
+      "sourceUrl": "https://nashik.gov.in/en/about-district/administrative-setup/tehsil/",
+      "codeSourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4144",
+      "name": "Deola",
+      "nameMr": "देवळा",
+      "districtCode": "487",
+      "sourceUrl": "https://nashik.gov.in/en/about-district/administrative-setup/tehsil/",
+      "codeSourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4145",
+      "name": "Baglan (Satana)",
+      "nameMr": "बागलण",
+      "districtCode": "487",
+      "sourceUrl": "https://nashik.gov.in/en/about-district/administrative-setup/tehsil/",
+      "codeSourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4146",
+      "name": "Malegaon",
+      "nameMr": "मालेगाव",
+      "districtCode": "487",
+      "sourceUrl": "https://nashik.gov.in/en/about-district/administrative-setup/tehsil/",
+      "codeSourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4147",
+      "name": "Nandgaon",
+      "nameMr": "नांदगाव",
+      "districtCode": "487",
+      "sourceUrl": "https://nashik.gov.in/en/about-district/administrative-setup/tehsil/",
+      "codeSourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4148",
+      "name": "Chandwad",
+      "nameMr": "चांदवड",
+      "districtCode": "487",
+      "sourceUrl": "https://nashik.gov.in/en/about-district/administrative-setup/tehsil/",
+      "codeSourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4149",
+      "name": "Dindori",
+      "nameMr": "दिंडोरी",
+      "districtCode": "487",
+      "sourceUrl": "https://nashik.gov.in/en/about-district/administrative-setup/tehsil/",
+      "codeSourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4150",
+      "name": "Peth",
+      "nameMr": "पेठ",
+      "districtCode": "487",
+      "sourceUrl": "https://nashik.gov.in/en/about-district/administrative-setup/tehsil/",
+      "codeSourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4151",
+      "name": "Trimbakeshwar",
+      "nameMr": "त्र्यंबक",
+      "districtCode": "487",
+      "sourceUrl": "https://nashik.gov.in/en/about-district/administrative-setup/tehsil/",
+      "codeSourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4152",
+      "name": "Nashik",
+      "nameMr": "नाशिक",
+      "districtCode": "487",
+      "sourceUrl": "https://nashik.gov.in/en/about-district/administrative-setup/tehsil/",
+      "codeSourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4153",
+      "name": "Igatpuri",
+      "nameMr": "इगतपूरी",
+      "districtCode": "487",
+      "sourceUrl": "https://nashik.gov.in/en/about-district/administrative-setup/tehsil/",
+      "codeSourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4154",
+      "name": "Sinnar",
+      "nameMr": "सिन्नर",
+      "districtCode": "487",
+      "sourceUrl": "https://nashik.gov.in/en/about-district/administrative-setup/tehsil/",
+      "codeSourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4155",
+      "name": "Niphad",
+      "nameMr": "निफाड",
+      "districtCode": "487",
+      "sourceUrl": "https://nashik.gov.in/en/about-district/administrative-setup/tehsil/",
+      "codeSourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "code": "4156",
+      "name": "Yeola",
+      "nameMr": "येवला",
+      "districtCode": "487",
+      "sourceUrl": "https://nashik.gov.in/en/about-district/administrative-setup/tehsil/",
+      "codeSourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "checkedAt": "2026-10-27"
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "LGD-MH",
+      "name": "Maharashtra LGD directory",
+      "category": "geography",
+      "url": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+      "stated_resolution": "district taluka village and local body",
+      "reference_period": "portal snapshot",
+      "checked_date": "2026-10-27",
+      "access_status": "official directory and taluka endpoint accessible",
+      "validation_status": "36 districts, 358 talukas and 1981 Nashik villages imported; other district village-name lists not imported",
+      "proposed_review": "on change",
+      "next_action": "Extend verified village coverage to other districts as source access allows",
+      "id": "LGD-MH",
+      "status": "reference",
+      "dataImported": true,
+      "automaticRefresh": false
+    },
+    {
+      "source_id": "NWDP-MH-GW",
+      "name": "Maharashtra groundwater telemetry",
+      "category": "groundwater",
+      "url": "https://nwdp.nwic.gov.in/dataset/ground-water-level-telemetry-daily-maharashtra-gw",
+      "stated_resolution": "monitoring station",
+      "reference_period": "six-hourly readings, 1 Jan – 26 Oct 2026",
+      "checked_date": "2026-10-27",
+      "access_status": "full CSV downloaded 27 Oct 2026 in byte ranges (145 MB, 1,085,008 six-hourly rows, SHA256 pinned)",
+      "validation_status": "Rows name Maharashtra GW (GSDA). Imported for 1,450 wells: impossible depths and one-day spikes removed; 962 wells current to 26 Oct; 474 wells, including every well in 21 districts, last reported around 2 Jun 2026",
+      "proposed_review": "weekly re-download",
+      "next_action": "re-run scripts/import-groundwater.py --download; ask GSDA why part of the telemetry network stopped on 2 Jun 2026",
+      "id": "NWDP-MH-GW",
+      "status": "imported",
+      "dataImported": true,
+      "automaticRefresh": false
+    },
+    {
+      "source_id": "MAHAHP-DAMS",
+      "name": "Maharashtra Hydrology Project dam page",
+      "category": "reservoirs",
+      "url": "https://mahahp.gov.in/DamDataDisplay.aspx",
+      "stated_resolution": "dam",
+      "reference_period": "depends on target WRD report",
+      "checked_date": "2026-10-27",
+      "access_status": "index accessible; WRD links to Pravah dam storage, which returned a department login form on 27 Oct 2026",
+      "validation_status": "No statewide reservoir values imported. Nashik's district report is imported separately",
+      "proposed_review": "daily if source supplies them",
+      "next_action": "find a public statewide or district dam-storage report for other districts",
+      "id": "MAHAHP-DAMS",
+      "status": "needs-review",
+      "dataImported": false,
+      "automaticRefresh": false
+    },
+    {
+      "source_id": "POCRA-WATER",
+      "name": "PoCRA village water budget",
+      "category": "water budget",
+      "url": "https://gis.mahapocra.gov.in/html/water-budget-service/water-budget.html",
+      "stated_resolution": "project district taluka village",
+      "reference_period": "date selected by user",
+      "checked_date": "2026-10-27",
+      "access_status": "selection interface accessible",
+      "validation_status": "returned location reports not yet validated",
+      "proposed_review": "weekly or on new report",
+      "next_action": "test real location report and read model assumptions",
+      "id": "POCRA-WATER",
+      "status": "reference",
+      "dataImported": false,
+      "automaticRefresh": false
+    },
+    {
+      "source_id": "IMD-AGROMET",
+      "name": "IMD agricultural weather",
+      "category": "weather",
+      "url": "https://mausam.imd.gov.in/responsive/agromet_adv_ser_district_level_wx_forecast.php",
+      "stated_resolution": "district",
+      "reference_period": "forecast issue and validity dates",
+      "checked_date": "2026-10-27",
+      "access_status": "page accessible",
+      "validation_status": "individual forecast retrieval not integrated",
+      "proposed_review": "daily and when warning issued",
+      "next_action": "verify a Maharashtra district bulletin and its issue time",
+      "id": "IMD-AGROMET",
+      "status": "reference",
+      "dataImported": false,
+      "automaticRefresh": false
+    },
+    {
+      "source_id": "MAHARAIN",
+      "name": "Maharain rainfall",
+      "category": "weather",
+      "url": "https://www.maharain.maharashtra.gov.in/RFContent.php",
+      "stated_resolution": "station and published aggregation",
+      "reference_period": "source-dependent observation dates",
+      "checked_date": "2026-10-27",
+      "access_status": "page identified",
+      "validation_status": "data export not validated",
+      "proposed_review": "daily if available",
+      "next_action": "check station mapping and actual rainfall download",
+      "id": "MAHARAIN",
+      "status": "reference",
+      "dataImported": false,
+      "automaticRefresh": false
+    },
+    {
+      "source_id": "GR-MH",
+      "name": "Maharashtra Government Resolutions",
+      "category": "policy",
+      "url": "https://gr.maharashtra.gov.in/1145/Government-Resolutions",
+      "stated_resolution": "order-specific geography",
+      "reference_period": "issue date and effective date",
+      "checked_date": "2026-10-27",
+      "access_status": "search accessible with CAPTCHA",
+      "validation_status": "manual intake required until supported access established",
+      "proposed_review": "daily review",
+      "next_action": "save relevant original orders and amendments with document number",
+      "id": "GR-MH",
+      "status": "reference",
+      "dataImported": false,
+      "automaticRefresh": false
+    },
+    {
+      "source_id": "GAZETTE-MH",
+      "name": "Maharashtra Gazette",
+      "category": "policy",
+      "url": "https://egazzete.mahaonline.gov.in/Forms/GazetteSearch.aspx",
+      "stated_resolution": "notification-specific geography",
+      "reference_period": "issue and effective date",
+      "checked_date": "2026-10-27",
+      "access_status": "request timed out",
+      "validation_status": "automated retrieval unverified",
+      "proposed_review": "daily review",
+      "next_action": "confirm working search route and manual document intake",
+      "id": "GAZETTE-MH",
+      "status": "needs-review",
+      "dataImported": false,
+      "automaticRefresh": false
+    },
+    {
+      "source_id": "MAHADBT-FARMER",
+      "name": "MahaDBT Farmer",
+      "category": "schemes",
+      "url": "https://mahadbt.maharashtra.gov.in/farmer/Agrilogin/Agrilogin",
+      "stated_resolution": "scheme-specific coverage",
+      "reference_period": "current application window",
+      "checked_date": "2026-10-27",
+      "access_status": "portal identified",
+      "validation_status": "individual eligibility and current windows not validated",
+      "proposed_review": "daily change review",
+      "next_action": "check selected schemes against original rules and open application route",
+      "id": "MAHADBT-FARMER",
+      "status": "reference",
+      "dataImported": false,
+      "automaticRefresh": false
+    },
+    {
+      "source_id": "MH-STATE-DATA",
+      "name": "Maharashtra State Data Bank",
+      "category": "statistics",
+      "url": "https://mahasdb.maharashtra.gov.in/planningReport.do",
+      "stated_resolution": "report-dependent district and lower geography",
+      "reference_period": "annual and census reference years",
+      "checked_date": "2026-10-27",
+      "access_status": "report index accessible",
+      "validation_status": "individual report export not imported",
+      "proposed_review": "on new release",
+      "next_action": "choose household agriculture land and livestock reports; record reference years",
+      "id": "MH-STATE-DATA",
+      "status": "reference",
+      "dataImported": false,
+      "automaticRefresh": false
+    },
+    {
+      "source_id": "CENSUS-PCA",
+      "name": "Census Population Finder",
+      "category": "demographics",
+      "url": "https://www.censusindia.gov.in/census.website/en/data/population-finder",
+      "stated_resolution": "village and higher areas",
+      "reference_period": "2011 as stated on checked page",
+      "checked_date": "2026-10-27",
+      "access_status": "page identified",
+      "validation_status": "no current population inference permitted",
+      "proposed_review": "on new release",
+      "next_action": "obtain relevant official tables and historical-code mapping",
+      "id": "CENSUS-PCA",
+      "status": "reference",
+      "dataImported": false,
+      "automaticRefresh": false
+    },
+    {
+      "source_id": "DAHD-LIVESTOCK",
+      "name": "DAHD Animal Husbandry Statistics",
+      "category": "livestock",
+      "url": "https://dahd.gov.in/en/schemes/programmes/animal-husbandry-statistics",
+      "stated_resolution": "village ward and higher areas",
+      "reference_period": "listed 20th Livestock Census data",
+      "checked_date": "2026-10-27",
+      "access_status": "official listing identified",
+      "validation_status": "workbook rows not imported",
+      "proposed_review": "on new release",
+      "next_action": "download village workbook and verify census year and newer available releases",
+      "id": "DAHD-LIVESTOCK",
+      "status": "reference",
+      "dataImported": false,
+      "automaticRefresh": false
+    },
+    {
+      "source_id": "MR-SAC-CROPS",
+      "name": "MahaAGRITECH",
+      "category": "crops",
+      "url": "https://mrsac.gov.in/MRSAC/flipbook/project/mahaagritech",
+      "stated_resolution": "product-dependent",
+      "reference_period": "product-dependent",
+      "checked_date": "2026-10-27",
+      "access_status": "project description identified",
+      "validation_status": "public data access not established",
+      "proposed_review": "match actual release schedule",
+      "next_action": "locate accessible dated crop products",
+      "id": "MR-SAC-CROPS",
+      "status": "reference",
+      "dataImported": false,
+      "automaticRefresh": false
+    },
+    {
+      "source_id": "SHC",
+      "name": "Soil Health Card",
+      "category": "soil",
+      "url": "https://soilhealth.dac.gov.in/",
+      "stated_resolution": "sample and mapped aggregation",
+      "reference_period": "sample date",
+      "checked_date": "2026-10-27",
+      "access_status": "403 to research tool",
+      "validation_status": "actual sample access and sharing scope unverified",
+      "proposed_review": "on new sample or release",
+      "next_action": "check supported access and public map coverage",
+      "id": "SHC",
+      "status": "needs-review",
+      "dataImported": false,
+      "automaticRefresh": false
+    },
+    {
+      "source_id": "ENAM",
+      "name": "eNAM live prices",
+      "category": "markets",
+      "url": "https://www.enam.gov.in/web/dashboard/live_price",
+      "stated_resolution": "market and commodity",
+      "reference_period": "trade date",
+      "checked_date": "2026-10-27",
+      "access_status": "price dashboard identified",
+      "validation_status": "fodder coverage and local delivery prices unverified",
+      "proposed_review": "daily for relevant markets",
+      "next_action": "check covered feed commodities; supplement with local confirmed quotes",
+      "id": "ENAM",
+      "status": "reference",
+      "dataImported": false,
+      "automaticRefresh": false
+    },
+    {
+      "source_id": "OPEN-METEO",
+      "id": "OPEN-METEO",
+      "name": "Open-Meteo point forecasts",
+      "category": "weather",
+      "url": "https://open-meteo.com/en/docs",
+      "stated_resolution": "model grid at a representative district point",
+      "reference_period": "current model valid time and seven daily forecasts",
+      "checked_date": "2026-10-27",
+      "access_status": "public API tested; connected on view",
+      "validation_status": "Modelled point forecast with IST valid times; not a station observation or a district-wide measurement",
+      "proposed_review": "retrieved on view with 15-minute cache",
+      "next_action": "Retain provider attribution and point-specific interpretation",
+      "status": "reference",
+      "dataImported": false,
+      "automaticRefresh": false
+    },
+    {
+      "source_id": "NASHIK-DAMS",
+      "id": "NASHIK-DAMS",
+      "name": "Nashik district dam storage report",
+      "category": "reservoirs",
+      "url": "https://nashik.gov.in/en/document/dam-storage-information-2/",
+      "stated_resolution": "dam (26 large and medium projects and one barrage)",
+      "reference_period": "report dated 23 Oct 2026",
+      "checked_date": "2026-10-27",
+      "access_status": "scanned one-page Marathi PDF downloaded; SHA256 pinned",
+      "validation_status": "Transcribed and checked against printed totals (70,619 Mcft capacity, 66,768 Mcft stored, 94.55%). The report's 2025 subtotal does not add up, so last-year values are not compared",
+      "proposed_review": "when the district publishes a new report",
+      "next_action": "transcribe each new scan with scripts/import-reservoirs.py; add other districts' reports",
+      "status": "imported",
+      "dataImported": true,
+      "automaticRefresh": false
+    },
+    {
+      "source_id": "IMD-DISTRICT-RAIN",
+      "id": "IMD-DISTRICT-RAIN",
+      "name": "IMD district rainfall report",
+      "category": "weather",
+      "url": "https://mausam.imd.gov.in/imd_latest/contents/rainfall_statistics_3.php",
+      "stated_resolution": "district average",
+      "reference_period": "report day 27 Oct 2026; month to date 1–27 Oct 2026",
+      "checked_date": "2026-10-27",
+      "access_status": "public daily PDF downloaded; IMD's district rainfall JSON API requires IP whitelisting",
+      "validation_status": "All 36 Maharashtra districts parsed and checked against page images; printed departures agree with the millimetres except where trace rain is printed as 0 mm",
+      "proposed_review": "daily",
+      "next_action": "re-run scripts/import-rainfall.py each day; the PDF URL is overwritten daily",
+      "status": "imported",
+      "dataImported": true,
+      "automaticRefresh": false
+    }
+  ],
+  "updates": [
+    {
+      "id": "groundwater-provenance",
+      "title": "Groundwater telemetry imported; part of the network went silent",
+      "summary": "Readings from 1,450 GSDA wells are now in the hub. 962 wells report to 26 Oct 2026, but 474 wells, including every well in 21 districts, last reported around 2 Jun 2026.",
+      "category": "water",
+      "type": "data-import",
+      "status": "imported",
+      "date": "2026-10-27",
+      "observedAt": null,
+      "districtCodes": [],
+      "sourceIds": [
+        "NWDP-MH-GW"
+      ],
+      "sources": [
+        {
+          "title": "NWDP Maharashtra telemetry",
+          "url": "https://nwdp.nwic.gov.in/dataset/ground-water-level-telemetry-daily-maharashtra-gw"
+        }
+      ],
+      "action": "Ask GSDA whether the wells that stopped on 2 Jun 2026 have a replacement data route."
+    },
+    {
+      "id": "location-directory",
+      "title": "Official district directory added",
+      "summary": "Current district names, Marathi names and official codes are available for navigation. Administrative counts are directory facts; they do not measure farmer or household participation.",
+      "category": "locations",
+      "type": "directory-update",
+      "status": "source-checked",
+      "date": "2026-10-27",
+      "observedAt": null,
+      "districtCodes": [],
+      "sourceIds": [
+        "LGD-MH"
+      ],
+      "sources": [
+        {
+          "title": "Maharashtra LGD directory",
+          "url": "https://mahavillages.mahabhumi.gov.in/all_list.php"
+        }
+      ],
+      "action": "Select a district to see available sources and local reporting gaps."
+    },
+    {
+      "id": "water-budget-reference",
+      "title": "Village water-budget service identified",
+      "summary": "PoCRA provides district, taluka, village, crop and report-date selection. Actual reports and location coverage still need checking.",
+      "category": "water",
+      "type": "research-note",
+      "status": "needs-verification",
+      "date": "2026-10-27",
+      "observedAt": null,
+      "districtCodes": [],
+      "sourceIds": [
+        "POCRA-WATER"
+      ],
+      "sources": [
+        {
+          "title": "PoCRA water budget",
+          "url": "https://gis.mahapocra.gov.in/html/water-budget-service/water-budget.html"
+        }
+      ],
+      "action": "Check an applicable village report and its demand and allocation assumptions."
+    },
+    {
+      "id": "policy-originals",
+      "title": "Policy updates need the original order",
+      "summary": "The government resolution search is available with CAPTCHA. Gazette retrieval needs a manual fallback. Record amendments, location and effective dates with each policy summary.",
+      "category": "policy",
+      "type": "source-audit",
+      "status": "reference",
+      "date": "2026-10-27",
+      "observedAt": null,
+      "districtCodes": [],
+      "sourceIds": [
+        "GR-MH",
+        "GAZETTE-MH",
+        "MAHADBT-FARMER"
+      ],
+      "sources": [
+        {
+          "title": "Maharashtra government resolutions",
+          "url": "https://gr.maharashtra.gov.in/1145/Government-Resolutions"
+        }
+      ],
+      "action": "Attach the original document before marking eligibility or an application window confirmed."
+    },
+    {
+      "id": "background-data-dates",
+      "title": "Background statistics retain their reference year",
+      "summary": "Population, holdings and livestock sources are useful context. Census-era values must not appear as current household or animal counts.",
+      "category": "people",
+      "type": "research-note",
+      "status": "reference",
+      "date": "2026-10-27",
+      "observedAt": null,
+      "districtCodes": [],
+      "sourceIds": [
+        "CENSUS-PCA",
+        "DAHD-LIVESTOCK",
+        "MH-STATE-DATA"
+      ],
+      "sources": [
+        {
+          "title": "Census Population Finder",
+          "url": "https://www.censusindia.gov.in/census.website/en/data/population-finder"
+        },
+        {
+          "title": "Animal Husbandry Statistics",
+          "url": "https://dahd.gov.in/en/schemes/programmes/animal-husbandry-statistics"
+        }
+      ],
+      "action": "Keep each dataset’s reference year and geographic resolution visible."
+    },
+    {
+      "id": "pilot-research-ready",
+      "title": "Common pilot and finance records prepared",
+      "summary": "The workspace contains a shared pilot procedure, daily and batch logs, and a micro-finance template. No field observations or household outcomes have been submitted to this hub.",
+      "category": "research",
+      "type": "workspace-note",
+      "status": "working-notes",
+      "date": "2026-10-27",
+      "observedAt": null,
+      "districtCodes": [],
+      "sourceIds": [],
+      "sources": [],
+      "action": "Use one location code and protocol version for each consenting pilot site."
+    }
+  ],
+  "library": [
+    {
+      "id": "project-priorities",
+      "title": "Maharashtra drought resilience: project priorities",
+      "category": "strategy",
+      "summary": "The shared mission, constraints and questions behind the field work.",
+      "status": "working-notes",
+      "updatedAt": "2026-10-27",
+      "sourcePath": "notes/FINDINGS.md",
+      "body": [
+        "The project aims to help farming families across Maharashtra manage water and fodder shortages through affordable practices they can maintain locally. Nashik is the starting location, with peer pilots and regional participation planned across the state.",
+        "The recorded priority is a complete, locally appropriate cattle-feeding approach, followed by safety and practical evidence for sprouted fodder. Crop-income and tower experiments remain separate candidates to evaluate with full water, labour and financial records.",
+        "Research notes contain candidate ideas and unresolved claims. They are not a finished animal-feeding protocol or evidence of a completed field trial. Qualified collaborators should review feeding changes for the animal and local ingredients."
+      ],
+      "sources": [
+        {
+          "title": "NDDB ration balancing",
+          "url": "https://www.nddb.org/services/animalnutrition/programmes/ration-balancing-programme"
+        }
+      ],
+      "downloadUrl": "/data/library/project-priorities.md"
+    },
+    {
+      "id": "shared-evidence",
+      "title": "How the hub treats evidence",
+      "category": "data",
+      "summary": "Dates, units, locations, source links and clear verification states.",
+      "status": "reference",
+      "updatedAt": "2026-10-27",
+      "sourcePath": "notes/SHARED-KNOWLEDGE-HUB.md",
+      "body": [
+        "Official observations, statistical estimates, forecasts, peer reports and modelled scenarios are separate record types. Every displayed value needs a location, date, unit, source and method.",
+        "A reservoir’s storage percentage is not a village supply estimate. Link the actual supply system, usable allocation, withdrawals and losses before estimating a shortage date. Leave estimates unavailable when the inputs are missing.",
+        "Census records and soil samples retain their reference dates. A peer’s local report remains a peer observation after review; it does not become an official reading. Household contact and financial information belongs in restricted records."
+      ],
+      "sources": [
+        {
+          "title": "Maharashtra LGD directory",
+          "url": "https://mahavillages.mahabhumi.gov.in/all_list.php"
+        },
+        {
+          "title": "PoCRA water-budget service",
+          "url": "https://gis.mahapocra.gov.in/html/water-budget-service/water-budget.html"
+        }
+      ],
+      "downloadUrl": "/data/library/shared-evidence.md"
+    },
+    {
+      "id": "pilot-procedure",
+      "title": "A common procedure for peer pilots",
+      "category": "pilots",
+      "summary": "A shared baseline, stable-method observations, repeated batches and honest failure records.",
+      "status": "protocol-draft",
+      "updatedAt": "2026-10-27",
+      "sourcePath": "notes/pilot/PILOT-SCRIPT.md",
+      "body": [
+        "Assign a site ID, location code, responsible operator and protocol version. Record current practice before introducing the agreed change, and track observations in the same units across sites.",
+        "The proposed procedure uses a 14-day baseline and aims for 28 stable observation days after an appropriate adaptation period. A named qualified reviewer must accept any animal-feeding changes. Production experiments can be evaluated separately from household feeding.",
+        "Record all inputs, water including cleaning, labour, output, discarded batches and support time. Keep withdrawals and missing data in the final report. A small initial pilot does not establish performance throughout Maharashtra or in every season."
+      ],
+      "sources": [
+        {
+          "title": "NDDB ration balancing",
+          "url": "https://www.nddb.org/services/animalnutrition/programmes/ration-balancing-programme"
+        }
+      ],
+      "downloadUrl": "/data/library/pilot-procedure.md"
+    },
+    {
+      "id": "micro-finance",
+      "title": "Micro-finance: full cost at each site",
+      "category": "finance",
+      "summary": "Separate family cash, replacement value, programme costs and subsidy timing.",
+      "status": "protocol-draft",
+      "updatedAt": "2026-10-27",
+      "sourcePath": "notes/EXECUTION-TO-FEB-2027.md",
+      "body": [
+        "Record setup purchases, borrowed assets, donated materials and the family’s contribution separately. Routine costs include the whole feed or crop input bill, water, power, washing, losses, transport, repairs and local support.",
+        "Show actual receipts and avoided purchases without double-counting a saving already reflected in a lower expense. Value unpaid labour separately and include routine programme support when judging reproducibility.",
+        "Keep money received separate from applications and promised subsidies. Compute payback only from a positive observed incremental cash benefit, and disclose seasonal assumptions. No financial outcomes are established yet."
+      ],
+      "sources": [
+        {
+          "title": "National Livestock Mission",
+          "url": "https://www.dahd.gov.in/en/schemes/programmes/national_livestock_mission"
+        }
+      ],
+      "downloadUrl": "/data/library/micro-finance.md"
+    },
+    {
+      "id": "cactus-research",
+      "title": "Spineless cactus: sourcing and local evaluation",
+      "category": "fodder",
+      "summary": "A possible longer-term fodder resource with sourcing, establishment and pest questions.",
+      "status": "working-notes",
+      "updatedAt": "2026-10-27",
+      "sourcePath": "notes/spineless-cactus.md",
+      "body": [
+        "Existing research identifies BAIF and agricultural institutions as leads for fodder planting material. Availability, variety, price, transport and local suitability remain questions to confirm directly.",
+        "Local trials need to document establishment, drainage, pest incidence, water and labour before relying on harvest assumptions. Benefits seen in other species or climates should not be assumed for local cattle.",
+        "This brief provides research context, not a feeding recipe. Obtain qualified local advice before introducing a new feed."
+      ],
+      "sources": [
+        {
+          "title": "BAIF",
+          "url": "https://baif.org.in/"
+        },
+        {
+          "title": "NDDB thornless-cactus reference",
+          "url": "https://www.dairyknowledge.in/sites/default/files/thornless_cactus_eng.pdf"
+        }
+      ],
+      "downloadUrl": "/data/library/cactus-research.md"
+    },
+    {
+      "id": "support-research",
+      "title": "Nashik fodder support: questions to verify",
+      "category": "policy",
+      "summary": "A checklist for checking schemes, fodder banks, camps and local assistance.",
+      "status": "working-notes",
+      "updatedAt": "2026-10-27",
+      "sourcePath": "notes/nashik-fodder-support.md",
+      "body": [
+        "The workspace research identifies possible fodder conservation and livestock-support programmes, but current local availability and scheme terms need original orders and implementing-office confirmation.",
+        "For each lead, confirm geography, eligible applicant, supported activity, application route, deadlines, required contribution, reimbursement timing and responsible contact. A news announcement does not establish an open application window.",
+        "Keep the original Marathi order and amendments alongside short summaries. Record what the local office confirms and the date; do not reuse historical camp rates as current benefits."
+      ],
+      "sources": [
+        {
+          "title": "Government Resolutions",
+          "url": "https://gr.maharashtra.gov.in/1145/Government-Resolutions"
+        },
+        {
+          "title": "MahaDBT Farmer",
+          "url": "https://mahadbt.maharashtra.gov.in/farmer/Agrilogin/Agrilogin"
+        }
+      ],
+      "downloadUrl": "/data/library/support-research.md"
+    },
+    {
+      "id": "tower-research",
+      "title": "Tower designs and experimental growing systems",
+      "category": "crops",
+      "summary": "Compare water delivery, maintenance, usable output and cost before selecting a system.",
+      "status": "working-notes",
+      "updatedAt": "2026-10-27",
+      "sourcePath": "prints/garden-tower-terrag2/README.md",
+      "body": [
+        "The workspace compares pocket towers, spray-cap columns and growing systems with media. An additional printable tower design includes downloaded parts, estimated material requirements and builder-reported watering and leakage issues.",
+        "The raw geometry report contains disputed measurements, so dimensional claims need reconciliation before design or manufacture. Material estimates do not represent a complete installed or operating price.",
+        "Compare candidate systems under documented local conditions using the same crop where practical. Record usable harvest, all direct water, labour, downtime, repairs and actual sale receipts."
+      ],
+      "sources": [
+        {
+          "title": "TerraG2 original design",
+          "url": "https://www.instructables.com/3D-Printed-Hydroponic-Aeroponic-Garden-Tower-for-U/"
+        }
+      ],
+      "downloadUrl": "/data/library/tower-research.md"
+    }
+  ],
+  "observations": [],
+  "coverage": {
+    "districts": 36,
+    "talukas": 358,
+    "sources": 18,
+    "officialNashikTalukas": 15,
+    "liveObservationFeeds": 0,
+    "fieldReportsSeeded": 0,
+    "sourceReviewDate": "2026-10-27",
+    "gaps": [
+      "Dam storage imported for Nashik only",
+      "No groundwater readings since about 2 Jun 2026 in 21 districts",
+      "No household records seeded",
+      "No verified fodder stock records yet",
+      "Village directory covers Nashik only"
+    ],
+    "officialObservationSnapshots": [
+      "IMD district rainfall 27 Oct 2026",
+      "GSDA groundwater telemetry to 26 Oct 2026",
+      "Nashik dam storage 23 Oct 2026"
+    ]
+  }
+}

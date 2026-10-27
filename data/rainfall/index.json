@@ -1,0 +1,724 @@
+{
+  "meta": {
+    "title": "IMD district rainfall: Maharashtra",
+    "titleMr": "जिल्हानिहाय पाऊस (भारतीय हवामान विभाग)",
+    "publisher": "India Meteorological Department (IMD), Ministry of Earth Sciences",
+    "sourcePage": "https://mausam.imd.gov.in/imd_latest/contents/rainfall_statistics_3.php",
+    "sourceDocumentUrl": "https://mausam.imd.gov.in/Rainfall/DISTRICT_RAINFALL_DISTRIBUTION_COUNTRY_INDIA_cd.pdf",
+    "localDocumentUrl": "/data/rainfall/imd-district-rainfall-2026-10-27.pdf",
+    "reportDay": "2026-10-27",
+    "periodStart": "2026-10-01",
+    "periodEnd": "2026-10-27",
+    "retrievedAt": "2026-10-27T18:23:00+00:00",
+    "sha256": "1869260960ad0ae2a9aed49e0b40fc8e06b16126ebdc3fcd4c43b415c1140174",
+    "bytes": 2985861,
+    "recordCount": 36,
+    "coverage": "All 36 Maharashtra districts as aggregated by IMD; district averages, not village or field rainfall",
+    "extractionMethod": "pdftotext -raw text of IMD's machine-generated PDF; rows checked against page images on first import",
+    "refreshMode": "manual run of scripts/import-rainfall.py",
+    "automaticRefresh": false,
+    "units": {
+      "actualMm": "observed rainfall, millimetres",
+      "normalMm": "IMD long-period normal for the same dates, millimetres",
+      "departurePercent": "printed percent departure from normal"
+    },
+    "categories": {
+      "LE": {
+        "en": "Large excess",
+        "mr": "खूप जास्त"
+      },
+      "E": {
+        "en": "Excess",
+        "mr": "जास्त"
+      },
+      "N": {
+        "en": "Normal",
+        "mr": "सामान्य"
+      },
+      "D": {
+        "en": "Deficient",
+        "mr": "कमी"
+      },
+      "LD": {
+        "en": "Large deficient",
+        "mr": "खूप कमी"
+      },
+      "NR": {
+        "en": "No rain",
+        "mr": "पाऊस नाही"
+      },
+      "ND": {
+        "en": "No data",
+        "mr": "माहिती नाही"
+      }
+    },
+    "limitations": [
+      "District figures are IMD area averages from reporting stations; rainfall at a village or farm can differ.",
+      "Observed rainfall says nothing about rain to come; see the forecast panel and IMD advisories for that.",
+      "The period total runs from the first day of the month; it is not the whole monsoon season.",
+      "IMD republishes the same URL daily. This snapshot is fixed to the report date above."
+    ]
+  },
+  "state": {
+    "day": {
+      "actualMm": 0.0,
+      "normalMm": 1.3,
+      "departurePercent": -99,
+      "category": "LD"
+    },
+    "period": {
+      "actualMm": 2.6,
+      "normalMm": 71.1,
+      "departurePercent": -96,
+      "category": "LD"
+    }
+  },
+  "validation": {
+    "districtsFound": 36,
+    "allDistrictsMapped": true,
+    "departureWarnings": [
+      {
+        "district": "BHANDARA",
+        "span": "day",
+        "printed": -86,
+        "calculated": -100.0,
+        "likelyCause": "trace rainfall printed as 0 mm"
+      },
+      {
+        "district": "BULDHANA",
+        "span": "day",
+        "printed": -98,
+        "calculated": -100.0,
+        "likelyCause": "trace rainfall printed as 0 mm"
+      },
+      {
+        "district": "CHANDRAPUR",
+        "span": "day",
+        "printed": -96,
+        "calculated": -100.0,
+        "likelyCause": "trace rainfall printed as 0 mm"
+      },
+      {
+        "district": "WARDHA",
+        "span": "day",
+        "printed": -94,
+        "calculated": -100.0,
+        "likelyCause": "trace rainfall printed as 0 mm"
+      }
+    ]
+  },
+  "records": [
+    {
+      "districtCode": "466",
+      "imdName": "AHMEDNAGAR",
+      "subdivision": "MADHYA MAHARASHTRA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 1.8,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 0.5,
+        "normalMm": 72.2,
+        "departurePercent": -99,
+        "category": "LD"
+      }
+    },
+    {
+      "districtCode": "467",
+      "imdName": "AKOLA",
+      "subdivision": "VIDARBHA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 1.3,
+        "departurePercent": -99,
+        "category": "LD"
+      },
+      "period": {
+        "actualMm": 0.1,
+        "normalMm": 51.8,
+        "departurePercent": -99,
+        "category": "LD"
+      }
+    },
+    {
+      "districtCode": "468",
+      "imdName": "AMRAOTI",
+      "subdivision": "VIDARBHA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 1.1,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 0.7,
+        "normalMm": 48.2,
+        "departurePercent": -98,
+        "category": "LD"
+      }
+    },
+    {
+      "districtCode": "469",
+      "imdName": "CHHATRAPATI SAMBHAJINAGAR",
+      "subdivision": "MARATHWADA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 1.6,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 0.0,
+        "normalMm": 55.9,
+        "departurePercent": -100,
+        "category": "NR"
+      }
+    },
+    {
+      "districtCode": "470",
+      "imdName": "BEED",
+      "subdivision": "MARATHWADA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 1.8,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 0.0,
+        "normalMm": 73.4,
+        "departurePercent": -100,
+        "category": "NR"
+      }
+    },
+    {
+      "districtCode": "471",
+      "imdName": "BHANDARA",
+      "subdivision": "VIDARBHA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 0.3,
+        "departurePercent": -86,
+        "category": "LD"
+      },
+      "period": {
+        "actualMm": 0.2,
+        "normalMm": 49.7,
+        "departurePercent": -99,
+        "category": "LD"
+      }
+    },
+    {
+      "districtCode": "472",
+      "imdName": "BULDHANA",
+      "subdivision": "VIDARBHA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 1.0,
+        "departurePercent": -98,
+        "category": "LD"
+      },
+      "period": {
+        "actualMm": 0.1,
+        "normalMm": 53.8,
+        "departurePercent": -99,
+        "category": "LD"
+      }
+    },
+    {
+      "districtCode": "473",
+      "imdName": "CHANDRAPUR",
+      "subdivision": "VIDARBHA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 0.7,
+        "departurePercent": -96,
+        "category": "LD"
+      },
+      "period": {
+        "actualMm": 0.1,
+        "normalMm": 63.4,
+        "departurePercent": -99,
+        "category": "LD"
+      }
+    },
+    {
+      "districtCode": "474",
+      "imdName": "DHULE",
+      "subdivision": "MADHYA MAHARASHTRA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 0.5,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 0.0,
+        "normalMm": 34.7,
+        "departurePercent": -100,
+        "category": "NR"
+      }
+    },
+    {
+      "districtCode": "475",
+      "imdName": "GADCHIROLI",
+      "subdivision": "VIDARBHA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 0.5,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 0.0,
+        "normalMm": 64.5,
+        "departurePercent": -99,
+        "category": "LD"
+      }
+    },
+    {
+      "districtCode": "476",
+      "imdName": "GONDIA",
+      "subdivision": "VIDARBHA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 0.4,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 0.4,
+        "normalMm": 45.5,
+        "departurePercent": -99,
+        "category": "LD"
+      }
+    },
+    {
+      "districtCode": "477",
+      "imdName": "HINGOLI",
+      "subdivision": "MARATHWADA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 2.7,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 0.0,
+        "normalMm": 64.9,
+        "departurePercent": -100,
+        "category": "NR"
+      }
+    },
+    {
+      "districtCode": "478",
+      "imdName": "JALGAON",
+      "subdivision": "MADHYA MAHARASHTRA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 0.8,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 0.0,
+        "normalMm": 39.6,
+        "departurePercent": -100,
+        "category": "NR"
+      }
+    },
+    {
+      "districtCode": "479",
+      "imdName": "JALNA",
+      "subdivision": "MARATHWADA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 1.5,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 0.0,
+        "normalMm": 60.3,
+        "departurePercent": -100,
+        "category": "NR"
+      }
+    },
+    {
+      "districtCode": "480",
+      "imdName": "KOLHAPUR",
+      "subdivision": "MADHYA MAHARASHTRA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 2.9,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 23.3,
+        "normalMm": 114.5,
+        "departurePercent": -80,
+        "category": "LD"
+      }
+    },
+    {
+      "districtCode": "481",
+      "imdName": "LATUR",
+      "subdivision": "MARATHWADA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 1.4,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 0.0,
+        "normalMm": 84.0,
+        "departurePercent": -100,
+        "category": "NR"
+      }
+    },
+    {
+      "districtCode": "482",
+      "imdName": "MUMBAI CITY",
+      "subdivision": "KONKAN & GOA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 0.8,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 0.0,
+        "normalMm": 72.4,
+        "departurePercent": -100,
+        "category": "NR"
+      }
+    },
+    {
+      "districtCode": "483",
+      "imdName": "MUMBAI SUBURBAN",
+      "subdivision": "KONKAN & GOA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 0.2,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 4.4,
+        "normalMm": 80.1,
+        "departurePercent": -95,
+        "category": "LD"
+      }
+    },
+    {
+      "districtCode": "484",
+      "imdName": "NAGPUR",
+      "subdivision": "VIDARBHA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 1.0,
+        "departurePercent": -99,
+        "category": "LD"
+      },
+      "period": {
+        "actualMm": 0.1,
+        "normalMm": 47.7,
+        "departurePercent": -99,
+        "category": "LD"
+      }
+    },
+    {
+      "districtCode": "485",
+      "imdName": "NANDED",
+      "subdivision": "MARATHWADA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 1.2,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 0.2,
+        "normalMm": 75.0,
+        "departurePercent": -99,
+        "category": "LD"
+      }
+    },
+    {
+      "districtCode": "486",
+      "imdName": "NANDURBAR",
+      "subdivision": "MADHYA MAHARASHTRA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 0.2,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 0.0,
+        "normalMm": 33.0,
+        "departurePercent": -100,
+        "category": "NR"
+      }
+    },
+    {
+      "districtCode": "487",
+      "imdName": "NASHIK",
+      "subdivision": "MADHYA MAHARASHTRA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 1.6,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 2.6,
+        "normalMm": 60.4,
+        "departurePercent": -96,
+        "category": "LD"
+      }
+    },
+    {
+      "districtCode": "488",
+      "imdName": "DHARASHIV",
+      "subdivision": "MARATHWADA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 1.3,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 0.0,
+        "normalMm": 83.9,
+        "departurePercent": -100,
+        "category": "NR"
+      }
+    },
+    {
+      "districtCode": "489",
+      "imdName": "PARBHANI",
+      "subdivision": "MARATHWADA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 1.2,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 0.0,
+        "normalMm": 73.4,
+        "departurePercent": -100,
+        "category": "NR"
+      }
+    },
+    {
+      "districtCode": "490",
+      "imdName": "PUNE",
+      "subdivision": "MADHYA MAHARASHTRA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 1.9,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 2.1,
+        "normalMm": 83.8,
+        "departurePercent": -97,
+        "category": "LD"
+      }
+    },
+    {
+      "districtCode": "491",
+      "imdName": "RAIGAD",
+      "subdivision": "KONKAN & GOA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 0.6,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 4.0,
+        "normalMm": 112.5,
+        "departurePercent": -96,
+        "category": "LD"
+      }
+    },
+    {
+      "districtCode": "492",
+      "imdName": "RATNAGIRI",
+      "subdivision": "KONKAN & GOA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 1.9,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 18.1,
+        "normalMm": 130.4,
+        "departurePercent": -86,
+        "category": "LD"
+      }
+    },
+    {
+      "districtCode": "493",
+      "imdName": "SANGLI",
+      "subdivision": "MADHYA MAHARASHTRA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 3.8,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 9.6,
+        "normalMm": 102.8,
+        "departurePercent": -91,
+        "category": "LD"
+      }
+    },
+    {
+      "districtCode": "494",
+      "imdName": "SATARA",
+      "subdivision": "MADHYA MAHARASHTRA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 2.0,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 1.4,
+        "normalMm": 92.5,
+        "departurePercent": -98,
+        "category": "LD"
+      }
+    },
+    {
+      "districtCode": "495",
+      "imdName": "SINDHUDURG",
+      "subdivision": "KONKAN & GOA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 2.9,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 35.3,
+        "normalMm": 146.1,
+        "departurePercent": -76,
+        "category": "LD"
+      }
+    },
+    {
+      "districtCode": "496",
+      "imdName": "SHOLAPUR",
+      "subdivision": "MADHYA MAHARASHTRA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 2.8,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 0.0,
+        "normalMm": 97.8,
+        "departurePercent": -100,
+        "category": "NR"
+      }
+    },
+    {
+      "districtCode": "497",
+      "imdName": "THANE",
+      "subdivision": "KONKAN & GOA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 0.2,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 11.0,
+        "normalMm": 71.7,
+        "departurePercent": -85,
+        "category": "LD"
+      }
+    },
+    {
+      "districtCode": "498",
+      "imdName": "WARDHA",
+      "subdivision": "VIDARBHA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 0.4,
+        "departurePercent": -94,
+        "category": "LD"
+      },
+      "period": {
+        "actualMm": 0.4,
+        "normalMm": 50.3,
+        "departurePercent": -99,
+        "category": "LD"
+      }
+    },
+    {
+      "districtCode": "499",
+      "imdName": "WASHIM",
+      "subdivision": "VIDARBHA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 0.6,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 0.2,
+        "normalMm": 59.7,
+        "departurePercent": -99,
+        "category": "LD"
+      }
+    },
+    {
+      "districtCode": "500",
+      "imdName": "YEOTMAL",
+      "subdivision": "VIDARBHA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 0.8,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 0.1,
+        "normalMm": 60.3,
+        "departurePercent": -99,
+        "category": "LD"
+      }
+    },
+    {
+      "districtCode": "665",
+      "imdName": "PALGHAR",
+      "subdivision": "KONKAN & GOA",
+      "day": {
+        "actualMm": 0.0,
+        "normalMm": 0.3,
+        "departurePercent": -100,
+        "category": "NR"
+      },
+      "period": {
+        "actualMm": 2.3,
+        "normalMm": 59.9,
+        "departurePercent": -96,
+        "category": "LD"
+      }
+    }
+  ]
+}

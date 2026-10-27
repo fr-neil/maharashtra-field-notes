@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "checkedAt": "2026-10-27",
+    "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+    "endpoint": "https://mahavillages.mahabhumi.gov.in/all_list_back.php",
+    "coverage": "Nashik district only",
+    "totalVillages": 1981,
+    "sourceRows": 1981,
+    "complete": false,
+    "rejectedRows": 0,
+    "districtsIncluded": 1,
+    "talukasIncluded": 15,
+    "limitations": [
+      "Official directory snapshot; administrative names and codes, not a field survey or household count.",
+      "No village water, crop, income, population or fodder measurements inferred."
+    ],
+    "retrievalIssue": "The read operation timed out",
+    "statewideComplete": false,
+    "missingDistrictCount": 35
+  },
+  "districtCounts": {
+    "487": 1981
+  },
+  "talukas": {
+    "4142": {
+      "url": "/data/villages-4142.json",
+      "count": 191,
+      "districtCode": "487"
+    },
+    "4143": {
+      "url": "/data/villages-4143.json",
+      "count": 152,
+      "districtCode": "487"
+    },
+    "4145": {
+      "url": "/data/villages-4145.json",
+      "count": 172,
+      "districtCode": "487"
+    },
+    "4146": {
+      "url": "/data/villages-4146.json",
+      "count": 151,
+      "districtCode": "487"
+    },
+    "4148": {
+      "url": "/data/villages-4148.json",
+      "count": 112,
+      "districtCode": "487"
+    },
+    "4149": {
+      "url": "/data/villages-4149.json",
+      "count": 157,
+      "districtCode": "487"
+    },
+    "4150": {
+      "url": "/data/villages-4150.json",
+      "count": 146,
+      "districtCode": "487"
+    },
+    "4151": {
+      "url": "/data/villages-4151.json",
+      "count": 125,
+      "districtCode": "487"
+    },
+    "4152": {
+      "url": "/data/villages-4152.json",
+      "count": 109,
+      "districtCode": "487"
+    },
+    "4154": {
+      "url": "/data/villages-4154.json",
+      "count": 131,
+      "districtCode": "487"
+    },
+    "4155": {
+      "url": "/data/villages-4155.json",
+      "count": 138,
+      "districtCode": "487"
+    },
+    "4156": {
+      "url": "/data/villages-4156.json",
+      "count": 124,
+      "districtCode": "487"
+    },
+    "4144": {
+      "url": "/data/villages-4144.json",
+      "count": 46,
+      "districtCode": "487"
+    },
+    "4147": {
+      "url": "/data/villages-4147.json",
+      "count": 101,
+      "districtCode": "487"
+    },
+    "4153": {
+      "url": "/data/villages-4153.json",
+      "count": 126,
+      "districtCode": "487"
+    }
+  },
+  "districtCoverage": {
+    "487": {
+      "name": "Nashik",
+      "count": 1981,
+      "complete": true,
+      "expectedDirectoryCount": 1981,
+      "talukasIncluded": 15
+    }
+  }
+}

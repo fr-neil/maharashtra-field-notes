@@ -1,0 +1,1451 @@
+﻿station,districtCode,sourceDistrict,tehsil,block,village,lat,lon,elevationM,status,erratic,flat,lastObservation,depthM,change30dM,mayDepthM,vsMayM,readings,excludedReadings,days,spikeDays,cleanDays
+Akola,466,Ahmadnagar,AKOLA,,,19.55,73.99583611,590.0,stale,False,False,2026-06-01,9.85,1.06,9.04,-0.82,560,0,140,8,132
+Pimpalgaon Alwa,466,Ahmadnagar,Jamkhed,,,18.65138889,75.38194722,639.0,stale,False,False,2026-06-02,9.71,2.42,7.4,-2.31,552,0,138,12,126
+Akhoni_1,466,Ahmadnagar,Karjat,,,18.397521,74.852498,662.0,current,False,False,2026-10-23,5.8,-0.25,4.46,-1.33,630,0,161,0,161
+Benwadi,466,Ahmadnagar,Karjat,,,18.494142,74.974803,570.0,current,False,False,2026-10-23,4.35,-0.38,6.33,1.98,630,0,169,0,169
+Bhairobawadi,466,Ahmadnagar,Karjat,,,18.59722222,75.00416944,612.0,stale,False,False,2026-06-02,14.71,2.35,12.6,-2.11,564,0,141,7,134
+Chilvadi_1,466,Ahmadnagar,Karjat,,,18.415338,74.98192,562.0,current,False,False,2026-10-23,4.03,-0.12,12.98,8.95,638,0,168,0,168
+Deshmukhwadi,466,Ahmadnagar,Karjat,,,18.462083,74.966658,581.0,current,False,False,2026-10-23,25.87,1.38,27.25,1.38,634,0,167,0,167
+Durgaon,466,Ahmadnagar,Karjat,,,18.52559,74.929297,556.0,current,True,False,2026-10-23,62.95,-0.61,64.27,1.32,828,206,160,0,160
+Kalyachiwadi,466,Ahmadnagar,Karjat,,,18.401888,74.955513,552.0,current,False,False,2026-10-23,1.38,-1.43,9.83,8.44,634,0,169,0,169
+Kangudwadi,466,Ahmadnagar,Karjat,,,18.445892,74.949822,560.0,current,False,False,2026-10-23,40.47,-2.14,48.27,7.8,638,0,168,1,167
+Karbhanwadi,466,Ahmadnagar,Karjat,,,18.425814,74.842557,529.0,current,True,False,2026-10-22,37.31,-2.86,41.29,3.98,957,303,171,1,170
+Karpadi,466,Ahmadnagar,Karjat,,,18.388399,74.888491,521.0,current,False,False,2026-10-23,4.86,-0.59,6.93,2.07,630,0,166,0,166
+Nandgaon_1,466,Ahmadnagar,Karjat,,,18.59227,74.929775,598.0,current,True,False,2026-10-23,2.67,-0.09,4.16,1.49,1059,476,159,0,159
+Netakewadi,466,Ahmadnagar,Karjat,,,18.520412,75.014862,608.0,current,False,False,2026-10-23,30.33,-1.47,36.56,6.23,634,0,168,1,167
+Paritwadi,466,Ahmadnagar,Karjat,,,18.402486,74.90561,537.0,current,False,False,2026-10-23,32.34,0.05,27.86,-4.47,638,0,169,3,166
+Pimpalwadi_1,466,Ahmadnagar,Karjat,,,18.497152,74.883227,558.0,current,False,False,2026-10-26,7.97,1.55,12.44,4.46,991,0,255,0,255
+Rashin_1,466,Ahmadnagar,Karjat,,,18.440555,74.920833,563.0,current,False,False,2026-10-26,12.09,0.42,12.11,0.02,983,0,255,0,255
+Rehekuri,466,Ahmadnagar,Karjat,,,18.610116,74.949708,613.0,current,False,False,2026-10-23,28.06,-1.92,39.67,11.61,646,0,168,6,162
+Sonalwadi,466,Ahmadnagar,Karjat,,,18.475529,74.916409,551.0,current,False,False,2026-10-23,11.75,5.87,20.07,8.31,774,0,202,14,188
+Therwadi,466,Ahmadnagar,Karjat,,,18.504137,74.952895,557.0,current,False,False,2026-10-23,6.79,-5.83,15.97,9.18,642,0,169,0,169
+Torkadwadi,466,Ahmadnagar,Karjat,,,18.481772,74.925715,553.0,current,False,False,2026-10-23,17.56,0.46,20.23,2.67,618,0,160,0,160
+Wadgaon Tanpure,466,Ahmadnagar,Karjat,,,18.565978,74.94871,608.0,current,False,False,2026-10-23,9.43,-5.83,18.61,9.18,630,0,168,0,168
+Waysewadi,466,Ahmadnagar,Karjat,,,18.393798,74.84764,503.0,current,False,False,2026-10-23,4.04,-2.15,4.33,0.29,618,0,160,3,157
+Yaswadi,466,Ahmadnagar,Karjat,,,18.444935,74.872873,527.0,current,False,False,2026-10-26,6.61,0.27,6.82,0.21,975,0,254,0,254
+Jeur Patoda,466,Ahmadnagar,Kopargaon,,,19.86805556,74.46389167,506.0,stale,False,False,2026-06-02,14.05,2.53,11.93,-2.12,544,0,136,12,124
+Shiradhon,466,Ahmadnagar,Nagar,,,18.98194444,74.80139167,622.0,stale,False,False,2026-05-31,11.11,0.84,10.68,-0.43,548,0,137,15,122
+Bel Pimpalgaon,466,Ahmadnagar,Nevasa,,,19.60777778,74.85000556,490.0,stale,False,False,2026-06-02,12.39,2.36,10.45,-1.95,564,0,141,11,130
+Vadzire,466,Ahmadnagar,Parner,,,19.01944444,74.33889167,681.0,stale,False,False,2026-06-02,16.18,2.72,14.21,-1.97,552,0,138,10,128
+Mali Bhabhulgaon,466,Ahmadnagar,Pathardi,,,19.19166667,75.15555833,531.0,stale,False,False,2026-06-01,11.01,1.58,9.56,-1.44,536,0,134,7,127
+Bhagwatipur_1,466,Ahmadnagar,Rahata,,,19.539347,74.53248,515.82,current,False,False,2026-10-23,8.65,0.21,12.34,3.69,642,0,169,0,169
+Chandrapur_5,466,Ahmadnagar,Rahata,,,19.563472,74.432199,512.0,current,False,False,2026-10-26,3.94,-0.17,5.08,1.14,991,0,257,0,257
+Dadh Bk,466,Ahmadnagar,Rahata,,,19.524956,74.3988,527.0,current,False,False,2026-10-23,8.35,-0.22,10.29,1.95,654,0,169,0,169
+Durgapur_3,466,Ahmadnagar,Rahata,,,19.5423,74.441232,532.0,current,False,False,2026-10-26,3.67,0.2,4.53,0.86,991,0,255,0,255
+Gogalgaon,466,Ahmadnagar,Rahata,,,19.610467,74.4293,591.0,current,True,False,2026-10-23,10.8,-5.06,15.52,4.72,989,364,165,0,165
+Hanmantgaon,466,Ahmadnagar,Rahata,,,19.528493,74.469179,518.99,current,False,False,2026-10-26,6.37,-0.71,6.8,0.43,983,1,255,0,255
+Hasanapur_1,466,Ahmadnagar,Rahata,,,19.55992,74.44454,552.0,current,True,False,2026-10-25,7.96,,5.42,-2.54,991,372,162,5,157
+Kolhar Budruk,466,Ahmadnagar,Rahata,,,19.53888889,74.53611389,518.0,stale,False,False,2026-06-01,13.77,0.87,13.28,-0.49,572,0,143,15,128
+Lohgaon_1,466,Ahmadnagar,Rahata,,,19.5894,74.504078,493.43,current,False,False,2026-10-23,12.39,-0.59,12.94,0.54,634,0,168,0,168
+Loni Bk,466,Ahmadnagar,Rahata,,,19.57961,74.46677,538.0,current,True,False,2026-10-23,4.37,-0.42,7.73,3.36,1080,499,155,0,155
+Loni Kh,466,Ahmadnagar,Rahata,,,19.58149,74.46687,538.0,current,False,False,2026-10-26,11.74,2.64,9.38,-2.36,989,0,256,9,247
+Pathare Bk,466,Ahmadnagar,Rahata,,,19.5277,74.48022,464.4,stale,True,False,2026-09-26,0.44,-0.4,67.52,67.08,983,448,146,7,139
+Kolhar Khurd ,466,Ahmadnagar,Rahuri,,,19.53194444,74.53889167,516.0,stale,False,False,2026-05-31,7.94,0.56,7.75,-0.19,572,0,143,12,131
+Ambhore,466,Ahmadnagar,Sangamner,,,19.480958,74.278887,594.0,current,False,False,2026-10-23,18.15,0.01,20.77,2.62,622,0,166,0,166
+Ashwi Bk_1,466,Ahmadnagar,Sangamner,,,19.546167,74.360954,560.0,current,False,False,2026-10-23,13.23,-0.22,15.62,2.39,634,0,167,0,167
+Ashwi Kh,466,Ahmadnagar,Sangamner,,,19.517016,74.368522,541.0,current,False,False,2026-10-23,5.64,-0.16,8.1,2.46,618,0,163,0,163
+Aurangpur_2,466,Ahmadnagar,Sangamner,,,19.579062,74.404832,582.0,current,True,False,2026-10-23,8.73,-0.21,9.14,0.41,1052,273,210,3,207
+Chandanapuri_1,466,Ahmadnagar,Sangamner,,,19.496448,74.194365,614.0,current,False,False,2026-10-23,9.23,-0.81,11.72,2.49,634,0,166,0,166
+Chikani_1,466,Ahmadnagar,Sangamner,,,19.63434,74.126309,624.0,current,False,False,2026-10-23,16.99,-0.07,17.18,0.19,622,0,166,0,166
+Chinchpur Bk,466,Ahmadnagar,Sangamner,,,19.559027,74.417389,621.0,current,False,False,2026-10-23,9.13,-0.73,10.22,1.09,634,0,168,0,168
+Dadh Kh,466,Ahmadnagar,Sangamner,,,19.51352,74.4193,540.0,current,False,False,2026-10-23,11.91,0.62,28.2,16.3,638,0,168,0,168
+Deogaon_3,466,Ahmadnagar,Sangamner,,,19.53005,74.234439,556.16,current,False,False,2026-10-26,5.63,0.79,7.23,1.6,982,0,255,8,247
+Digras_1,466,Ahmadnagar,Sangamner,,,19.446803,74.328352,639.0,current,False,False,2026-10-23,48.96,-0.06,59.72,10.76,634,0,169,0,169
+Ghulewadi,466,Ahmadnagar,Sangamner,,,19.603566,74.194842,592.0,current,False,False,2026-10-23,14.15,0.08,16.28,2.13,622,0,160,2,158
+Gunjalwadi_1,466,Ahmadnagar,Sangamner,,,19.584456,74.173218,540.0,current,False,False,2026-10-23,21.08,0.3,19.73,-1.35,630,0,161,0,161
+Hangewadi,466,Ahmadnagar,Sangamner,,,19.508618,74.31465,567.0,current,False,False,2026-10-26,3.08,0.21,3.29,0.21,995,0,257,0,257
+Hiwargaon Pawasa,466,Ahmadnagar,Sangamner,,,19.507043,74.210482,598.0,current,False,False,2026-10-26,8.72,1.41,19.11,10.38,987,0,255,3,252
+Jakhori,466,Ahmadnagar,Sangamner,,,19.510484,74.252377,591.0,current,False,False,2026-10-26,3.71,0.25,4.01,0.3,985,0,257,0,257
+Jorve,466,Ahmadnagar,Sangamner,,,19.546837,74.270293,540.0,current,False,False,2026-10-23,14.89,0.99,11.52,-3.37,622,0,161,0,161
+Kankapur,466,Ahmadnagar,Sangamner,,,19.53918,74.311971,587.0,current,False,False,2026-10-26,4.31,0.26,4.75,0.44,967,0,254,0,254
+Kanoli_1,466,Ahmadnagar,Sangamner,,,19.527127,74.284879,477.0,current,False,False,2026-10-23,7.72,-0.42,9.61,1.9,614,0,160,0,160
+Karjule Pathar,466,Ahmadnagar,Sangamner,,,19.416159,74.210771,731.0,current,False,False,2026-10-26,18.13,2.86,30.95,12.81,975,0,255,0,255
+Karule,466,Ahmadnagar,Sangamner,,,19.642211,74.281936,620.0,current,False,False,2026-10-23,23.88,-0.06,27.2,3.31,638,0,168,0,168
+Kasar Dumala,466,Ahmadnagar,Sangamner,,,19.559264,74.192362,578.0,current,False,False,2026-10-26,10.23,0.06,10.83,0.6,973,2,253,0,253
+Khali_2,466,Ahmadnagar,Sangamner,,,19.49006,74.41702,565.0,current,False,False,2026-10-26,7.25,2.15,5.88,-1.37,979,0,254,0,254
+Khandgaon_1,466,Ahmadnagar,Sangamner,,,19.538099,74.183513,545.0,current,False,False,2026-10-26,2.09,-0.96,2.09,0.0,979,0,255,0,255
+Khanjapur_1,466,Ahmadnagar,Sangamner,,,19.60818,74.225747,590.0,current,False,False,2026-10-23,2.54,-0.23,4.51,1.96,634,0,167,0,167
+Kharadi_1,466,Ahmadnagar,Sangamner,,,19.543868,74.24707,552.0,current,False,False,2026-10-26,6.22,-0.01,6.76,0.54,988,0,256,0,256
+Kokangaon_1,466,Ahmadnagar,Sangamner,,,19.589181,74.318687,598.0,current,False,False,2026-10-26,5.0,,4.52,-0.48,876,3,232,0,232
+Kolhewadi,466,Ahmadnagar,Sangamner,,,19.570871,74.264828,557.0,current,False,False,2026-10-23,45.84,0.32,55.34,9.5,646,0,169,3,166
+Kolwade,466,Ahmadnagar,Sangamner,,,19.474213,74.246724,658.0,current,False,False,2026-10-23,7.17,0.29,8.17,1.0,642,0,169,0,169
+Konchi,466,Ahmadnagar,Sangamner,,,19.58285,74.344975,601.0,current,False,False,2026-10-23,3.22,0.39,7.82,4.6,638,0,168,0,168
+Kuran_1,466,Ahmadnagar,Sangamner,,,19.607506,74.240806,584.0,current,True,False,2026-10-23,5.42,-0.43,8.33,2.91,1084,346,220,1,219
+Maladad,466,Ahmadnagar,Sangamner,,,19.631415,74.193706,628.0,current,False,False,2026-10-23,13.42,-1.69,23.91,10.49,630,0,168,0,168
+Malegaon Haweli,466,Ahmadnagar,Sangamner,,,19.602438,74.282418,638.0,current,False,False,2026-10-23,14.79,0.05,18.87,4.09,638,0,168,0,168
+Malunje_1,466,Ahmadnagar,Sangamner,,,19.487335,74.322179,510.0,stale,False,False,2026-06-01,15.11,-0.04,14.96,-0.15,472,0,123,0,123
+Mangalapur_1,466,Ahmadnagar,Sangamner,,,19.547034,74.172929,580.0,current,False,False,2026-10-23,10.84,-0.51,12.44,1.6,626,0,160,0,160
+Manoli_2,466,Ahmadnagar,Sangamner,,,19.57229,74.316048,571.0,current,False,False,2026-10-23,0.42,-0.71,2.27,1.84,638,0,168,0,168
+Nilawande,466,Ahmadnagar,Sangamner,,,19.612276,74.280267,646.0,current,False,False,2026-10-23,1.97,-0.03,3.36,1.39,993,0,253,0,253
+Nimbale,466,Ahmadnagar,Sangamner,,,19.556018,74.230245,550.0,current,False,False,2026-10-23,25.84,2.31,28.43,2.59,617,0,161,2,159
+Nimgaon Bhojapur,466,Ahmadnagar,Sangamner,,,19.620757,74.1356,614.0,current,False,False,2026-10-23,3.12,-0.48,7.43,4.31,864,38,219,4,215
+Nimgaon Jali,466,Ahmadnagar,Sangamner,,,19.56527778,74.384725,560.0,stale,False,False,2026-06-02,11.59,1.96,9.89,-1.7,544,0,136,12,124
+Nimgaon Jali,466,Ahmadnagar,Sangamner,,,19.566771,74.38228,624.0,current,False,False,2026-10-23,4.16,-5.95,21.76,17.6,646,0,169,0,169
+Nimgaon Tembhi,466,Ahmadnagar,Sangamner,,,19.51532,74.232385,610.0,current,False,False,2026-10-26,5.38,0.9,6.06,0.68,971,0,254,0,254
+Ozar Bk,466,Ahmadnagar,Sangamner,,,19.53473,74.322425,611.0,current,False,False,2026-10-23,16.77,-0.53,20.64,3.87,642,0,169,0,169
+Ozar Kh,466,Ahmadnagar,Sangamner,,,19.541622,74.324532,530.0,current,False,False,2026-10-23,42.47,-1.17,45.64,3.18,630,0,168,0,168
+Panodi,466,Ahmadnagar,Sangamner,,,19.4598,74.36294,584.0,stale,False,False,2026-08-13,10.0,-2.81,11.28,1.28,816,73,191,0,191
+Pimpalgaon Depa,466,Ahmadnagar,Sangamner,,,19.434136,74.229702,834.77,current,False,False,2026-10-26,18.87,-0.09,30.37,11.5,987,0,256,0,256
+Pimparne,466,Ahmadnagar,Sangamner,,,19.499463,74.260599,605.0,current,False,False,2026-10-26,5.57,0.18,6.45,0.88,983,0,255,0,255
+Pimpri Louki,466,Ahmadnagar,Sangamner,,,19.484898,74.394788,593.0,current,False,False,2026-10-23,16.71,-0.03,17.95,1.24,638,0,169,0,169
+Pokhari Baleshwar,466,Ahmadnagar,Sangamner,,,19.44254,74.162052,892.0,current,False,False,2026-10-23,28.65,3.62,34.52,5.88,630,0,166,2,164
+Pokhari Haweli,466,Ahmadnagar,Sangamner,,,19.606659,74.253087,583.0,current,False,False,2026-10-23,2.46,0.6,8.05,5.59,642,0,168,0,168
+Pratapur_1,466,Ahmadnagar,Sangamner,,,19.5229,74.38436,445.0,current,False,False,2026-10-26,8.72,-0.34,9.81,1.09,999,0,257,0,257
+Rahimpur_1,466,Ahmadnagar,Sangamner,,,19.557433,74.312738,470.0,current,False,False,2026-10-23,14.48,-1.75,19.93,5.45,642,0,169,0,169
+Rajapur_3,466,Ahmadnagar,Sangamner,,,19.580768,74.170314,574.0,current,False,False,2026-10-21,2.72,-1.49,11.17,8.45,823,1,213,8,205
+Rayate,466,Ahmadnagar,Sangamner,,,19.547751,74.219946,583.0,current,False,False,2026-10-26,8.88,0.34,9.27,0.39,995,0,255,0,255
+Rayatewadi,466,Ahmadnagar,Sangamner,,,19.540833,74.208611,592.0,current,False,False,2026-10-23,12.57,-0.21,8.27,-4.3,630,0,164,4,160
+Sadatpur,466,Ahmadnagar,Sangamner,,,19.592342,74.436008,621.0,current,False,False,2026-10-23,7.09,1.48,10.23,3.13,630,0,168,0,168
+Samnapur_2,466,Ahmadnagar,Sangamner,,,19.584783,74.245683,571.0,current,False,False,2026-10-26,6.55,0.09,6.53,-0.02,995,1,257,0,257
+Sangamner Kh,466,Ahmadnagar,Sangamner,,,19.548773,74.200727,583.0,current,True,False,2026-10-25,6.15,3.24,12.77,6.62,987,266,224,22,202
+Sawargaon Tal,466,Ahmadnagar,Sangamner,,,19.471412,74.154348,748.0,current,True,False,2026-10-25,0.27,,0.65,0.38,987,285,186,3,183
+Saykhindi,466,Ahmadnagar,Sangamner,,,19.62998,74.149782,626.0,current,False,False,2026-10-26,7.06,0.36,7.73,0.67,999,0,257,0,257
+Shedgaon,466,Ahmadnagar,Sangamner,,,19.51884,74.336063,496.0,current,True,False,2026-10-23,3.96,0.25,14.37,10.41,1030,444,158,4,154
+Shibalapur,466,Ahmadnagar,Sangamner,,,19.495079,74.36064,554.0,current,False,False,2026-10-26,4.74,0.08,5.2,0.46,995,0,257,0,257
+Shirapur,466,Ahmadnagar,Sangamner,,,19.495581,74.236419,638.0,current,False,False,2026-10-23,2.82,1.48,6.1,3.27,646,0,169,0,169
+Sonoshi,466,Ahmadnagar,Sangamner,,,19.659487,74.231773,672.0,current,False,False,2026-10-23,4.47,-1.12,8.62,4.15,634,0,169,0,169
+Sukewadi,466,Ahmadnagar,Sangamner,,,19.590731,74.217801,568.0,current,False,False,2026-10-23,36.29,-3.11,40.85,4.56,638,0,169,0,169
+Umbri_1,466,Ahmadnagar,Sangamner,,,19.524053,74.348399,542.0,current,True,False,2026-10-23,5.88,0.11,7.41,1.54,1025,420,158,0,158
+Wadgaon Pan,466,Ahmadnagar,Sangamner,,,19.593205,74.267139,569.0,current,False,False,2026-10-23,5.84,0.04,12.39,6.55,634,0,167,0,167
+Waghapur_2,466,Ahmadnagar,Sangamner,,,19.553382,74.229478,552.0,current,True,False,2026-10-23,8.39,0.33,9.19,0.8,1076,495,152,0,152
+Welhale,466,Ahmadnagar,Sangamner,,,19.600797,74.158732,586.0,current,False,False,2026-10-26,5.18,0.46,6.33,1.16,987,0,255,0,255
+Zole_2,466,Ahmadnagar,Sangamner,,,19.508587,74.194595,590.0,current,False,False,2026-10-23,22.94,-3.11,29.14,6.2,642,0,169,0,169
+Ghotan,466,Ahmadnagar,Shevgaon,,,19.40138889,75.29166944,478.0,stale,False,False,2026-06-01,11.37,1.75,10.04,-1.33,556,0,139,6,133
+Shrigonda,466,Ahmadnagar,Shrigonda,,,18.61666667,74.70000278,558.0,stale,False,False,2026-05-31,13.58,0.53,13.58,0.0,532,0,133,7,126
+Belapur Khurd,466,Ahmadnagar,Shrirampur,,,19.55694444,74.56250278,500.0,stale,False,False,2026-06-02,11.46,1.64,10.08,-1.37,552,0,138,11,127
+AKOLA,467,Akola,AKOLA,,,20.73194444,77.004725,349.0,stale,False,False,2026-05-30,17.66,0.76,17.69,0.02,544,0,136,10,126
+PANAJ,467,Akola,Akot,,,21.14305556,77.13833889,378.0,stale,False,False,2026-05-30,19.1,1.74,18.31,-0.79,536,0,134,8,126
+WADEGAON,467,Akola,Balapur,,,20.575,76.85166944,380.0,stale,False,False,2026-06-01,18.01,2.69,15.95,-2.06,540,0,135,9,126
+DHABA,467,Akola,Barshitakli,,,20.46805556,77.06944722,422.0,stale,False,False,2026-06-02,11.16,1.91,9.71,-1.45,568,0,142,8,134
+AALEGAON,467,Akola,Patur,,,20.40277778,76.84583611,411.0,stale,False,False,2026-06-01,11.21,1.44,10.01,-1.19,556,0,139,8,131
+WADI ADAMPUR,467,Akola,Telhara,,,20.98166667,76.80583611,321.0,stale,False,False,2026-06-02,18.88,1.73,17.91,-0.97,568,0,142,17,125
+Achalpur_1,468,Amravati,,,,21.289299,77.510624,385.0,stale,False,False,2026-06-02,20.83,3.76,17.73,-3.09,540,0,135,14,121
+Akhatwada,468,Amravati,,,,21.207957,78.004954,425.0,current,False,False,2026-10-26,13.76,0.49,13.25,-0.51,991,0,257,0,257
+"Ambaphata, Khadka, Pandharghati, Yerandwadi",468,Amravati,,,,21.449264,78.117934,413.0,current,False,False,2026-10-26,5.5,0.71,5.99,0.5,972,0,255,2,253
+Amdapur_1,468,Amravati,,,,21.415926,78.268811,403.72,current,False,False,2026-10-26,9.24,1.04,11.3,2.06,885,0,230,0,230
+Ashtagaon_1,468,Amravati,,,,21.308514,77.925059,373.0,current,False,False,2026-10-23,6.32,-0.33,7.55,1.23,642,0,169,0,169
+Bahada_1,468,Amravati,,,,21.47883,78.206299,372.0,current,False,False,2026-10-26,13.8,4.02,13.18,-0.62,971,0,253,0,253
+Bargaon_2,468,Amravati,,,,21.441095,78.131413,412.0,current,False,False,2026-10-23,6.26,-1.41,8.71,2.44,660,1,172,5,167
+Belora (Tuljapur Ghadi),468,Amravati,,,,21.214857,77.631042,335.0,current,False,False,2026-10-25,17.12,1.78,16.31,-0.81,995,0,256,2,254
+Beskheda,468,Amravati,,,,21.429045,78.404586,371.0,current,True,False,2026-10-23,19.37,0.05,21.64,2.28,1021,392,165,0,165
+Bhambora,468,Amravati,,,,21.224696,78.037702,370.0,current,False,False,2026-10-23,11.81,-0.14,25.43,13.63,926,0,241,6,235
+Bod_1,468,Amravati,,,,21.530656,76.98912,349.0,stale,False,False,2026-05-31,10.47,1.37,9.26,-1.21,548,0,137,7,130
+Borgaon Mohana,468,Amravati,,,,21.215797,77.609802,349.0,current,False,False,2026-10-23,27.4,0.05,31.67,4.27,634,0,168,0,168
+Bramhanwada Thadi,468,Amravati,,,,21.325011,77.722173,390.0,current,False,False,2026-10-26,19.27,1.41,19.08,-0.2,985,0,257,0,257
+"Chandas,",468,Amravati,,,,21.436575,78.34098,382.0,current,False,False,2026-10-23,29.55,-0.22,31.49,1.95,642,0,169,0,169
+Chichargawan,468,Amravati,,,,21.414987,78.291446,312.0,current,False,False,2026-10-26,31.85,3.33,18.78,-13.07,967,0,254,0,254
+Chikhal Sawangi,468,Amravati,,,,21.32527,77.959437,374.0,current,False,False,2026-10-26,13.19,,,,56,0,15,0,15
+Chincholi Gavali,468,Amravati,,,,21.359512,77.94753,379.0,current,False,False,2026-10-26,8.85,1.87,9.07,0.23,975,1,255,0,255
+Davargaon,468,Amravati,,,,21.427052,78.245143,1145.0,current,False,False,2026-10-26,28.22,0.5,24.81,-3.41,862,0,227,0,227
+Deurwada,468,Amravati,,,,21.304064,77.707827,378.0,stale,True,False,2026-05-14,0.05,-0.21,0.04,-0.01,976,531,118,0,118
+Dhanodi_1,468,Amravati,,,,21.48632,78.301168,411.0,current,False,False,2026-10-26,23.47,0.56,22.88,-0.59,995,0,256,0,256
+Dhanora_4,468,Amravati,,,,21.385281,77.950441,378.0,current,False,False,2026-10-26,14.57,0.05,14.5,-0.08,979,2,255,0,255
+Ekdara,468,Amravati,,,,21.428992,78.389813,396.0,current,False,False,2026-10-26,10.21,3.82,10.45,0.23,984,0,257,0,257
+Fupgaon,468,Amravati,,,,21.219561,77.664412,377.0,current,False,False,2026-10-26,19.21,1.24,19.88,0.66,995,0,257,0,257
+Ganeshpur_5,468,Amravati,,,,21.360814,77.867679,416.0,current,True,False,2026-10-23,6.26,-1.4,12.3,6.04,792,192,164,1,163
+Gavhankund,468,Amravati,,,,21.505301,78.203211,403.0,current,False,False,2026-10-23,19.48,-1.88,31.09,11.61,633,0,164,6,158
+Ghat Ladki,468,Amravati,,,,21.348117,77.810606,421.0,current,False,False,2026-10-26,48.61,2.45,48.89,0.28,990,0,256,0,256
+Isambri,468,Amravati,,,,21.483173,78.217101,441.0,stale,False,False,2026-09-29,13.43,0.77,15.62,2.19,923,69,221,0,221
+Jamgaon (Warud),468,Amravati,,,,21.456229,78.140332,375.0,current,False,False,2026-10-26,48.07,0.0,47.74,-0.33,979,1,255,0,255
+"Jamgaon Mehendi, Karli, Pimplagad",468,Amravati,,,,21.599477,78.384164,581.0,current,False,False,2026-10-26,8.03,1.72,10.12,2.09,987,0,256,2,254
+"Jamthi Ganeshpur, Bhalapur",468,Amravati,,,,21.472049,78.424209,361.0,current,False,False,2026-10-26,26.15,5.22,27.47,1.32,972,0,255,0,255
+Jarud,468,Amravati,,,,21.453305,78.225278,420.0,current,False,False,2026-10-23,10.42,-1.4,15.67,5.26,705,116,155,0,155
+Kalhodi,468,Amravati,,,,21.31318,77.637179,390.0,stale,True,False,2026-05-20,6.19,-10.27,16.55,10.36,987,792,55,2,53
+Khanapur_5,468,Amravati,,,,21.31537,77.953943,385.0,current,False,False,2026-10-26,10.38,1.15,10.72,0.35,987,2,257,0,257
+Khed_4,468,Amravati,,,,21.311086,77.859899,381.0,current,False,False,2026-10-26,7.6,0.15,10.42,2.81,983,0,256,0,256
+Khel Januji (Chaudhar ),468,Amravati,,,,21.317524,77.61081,395.0,current,False,False,2026-10-26,18.97,1.18,18.2,-0.77,987,0,255,0,255
+Khel Januji (Deshmukh),468,Amravati,,,,21.292645,77.638097,377.0,current,False,False,2026-10-26,59.73,1.06,60.33,0.6,991,0,257,4,253
+Kondwardha,468,Amravati,,,,21.2665,77.63311,377.0,current,False,False,2026-10-23,34.38,0.1,49.41,15.04,634,0,168,0,168
+Kumdara,468,Amravati,,,,21.471023,78.133254,511.0,current,False,False,2026-10-26,13.39,1.12,23.59,10.2,976,0,256,0,256
+Kural_1,468,Amravati,,,,21.229472,77.680618,366.0,current,False,False,2026-10-23,33.55,-0.17,34.81,1.26,630,0,168,0,168
+Ladki Bz,468,Amravati,,,,21.253637,77.937643,346.0,current,False,False,2026-10-23,14.63,8.82,16.75,2.12,622,0,159,3,156
+Lehegaon,468,Amravati,,,,21.199547,77.950255,352.0,current,False,False,2026-10-23,22.66,-2.65,37.14,14.49,686,0,180,0,180
+Linga_2,468,Amravati,,,,21.524197,78.42929,451.0,current,False,False,2026-10-26,40.47,0.24,40.5,0.03,987,0,255,0,255
+"Malkhed, Pardi",468,Amravati,,,,21.496405,78.304743,415.0,current,True,False,2026-10-23,2.55,-3.17,6.42,3.87,975,347,170,11,159
+Mangruli_1,468,Amravati,,,,21.406932,78.231833,388.0,current,False,False,2026-10-26,23.06,2.45,21.45,-1.62,971,0,255,0,255
+Manimpur,468,Amravati,,,,21.345298,78.00044,361.0,stale,True,False,2026-06-02,2.67,-7.75,9.76,7.08,992,495,133,0,133
+"Morchund, Fattepur",468,Amravati,,,,21.402858,78.299183,393.0,current,False,False,2026-10-26,19.55,-2.6,38.11,18.55,1068,29,271,14,257
+"Musalkhed, Wathoda",468,Amravati,,,,21.437753,78.351927,374.0,stale,False,False,2026-07-12,10.17,,10.48,0.32,685,0,174,0,174
+Naya Wathoda,468,Amravati,,,,21.230775,78.000922,334.0,current,False,False,2026-10-25,10.59,0.0,10.59,-0.0,960,0,251,0,251
+Nerpingalai,468,Amravati,,,,21.182733,77.984605,347.0,current,False,False,2026-10-26,23.27,8.35,22.64,-0.63,983,0,255,0,255
+Nimbhi,468,Amravati,,,,21.2482,77.9616,346.0,stale,False,False,2026-07-08,1.41,,1.47,0.06,587,0,156,0,156
+Nimbhora_1,468,Amravati,,,,21.260273,77.687029,400.0,current,False,False,2026-10-23,11.69,0.99,11.89,0.2,880,0,231,0,231
+Pala_2,468,Amravati,,,,21.384733,78.012799,354.0,current,False,False,2026-10-20,1.4,-9.86,13.14,11.75,946,88,230,0,230
+Pethmangruli,468,Amravati,,,,21.404642,78.227432,382.0,current,False,False,2026-10-26,7.72,-7.84,16.09,8.38,1003,0,257,11,246
+Pimpalkhuta Lahan,468,Amravati,,,,21.276963,77.955073,329.0,current,False,False,2026-10-25,11.3,3.82,12.54,1.23,999,0,257,2,255
+Pimpalkhuta Motha,468,Amravati,,,,21.261983,78.008304,334.0,current,False,False,2026-10-26,9.46,1.14,10.18,0.71,991,0,257,2,255
+Pimpalkhuta_1,468,Amravati,,,,21.244598,77.685298,371.0,current,False,False,2026-10-23,11.05,-1.78,21.99,10.93,630,0,168,0,168
+Pimplekhuta Bk,468,Amravati,,,,21.416459,78.226077,387.0,stale,True,False,2026-04-20,32.08,3.81,,,516,160,94,0,94
+Pimpri Thugaon,468,Amravati,,,,21.261743,77.678362,370.0,stale,False,False,2026-08-21,15.89,-0.35,16.69,0.8,488,0,187,0,187
+Porgavhan,468,Amravati,,,,21.434105,78.431966,402.0,current,False,False,2026-10-26,13.93,1.17,7.87,-6.06,987,0,257,0,257
+"Pusla, Humanpeth",468,Amravati,,,,21.507236,78.351658,426.0,current,False,False,2026-10-26,3.8,0.75,3.0,-0.8,995,2,257,0,257
+Rajura Bajar,468,Amravati,,,,21.41417,78.274863,381.0,current,False,False,2026-10-23,10.92,1.05,13.03,2.11,634,0,169,0,169
+Ratanpur_4,468,Amravati,,,,21.359017,77.656972,414.0,stale,False,False,2026-09-01,30.64,-0.22,31.67,1.03,815,1,210,0,210
+Redwa,468,Amravati,,,,21.396857,77.83085,479.0,current,False,False,2026-10-23,24.0,-1.4,29.38,5.39,634,0,169,0,169
+Roshankheda,468,Amravati,,,,21.455195,78.295128,394.0,current,True,False,2026-10-23,6.32,-1.86,9.25,2.93,1068,603,140,0,140
+Sarfapur,468,Amravati,,,,21.322982,77.637883,490.0,current,False,False,2026-10-26,30.98,1.07,30.42,-0.56,964,0,253,0,253
+"Satnur, Jamthal, Pusli, Rawada",468,Amravati,,,,21.556131,78.296889,385.0,current,True,False,2026-10-23,2.03,,14.0,11.97,983,496,129,2,127
+Sawangi_2,468,Amravati,,,,21.464165,78.368594,389.0,current,False,False,2026-10-26,7.02,2.83,8.87,1.85,951,0,252,0,252
+Sawarkhed_1,468,Amravati,,,,21.180801,77.935644,360.0,current,False,False,2026-10-23,4.65,-0.44,6.3,1.65,626,0,167,0,167
+"Shahapur, Mahapur",468,Amravati,,,,21.465499,78.2434,127.0,current,False,False,2026-10-26,13.94,0.62,13.32,-0.62,987,0,257,0,257
+Shingnapur_1,468,Amravati,,,,20.942555,77.491373,291.0,stale,False,False,2026-06-02,13.17,1.66,11.92,-1.25,564,0,141,7,134
+Shirajgaon Kasba,468,Amravati,,,,21.333815,77.679268,402.0,stale,False,False,2026-10-18,14.94,0.07,14.38,-0.56,878,1,228,0,228
+"Surali, Shekapur",468,Amravati,,,,21.446507,78.308153,465.0,current,False,False,2026-10-26,11.69,-1.41,20.42,8.73,1065,0,272,0,272
+Talegaon Mohana,468,Amravati,,,,21.244831,77.615619,370.0,current,False,False,2026-10-26,25.58,1.15,25.4,-0.17,964,0,255,0,255
+Talni_2,468,Amravati,,,,21.283758,77.991274,332.0,current,False,False,2026-10-23,10.65,-0.78,11.64,0.99,626,0,167,0,167
+Tembhanhi,468,Amravati,,,,21.365765,78.240778,357.0,current,False,False,2026-10-26,17.37,1.34,17.16,-0.21,964,0,254,0,254
+Tembhurkheda,468,Amravati,,,,21.495748,78.240148,428.0,current,False,False,2026-10-26,9.12,2.02,9.56,0.44,952,0,252,0,252
+Thugaon Pimpri,468,Amravati,,,,21.274891,77.679986,376.0,current,False,False,2026-10-23,40.77,-1.17,50.58,9.81,626,0,165,0,165
+"Tiwsa, Antarkhop, Wai Bk",468,Amravati,,,,21.527417,78.267098,440.0,current,False,False,2026-10-23,8.62,-0.44,11.04,2.43,630,0,166,0,166
+Tiwsa_1,468,Amravati,,,,21.12401932,78.07000717,327.0,stale,False,False,2026-06-02,9.76,2.25,7.72,-2.04,552,0,138,8,130
+Tonglapur,468,Amravati,,,,21.242935,77.675865,368.0,current,False,False,2026-10-26,16.03,0.69,17.93,1.89,991,0,256,0,256
+Udapur_1,468,Amravati,,,,21.41283,78.335348,343.0,current,False,False,2026-10-26,14.0,2.69,15.23,1.23,1060,38,271,25,246
+Udkhed_1,468,Amravati,,,,21.282216,77.890239,366.0,current,False,False,2026-10-23,13.48,-1.38,15.52,2.04,638,0,169,0,169
+Umarkhed_2,468,Amravati,,,,21.42925,78.102312,406.0,current,False,False,2026-10-25,20.13,0.05,20.05,-0.07,971,0,253,0,253
+Urad_3,468,Amravati,,,,21.487093,78.376805,409.0,current,False,False,2026-10-26,12.28,3.87,11.72,-0.56,1056,0,270,0,270
+Virul_2,468,Amravati,,,,21.151138,77.589917,335.0,current,False,False,2026-10-23,11.76,-1.24,15.49,3.73,622,0,160,0,160
+Vishroli_1,468,Amravati,,,,21.354073,77.762906,431.0,current,False,False,2026-10-26,6.88,-1.37,7.22,0.34,995,0,257,0,257
+"Wadegaon, Morangana",468,Amravati,,,,21.390255,78.270327,399.0,current,False,False,2026-10-26,51.61,1.01,52.61,1.0,1068,0,272,0,272
+Wai Kh_1,468,Amravati,,,,21.56811,78.335395,475.0,current,False,False,2026-10-26,6.15,1.86,6.23,0.07,959,0,254,0,254
+Wandli_1,468,Amravati,,,,21.365937,78.279541,298.0,current,False,False,2026-10-26,10.85,2.8,11.13,0.28,979,0,257,0,257
+Warha_1,468,Amravati,,,,21.285693,77.9031,364.0,current,False,False,2026-10-26,5.45,0.17,5.36,-0.09,975,0,253,0,253
+"Yawali, Bopalawadi, Ghoddeo Bk, Ghoddeo Kh",468,Amravati,,,,21.430171,78.047483,406.0,current,False,False,2026-10-26,35.03,14.97,45.9,10.87,983,0,255,1,254
+"Yerla,Ahmedabad,Shivpuri",468,Amravati,,,,21.31791,77.997301,359.0,current,False,False,2026-10-23,12.15,-0.49,13.14,0.99,985,0,253,0,253
+Yevti,468,Amravati,,,,21.242486,78.027947,403.0,stale,False,False,2026-07-16,17.82,-0.34,17.72,-0.11,620,0,162,0,162
+"Zatamziri, Bhemdi, Daiwadi, Pimpalshende",468,Amravati,,,,21.540069,78.236109,360.0,current,False,False,2026-10-26,10.22,2.81,11.48,1.27,1064,0,272,1,271
+Wadali,468,Amravati,AMRAVATI,,,20.89166667,77.722225,373.0,stale,False,False,2026-06-01,10.08,0.69,9.73,-0.35,552,0,138,10,128
+Takarkheda shambu,468,Amravati,BHATKULI,,,21.09888889,77.66000278,406.0,stale,False,False,2026-06-01,9.01,1.39,7.88,-1.12,552,0,138,14,124
+Chandur Rly,468,Amravati,CHANDUR RAILWAY,,,20.82083333,77.97500278,310.0,stale,False,False,2026-06-02,11.26,1.74,9.99,-1.27,544,0,136,10,126
+Shirasgaon Kasba,468,Amravati,CHANDURBAZAR,,,21.31805556,77.68333611,,stale,False,False,2026-05-31,18.55,1.29,18.21,-0.34,556,0,139,11,128
+Borala,468,Amravati,CHIKHALDARA,,,21.29027778,77.37639167,440.0,stale,False,False,2026-06-02,11.29,2.61,8.92,-2.37,560,0,140,11,129
+Anjansingi,468,Amravati,DHAMANGAON RAILWAY,,,20.765,78.14000278,365.0,stale,False,False,2026-05-31,10.71,0.71,10.51,-0.2,540,0,135,13,122
+Hiwarkhed,468,Amravati,MORSHI,,,21.40277778,78.08333611,355.0,stale,False,False,2026-06-02,16.97,2.51,14.8,-2.17,576,0,144,12,132
+Mangrul Chawhala,468,Amravati,NANDGAON KHANDESHWAR,,,20.60138889,77.81944722,301.0,stale,False,False,2026-06-01,10.07,0.64,9.81,-0.27,540,0,135,8,127
+Pusala,468,Amravati,WARUD,,,21.50694444,78.35972778,411.0,stale,False,False,2026-06-02,14.3,1.42,13.17,-1.13,548,0,137,9,128
+Apatgaon,469,Aurangabad,AURANGABAD,,,19.8125,75.49166944,445.0,stale,False,False,2026-06-02,11.56,1.58,10.36,-1.21,568,0,142,11,131
+Pathri,469,Aurangabad,FULAMBARI,,,20.13055556,75.48528056,615.0,stale,False,False,2026-06-02,11.54,2.25,9.61,-1.93,548,0,137,12,125
+Sawangi,469,Aurangabad,GANAGAPUR,,,19.91388889,75.01805833,518.0,stale,False,False,2026-05-31,15.18,0.94,14.73,-0.45,568,0,142,10,132
+Sirasgaon,469,Aurangabad,KANNAD,,,20.20166667,75.09000278,607.0,stale,False,False,2026-06-02,14.42,2.01,12.53,-1.9,544,0,136,11,125
+Ellora,469,Aurangabad,KHULDABAD,,,20.02138889,75.16389167,590.0,stale,False,False,2026-05-30,17.21,1.53,16.38,-0.83,552,0,138,10,128
+Paithan,469,Aurangabad,PAITHAN,,,19.475,75.47083611,440.0,stale,False,False,2026-06-02,15.07,1.87,13.95,-1.12,552,0,138,7,131
+Dongargaon,469,Aurangabad,SILLOD,,,20.34166667,75.68333611,620.0,stale,False,False,2026-06-01,15.02,2.17,13.37,-1.65,540,0,135,10,125
+Amkheda,469,Aurangabad,SOEGAON,,,20.59138889,75.61195,365.0,stale,False,False,2026-06-01,11.36,1.2,10.62,-0.74,560,0,140,8,132
+Tunki,469,Aurangabad,VAIJAPUR,,,20.13138889,74.84833611,575.0,stale,False,False,2026-06-01,13.45,1.02,12.74,-0.7,544,0,136,12,124
+Kanganewadi,470,Beed,AMBEJOGAI,,,18.7375,76.68333611,530.0,stale,False,False,2026-06-02,13.42,1.77,11.99,-1.43,544,0,136,10,126
+Kada,470,Beed,ASHTI,,,18.89583333,75.07916944,580.0,stale,False,False,2026-05-30,18.19,1.28,17.83,-0.36,540,0,135,8,127
+Manjarsubha,470,Beed,BEED,,,18.83333333,75.744725,720.0,stale,False,False,2026-06-02,12.8,1.35,11.86,-0.93,568,0,142,8,134
+Dharur,470,Beed,DHARUR,,,18.82083333,76.63333611,725.0,stale,False,False,2026-06-01,18.76,1.61,17.96,-0.8,560,0,140,9,131
+Georai,470,Beed,GEORAI,,,19.26111111,75.75000278,450.0,stale,False,False,2026-06-02,13.64,1.61,12.37,-1.27,564,0,141,8,133
+Yusuf Wadgaon,470,Beed,KAIJ,,,18.625,76.10833611,660.0,stale,False,False,2026-06-02,19.16,2.85,17.03,-2.14,556,0,139,11,128
+Majalgaon,470,Beed,MANJLEGAON,,,19.15416667,76.222225,425.0,stale,False,False,2026-06-02,13.04,1.56,11.59,-1.45,540,0,135,7,128
+Parli,470,Beed,PARLI,,,18.84583333,76.53333611,450.0,stale,False,False,2026-06-01,11.06,2.69,8.87,-2.19,564,0,141,16,125
+Suppa,470,Beed,PATODA,,,18.86805556,75.33611389,740.0,stale,False,False,2026-05-30,14.62,1.08,14.09,-0.53,532,0,133,8,125
+Shirur,470,Beed,SHIRUR-KASAR,,,19.06666667,75.42917222,540.0,stale,False,False,2026-05-30,15.44,1.54,14.69,-0.75,548,0,137,12,125
+Ghatsawali,470,Beed,WADWANI,,,18.98333333,75.94166944,520.0,stale,False,False,2026-06-01,19.55,2.55,17.65,-1.9,544,0,136,12,124
+Bamni_2,471,Bhandara,,,,20.83301,79.669166,258.0,stale,False,False,2026-06-01,19.27,1.86,17.93,-1.35,548,0,137,10,127
+Dodmazari,471,Bhandara,,,,21.14472,79.96639,,stale,False,False,2026-06-01,11.01,2.25,9.1,-1.91,548,0,137,9,128
+Khandala_1,471,Bhandara,,,,21.01889,79.73694,,stale,False,False,2026-06-01,10.47,1.28,9.55,-0.91,548,0,137,12,125
+Kurza,471,Bhandara,,,,20.853927,79.631079,254.0,stale,False,False,2026-05-31,18.8,1.24,17.98,-0.83,556,0,139,9,130
+Manded,471,Bhandara,,,,20.719511,79.856723,254.0,stale,False,False,2026-06-02,19.62,2.31,18.04,-1.58,568,0,142,8,134
+Mohari_1,471,Bhandara,,,,20.788689,79.746166,256.0,stale,False,False,2026-06-02,20.02,2.57,17.85,-2.17,540,0,135,12,123
+Ruyad,471,Bhandara,,,,20.808552,79.649099,255.0,stale,False,False,2026-06-02,20.89,2.76,18.03,-2.87,552,0,138,9,129
+Sarandi bk,471,Bhandara,,,,20.810383,79.803972,251.0,stale,False,False,2026-06-02,19.26,1.55,18.26,-0.99,552,0,138,10,128
+Virli Bk,471,Bhandara,,,,20.775041,79.760766,254.0,stale,False,False,2026-06-02,20.18,3.48,17.59,-2.58,556,0,139,4,135
+Palandur,471,Bhandara,LAKHANI,,,20.92138889,79.85944722,185.0,stale,False,False,2026-05-30,11.68,0.58,11.59,-0.09,556,0,139,10,129
+Mohadi,471,Bhandara,MOHADI,,,21.31305556,79.67139167,201.0,stale,False,False,2026-06-02,13.72,2.52,11.53,-2.19,548,0,137,6,131
+Khapa,471,Bhandara,TUMSAR,,,21.36527778,79.72278056,112.0,stale,False,False,2026-06-01,6.58,0.84,5.92,-0.66,560,0,140,13,127
+Avha Yunuspur,472,Buldana,,,,20.788895,76.09316,296.0,current,False,False,2026-10-23,0.99,-0.94,1.39,0.4,634,0,169,0,169
+Bamhanda,472,Buldana,,,,20.652942,76.036135,398.0,current,False,False,2026-10-23,19.32,-0.16,21.48,2.16,626,0,167,0,167
+Borakhedi,472,Buldana,,,,20.665681,76.201012,338.0,current,False,False,2026-10-23,3.26,-3.24,7.55,4.29,649,0,170,0,170
+Chawarda,472,Buldana,,,,20.718509,76.125673,331.0,current,False,False,2026-10-23,8.25,-0.48,13.45,5.2,786,0,202,2,200
+Chinchpur,472,Buldana,,,,20.709461,76.201886,330.0,current,False,False,2026-10-26,7.81,0.25,8.68,0.87,1064,0,272,0,272
+Dabha_1,472,Buldana,,,,20.575358,76.121667,442.0,current,False,False,2026-10-23,5.58,-0.11,8.36,2.77,1149,227,242,0,242
+Dhad_3,472,Buldana,,,,20.39711,75.999817,578.5,stale,False,False,2026-06-02,12.0,2.21,10.19,-1.81,568,0,142,8,134
+Dhamangaon Badhe,472,Buldana,,,,20.668667,76.031935,322.0,current,False,False,2026-10-26,6.37,0.1,5.67,-0.69,1064,0,271,0,271
+Didola Bk,472,Buldana,,,,20.716017,76.212917,319.0,current,False,False,2026-10-26,10.67,4.14,11.22,0.55,1056,0,271,5,266
+Ghusar Bk.,472,Buldana,,,,20.781705,76.198178,277.0,stale,False,False,2026-06-18,10.97,-0.08,10.95,-0.02,620,0,156,0,156
+Gotmara,472,Buldana,,,,20.590797,76.048663,383.0,current,False,False,2026-10-23,5.82,-0.34,6.68,0.86,641,0,170,0,170
+Gulbheli,472,Buldana,,,,20.602527,76.138637,392.0,current,False,False,2026-10-23,27.44,-0.31,27.37,-0.07,658,0,171,0,171
+Jahagirpur,472,Buldana,,,,20.781219,76.132375,271.0,current,False,False,2026-10-23,0.37,-0.06,3.75,3.39,626,0,160,3,157
+Khamkhed Pr.Rajur,472,Buldana,,,,20.587917,76.164575,419.0,current,False,False,2026-10-23,1.31,-0.57,2.58,1.27,642,0,169,0,169
+Kharbadi,472,Buldana,,,,20.667666,76.222858,341.0,current,False,False,2026-10-23,26.79,-1.41,37.85,11.05,614,0,160,7,153
+Khedi_2,472,Buldana,,,,20.624609,76.063271,391.0,current,False,False,2026-10-26,5.31,0.59,6.04,0.72,1060,0,270,0,270
+Kinhola,472,Buldana,,,,20.662033,76.063489,372.0,current,False,False,2026-10-23,5.12,0.47,5.55,0.44,695,0,182,5,177
+Kolhi Gawali,472,Buldana,,,,20.757435,76.099818,304.0,current,True,False,2026-10-23,3.2,-4.67,12.13,8.93,917,256,171,0,171
+Korhala,472,Buldana,,,,20.601879,76.064277,434.0,current,False,False,2026-10-26,19.02,0.98,20.57,1.55,1056,0,271,0,271
+Kurha_1,472,Buldana,,,,20.573065,76.061334,445.0,current,True,False,2026-10-23,3.36,-0.05,4.83,1.47,1005,438,156,0,156
+Makodi_1,472,Buldana,,,,20.76767,76.127072,282.0,current,False,False,2026-10-23,13.42,-0.61,14.02,0.6,642,0,169,0,169
+Mohegaon,472,Buldana,,,,20.593775,76.187412,407.0,current,False,False,2026-10-26,6.16,0.33,7.38,1.23,1040,0,268,0,268
+Murti_1,472,Buldana,,,,20.626496,76.169077,366.0,current,False,False,2026-10-23,3.66,0.47,4.07,0.42,645,0,169,0,169
+Nipana,472,Buldana,,,,20.823407,76.120651,310.0,current,False,False,2026-10-26,9.67,2.98,7.46,-2.21,1064,0,271,0,271
+Panhera Khedi,472,Buldana,,,,20.647304,76.064749,380.0,current,False,False,2026-10-23,2.98,-0.26,5.63,2.64,641,0,169,0,169
+Parda_1,472,Buldana,,,,20.638904,76.208203,362.0,current,False,False,2026-10-23,6.56,-0.65,8.7,2.14,618,0,160,0,160
+Pimpalgaon Devi_1,472,Buldana,,,,20.76868,76.028312,370.2,stale,False,False,2026-06-01,14.5,0.81,13.95,-0.55,576,0,144,7,137
+Punai (Ridhora PrM/Jahan),472,Buldana,,,,20.687308,76.192566,344.0,current,True,False,2026-10-26,7.0,3.95,,,975,828,42,1,41
+Rajur_1,472,Buldana,,,,20.608447,76.178324,388.0,current,False,False,2026-10-26,15.16,0.13,14.97,-0.19,1064,0,271,0,271
+Sawargaon Jahagir,472,Buldana,,,,20.795202,76.13394,210.0,current,False,False,2026-10-26,5.49,0.79,6.9,1.41,1060,0,271,0,271
+Shelapur Bk.,472,Buldana,,,,20.764445,76.206637,279.0,current,False,False,2026-10-26,6.85,1.13,7.97,1.12,1064,0,272,0,272
+Shelapur Kh,472,Buldana,,,,20.767924,76.198337,279.0,stale,True,False,2026-05-24,0.92,-4.46,2.58,1.66,813,244,144,1,143
+Shelgaon Bajar,472,Buldana,,,,20.793333,76.134148,205.0,stale,False,False,2026-05-12,7.91,0.47,7.91,-0.0,113,0,34,0,34
+Shirwa_1,472,Buldana,,,,20.637926,76.226297,356.0,current,False,False,2026-10-23,4.21,-0.08,9.09,4.88,645,0,170,0,170
+Takli Pr Rajur,472,Buldana,,,,20.644976,76.176806,359.0,current,False,False,2026-10-23,10.41,-0.89,18.82,8.41,626,0,160,0,160
+Takli Pr.Malkapur,472,Buldana,,,,20.756104,76.105428,318.0,current,False,False,2026-10-26,11.96,0.35,12.36,0.4,971,0,256,0,256
+Talkhed_1,472,Buldana,,,,20.744488,76.227271,288.0,current,False,False,2026-10-23,4.32,-0.15,6.71,2.39,646,0,169,0,169
+Talni_1,472,Buldana,,,,20.775274,76.163404,285.0,stale,False,False,2026-06-24,11.36,1.29,10.11,-1.25,637,0,162,0,162
+Tembhi_1,472,Buldana,,,,20.782953,76.130143,268.0,current,False,False,2026-10-26,6.74,0.58,7.4,0.66,1052,0,270,0,270
+Ubalkhed_1,472,Buldana,,,,20.599487,76.096624,397.0,current,False,False,2026-10-23,27.38,-0.97,29.96,2.58,625,0,160,0,160
+Warud_1,472,Buldana,,,,20.679811,76.257978,353.0,stale,True,False,2026-09-11,3.38,0.75,,,831,338,130,0,130
+Sawna,472,Buldana,CHIKHLI,,,20.4125,76.29166944,585.8,stale,False,False,2026-06-02,13.88,3.58,10.95,-2.93,552,0,138,8,130
+Deulgaon Raja,472,Buldana,DEULGAON RAJA,,,20.01388889,76.04028056,565.4,stale,False,False,2026-06-02,10.62,2.26,8.41,-2.2,548,0,137,7,130
+Jalgaon Jamod,472,Buldana,JALGAON (JAMOD),,,21.05138889,76.53333611,299.3,stale,False,False,2026-06-02,17.6,2.76,15.26,-2.34,556,0,139,9,130
+Khamgaon,472,Buldana,KHAMGAON,,,20.70416667,76.57500278,309.4,stale,False,False,2026-06-02,19.18,1.68,17.9,-1.28,560,0,140,14,126
+Shara,472,Buldana,LONAR,,,20.03055556,76.53055833,589.5,stale,False,False,2026-06-02,13.5,1.67,12.15,-1.35,560,0,140,9,131
+Umali,472,Buldana,MALKAPUR,,,20.80555556,76.23750278,277.0,stale,False,False,2026-06-02,13.9,2.43,11.85,-2.05,552,0,138,11,127
+Janefal,472,Buldana,MEHKAR,,,20.29583333,76.57639167,541.3,stale,False,False,2026-06-02,8.78,1.8,7.19,-1.59,556,0,139,10,129
+Shemba Bk.,472,Buldana,NANDURA,,,20.70833333,76.28055833,315.5,stale,False,False,2026-05-31,11.47,0.73,11.21,-0.26,536,0,134,5,129
+Alewadi,472,Buldana,SANGRAMPUR,,,21.14305556,76.684725,371.55,stale,False,False,2026-05-30,18.87,1.3,17.67,-1.19,544,0,136,8,128
+Jalamb (new),472,Buldana,SHEGAON,,,20.81805556,76.59167222,269.4,stale,False,False,2026-06-01,11.01,0.83,10.44,-0.56,548,0,137,8,129
+Sindkhed Raja,472,Buldana,SINDKHED RAJA,,,19.95416667,76.12500278,556.9,stale,False,False,2026-06-01,11.21,1.71,9.9,-1.31,540,0,135,8,127
+Moharli,473,Chandrapur,BHADRAVATI,,,20.1875,79.337225,143.0,stale,False,False,2026-06-01,11.94,2.04,10.28,-1.66,548,0,137,11,126
+Delanwadi,473,Chandrapur,BRAHMAPURI,,,20.60694444,79.84583611,158.0,stale,False,False,2026-06-02,10.3,0.99,9.66,-0.64,560,0,140,12,128
+Kothari,473,Chandrapur,Ballarpur,,,19.78888889,79.50000278,105.0,stale,False,False,2026-05-30,11.18,0.74,10.98,-0.21,536,0,134,12,122
+Agarzari,473,Chandrapur,CHANDRAPUR,,,20.10694444,79.32778056,135.0,stale,False,False,2026-06-02,17.25,2.32,15.16,-2.09,548,0,137,8,129
+Neri,473,Chandrapur,CHIMUR,,,20.47083333,79.44444722,146.0,stale,False,False,2026-05-29,13.16,0.9,12.66,-0.5,544,0,136,17,119
+Dubarpeth,473,Chandrapur,GONDPIPRI,,,19.67083333,79.65416944,103.0,stale,False,False,2026-05-31,13.25,1.32,12.28,-0.97,536,0,134,10,124
+Jiwati,473,Chandrapur,JIWATI,,,19.60972222,79.06667222,336.0,stale,False,False,2026-06-01,7.25,0.93,6.76,-0.48,532,0,133,9,124
+Piprda,473,Chandrapur,KORPANA,,,19.73111111,79.05278056,138.0,stale,False,False,2026-05-31,9.23,0.92,8.7,-0.54,532,0,133,9,124
+Mul,473,Chandrapur,MUL,,,20.06111111,79.66666944,130.0,stale,False,False,2026-06-02,10.79,2.52,8.45,-2.35,556,0,139,9,130
+Nagbhid,473,Chandrapur,NAGBHIR,,,20.58083333,79.68666944,175.0,stale,False,False,2026-06-02,12.88,1.58,11.83,-1.05,568,0,142,7,135
+Pombhurna,473,Chandrapur,POMBURNA,,,19.87777778,79.63666944,117.0,stale,False,False,2026-05-31,9.21,0.58,9.04,-0.17,560,0,140,7,133
+Virur Station,473,Chandrapur,RAJURA,,,19.6425,79.43333611,106.0,stale,False,False,2026-06-01,9.31,1.36,7.99,-1.32,556,0,139,12,127
+Keroda,473,Chandrapur,SAOLI,,,20.08333333,79.88611389,123.0,stale,False,False,2026-06-02,9.45,1.76,8.28,-1.18,560,0,140,14,126
+Tambegadhi Mendha,473,Chandrapur,SINDEWAHI,,,20.21111111,79.79166944,136.0,stale,False,False,2026-06-02,12.18,2.57,9.67,-2.51,552,0,138,9,129
+Bhatala,473,Chandrapur,WARORA,,,20.345,79.084725,154.0,stale,False,False,2026-06-02,7.99,1.65,6.67,-1.32,540,0,135,8,127
+Dhule,474,Dhule,DHULE,,,20.90722222,74.76778056,259.08,stale,False,False,2026-06-02,13.68,2.61,11.51,-2.18,536,0,134,13,121
+Sakri,474,Dhule,SAKRI,,,20.98444444,74.31778333,426.7,stale,False,False,2026-05-30,9.12,0.8,8.48,-0.64,552,0,138,8,130
+Shindkhede,474,Dhule,SHINDKHEDE,,,21.27277778,74.75000556,158.49,stale,False,False,2026-05-31,18.55,1.2,18.07,-0.48,552,0,138,9,129
+Boradi,474,Dhule,SHIRPUR,,,21.52222222,74.89305833,304.7,stale,False,False,2026-05-31,10.75,0.67,10.58,-0.17,552,0,138,13,125
+Umanur S,475,Gadchiroli,AHERI,,,19.05972222,80.06528056,172.0,stale,False,False,2026-06-02,15.8,3.24,13.17,-2.63,556,0,139,11,128
+Dongargaon bhu,475,Gadchiroli,ARMORI,,,20.42222222,79.99166944,220.0,stale,False,False,2026-06-01,10.07,1.35,9.05,-1.03,560,0,140,5,135
+Tadgaon,475,Gadchiroli,Bhamaragad,,,19.41944444,80.47916944,230.0,stale,False,False,2026-06-02,13.02,3.03,10.36,-2.67,548,0,137,9,128
+Chamorshi,475,Gadchiroli,CHAMORSHI,,,19.94166667,79.89444722,200.0,stale,False,False,2026-05-31,8.65,0.91,8.18,-0.48,552,0,138,8,130
+Girola,475,Gadchiroli,DHANORA,,,20.20833333,80.20833611,224.0,stale,False,False,2026-06-02,10.99,1.74,9.69,-1.31,548,0,137,9,128
+Bodadha Gaoganna,475,Gadchiroli,Desaiganj,,,20.69166667,80.05139167,220.0,stale,False,False,2026-06-02,10.55,2.04,8.88,-1.66,568,0,142,8,134
+Etapalli,475,Gadchiroli,ETAPALLI,,,19.59722222,80.23055833,230.0,stale,False,False,2026-05-31,8.53,0.62,8.1,-0.43,540,0,135,9,126
+Gadchiroli,475,Gadchiroli,GADCHIROLI,,,20.185,80.01305833,207.0,stale,False,False,2026-06-02,11.9,2.29,9.76,-2.13,564,0,141,9,132
+Gothangaon,475,Gadchiroli,KURKHEDA,,,20.59305556,80.21666944,240.0,stale,False,False,2026-05-30,6.09,0.51,5.81,-0.28,548,0,137,9,128
+Korchi,475,Gadchiroli,Korchi,,,20.70833333,80.47500278,367.0,stale,False,False,2026-06-02,11.12,1.25,10.33,-0.79,540,0,135,11,124
+koparlli chak,475,Gadchiroli,Mulchera,,,19.67638889,79.97500278,154.0,stale,False,False,2026-06-02,9.45,1.24,8.61,-0.84,572,0,143,15,128
+Sironcha,475,Gadchiroli,SIRONCHA,,,18.84583333,79.96389167,122.0,stale,False,False,2026-05-31,18.85,1.66,17.65,-1.2,536,0,134,13,121
+Amgaon,476,Gondia,AMGAON,,,21.37083333,80.38611667,284.0,stale,False,False,2026-06-02,11.81,1.73,10.38,-1.42,548,0,137,8,129
+Arjuni Mor,476,Gondia,ARJUNI MORGAON,,,20.80972222,80.02361389,319.0,stale,False,False,2026-06-02,9.93,2.1,8.18,-1.75,560,0,140,10,130
+Deori,476,Gondia,DEORI,,,21.07083333,80.36666944,293.0,stale,False,False,2026-06-02,7.67,1.61,6.43,-1.24,564,0,141,9,132
+Rajegaon,476,Gondia,GONDIYA,,,21.56805556,80.24000278,290.0,stale,False,False,2026-06-01,9.91,1.62,8.52,-1.4,580,0,145,8,137
+Goregaon,476,Gondia,GOREGAON,,,21.34333333,80.20361389,325.0,stale,False,False,2026-06-01,11.11,2.02,9.36,-1.76,540,0,135,7,128
+Bijepar,476,Gondia,SALEKASA,,,21.20416667,80.46250556,335.0,stale,False,False,2026-06-02,13.93,2.81,11.74,-2.19,556,0,139,8,131
+Dawwa,476,Gondia,Sadak-Arjuni,,,21.17777778,80.17639167,273.0,stale,False,False,2026-06-02,15.2,2.34,13.36,-1.84,540,0,135,8,127
+Aundha (Nagnath)_1,477,Hingoli,,,,19.55027778,77.05444444,475.0,stale,False,False,2026-06-01,13.46,1.26,12.53,-0.94,544,0,136,13,123
+Borala,477,Hingoli,BASMATH,,,19.37083333,77.18055833,480.0,stale,False,False,2026-05-31,12.77,0.94,12.56,-0.21,560,0,140,11,129
+Hingoli (M Cl),477,Hingoli,HINGOLI,,,19.71666667,77.147225,461.0,stale,False,False,2026-06-01,14.75,1.36,13.61,-1.13,556,0,139,8,131
+Tuppa,477,Hingoli,KALAMNURI,,,19.62916667,77.41916944,434.0,stale,False,False,2026-05-31,10.74,0.93,9.93,-0.81,532,0,133,15,118
+Kapadsingi,477,Hingoli,Sengaon,,,19.84083333,76.64833611,482.0,stale,False,False,2026-05-31,15.58,0.82,15.31,-0.27,548,0,137,13,124
+Ambapimpri_1,478,Jalgaon,,,,20.95449,75.040674,201.17,current,False,False,2026-10-26,5.47,1.5,8.32,2.85,1020,0,263,2,261
+Amode,478,Jalgaon,,,,21.088889,75.064722,182.77,stale,True,False,2026-07-20,0.86,,7.33,6.47,1064,530,135,0,135
+Amode_1,478,Jalgaon,,,,21.148611,75.830833,213.0,current,False,False,2026-10-23,43.49,-0.33,48.16,4.67,626,0,167,0,167
+Anjale,478,Jalgaon,,,,21.0925,75.754444,186.0,current,False,False,2026-10-23,34.37,1.27,27.77,-6.6,626,0,161,0,161
+"Anturli, Ranjane",478,Jalgaon,,,,21.087502,75.057917,173.17,stale,False,False,2026-07-31,6.96,-2.86,9.48,2.52,653,0,171,2,169
+Atrawal_1,478,Jalgaon,,,,21.163333,75.740556,211.0,current,False,False,2026-10-26,48.53,0.8,48.7,0.17,828,0,213,0,213
+Bahadarpur_1,478,Jalgaon,,,,20.916219,75.042242,218.59,stale,False,False,2026-09-22,2.51,0.29,5.79,3.28,1064,92,246,0,246
+Bamnod,478,Jalgaon,,,,21.133889,75.805278,204.0,current,False,False,2026-10-23,4.81,1.02,9.22,4.4,1062,36,264,0,264
+Bhalod,478,Jalgaon,,,,21.164444,75.772222,217.93,current,True,False,2026-10-23,33.3,-2.18,36.69,3.39,879,302,160,0,160
+"Bodarde, Vanjari Kh",478,Jalgaon,,,,20.89773,75.097472,237.74,current,False,False,2026-10-23,4.38,-0.56,6.44,2.06,646,0,169,0,169
+Bohre,478,Jalgaon,,,,21.178889,75.021944,161.54,current,False,False,2026-10-26,13.05,0.34,13.17,0.12,1064,0,271,0,271
+Borale,478,Jalgaon,,,,21.20305556,75.6225,225.6,current,False,False,2026-10-23,20.91,-0.69,24.24,3.32,813,150,171,2,169
+Borawal Bk,478,Jalgaon,,,,21.10222222,75.70611111,136.0,current,False,False,2026-10-26,36.5,-0.01,36.25,-0.25,971,0,255,0,255
+Borawal Kh,478,Jalgaon,,,,21.123175,75.703028,194.46,current,False,False,2026-10-24,39.98,0.89,41.49,1.5,1056,0,269,0,269
+Borgaon_2,478,Jalgaon,,,,21.122054,75.018944,170.73,current,False,False,2026-10-26,6.46,0.63,10.61,4.15,1060,0,271,0,271
+Borkheda Bk,478,Jalgaon,,,,21.207458,75.833875,177.0,current,False,False,2026-10-23,25.77,-1.23,28.9,3.13,622,0,160,0,160
+Chaubari,478,Jalgaon,,,,21.111667,74.986111,179.26,current,False,False,2026-10-25,10.1,0.74,13.86,3.76,1056,0,270,0,270
+Chikhali Bk,478,Jalgaon,,,,21.127222,75.755833,194.46,current,False,False,2026-10-23,47.23,-0.92,54.56,7.32,625,0,163,0,163
+Chikhali Kh_1,478,Jalgaon,,,,21.126667,75.753611,194.0,current,False,False,2026-10-23,56.78,-0.86,59.06,2.27,642,0,170,0,170
+Chitode,478,Jalgaon,,,,21.178889,75.733056,225.0,current,False,False,2026-10-23,38.58,-1.39,41.09,2.51,914,0,242,0,242
+Chunchale,478,Jalgaon,,,,21.20363043,75.61934565,225.0,current,True,False,2026-10-23,16.39,-1.2,20.31,3.91,807,219,160,8,152
+Dahigaon_1,478,Jalgaon,,,,21.216944,75.655833,240.0,current,False,False,2026-10-23,30.18,-1.53,34.42,4.24,638,0,164,2,162
+Dhanore_1,478,Jalgaon,,,,21.105556,75.014444,177.13,current,False,False,2026-10-23,13.7,,22.13,8.43,630,0,166,2,164
+Dhar_6,478,Jalgaon,,,,21.087405,75.039546,177.25,current,False,False,2026-10-26,6.42,1.08,4.92,-1.5,1060,0,271,0,271
+Dongarkathora,478,Jalgaon,,,,21.215278,75.742778,242.95,current,False,False,2026-10-23,16.0,-1.14,18.65,2.64,618,0,164,0,164
+Fapore Bk,478,Jalgaon,,,,20.990227,75.057073,192.07,current,False,False,2026-10-26,8.92,0.19,11.02,2.1,1061,1,271,0,271
+Galwade Bk,478,Jalgaon,,,,21.069995,75.015178,192.7,current,False,False,2026-10-23,25.03,-1.51,35.92,10.89,622,0,160,10,150
+Giradgaon,478,Jalgaon,,,,21.195,75.595,147.0,current,False,False,2026-10-26,9.05,5.23,20.66,11.61,920,111,219,9,210
+Hambardi,478,Jalgaon,,,,21.182536,75.811178,170.0,current,False,False,2026-10-25,54.29,,54.26,-0.03,747,0,200,0,200
+Hanumanatkhede,478,Jalgaon,,,,20.80638,75.108905,259.08,current,False,False,2026-10-23,6.07,-0.18,6.77,0.7,630,0,167,0,167
+Hedave,478,Jalgaon,,,,21.025643,75.097288,192.07,current,False,False,2026-10-26,1.37,0.82,3.69,2.32,1056,52,263,1,262
+Hingone Bk,478,Jalgaon,,,,21.115556,75.070278,169.2,current,True,False,2026-10-25,10.58,8.15,,,968,797,75,12,63
+Hingone Kh Prj,478,Jalgaon,,,,21.005047,75.057432,196.64,current,False,False,2026-10-23,15.33,0.27,14.5,-0.83,633,0,167,0,167
+Hingone_1,478,Jalgaon,,,,21.190556,75.783889,173.0,current,False,False,2026-10-26,28.42,0.43,29.23,0.81,1060,0,270,0,270
+Hivarkheda Sim,478,Jalgaon,,,,20.840354,75.03641,249.94,stale,True,False,2026-05-30,16.67,-0.15,16.68,0.01,1072,464,152,4,148
+"Indhave, Vadgaon Pr Amalner",478,Jalgaon,,,,20.93979,75.002969,227.08,current,False,False,2026-10-26,4.46,0.63,6.32,1.86,1064,0,271,0,271
+Jaitpir,478,Jalgaon,,,,21.089487,75.004674,179.87,current,False,False,2026-10-23,2.02,-0.02,5.19,3.16,638,0,167,0,167
+Jamner_3,478,Jalgaon,,,,20.8,75.78,248.6,stale,False,False,2026-05-31,17.56,1.98,16.43,-1.14,548,0,137,8,129
+Janori,478,Jalgaon,,,,21.250613,75.85915,310.59,current,False,False,2026-10-26,18.37,3.99,22.89,4.53,989,1,258,0,258
+Jirali,478,Jalgaon,,,,20.938263,75.004563,224.02,current,False,False,2026-10-26,58.08,0.0,4.27,-53.81,1064,0,271,0,271
+Jogalkhede,478,Jalgaon,,,,20.818205,75.101248,256.03,current,False,False,2026-10-23,0.94,-0.29,3.86,2.92,642,0,169,0,169
+Kalmode,478,Jalgaon,,,,21.207187,75.861797,229.5,current,False,False,2026-10-23,22.55,4.9,14.66,-7.89,625,0,161,0,161
+Kanhalda,478,Jalgaon,,,,21.09,75.49,190.5,stale,False,False,2026-06-02,13.77,1.84,12.55,-1.23,548,0,137,13,124
+Karankheda,478,Jalgaon,,,,21.124167,75.066389,167.64,current,False,False,2026-10-26,13.16,0.25,20.11,6.95,971,0,254,28,226
+Kavpimpri,478,Jalgaon,,,,20.971389,75.023889,225.6,stale,False,True,2026-09-23,5.23,0.0,5.24,0.01,884,1,228,0,228
+"Khaparkhede Prdangari, Ambare",478,Jalgaon,,,,21.124167,75.066389,167.68,current,True,False,2026-10-26,9.37,0.81,37.55,28.18,1068,243,212,3,209
+Khirode PrYawal,478,Jalgaon,,,,21.214722,75.883611,231.9,current,False,False,2026-10-23,26.98,-1.0,24.01,-2.97,618,0,161,0,161
+"Kholsar, Kamatwadi",478,Jalgaon,,,,20.836467,75.137965,256.03,current,False,False,2026-10-26,11.84,3.23,14.75,2.91,1068,1,272,6,266
+Kingaon Bk,478,Jalgaon,,,,21.20861111,75.57472222,228.0,current,False,False,2026-10-26,15.8,0.59,16.51,0.7,943,0,254,0,254
+Kolwad_1,478,Jalgaon,,,,21.204722,75.714722,233.9,current,False,False,2026-10-24,7.62,-14.06,25.73,18.11,914,123,218,16,202
+Korpavli,478,Jalgaon,,,,21.21000278,75.6814,243.84,stale,True,False,2026-09-16,7.87,-6.29,8.41,0.54,955,364,158,5,153
+"Ladgaon, Nandgaon",478,Jalgaon,,,,21.072222,75.069722,179.87,current,False,False,2026-10-26,14.55,1.76,19.53,4.98,1064,28,263,15,248
+Lohara_1,478,Jalgaon,,,,21.257778,75.937222,216.4,current,False,False,2026-10-26,30.34,6.61,32.13,1.78,963,1,253,0,253
+Mahalpur_1,478,Jalgaon,,,,20.912412,75.047695,218.59,current,False,False,2026-10-26,4.3,0.83,5.34,1.04,1064,0,271,0,271
+Mahelkhedi,478,Jalgaon,,,,21.208889,75.674722,176.0,current,False,False,2026-10-26,21.15,1.39,21.73,0.58,971,0,255,0,255
+Malpur_3,478,Jalgaon,,,,21.089167,75.043611,175.3,current,True,False,2026-10-26,22.81,0.98,51.08,28.27,1068,318,191,2,189
+Mangarul,478,Jalgaon,,,,21.021667,75.021944,278.04,current,False,False,2026-10-26,7.33,0.49,7.37,0.04,1060,0,271,0,271
+Marul_1,478,Jalgaon,,,,21.218,75.815417,253.9,current,False,False,2026-10-26,36.63,0.78,36.61,-0.02,975,0,255,0,255
+Marwad_1,478,Jalgaon,,,,21.122941,75.031133,171.03,current,False,False,2026-10-26,12.15,4.58,11.91,-0.24,1064,0,271,12,259
+Mehu_1,478,Jalgaon,,,,20.844491,75.11815,293.52,current,False,False,2026-10-23,3.79,-0.16,3.84,0.05,630,0,166,0,166
+Mhaiswadi,478,Jalgaon,,,,21.131944,75.788611,180.0,current,False,False,2026-10-26,44.87,0.63,44.14,-0.73,1057,0,270,0,270
+Mohrala,478,Jalgaon,,,,21.237139,75.677681,274.32,current,False,False,2026-10-23,28.81,-0.11,28.81,0.01,638,0,164,0,164
+"Morphal, Morphali",478,Jalgaon,,,,20.836467,75.170872,266.7,current,False,False,2026-10-23,16.08,-2.41,22.34,6.26,1149,163,252,0,252
+"Mudi PrAmalner, Daregaon",478,Jalgaon,,,,21.122222,75.069167,170.68,current,False,False,2026-10-23,10.59,-0.07,10.52,-0.07,630,0,164,0,164
+Naigaon_1,478,Jalgaon,,,,21.22694444,75.59222222,183.0,stale,True,False,2026-02-15,1.03,-8.29,,,683,519,45,0,45
+Navre,478,Jalgaon,,,,21.186389,75.641389,156.0,stale,False,False,2026-09-19,28.91,-0.62,29.66,0.75,851,0,222,0,222
+Nhavi Pr Yawal,478,Jalgaon,,,,21.188546,75.836725,295.5,current,False,False,2026-10-26,35.05,1.48,35.19,0.14,1061,1,270,0,270
+Nimgaon_1,478,Jalgaon,,,,21.121667,75.7275,197.0,current,False,False,2026-10-23,40.16,-0.09,45.05,4.89,633,0,168,0,168
+Padalse_1,478,Jalgaon,,,,21.1025,75.79666667,131.0,current,False,False,2026-10-26,29.19,-0.08,29.44,0.25,973,1,255,0,255
+Palaskhedaseem,478,Jalgaon,,,,20.843368,75.183913,270.36,current,False,False,2026-10-26,16.16,9.73,16.06,-0.1,1064,0,271,0,271
+Parsade Bk,478,Jalgaon,,,,21.22277778,75.70888889,195.0,current,False,False,2026-10-23,12.27,-5.82,21.44,9.17,638,0,164,0,164
+Pimpalkote,478,Jalgaon,,,,20.922036,74.966099,249.94,current,False,False,2026-10-23,0.59,0.23,1.61,1.02,630,0,166,0,166
+Pragane Dangari,478,Jalgaon,,,,21.151667,75.053056,167.48,current,False,False,2026-10-26,16.51,0.89,16.89,0.38,1064,0,272,0,272
+Rajore_1,478,Jalgaon,,,,21.124722,75.7375,195.0,current,False,False,2026-10-26,45.25,0.05,44.64,-0.61,1064,0,271,0,271
+Rozoda,478,Jalgaon,,,,21.196389,75.891389,230.0,current,False,False,2026-10-26,28.05,0.9,29.26,1.21,1149,59,278,2,276
+Sadavan Kh,478,Jalgaon,,,,20.974047,75.085278,219.45,current,False,False,2026-10-23,9.12,-0.68,14.31,5.18,638,0,168,0,168
+Sangvi Bk_1,478,Jalgaon,,,,21.181111,75.749722,233.0,current,False,False,2026-10-23,24.6,-6.0,33.23,8.63,610,0,160,0,160
+Sangvi Kh,478,Jalgaon,,,,21.129722,75.7325,197.0,current,False,False,2026-10-26,55.07,0.85,56.5,1.43,1070,0,273,1,272
+Satod Pr Yawal,478,Jalgaon,,,,21.201667,75.715556,233.17,stale,True,False,2026-04-11,1.95,,,,972,777,52,1,51
+Savkhede Bk,478,Jalgaon,,,,21.210658,75.903648,216.4,current,False,False,2026-10-26,23.29,0.48,23.94,0.65,1068,0,272,0,272
+Savkhede sim,478,Jalgaon,,,,21.230278,75.644722,244.0,insufficient,True,False,,,,,,972,972,0,0,0
+"Shevage Bk, Pungaon",478,Jalgaon,,,,20.897208,75.081235,227.07,current,False,False,2026-10-23,4.82,-0.81,6.95,2.12,622,0,166,0,166
+Shirsode,478,Jalgaon,,,,20.909517,75.0394,218.54,current,False,False,2026-10-23,6.61,-0.17,8.28,1.67,621,0,164,0,164
+Shirud,478,Jalgaon,,,,20.992902,75.016761,210.36,current,False,False,2026-10-26,6.03,1.22,9.45,3.42,940,0,247,2,245
+Sonoti,478,Jalgaon,,,,20.91,76.2,201.82,stale,False,False,2026-06-02,20.14,2.59,17.7,-2.44,548,0,137,13,124
+Sumthane,478,Jalgaon,,,,20.957627,75.005733,219.45,current,False,False,2026-10-26,5.56,1.28,6.97,1.41,1064,0,271,0,271
+Takarkheda_1,478,Jalgaon,,,,21.098889,75.692644,146.0,current,False,False,2026-10-23,41.74,-15.93,63.8,22.06,626,0,161,3,158
+Taskheda,478,Jalgaon,,,,21.091389,75.064444,175.3,current,False,False,2026-10-23,6.83,-0.86,9.0,2.17,642,0,167,0,167
+Tehu_1,478,Jalgaon,,,,20.897208,75.081235,243.84,current,True,False,2026-10-21,0.37,,6.19,5.82,949,312,171,3,168
+"Udnidigar, Udanikhalsa",478,Jalgaon,,,,20.849701,75.087156,234.08,current,False,False,2026-10-23,7.7,0.49,9.26,1.56,638,0,169,0,169
+Undirkheda,478,Jalgaon,,,,20.852724,75.087366,234.08,current,False,False,2026-10-26,5.01,0.81,7.02,2.01,1064,0,271,0,271
+Vadhode PrYawal,478,Jalgaon,,,,21.179444,75.651944,153.0,insufficient,True,False,,,,,,967,967,0,0,0
+Vadri Kh,478,Jalgaon,,,,21.229,75.710561,286.85,current,False,False,2026-10-25,21.2,-1.2,27.43,6.23,305,0,227,31,196
+Vaghazira,478,Jalgaon,,,,21.310461,75.661387,320.04,current,False,False,2026-10-23,23.01,-0.56,29.66,6.65,630,0,163,0,163
+Vasantnagar_1,478,Jalgaon,,,,20.916906,74.967538,301.75,stale,True,False,2026-07-13,2.12,,4.52,2.39,1068,361,178,1,177
+Vichkhede,478,Jalgaon,,,,20.866145,75.073836,227.07,current,False,False,2026-10-23,2.63,0.0,3.01,0.38,638,0,169,0,169
+Viravali,478,Jalgaon,,,,21.185556,75.668889,162.0,current,False,False,2026-10-26,27.76,0.26,28.82,1.06,963,0,253,0,253
+Virode,478,Jalgaon,,,,21.132494,75.841412,198.0,current,False,False,2026-10-23,46.92,-7.37,61.72,14.8,666,0,174,0,174
+"Waghara, Waghari",478,Jalgaon,,,,20.822519,75.135694,243.84,current,False,False,2026-10-23,1.38,-4.19,9.15,7.77,622,0,166,0,166
+Waghode,478,Jalgaon,,,,21.020932,74.995628,225.6,current,False,False,2026-10-23,1.64,-0.97,4.23,2.59,730,4,189,3,186
+Amalner,478,Jalgaon,AMALNER,,,21.03,75.06250278,219.45,stale,False,False,2026-06-02,9.07,1.7,7.75,-1.32,552,0,138,12,126
+Kajgaon,478,Jalgaon,BHADGAON,,,20.56861111,75.14861389,288.71,stale,False,False,2026-06-02,18.89,1.64,17.67,-1.22,552,0,138,12,126
+Sakegaon,478,Jalgaon,BHUSAWAL,,,21.04527778,75.74916944,301.44,stale,False,False,2026-06-02,17.81,1.47,16.98,-0.83,560,0,140,12,128
+Patan,478,Jalgaon,CHALISGAON,,,20.35194444,74.97583611,377.42,stale,False,False,2026-06-02,14.9,2.11,13.08,-1.82,568,0,142,10,132
+Chopada,478,Jalgaon,CHOPDA,,,21.23555556,75.292225,590.0,stale,False,False,2026-06-02,14.66,1.83,13.3,-1.35,548,0,137,3,134
+Chandsar Bk.,478,Jalgaon,Dharangaon,,,21.11305556,75.45500278,176.78,stale,False,False,2026-06-01,19.56,2.58,17.49,-2.07,536,0,134,7,127
+Shemalde,478,Jalgaon,EDLABAD,,,21.10083333,76.04528056,728.0,stale,False,False,2026-06-01,20.28,3.35,17.38,-2.9,564,0,141,9,132
+Erandol,478,Jalgaon,ERANDOL,,,20.91888889,75.32639167,213.97,stale,False,False,2026-05-31,13.06,0.59,12.57,-0.48,568,0,142,14,128
+Pachora,478,Jalgaon,PACHORA,,,20.66833333,75.35944722,260.91,stale,False,False,2026-06-01,8.59,0.9,7.93,-0.65,556,0,139,11,128
+Mhasave,478,Jalgaon,PAROLA,,,20.88138889,75.15083611,243.84,stale,False,False,2026-06-02,10.22,1.4,9.15,-1.08,552,0,138,12,126
+Raver,478,Jalgaon,RAVER,,,21.24666667,76.03805833,254.0,stale,False,False,2026-06-02,19.01,1.91,17.67,-1.34,544,0,136,8,128
+Yawal,478,Jalgaon,YAWAL,,,21.17,75.69861389,204.82,stale,False,False,2026-06-02,19.65,2.14,18.17,-1.49,544,0,136,7,129
+Amba_3,479,Jalna,,,,19.626944,76.212222,375.0,current,False,False,2026-10-26,10.39,1.27,10.59,0.19,1064,0,271,1,270
+Angalgaon,479,Jalna,,,,19.461944,76.329722,354.0,current,False,False,2026-10-23,28.89,,30.06,1.17,645,0,169,2,167
+Bhilpuri Kh.,479,Jalna,,,,19.816111,76.072778,394.0,stale,True,False,2026-06-01,18.43,-0.17,18.51,0.08,1068,460,152,2,150
+Daithna Bk,479,Jalna,,,,19.501667,76.207778,393.0,current,False,False,2026-10-26,11.98,1.62,7.56,-4.42,1068,0,272,0,272
+Daithna Kh,479,Jalna,,,,19.510833,76.200556,388.0,stale,False,False,2026-07-23,9.79,-0.63,7.92,-1.86,740,0,187,0,187
+Dhanora_4,479,Jalna,,,,19.727778,76.136111,376.0,current,False,False,2026-10-23,5.3,-2.31,11.65,6.35,658,0,171,0,171
+Ganeshpur_3,479,Jalna,,,,19.480278,76.297222,364.0,current,False,False,2026-10-23,30.42,-0.14,32.25,1.83,706,0,181,0,181
+Ghodegaon_2,479,Jalna,,,,19.741944,76.124444,471.0,current,False,False,2026-10-23,3.61,-4.17,13.06,9.45,1150,164,252,0,252
+Kautha_1,479,Jalna,,,,19.680278,76.123889,371.0,current,False,False,2026-10-26,17.6,1.94,16.87,-0.72,1064,0,271,4,267
+Kawjawala,479,Jalna,,,,19.639444,76.17,366.0,current,False,False,2026-10-26,15.57,0.39,15.49,-0.08,1064,0,271,0,271
+Lingsa,479,Jalna,,,,19.445278,76.268333,378.0,current,False,False,2026-10-26,16.48,1.63,11.02,-5.46,1068,0,272,0,272
+Masla_1,479,Jalna,,,,19.618056,76.185,368.0,current,False,False,2026-10-26,4.9,0.49,4.41,-0.49,1060,0,270,0,270
+Maujpuri,479,Jalna,,,,19.801667,76.077778,395.0,current,False,False,2026-10-23,3.62,-1.93,8.69,5.07,626,0,160,0,160
+Maw {Patoda},479,Jalna,,,,19.461111,76.190556,388.0,stale,False,False,2026-09-29,13.2,1.37,9.21,-3.99,981,104,224,0,224
+Patoda{Maw},479,Jalna,,,,19.456944,76.163056,401.0,current,False,False,2026-10-26,19.47,3.02,14.43,-5.04,872,0,230,0,230
+Pimpri Dukri,479,Jalna,,,,19.756944,76.100833,415.0,current,False,False,2026-10-23,3.47,-0.0,4.38,0.91,626,0,160,0,160
+Pimprula Bk,479,Jalna,,,,19.504444,76.258889,391.0,current,False,False,2026-10-26,10.39,0.22,8.63,-1.76,1062,1,271,0,271
+Shrishti,479,Jalna,,,,19.474444,76.225556,391.0,current,False,False,2026-10-26,38.5,0.35,37.93,-0.57,1064,0,271,0,271
+Shristi,479,Jalna,,,,19.47416667,76.22611111,450.0,stale,False,False,2026-06-01,16.64,2.3,15.03,-1.61,548,0,137,9,128
+Takli Rangopant,479,Jalna,,,,19.4875,76.281111,376.0,insufficient,True,False,,,,,,1068,1068,0,0,0
+Utwad_1,479,Jalna,,,,19.763611,76.066111,438.0,current,False,False,2026-10-26,11.59,0.12,11.71,0.12,1064,0,271,0,271
+Viregaon,479,Jalna,,,,19.71,76.145278,381.0,current,False,False,2026-10-26,8.95,0.38,7.29,-1.66,1068,0,272,0,272
+Warphal,479,Jalna,,,,19.568333,76.258333,369.0,current,False,False,2026-10-23,11.53,-0.27,11.59,0.06,637,0,167,0,167
+Ghungarde Hadgaon,479,Jalna,AMBAD,,,19.42916667,75.822225,426.0,stale,False,False,2026-05-30,14.19,0.73,13.81,-0.38,540,0,135,12,123
+Wadhona,479,Jalna,BHOKARDAN,,,20.51944444,75.93889167,616.0,stale,False,False,2026-06-02,15.27,2.27,13.35,-1.92,556,0,139,12,127
+Chanegaon,479,Jalna,Badnapur,,,20.02944444,75.82750278,602.0,stale,False,False,2026-06-02,11.86,2.04,10.09,-1.77,560,0,140,7,133
+Belwadi_1,479,Jalna,Ghansavangi,,,19.502778,76.132778,417.0,current,False,False,2026-10-26,11.43,0.18,11.41,-0.02,1068,0,272,0,272
+Bor Ranjani,479,Jalna,Ghansavangi,,,19.611944,76.098611,471.0,current,False,False,2026-10-26,15.29,0.75,13.71,-1.57,1068,0,272,15,257
+Chitrawadgaon,479,Jalna,Ghansavangi,,,19.662222,76.086944,381.0,current,False,False,2026-10-26,13.95,1.32,12.8,-1.14,1068,0,272,0,272
+Deoli Ambad,479,Jalna,Ghansavangi,,,19.626944,76.118888,388.0,current,False,False,2026-10-26,16.09,1.28,12.41,-3.68,1064,0,271,0,271
+Ghosi Tanda No1,479,Jalna,Ghansavangi,,,19.488889,76.101667,502.0,current,False,False,2026-10-26,8.41,0.38,8.82,0.41,1064,0,271,0,271
+Kothala Bk.,479,Jalna,Ghansavangi,,,19.452778,76.117778,478.0,current,False,False,2026-10-26,14.78,0.62,13.66,-1.12,1064,0,271,0,271
+Krishnapurwadi,479,Jalna,Ghansavangi,,,19.672444,76.10506,393.0,stale,True,False,2026-07-12,0.34,,6.85,6.5,1064,366,176,0,176
+Masegaon,479,Jalna,Ghansavangi,,,19.509444,76.107222,434.0,current,False,False,2026-10-26,7.67,0.58,8.16,0.49,1064,0,271,0,271
+Pangra Tanda,479,Jalna,Ghansavangi,,,19.586944,76.105,425.0,current,False,False,2026-10-26,11.2,0.55,10.73,-0.46,974,0,255,0,255
+Paradgaon,479,Jalna,Ghansavangi,,,19.6075,76.143056,391.0,current,False,False,2026-10-26,7.41,1.0,6.47,-0.94,1064,0,271,0,271
+Ranjani Tanda No 2,479,Jalna,Ghansavangi,,,19.658056,76.1325,380.0,current,False,False,2026-10-26,11.57,0.53,10.66,-0.91,1064,0,271,0,271
+Ranjaniwadi (N.V.),479,Jalna,Ghansavangi,,,19.679385,76.115998,358.0,current,True,False,2026-10-23,15.23,-2.66,20.4,5.17,1092,388,190,0,190
+Sakalgaon,479,Jalna,Ghansavangi,,,19.476944,76.124722,490.0,current,False,False,2026-10-26,17.76,0.61,11.74,-6.02,1064,0,271,0,271
+Tirthpuri,479,Jalna,Ghansavangi,,,19.4375,75.92694722,342.0,stale,False,False,2026-06-02,16.07,2.25,14.3,-1.77,564,0,141,8,133
+Yaval Pimpri,479,Jalna,Ghansavangi,,,19.594,76.083,404.0,current,False,False,2026-10-26,9.67,-0.1,9.21,-0.46,1064,0,271,0,271
+Yaval Pimpri Tanda No 1,479,Jalna,Ghansavangi,,,19.588,76.087,404.0,current,False,False,2026-10-23,7.83,-2.43,13.21,5.38,621,0,167,0,167
+Mahora,479,Jalna,JAFFERABAD,,,20.25833333,75.92778333,575.0,stale,False,False,2026-06-02,15.55,2.42,13.54,-2.01,556,0,139,12,127
+Golapangri,479,Jalna,JALNA,,,19.725,75.84166944,470.0,stale,False,False,2026-06-01,19.25,2.26,17.55,-1.7,556,0,139,11,128
+Pangri Bk.,479,Jalna,Mantha,,,19.72305556,76.43555833,512.0,stale,False,False,2026-05-31,10.8,1.08,10.05,-0.75,544,0,136,6,130
+Uttur,480,Kolhapur,AJRA,,,16.23888889,74.26111389,677.0,stale,False,False,2026-06-02,13.05,1.74,11.94,-1.11,568,0,142,11,131
+Gaganbawada,480,Kolhapur,BAVDA,,,16.54166667,73.82916944,623.0,stale,False,False,2026-06-02,10.97,1.94,9.36,-1.61,552,0,138,5,133
+Karadwadi,480,Kolhapur,BHUDARGAD,,,16.25277778,74.10694722,570.0,stale,False,False,2026-06-02,11.93,1.12,11.07,-0.87,536,0,134,13,121
+Porewadi,480,Kolhapur,CHANDGAD,,,15.98472222,74.28333611,743.0,stale,False,False,2026-06-02,15.86,2.07,14.25,-1.61,540,0,135,10,125
+Halkarni,480,Kolhapur,GADHINGLAJ,,,16.16666667,74.46805833,661.0,stale,False,False,2026-06-02,10.24,2.21,8.46,-1.78,556,0,139,15,124
+Hatkanangale,480,Kolhapur,HATKANANGALE,,,16.74444444,74.42583611,585.0,stale,False,False,2026-06-02,14.65,1.39,13.83,-0.82,556,0,139,5,134
+Galagale,480,Kolhapur,KAGAL,,,16.40833333,74.31666944,555.0,stale,False,False,2026-06-02,8.36,2.37,6.17,-2.19,536,0,134,10,124
+Girgaon,480,Kolhapur,KARVIR,,,16.61861111,74.23055833,708.0,stale,False,False,2026-06-02,10.36,1.64,9.29,-1.07,564,0,141,7,134
+Jakhale,480,Kolhapur,PANHALA,,,16.8375,74.19583889,597.0,stale,False,False,2026-06-01,11.02,1.79,9.74,-1.28,556,0,139,11,128
+Radhanagari,480,Kolhapur,RADHANAGARI,,,16.40972222,73.99305833,568.0,stale,False,False,2026-05-31,11.56,0.98,11.17,-0.39,572,0,143,11,132
+Amba,480,Kolhapur,SHAHUWADI,,,16.97222222,73.79583611,595.0,stale,False,False,2026-06-02,10.59,1.69,9.17,-1.42,560,0,140,10,130
+Takali,480,Kolhapur,SHIROL,,,16.59583333,74.61805833,542.0,stale,False,False,2026-06-02,16.81,1.72,15.73,-1.08,564,0,141,5,136
+Ambulga Bk,481,Latur,,,,18.141681,76.864286,637.49,insufficient,False,False,2026-06-22,58.56,,,,16,0,5,0,5
+Ansarwada,481,Latur,,,,18.098121,76.811767,598.65,current,False,False,2026-10-26,35.84,0.83,35.18,-0.66,1064,0,271,0,271
+Bendga,481,Latur,,,,18.081938,76.816142,587.62,current,False,False,2026-10-23,5.81,-0.95,11.2,5.38,617,0,162,0,162
+Bhatkheda_1,481,Latur,,,,18.432265,76.668922,588.12,current,True,False,2026-10-23,35.67,,8.56,-27.11,987,264,188,0,188
+Bhosa_1,481,Latur,,,,18.512522,76.27993,632.76,current,False,False,2026-10-23,12.7,0.66,13.55,0.85,618,0,160,0,160
+Bodka_1,481,Latur,,,,18.532276,76.386795,610.0,current,False,False,2026-10-23,10.69,-0.3,13.02,2.33,614,0,160,0,160
+Bori_3,481,Latur,,,,18.37303,76.696968,589.26,current,False,False,2026-10-26,51.15,0.19,50.24,-0.91,959,15,248,10,238
+Borwati,481,Latur,,,,18.4474,76.5834,597.69,current,False,False,2026-10-23,5.4,-1.89,10.6,5.19,1062,0,268,0,268
+Botkul,481,Latur,,,,18.131633,76.888635,587.49,current,False,False,2026-10-23,48.85,1.59,47.68,-1.17,638,0,169,0,169
+Chatgaon_1,481,Latur,,,,18.606277,76.430139,628.16,current,False,False,2026-10-23,5.58,-0.06,8.2,2.62,638,0,164,0,164
+Chichondi_1,481,Latur,,,,18.161827,76.921377,547.46,current,False,False,2026-10-23,2.15,1.21,1.48,-0.67,626,0,160,0,160
+Chincholi Ballalnath,481,Latur,,,,18.439027,76.37863,642.73,stale,False,True,2026-07-29,4.09,-0.02,4.12,0.03,611,0,159,0,159
+Dapaka_1,481,Latur,,,,18.133434,76.756895,695.91,current,False,False,2026-10-23,33.71,23.93,36.19,2.47,991,7,256,13,243
+Darjiborgaon,481,Latur,,,,18.499479,76.525963,633.19,current,False,False,2026-10-26,16.41,1.24,12.2,-4.21,963,0,255,0,255
+Dhanegaon_1,481,Latur,,,,18.386692,76.664352,573.02,current,False,False,2026-10-23,3.28,-0.89,6.59,3.32,820,0,216,0,216
+Dhoki_1,481,Latur,,,,18.481817,76.378993,604.2,current,False,False,2026-10-23,25.23,-1.88,36.84,11.61,626,0,161,6,155
+Gadhawad,481,Latur,,,,18.517423,76.332423,667.98,current,False,False,2026-10-26,12.88,0.95,11.92,-0.95,963,0,256,0,256
+Ganjur_1,481,Latur,,,,18.53373,76.416717,524.62,current,False,False,2026-10-23,19.69,-5.82,28.86,9.17,618,0,161,0,161
+Gategaon,481,Latur,,,,18.425152,76.401017,635.9,current,False,False,2026-10-23,9.1,-0.02,13.16,4.06,630,0,168,0,168
+Gavhan_1,481,Latur,,,,18.512385,76.556783,620.97,current,False,False,2026-10-26,1.57,0.03,16.3,14.73,975,1,257,1,256
+Gondegaon_2,481,Latur,,,,18.409002,76.358196,654.51,current,True,False,2026-10-23,40.56,-3.87,48.73,8.17,918,262,173,2,171
+Gunjarga,481,Latur,,,,18.055402,76.803948,505.06,stale,True,False,2026-06-01,16.7,1.49,15.51,-1.19,1038,430,152,0,152
+Gurhal_1,481,Latur,,,,18.135138,76.807484,594.54,current,False,False,2026-10-26,8.37,1.04,0.76,-7.61,1068,8,270,22,248
+Halgara,481,Latur,,,,18.092186,76.884739,607.32,current,False,False,2026-10-23,10.65,-3.34,14.32,3.67,645,0,168,0,168
+Hanchnal,481,Latur,,,,18.180499,76.907584,2900.0,current,False,False,2026-10-26,9.69,0.96,8.58,-1.11,973,0,253,0,253
+Hangaraga,481,Latur,,,,18.114853,76.845865,591.14,current,False,False,2026-10-26,37.34,23.83,36.93,-0.41,1064,1,271,12,259
+Harangul Kh,481,Latur,,,,18.427857,76.523804,638.22,current,False,False,2026-10-23,10.45,-0.49,11.48,1.03,622,0,160,0,160
+Harwadi_1,481,Latur,,,,18.477684,76.617023,608.7,current,False,False,2026-10-23,12.4,-1.22,16.0,3.59,626,0,166,0,166
+Hosur_6,481,Latur,,,,18.143213,76.90305,600.72,current,False,True,2026-10-26,22.32,0.02,22.31,-0.01,1068,1,272,0,272
+Jajnur,481,Latur,,,,18.145247,76.818539,624.46,current,False,False,2026-10-23,9.4,-2.64,15.19,5.79,854,0,223,0,223
+Jamga_1,481,Latur,,,,18.057197,76.831871,605.09,current,False,False,2026-10-26,24.96,22.41,23.35,-1.6,1064,0,271,1,270
+Jau_1,481,Latur,,,,18.136442,76.713559,529.4,stale,True,False,2026-09-29,1.41,-1.52,9.94,8.53,1068,308,199,4,195
+Kanadi Borgaon,481,Latur,,,,18.559418,76.278398,646.96,current,False,True,2026-10-26,7.16,0.04,7.14,-0.01,845,0,219,0,219
+Karsa_1,481,Latur,,,,18.510445,76.451573,,stale,True,False,2026-08-09,1.12,-9.46,11.14,10.02,1064,301,198,0,198
+Kasar Jawala,481,Latur,,,,18.498842,76.395814,610.86,stale,False,False,2026-09-28,7.95,-0.59,,,424,0,108,0,108
+Kasargaon,481,Latur,,,,18.431276,76.596707,598.49,current,False,False,2026-10-23,4.53,-4.19,9.85,5.33,634,0,168,0,168
+Kasarkheda,481,Latur,,,,18.451823,76.644243,584.71,current,False,False,2026-10-23,2.44,-0.35,7.48,5.05,634,0,168,0,168
+Khulgapur,481,Latur,,,,18.45896,76.609982,584.97,current,False,False,2026-10-23,6.86,-2.47,7.6,0.74,626,0,161,2,159
+Khuntephal,481,Latur,,,,18.462634,76.292676,646.92,current,False,False,2026-10-26,12.38,0.29,11.77,-0.61,1064,0,271,0,271
+Kolgaon_1,481,Latur,,,,18.526616,76.533205,630.82,current,False,False,2026-10-26,2.92,0.04,2.87,-0.04,984,0,257,0,257
+Kolpa,481,Latur,,,,18.428963,76.639753,620.08,current,False,False,2026-10-25,11.54,2.57,7.82,-3.72,962,159,213,4,209
+Lambota,481,Latur,,,,18.16023,76.781417,629.22,current,False,False,2026-10-26,28.12,0.2,26.55,-1.58,1064,0,271,1,270
+Mahamdapur,481,Latur,,,,18.435576,76.701895,605.02,current,False,False,2026-10-26,11.0,1.05,11.31,0.31,959,0,249,0,249
+Mahapur_1,481,Latur,,,,18.468234,76.585524,605.41,current,False,False,2026-10-23,9.57,-0.68,15.15,5.58,634,0,166,0,166
+Maharanapratapnagar,481,Latur,,,,18.417643,76.622774,611.79,current,False,False,2026-10-26,5.36,0.6,5.34,-0.02,985,0,257,0,257
+Makni_1,481,Latur,,,,18.083728,76.844361,602.91,current,False,False,2026-10-26,33.57,0.31,14.25,-19.32,1068,0,272,0,272
+Malegaon Je,481,Latur,,,,18.095071,76.679915,613.66,current,False,False,2026-10-26,10.92,0.44,10.46,-0.46,1068,0,272,0,272
+Manathpur_1,481,Latur,,,,18.089856,76.740681,588.63,current,False,False,2026-10-22,2.07,0.4,0.83,-1.23,1013,0,259,0,259
+Masala_1,481,Latur,,,,18.50764,76.29774,636.71,stale,True,False,2026-06-24,15.14,-6.1,22.88,7.75,1064,431,160,6,154
+Matephal,481,Latur,,,,18.451229,76.281254,646.17,current,False,False,2026-10-26,15.91,-0.2,14.98,-0.93,1068,0,272,0,272
+Motegaon,481,Latur,,,,18.587053,76.420805,615.22,current,False,False,2026-10-23,7.95,0.21,8.11,0.16,634,0,163,0,163
+Murud Akola,481,Latur,,,,18.398788,76.407953,634.56,current,False,False,2026-10-23,6.93,-1.5,9.25,2.32,626,0,160,0,160
+Nagzari,481,Latur,,,,18.466217,76.519466,598.91,current,False,False,2026-10-23,7.16,-0.02,11.22,4.06,642,0,170,0,170
+Nanand,481,Latur,,,,18.10564,76.713582,588.51,current,False,False,2026-10-26,15.38,4.02,10.42,-4.96,1067,0,272,5,267
+Niwada_1,481,Latur,,,,18.536343,76.515482,645.66,stale,False,False,2026-09-29,43.11,-1.75,45.1,1.99,800,0,209,5,204
+Pimpalgaon (Amba),481,Latur,,,,18.516552,76.283913,640.07,current,False,False,2026-10-26,56.19,5.38,56.18,-0.01,1067,0,272,4,268
+Raiwadi,481,Latur,,,,18.451332,76.535744,597.0,stale,False,False,2026-04-02,3.22,0.78,,,276,0,76,0,76
+Ramzanpur,481,Latur,,,,18.40477,76.67356,512.25,stale,False,False,2026-09-28,7.29,0.01,8.42,1.13,903,0,237,0,237
+Rui_1,481,Latur,,,,18.52047,76.428712,592.7,current,False,False,2026-10-23,23.34,0.04,27.12,3.78,626,0,161,0,161
+Sai_3,481,Latur,,,,18.471099,76.553443,594.17,current,False,False,2026-10-23,19.43,-1.11,43.18,23.76,642,0,164,7,157
+Sakhara_1,481,Latur,,,,18.402024,76.43487,646.3,stale,True,False,2026-06-01,22.24,0.48,22.05,-0.2,1057,449,152,0,152
+Salgara BK,481,Latur,,,,18.333941,76.6972,559.74,current,False,False,2026-10-23,2.28,-4.19,7.16,4.88,622,0,164,0,164
+Samangaon_1,481,Latur,,,,18.450146,76.427114,534.85,stale,False,False,2026-09-23,8.49,-0.02,7.77,-0.72,976,0,247,0,247
+Sarola_1,481,Latur,,,,18.400727,76.632947,608.7,current,False,False,2026-10-23,21.3,-1.02,27.22,5.92,626,0,166,1,165
+Sarsa_1,481,Latur,,,,18.563788,76.326724,612.84,current,False,False,2026-10-23,11.08,-0.29,11.61,0.53,634,0,168,0,168
+Sawari_1,481,Latur,,,,18.059488,76.879593,630.75,current,False,False,2026-10-25,9.69,1.67,9.84,0.15,1060,0,270,1,269
+Shivpur_2,481,Latur,,,,18.39079,76.804137,618.38,current,False,False,2026-10-23,3.39,0.24,4.11,0.72,910,83,211,12,199
+Shiwani Kh,481,Latur,,,,18.373992,76.674174,661.26,current,False,False,2026-10-23,17.58,-0.52,20.29,2.72,650,0,169,0,169
+Sindkhed_1,481,Latur,,,,18.079768,76.781506,594.97,current,False,False,2026-10-26,10.1,1.74,8.19,-1.91,999,0,259,0,259
+Singnal,481,Latur,,,,18.086781,76.695168,611.73,current,False,False,2026-10-23,14.45,-4.08,18.22,3.76,650,0,171,0,171
+Sirsi Hangarga,481,Latur,,,,18.096436,76.846018,608.4,current,False,False,2026-10-26,0.81,-7.41,0.77,-0.05,1068,0,272,0,272
+Sonkhed_1,481,Latur,,,,18.039587,76.837158,608.52,current,False,False,2026-10-24,13.29,-10.35,22.76,9.46,1024,0,261,1,260
+Tagarkheda,481,Latur,,,,18.074735,76.927329,596.92,stale,True,False,2026-08-08,8.4,-15.46,23.33,14.93,1064,268,202,3,199
+Takalgaon,481,Latur,,,,18.562289,76.321973,641.08,current,False,False,2026-10-23,32.81,-1.52,35.23,2.41,641,0,171,0,171
+Talikhed,481,Latur,,,,18.121783,76.824128,691.87,current,False,False,2026-10-26,9.96,1.12,8.62,-1.34,970,0,254,0,254
+Tambarwadi,481,Latur,,,,18.120813,76.865487,618.91,current,False,False,2026-10-23,39.0,0.59,46.67,7.67,967,0,253,9,244
+Tandulja,481,Latur,,,,18.53845,76.301526,700.41,current,False,False,2026-10-26,19.88,5.76,14.96,-4.93,1068,0,272,0,272
+Tandulwadi_1,481,Latur,,,,18.464157,76.441535,697.38,current,False,False,2026-10-23,5.69,-0.48,8.02,2.33,664,0,174,0,174
+Umbarga_1,481,Latur,,,,18.391845,76.686938,591.12,current,False,False,2026-10-23,10.57,0.22,8.63,-1.95,618,0,161,0,161
+Wadi Wagholi,481,Latur,,,,18.48289,76.273329,661.78,current,False,False,2026-10-26,12.31,0.02,12.68,0.37,1057,0,270,7,263
+Wagholi_2,481,Latur,,,,18.474077,76.293391,648.62,current,False,False,2026-10-23,14.29,-52.39,15.72,1.43,1149,106,268,1,267
+Wanjarkheda,481,Latur,,,,18.52465,76.355586,630.43,current,False,False,2026-10-23,35.17,0.71,34.39,-0.78,630,0,164,0,164
+Warwanti,481,Latur,,,,18.423937,76.540191,615.84,stale,True,False,2026-06-01,16.37,2.25,14.1,-2.27,1060,452,152,1,151
+Taka ,481,Latur,AUSA,,,18.17916667,76.50000278,649.1,stale,False,False,2026-06-02,10.23,1.52,9.0,-1.23,552,0,138,9,129
+Ajansonda Kh,481,Latur,Chakur,,,18.457241,76.846601,622.77,current,False,False,2026-10-23,6.85,-0.51,9.28,2.43,882,0,233,0,233
+Atola_2,481,Latur,Chakur,,,18.436369,76.869229,692.38,current,False,False,2026-10-23,22.7,-6.16,30.29,7.59,946,0,247,10,237
+Bansawargaon,481,Latur,Chakur,,,18.486764,76.848088,616.34,current,False,False,2026-10-23,7.41,-0.46,8.64,1.23,626,0,161,0,161
+Bhatsangvi,481,Latur,Chakur,,,18.478134,76.841687,639.64,current,False,False,2026-10-23,12.67,0.24,26.99,14.32,868,0,225,0,225
+Bolegaon_1,481,Latur,Chakur,,,18.441,76.848153,616.95,current,False,False,2026-10-23,13.24,-2.48,19.5,6.25,625,0,161,0,161
+Chakur_2,481,Latur,Chakur,,,18.509179,76.846827,665.96,stale,True,False,2026-10-16,5.53,,9.32,3.8,983,217,205,1,204
+Gharni ,481,Latur,Chakur,,,18.48333333,76.81250278,619.7,stale,False,False,2026-06-01,18.8,1.56,17.89,-0.91,540,0,135,8,127
+Kabansangvi,481,Latur,Chakur,,,18.423582,76.900405,640.54,stale,False,True,2026-07-24,51.63,-0.03,51.67,0.04,656,0,172,0,172
+Kadmuli,481,Latur,Chakur,,,18.528052,76.83864,275.61,current,False,False,2026-10-26,34.89,0.4,33.22,-1.67,976,0,255,0,255
+Latur Road (Nv),481,Latur,Chakur,,,18.51109,76.845503,657.55,current,False,False,2026-10-26,16.63,0.25,26.26,9.62,1060,0,271,0,271
+Limbalwadi,481,Latur,Chakur,,,18.401399,76.790533,538.42,current,False,False,2026-10-26,2.58,0.85,3.12,0.55,987,0,256,0,256
+Mahalangra_1,481,Latur,Chakur,,,18.448508,76.725475,625.57,current,False,False,2026-10-23,2.85,-0.62,4.57,1.72,670,0,172,0,172
+Mahalangrawadi,481,Latur,Chakur,,,18.432451,76.717899,542.6,current,False,False,2026-10-23,18.26,-0.67,20.72,2.46,626,0,161,0,161
+Murambi_1,481,Latur,Chakur,,,18.402666,76.702167,591.39,current,False,False,2026-10-26,7.32,,7.43,0.11,404,0,106,0,106
+Nageshwadi,481,Latur,Chakur,,,18.461952,76.919722,568.93,current,False,False,2026-10-26,49.45,0.16,47.93,-1.51,971,0,255,0,255
+Nalegaon_2,481,Latur,Chakur,,,18.422522,76.813219,609.19,insufficient,True,False,,,,,,484,484,0,0,0
+Tivghyal,481,Latur,Chakur,,,18.473381,76.870926,630.7,current,False,False,2026-10-25,36.71,2.38,29.42,-7.29,974,0,252,0,252
+Tiwatghyal,481,Latur,Chakur,,,18.479135,76.864652,588.34,current,False,False,2026-10-26,6.67,-0.91,9.59,2.92,968,0,253,0,253
+Ujalamb,481,Latur,Chakur,,,18.449348,76.902572,648.66,current,False,False,2026-10-26,49.62,1.38,49.6,-0.02,979,0,257,0,257
+Wadwal Nagnath,481,Latur,Chakur,,,18.535178,76.802207,652.57,current,False,False,2026-10-23,33.84,-0.21,29.73,-4.11,626,0,161,3,158
+Wadmurambi,481,Latur,Deoni,,,18.19583333,77.02278056,608.07,stale,False,False,2026-05-31,13.99,1.1,13.37,-0.62,556,0,139,9,130
+Jalkot,481,Latur,Jalkot,,,18.62916667,77.18333611,548.31,stale,False,False,2026-06-02,19.8,3.14,16.95,-2.85,548,0,137,9,128
+Patoda,481,Latur,Jalkot,,,18.57638889,77.18666944,,stale,False,False,2026-05-30,15.32,0.36,15.02,-0.3,552,0,138,11,127
+Gadhwad,481,Latur,LATUR,,,18.51666667,76.32861389,637.59,stale,False,False,2026-06-02,12.58,1.8,10.96,-1.62,556,0,139,7,132
+Dangewadi,481,Latur,NILANGA,,,18.23472222,76.802225,598.07,stale,False,False,2026-06-01,16.78,2.09,15.56,-1.22,552,0,138,14,124
+Renapur ,481,Latur,RENAPUR,,,18.525,76.59778056,606.46,stale,False,False,2026-06-02,12.1,1.79,10.71,-1.39,552,0,138,10,128
+Yerol,481,Latur,SHIRUR-ANANTPAL,,,18.37083333,76.88528056,607.68,stale,False,False,2026-06-02,13.5,0.93,12.82,-0.69,552,0,138,9,129
+Togri,481,Latur,UDGIR,,,18.27916667,77.15694722,509.08,stale,False,False,2026-06-02,11.15,2.13,9.39,-1.76,548,0,137,9,128
+Ajangaon Bk,484,Nagpur,,,,21.264952,78.685945,445.0,current,False,False,2026-10-23,4.97,-0.53,6.27,1.31,618,0,159,0,159
+Ambada (Sonak),484,Nagpur,,,,21.269161,78.551872,428.0,stale,True,False,2026-07-12,3.72,,7.15,3.43,956,366,160,0,160
+Bhanegaon_1,484,Nagpur,,,,21.263096,79.126087,244.0,stale,False,False,2026-06-02,19.07,2.21,17.65,-1.41,536,0,134,9,125
+Bhishnur_1,484,Nagpur,,,,21.358792,78.510874,381.0,current,False,False,2026-10-26,28.05,5.35,28.47,0.42,1056,0,271,0,271
+Bihalgondi,484,Nagpur,,,,21.159326,78.666362,478.0,current,False,False,2026-10-26,9.57,0.41,9.68,0.11,1060,0,271,0,271
+Bina_1,484,Nagpur,,,,21.263799,79.163612,221.0,stale,False,False,2026-06-02,19.8,2.13,17.94,-1.86,556,0,139,5,134
+Bori_2,484,Nagpur,,,,21.355813,78.671227,444.0,current,False,False,2026-10-26,4.47,2.05,5.95,1.48,973,0,250,0,250
+Chikhali (Malode),484,Nagpur,,,,21.217747,78.6898,488.0,current,False,False,2026-10-23,5.19,-0.01,6.03,0.83,618,0,160,0,160
+Chikhali (Masod),484,Nagpur,,,,21.096698,78.608633,506.0,current,False,False,2026-10-23,11.92,0.88,14.75,2.83,622,0,160,0,160
+Dhawalapur,484,Nagpur,,,,21.26569,78.655406,437.0,current,False,False,2026-10-23,1.93,1.66,6.38,4.45,626,0,160,0,160
+Dhurkheda,484,Nagpur,,,,21.112783,78.614008,442.0,current,False,False,2026-10-23,2.18,-1.96,9.82,7.65,682,20,174,1,173
+Digras (Bk),484,Nagpur,,,,21.330837,78.544541,411.0,stale,False,False,2026-07-31,15.55,,17.0,1.45,564,0,150,0,150
+Dodki,484,Nagpur,,,,21.100666,78.663312,500.0,stale,False,False,2026-09-06,0.77,0.08,4.46,3.69,920,1,233,0,233
+Dongargaon_3,484,Nagpur,,,,21.305135,78.603904,328.0,stale,False,False,2026-09-29,15.41,-9.62,27.76,12.35,920,0,242,6,236
+Dorli (Bhandwalkar),484,Nagpur,,,,21.37083,78.574299,400.0,current,False,False,2026-10-26,2.87,0.63,2.88,0.01,1057,0,271,0,271
+Dudhala_2,484,Nagpur,,,,21.143178,78.65502,461.0,current,False,False,2026-10-26,9.3,1.06,11.68,2.38,1060,67,270,0,270
+Fetri_1,484,Nagpur,,,,21.278151,78.524715,426.0,current,False,False,2026-10-26,4.79,1.85,7.27,2.48,979,0,255,0,255
+Ganeshpur_3,484,Nagpur,,,,21.172352,78.671609,457.0,current,False,False,2026-10-23,7.39,6.23,1.6,-5.8,656,0,169,2,167
+Gangaldoh,484,Nagpur,,,,21.303782,78.663836,497.0,current,False,False,2026-10-23,3.75,-0.28,5.44,1.69,642,0,169,0,169
+Gharatwada,484,Nagpur,,,,21.229214,78.607711,442.0,stale,False,False,2026-09-07,3.1,,7.37,4.26,609,0,160,0,160
+Gondidigras,484,Nagpur,,,,21.365319,78.59665,409.0,current,False,False,2026-10-23,8.06,0.8,8.8,0.74,764,0,196,9,187
+Gonhi,484,Nagpur,,,,21.326574,78.620058,411.0,current,False,False,2026-10-23,6.23,-0.11,17.25,11.02,886,0,230,0,230
+Hatla_1,484,Nagpur,,,,21.260887,78.660235,461.0,stale,False,False,2026-07-24,2.27,-4.9,6.75,4.48,736,0,188,0,188
+Isapur Bk,484,Nagpur,,,,21.329838,78.648172,450.0,current,False,False,2026-10-26,7.87,1.58,10.85,2.98,1052,0,271,0,271
+Isapur Kh,484,Nagpur,,,,21.325681,78.648367,480.0,current,False,False,2026-10-26,4.3,0.3,3.44,-0.86,1048,0,271,0,271
+Junona (Fuke),484,Nagpur,,,,21.411594,78.642201,428.0,current,False,False,2026-10-23,24.38,-4.05,30.05,5.67,758,0,196,0,196
+Kalambha,484,Nagpur,,,,21.363176,78.568628,390.0,current,False,False,2026-10-26,39.63,3.23,38.7,-0.94,1056,0,270,1,269
+Karandala Bk,484,Nagpur,,,,21.388669,78.5626,413.0,current,False,False,2026-10-26,51.84,1.12,52.15,0.3,1060,0,270,0,270
+Khamli,484,Nagpur,,,,21.380061,78.602653,410.0,current,False,False,2026-10-26,18.57,0.29,17.96,-0.61,1064,0,271,0,271
+Khandala (Kh),484,Nagpur,,,,21.259311,78.555026,450.0,current,False,False,2026-10-26,2.19,0.06,2.13,-0.06,951,0,249,4,245
+Khangaon_1,484,Nagpur,,,,21.296687,78.54709,410.0,current,False,False,2026-10-21,7.35,1.7,9.71,2.36,904,0,236,4,232
+Khedi G_1,484,Nagpur,,,,21.45683,78.643774,352.0,current,False,False,2026-10-26,6.62,4.12,7.87,1.25,1064,0,271,5,266
+Khursapur,484,Nagpur,,,,21.161074,78.582651,500.0,current,False,False,2026-10-26,7.42,1.45,9.43,2.01,1056,0,271,1,270
+Khutamba,484,Nagpur,,,,21.220758,78.593188,440.0,current,False,False,2026-10-26,5.03,3.65,8.08,3.05,980,0,257,0,257
+Kohala,484,Nagpur,,,,21.282802,78.671948,440.0,current,False,False,2026-10-23,1.42,0.37,0.79,-0.63,630,0,161,1,160
+Kondhali_1,484,Nagpur,,,,21.136996,78.639493,460.0,current,False,False,2026-10-23,7.04,0.68,11.46,4.42,1057,0,270,0,270
+Kondhasaoli,484,Nagpur,,,,21.227452,78.666508,500.0,current,False,False,2026-10-26,1.38,0.06,1.31,-0.07,967,0,252,0,252
+Ladgaon,484,Nagpur,,,,21.227109,78.565723,457.0,stale,True,False,2026-08-10,4.3,-3.53,10.56,6.26,963,497,129,6,123
+Linga_2,484,Nagpur,,,,21.25663,78.6315,420.0,current,False,False,2026-10-23,3.98,-2.15,4.83,0.85,618,0,160,2,158
+Malapur_3,484,Nagpur,,,,21.398241,78.660491,427.0,current,False,False,2026-10-26,25.59,,20.46,-5.13,936,16,241,2,239
+Maragsur_1,484,Nagpur,,,,21.20678,78.708025,480.0,stale,False,False,2026-07-21,1.48,-0.01,6.56,5.08,617,123,136,1,135
+Masli,484,Nagpur,,,,21.361179,78.532472,400.0,stale,False,False,2026-06-22,12.36,0.56,11.64,-0.72,502,0,132,0,132
+Masod_1,484,Nagpur,,,,21.08212,78.621777,500.0,stale,True,False,2026-09-02,17.65,3.08,,,911,784,36,2,34
+Mendhepathar,484,Nagpur,,,,21.245947,78.6851,460.0,current,False,False,2026-10-23,1.78,-0.18,2.17,0.38,622,0,159,0,159
+Mendki_1,484,Nagpur,,,,21.353336,78.629945,411.0,current,False,False,2026-10-26,12.77,0.37,14.62,1.85,1042,0,270,0,270
+Methpanjra,484,Nagpur,,,,21.258008,78.697991,420.0,current,False,False,2026-10-23,45.89,-6.06,55.33,9.44,622,0,160,0,160
+Mhasora,484,Nagpur,,,,21.429758,78.629234,443.0,stale,True,False,2026-05-14,24.99,11.39,21.7,-3.29,1056,523,134,0,134
+Nandora_1,484,Nagpur,,,,21.165413,78.61411,490.0,current,False,False,2026-10-25,7.46,1.51,9.81,2.35,1033,0,266,0,266
+Panjarkate,484,Nagpur,,,,21.119509,78.653234,476.0,current,False,False,2026-10-23,3.64,-7.88,12.92,9.29,990,100,230,1,229
+Panwadi_1,484,Nagpur,,,,21.316615,78.563578,375.0,current,False,False,2026-10-23,9.44,0.42,10.41,0.96,638,0,167,2,165
+Paradsinga_1,484,Nagpur,,,,21.311285,78.53332,440.0,stale,True,False,2026-09-05,0.02,,1.0,0.98,1061,515,143,0,143
+Pardi (Gotmare),484,Nagpur,,,,21.261504,78.635344,417.0,current,False,False,2026-10-23,19.81,-1.67,27.08,7.27,622,0,161,0,161
+Pota_2,484,Nagpur,,,,21.301744,79.120177,283.0,stale,False,False,2026-06-02,18.56,1.62,17.59,-0.97,560,0,140,7,133
+Rajni_1,484,Nagpur,,,,21.397026,78.590522,413.0,current,False,False,2026-10-26,10.24,4.55,10.11,-0.12,1060,0,271,0,271
+Ridhora_1,484,Nagpur,,,,21.231876,78.627212,427.0,current,False,False,2026-10-23,6.93,-0.12,7.99,1.05,645,0,168,0,168
+Sabkund,484,Nagpur,,,,21.199368,78.595942,411.0,stale,False,False,2026-08-08,6.12,-1.89,9.04,2.93,631,0,167,0,167
+Sawanga Kachari,484,Nagpur,,,,21.19487,78.653347,454.0,current,False,False,2026-10-26,19.03,12.24,13.75,-5.28,975,0,254,0,254
+Sawargaon_2,484,Nagpur,,,,21.398414,78.632799,420.0,current,False,False,2026-10-26,8.32,0.05,8.56,0.24,971,3,253,0,253
+Shindi (Umari),484,Nagpur,,,,21.431311,78.65656,440.0,current,False,False,2026-10-26,6.64,2.38,8.13,1.49,1149,73,276,1,275
+Singarkheda,484,Nagpur,,,,21.377997,78.547832,400.0,current,False,False,2026-10-26,24.66,-8.03,16.98,-7.68,935,116,219,11,208
+Sirsawadi,484,Nagpur,,,,21.29729,78.585947,411.0,current,False,False,2026-10-23,4.75,-0.05,8.38,3.63,621,0,165,0,165
+Sonoli_1,484,Nagpur,,,,21.366726,78.626038,410.0,current,False,False,2026-10-22,23.02,,26.12,3.11,558,0,141,0,141
+Tapani_1,484,Nagpur,,,,21.382926,78.648029,420.0,current,False,False,2026-10-26,8.3,0.07,8.26,-0.04,1057,0,271,1,270
+Umari_1,484,Nagpur,,,,21.441544,78.659401,450.0,current,False,False,2026-10-26,54.12,-0.26,54.51,0.39,965,0,254,0,254
+Vivara,484,Nagpur,,,,21.354228,78.497256,388.0,current,False,False,2026-10-26,17.9,1.78,18.68,0.78,1065,0,272,0,272
+Wadhona (Lodhi),484,Nagpur,,,,21.318635,78.577797,430.0,stale,False,False,2026-05-19,41.59,-3.88,44.47,2.88,440,0,114,6,108
+Wai (Bk),484,Nagpur,,,,21.204321,78.672222,435.0,stale,False,False,2026-09-26,3.2,-0.04,3.23,0.03,890,0,230,0,230
+Wandli (Bk),484,Nagpur,,,,21.251873,78.60317,500.0,current,False,False,2026-10-26,5.05,0.97,5.75,0.7,975,0,257,0,257
+Wandli Kh,484,Nagpur,,,,21.359038,78.545856,391.76,current,False,False,2026-10-23,2.18,-0.88,8.29,6.12,1062,0,268,0,268
+Yenwa,484,Nagpur,,,,21.343794,78.59659,450.0,current,False,False,2026-10-23,13.31,-0.33,18.66,5.34,645,0,169,0,169
+Yerla (Dhote),484,Nagpur,,,,21.339015,78.560617,430.0,stale,False,False,2026-09-20,3.12,-0.39,7.87,4.76,945,59,228,1,227
+Zilpa,484,Nagpur,,,,21.341171,78.685019,420.0,stale,False,False,2026-09-29,1.84,-1.08,10.04,8.2,1064,68,254,2,252
+Besur,484,Nagpur,BHIWAPUR,,,20.69166667,79.26778056,277.0,stale,False,False,2026-06-01,16.28,2.53,14.16,-2.12,552,0,138,13,125
+Telkamthi,484,Nagpur,KALAMESHWAR,,,21.37083333,78.809725,340.14,stale,False,False,2026-06-02,10.2,2.46,8.05,-2.14,552,0,138,8,130
+Kadholi,484,Nagpur,KAMPTEE,,,21.14444444,79.25139167,280.92,stale,False,False,2026-06-02,16.76,2.2,14.83,-1.93,580,0,145,7,138
+Khangaon,484,Nagpur,KATOL,,,21.30833333,78.55000278,409.63,stale,False,False,2026-06-02,16.48,2.46,14.21,-2.27,556,0,139,8,131
+Weltur,484,Nagpur,KUHI,,,20.99583333,79.57916944,262.36,stale,False,False,2026-06-02,11.14,2.33,9.01,-2.13,548,0,137,12,125
+Chacher,484,Nagpur,MOUDA,,,21.27916667,79.33750278,289.0,stale,False,False,2026-05-31,12.86,1.68,11.67,-1.19,520,0,130,11,119
+Bahadura,484,Nagpur,NAGPUR (RURAL),,,21.08611111,79.16750278,348.6,stale,False,False,2026-05-31,12.72,1.13,12.45,-0.27,540,0,135,15,120
+Mendhala,484,Nagpur,NARKHED,,,21.32916667,78.37778056,384.44,stale,False,False,2026-06-02,13.09,0.88,12.59,-0.49,552,0,138,9,129
+Parshivni,484,Nagpur,PARSEONI,,,21.37361111,79.15000278,303.92,stale,False,False,2026-06-01,13.43,1.07,12.41,-1.01,544,0,136,9,127
+Hingana (Ba),484,Nagpur,Parshioni,,,21.301951,79.151855,317.0,stale,False,False,2026-06-02,20.77,3.52,17.61,-3.16,524,0,131,9,122
+Saholi,484,Nagpur,Parshioni,,,21.279635,79.135053,311.0,stale,False,False,2026-06-01,18.64,1.12,17.81,-0.83,532,0,133,8,125
+Waghoda,484,Nagpur,Parshioni,,,21.293692,79.178045,289.0,stale,False,False,2026-06-01,18.06,1.3,17.23,-0.84,548,0,137,8,129
+Ramtek,484,Nagpur,RAMTEK,,,21.39444444,79.32778056,319.27,stale,False,False,2026-05-31,10.37,0.82,9.88,-0.49,536,0,134,11,123
+Umri (jambhulpani),484,Nagpur,SAVNER,,,21.4375,79.00416944,330.43,stale,False,False,2026-06-02,12.61,2.75,9.92,-2.69,568,0,142,11,131
+Chandkapur,484,Nagpur,Saoner,,,21.291978,79.106565,323.0,stale,False,False,2026-06-02,19.16,2.14,17.67,-1.49,556,0,139,8,131
+Chicholi_1,484,Nagpur,Saoner,,,21.268257,79.116561,244.0,stale,False,False,2026-06-02,20.14,3.01,18.43,-1.71,536,0,134,13,121
+Sirsi,484,Nagpur,UMRED,,,20.67916667,79.16250278,253.95,stale,False,False,2026-06-02,10.32,2.28,8.15,-2.16,540,0,135,8,127
+Kharabi,485,Nanded,,,,19.239922,77.525148,445.92,stale,False,False,2026-06-02,9.93,2.21,7.91,-2.02,548,0,137,6,131
+Lakhamapur_2,485,Nanded,,,,19.86333333,77.94444444,420.0,stale,False,False,2026-06-02,15.86,2.77,13.36,-2.5,540,0,135,13,122
+Shekapur_1,485,Nanded,,,,18.85222222,77.175,350.0,stale,False,False,2026-06-02,12.04,1.86,10.45,-1.59,556,0,139,7,132
+Taroda kh,485,Nanded,,,,19.210116,77.292233,360.0,stale,False,False,2026-05-31,20.02,3.0,17.8,-2.21,544,0,136,10,126
+Umardari,485,Nanded,,,,18.698155,77.378729,410.0,stale,False,False,2026-06-02,14.43,2.74,12.3,-2.13,572,0,143,9,134
+Pimpalgaon m,485,Nanded,ARDHAPUR,,,19.20833333,77.33889167,363.0,stale,False,False,2026-06-01,15.56,1.8,14.51,-1.05,564,0,141,7,134
+Biloli,485,Nanded,BILOLI,,,18.77083333,77.72778056,360.0,stale,False,False,2026-05-31,8.88,0.6,8.83,-0.05,552,0,138,12,126
+Dawangir,485,Nanded,DEGLUR,,,18.38888889,77.47916944,460.0,stale,False,False,2026-05-30,11.53,0.5,11.58,0.05,560,0,140,9,131
+Karkheli,485,Nanded,DHARMABAD,,,18.9625,77.74194722,360.0,stale,False,False,2026-06-01,11.02,0.9,10.95,-0.08,548,0,137,9,128
+Ghogari,485,Nanded,HADGAON,,,19.30416667,77.647225,460.0,stale,False,False,2026-06-01,16.27,1.53,15.59,-0.68,536,0,134,7,127
+Palaspur,485,Nanded,HIMAYATNAGAR,,,19.46888889,77.84528056,390.0,stale,False,False,2026-06-02,10.09,1.78,8.53,-1.56,544,0,136,8,128
+Gokunda,485,Nanded,KINWAT,,,19.50555556,78.20278056,319.0,stale,False,False,2026-06-02,12.71,2.89,10.06,-2.65,560,0,140,7,133
+Shambhargaon,485,Nanded,Loha,,,19.03472222,77.35555833,400.0,stale,False,False,2026-06-02,11.41,2.44,9.43,-1.98,560,0,140,8,132
+Barad,485,Nanded,MUDKHED,,,19.23055556,77.45833611,370.0,stale,False,False,2026-06-01,12.45,0.92,11.74,-0.71,564,0,141,10,131
+Barbada,485,Nanded,NAIGAON,,,18.99166667,77.50000278,350.0,stale,False,False,2026-06-02,11.96,2.65,9.68,-2.28,548,0,137,11,126
+Gortha,485,Nanded,Umri,,,19.05416667,77.622225,375.0,stale,False,False,2026-06-02,10.18,0.91,9.65,-0.53,544,0,136,8,128
+Akkalkuwa,486,Nandurbar,AKKALKUWA,,,21.55555556,74.01944722,128.0,stale,False,False,2026-06-02,12.73,2.53,10.73,-2.0,580,0,145,10,135
+Nandurbar,486,Nandurbar,NANDURBAR,,,21.35416667,74.23750278,196.0,stale,False,False,2026-06-02,9.45,2.66,7.12,-2.33,528,0,132,10,122
+Visarwadi,486,Nandurbar,NAWAPUR,,,21.18055556,73.96666944,190.0,stale,False,False,2026-05-30,12.74,0.75,12.23,-0.51,576,0,144,5,139
+Mandana,486,Nandurbar,SHAHADE,,,21.59194444,74.62361389,214.0,stale,False,False,2026-06-02,16.12,3.12,13.28,-2.84,524,0,131,6,125
+Gopalpur,486,Nandurbar,TALODE,,,21.63666667,74.24250278,201.0,stale,False,False,2026-06-02,20.33,2.85,17.86,-2.48,548,0,137,8,129
+Adwadi_2,487,Nashik,,,,19.738142,73.923189,1054.0,current,False,False,2026-10-23,11.21,-0.11,11.82,0.61,638,0,169,0,169
+Agaskhind,487,Nashik,,,,19.813267,73.834077,586.0,stale,True,False,2026-10-16,0.9,,12.95,12.05,932,242,182,1,181
+Ambe_1,487,Nashik,,,,20.37791,74.506241,492.0,stale,False,False,2026-06-02,10.78,2.89,8.27,-2.5,548,0,137,9,128
+Atkawade,487,Nashik,,,,19.793209,73.985586,720.0,current,False,False,2026-10-26,9.09,0.98,11.74,2.66,1062,0,274,2,272
+Aundhewadi,487,Nashik,,,,19.753611,73.845977,948.44,current,False,False,2026-10-26,4.41,0.03,5.87,1.46,877,0,234,0,234
+Bargaon Pimpri,487,Nashik,,,,19.90411,74.05575,620.0,current,False,False,2026-10-23,4.42,0.91,5.16,0.74,783,1,205,0,205
+Bhatwadi,487,Nashik,,,,19.822172,74.025145,691.0,current,False,False,2026-10-23,6.38,2.16,4.5,-1.88,630,0,161,0,161
+Bhokani,487,Nashik,,,,19.818857,74.143624,603.0,stale,False,False,2026-04-27,1.75,-0.35,,,388,0,101,0,101
+Borkhind,487,Nashik,,,,19.798609,73.867192,626.0,current,False,False,2026-10-23,6.5,-0.46,7.97,1.47,622,0,161,0,161
+Chandrapur_3,487,Nashik,,,,19.820434,73.923251,766.0,current,False,False,2026-10-23,6.27,-1.73,7.52,1.25,650,0,171,0,171
+Chichave (Nimbait),487,Nashik,,,,20.386393,74.323645,574.0,current,False,False,2026-10-25,7.77,3.53,12.36,4.59,928,0,240,1,239
+Chondhi,487,Nashik,,,,19.9412,74.18554,538.0,current,True,False,2026-10-26,7.58,0.27,8.4,0.82,994,227,200,3,197
+Dahiwad_1,487,Nashik,,,,20.432488,74.300277,646.62,current,False,False,2026-10-19,39.65,,40.03,0.38,611,0,158,0,158
+Dahiwadi,487,Nashik,,,,19.919595,74.255672,604.44,current,False,False,2026-10-19,2.08,,2.13,0.05,727,0,191,0,191
+Dapur_3,487,Nashik,,,,19.739375,74.051967,722.0,current,False,False,2026-10-23,14.09,-0.73,16.42,2.33,633,0,167,0,167
+Datli,487,Nashik,,,,19.83563,74.090766,608.0,current,False,False,2026-10-24,7.65,1.29,13.57,5.92,805,0,218,0,218
+Dattanagar (Nv) (74),487,Nashik,,,,19.76674,74.08059,737.64,current,False,False,2026-10-26,6.99,1.0,7.15,0.16,980,0,255,0,255
+Deopur_2,487,Nashik,,,,19.86785,74.15112,565.0,current,False,False,2026-10-23,4.3,3.1,10.63,6.34,714,0,183,2,181
+Deopurpada,487,Nashik,,,,20.50564,74.308982,587.7,stale,False,False,2026-05-14,7.6,1.48,6.77,-0.83,449,0,118,0,118
+Dhondbar_1,487,Nashik,,,,19.74876,73.872544,886.0,current,False,False,2026-10-23,6.68,-2.08,11.03,4.35,634,0,168,0,168
+Dhondvirnagar (Nv) (63,487,Nashik,,,,19.802382,74.021792,736.19,current,False,False,2026-10-26,2.72,0.44,3.83,1.1,959,0,254,0,254
+Dodi Kh,487,Nashik,,,,19.754769,74.084074,705.21,current,False,False,2026-10-23,6.96,-1.59,11.43,4.48,646,0,170,0,170
+Dongargaon_3,487,Nashik,,,,20.475404,74.342426,587.74,stale,False,False,2026-09-21,24.57,0.16,24.0,-0.57,707,0,190,0,190
+Donwade,487,Nashik,,,,19.870669,73.857462,517.0,current,False,False,2026-10-23,5.25,-1.58,12.49,7.24,909,0,238,0,238
+Dubere,487,Nashik,,,,19.781124,73.974738,727.0,current,False,False,2026-10-26,5.72,0.42,13.3,7.57,996,0,262,20,242
+Dugaon_1,487,Nashik,,,,20.295423,74.323116,665.0,stale,False,False,2026-05-31,12.33,0.88,12.22,-0.12,552,0,138,10,128
+Dushingapur,487,Nashik,,,,19.796454,74.272931,560.0,current,False,False,2026-10-26,35.98,0.22,24.85,-11.14,967,0,252,0,252
+Fardapur_2,487,Nashik,,,,19.84272,74.13274,593.0,current,False,False,2026-10-25,21.42,1.9,18.56,-2.86,965,0,255,0,255
+Fulemalwadi (Nv) (149),487,Nashik,,,,20.480522,74.200517,494.3,current,False,False,2026-10-23,11.51,-2.28,17.95,6.44,622,0,161,0,161
+Ghorwad,487,Nashik,,,,19.818352,73.878652,620.0,current,False,False,2026-10-26,3.14,-0.01,4.53,1.39,728,0,193,0,193
+Ghotewadi,487,Nashik,,,,19.76121,74.23195,589.0,current,False,False,2026-10-23,18.24,0.57,23.02,4.79,849,0,218,4,214
+Giranare,487,Nashik,,,,20.349262,74.377953,632.0,current,False,False,2026-10-26,23.16,6.27,23.68,0.52,971,0,255,1,254
+Gulvanch,487,Nashik,,,,19.88419,74.08669,604.0,stale,False,False,2026-09-29,3.66,1.0,3.52,-0.14,923,1,238,0,238
+Gunjalnagar,487,Nashik,,,,20.454709,74.181162,568.0,current,False,False,2026-10-20,9.39,,13.0,3.62,500,0,131,1,130
+Harsule,487,Nashik,,,,19.810825,73.955654,675.0,current,False,False,2026-10-23,10.19,-0.72,10.83,0.65,621,0,167,0,167
+Hiwargaon,487,Nashik,,,,19.9491,74.10079,567.0,current,False,False,2026-10-26,4.02,0.54,12.44,8.42,978,0,255,0,255
+Jamgaon_3,487,Nashik,,,,19.847979,73.924901,712.0,current,False,False,2026-10-23,5.86,-0.52,7.46,1.6,642,0,170,0,170
+Kankapur,487,Nashik,,,,20.404263,74.10316,685.0,current,False,False,2026-10-26,5.48,0.51,5.55,0.07,943,0,248,0,248
+Kapashi,487,Nashik,,,,20.394259,74.178142,679.61,current,False,False,2026-10-23,12.85,0.56,16.85,4.0,646,0,170,1,169
+Karwadi (NV) (99),487,Nashik,,,,19.896712,74.300271,527.0,current,False,False,2026-10-26,4.3,2.47,6.22,1.92,921,1,238,0,238
+Keru Patilnagar,487,Nashik,,,,19.93281,74.09289,582.0,current,False,False,2026-10-26,2.39,1.02,4.04,1.66,963,96,254,13,241
+Khadaktale,487,Nashik,,,,20.474612,74.267508,593.8,current,False,False,2026-10-26,4.29,-0.18,7.82,3.53,1073,0,279,8,271
+Khadangali,487,Nashik,,,,19.9168,74.16786,551.0,stale,False,False,2026-10-18,15.54,0.15,15.83,0.29,927,0,244,0,244
+Khalap_1,487,Nashik,,,,20.496153,74.23217,528.3,current,False,False,2026-10-26,5.9,-0.08,6.53,0.63,963,0,254,0,254
+Khambale_1,487,Nashik,,,,19.790323,74.106835,630.0,current,False,False,2026-10-26,10.64,0.3,10.62,-0.02,973,0,256,0,256
+Kharde (Wakhari),487,Nashik,,,,20.426718,74.110495,648.0,current,False,False,2026-10-26,6.58,1.76,9.25,2.67,990,0,258,0,258
+Khopadi Bk,487,Nashik,,,,19.84199,74.110058,598.0,stale,False,False,2026-07-30,1.81,-3.65,4.23,2.41,699,81,167,2,165
+Khuntewadi,487,Nashik,,,,20.465268,74.216179,561.92,current,False,False,2026-10-23,10.62,-3.7,18.03,7.41,638,0,169,0,169
+Komalwadi,487,Nashik,,,,19.9446,74.13421,554.0,current,False,False,2026-10-26,10.3,3.6,8.95,-1.35,936,0,246,0,246
+Konambe,487,Nashik,,,,19.781958,73.920048,742.0,current,False,False,2026-10-23,9.48,-2.73,11.91,2.43,642,0,169,0,169
+Krishnanagar_1,487,Nashik,,,,19.764922,73.970372,758.0,current,False,False,2026-10-23,3.66,0.01,5.58,1.91,780,0,205,4,201
+Kumbharde,487,Nashik,,,,20.366198,74.356405,594.0,current,False,False,2026-10-26,23.45,8.34,23.5,0.05,991,0,258,2,256
+Kundewadi_1,487,Nashik,,,,19.84016,74.0267,643.0,current,False,False,2026-10-23,14.1,0.05,15.7,1.6,625,0,164,0,164
+Lohoner,487,Nashik,,,,20.514689,74.193335,529.56,stale,False,False,2026-06-02,10.52,-0.32,10.91,0.39,518,0,134,0,134
+Lonarwadi (Shastrinagar),487,Nashik,,,,19.820248,73.971455,713.0,current,False,False,2026-10-23,10.15,0.11,10.9,0.75,646,0,172,0,172
+Mahalpatane,487,Nashik,,,,20.520751,74.316493,554.06,current,False,False,2026-10-23,11.32,-0.67,15.19,3.87,924,0,240,0,240
+Mahatma Fule Nagar,487,Nashik,,,,20.442652,74.328213,629.83,current,False,False,2026-10-23,8.22,0.49,9.19,0.97,655,0,168,0,168
+Maldhon,487,Nashik,,,,19.78513,74.29558,557.0,current,False,False,2026-10-23,4.31,-0.08,7.99,3.67,630,0,161,0,161
+Malegaon_3,487,Nashik,,,,19.872201,73.988909,688.0,current,False,False,2026-10-23,2.98,-0.27,6.16,3.18,626,0,161,0,161
+Malwadi_2,487,Nashik,,,,20.471172,74.189071,522.0,current,False,False,2026-10-23,13.27,-0.87,18.46,5.18,650,0,172,0,172
+Manegaon_1,487,Nashik,,,,19.802712,74.00457,748.28,stale,False,False,2026-08-21,6.67,-2.29,,,472,0,124,0,124
+Matane,487,Nashik,,,,20.462495,74.147413,558.81,insufficient,True,False,,,,,,472,472,0,0,0
+Mendhi_1,487,Nashik,,,,19.93842,74.18713,533.0,current,False,False,2026-10-23,4.37,-1.02,6.58,2.21,775,0,201,0,201
+Meshi,487,Nashik,,,,20.466912,74.297151,592.81,current,False,False,2026-10-23,5.5,-0.89,9.64,4.14,726,0,188,0,188
+Musalgaon,487,Nashik,,,,19.83519,74.05162,633.0,current,False,False,2026-10-26,5.05,1.42,7.73,2.68,902,0,237,0,237
+Nanegaon_1,487,Nashik,,,,19.896371,73.867165,550.0,current,False,False,2026-10-23,3.88,0.03,5.3,1.41,642,0,171,0,171
+Nimbole,487,Nashik,,,,20.525671,74.344808,551.58,current,False,False,2026-10-23,3.42,0.05,5.02,1.6,704,122,156,0,156
+Nimgaon Deopur,487,Nashik,,,,19.91131,74.08325,610.77,current,False,False,2026-10-26,17.48,0.99,19.2,1.73,979,0,257,0,257
+Nimgaon Sinnar,487,Nashik,,,,19.89735,74.163295,596.0,current,False,False,2026-10-26,7.58,0.78,6.53,-1.05,947,0,252,0,252
+Panchale,487,Nashik,,,,19.875604,74.213374,633.57,stale,False,False,2026-06-03,35.39,1.06,34.91,-0.48,531,1,138,0,138
+Pandhurli_1,487,Nashik,,,,19.830485,73.835139,552.0,current,False,False,2026-10-23,3.85,1.72,4.03,0.18,626,0,161,0,161
+Paste_1,487,Nashik,,,,19.849573,73.941436,693.0,current,False,False,2026-10-19,5.22,1.38,6.68,1.46,929,0,247,0,247
+Pathare Bk,487,Nashik,,,,19.828747,74.335613,549.0,current,False,False,2026-10-26,2.76,0.4,3.09,0.33,983,0,256,0,256
+Pathare Kh,487,Nashik,,,,19.82931,74.33722,531.0,current,False,False,2026-10-23,10.26,-0.06,10.37,0.11,622,0,161,0,161
+Patole,487,Nashik,,,,19.784601,73.999024,710.0,current,False,False,2026-10-23,0.98,-0.43,3.15,2.17,626,0,161,0,161
+Patpimpri,487,Nashik,,,,19.92214,74.05342,623.0,current,False,False,2026-10-23,10.35,-0.07,12.08,1.73,614,0,159,0,159
+Phule Nagar,487,Nashik,,,,20.497942,74.275284,504.0,current,False,False,2026-10-23,4.65,-0.2,8.05,3.41,841,0,220,5,215
+Pimpalgaon_1,487,Nashik,,,,19.90195,74.22004,594.0,stale,True,False,2026-05-11,2.75,,,,480,230,67,0,67
+Pimpalgaon_1,487,Nashik,,,,20.450934,74.236634,560.29,stale,False,False,2026-09-17,4.23,0.59,5.16,0.93,952,104,224,2,222
+Putalewadi (Rampur),487,Nashik,,,,19.87821,74.26382,541.0,stale,False,False,2026-08-25,12.66,0.79,12.8,0.14,523,0,143,0,143
+Rahuri_1,487,Nashik,,,,19.865729,73.84223,561.0,current,False,False,2026-10-23,3.5,-0.55,4.3,0.8,645,0,168,0,168
+Rameshwar_1,487,Nashik,,,,20.433646,74.161838,604.13,current,False,False,2026-10-23,4.61,-3.94,14.64,10.03,637,0,165,0,165
+Ramnagar_5,487,Nashik,,,,19.761665,74.013752,555.0,current,False,False,2026-10-26,5.97,0.07,6.37,0.41,975,0,255,0,255
+Sangavi_1,487,Nashik,,,,20.395595,74.34466,554.0,current,False,False,2026-10-26,25.28,-2.11,13.98,-11.3,998,0,258,19,239
+Sangvi_1,487,Nashik,,,,19.93478,74.245,537.0,stale,True,False,2026-05-15,12.35,4.61,,,492,382,32,0,32
+Sardawadi,487,Nashik,,,,19.84936,73.96519,683.0,current,False,False,2026-10-23,0.64,0.13,5.42,4.79,911,0,240,0,240
+Satvaichiwadi,487,Nashik,,,,20.473754,74.178088,577.27,current,False,False,2026-10-19,5.56,,7.25,1.68,715,0,189,0,189
+Sawatamalinagar (Nv),487,Nashik,,,,19.820525,73.865822,604.0,current,False,False,2026-10-23,3.25,-2.23,10.72,7.47,849,0,220,7,213
+Sayale,487,Nashik,,,,19.79196,74.31711,550.0,current,False,False,2026-10-23,28.63,-1.74,31.56,2.93,626,0,161,0,161
+Sheri (Lohoner),487,Nashik,,,,20.40131,74.088207,703.03,current,False,False,2026-10-23,15.29,-0.21,24.31,9.02,622,0,161,1,160
+Shevga Darna,487,Nashik,,,,19.912173,73.848769,536.0,current,False,False,2026-10-23,3.58,-3.2,7.11,3.53,645,0,169,0,169
+Shivade_1,487,Nashik,,,,19.799101,73.881525,635.0,current,False,False,2026-10-23,7.66,-0.96,10.5,2.84,614,0,159,0,159
+Shivajinagar (Khandalwadi),487,Nashik,,,,19.776141,74.258707,570.0,current,False,False,2026-10-23,15.34,-0.82,18.39,3.05,630,0,161,0,161
+Shivajinagar (Nv) (74),487,Nashik,,,,19.77739,74.08332,662.0,current,False,False,2026-10-23,3.58,-3.54,7.32,3.75,625,0,161,0,161
+Shrirampur_1,487,Nashik,,,,19.8788,74.23487,558.0,current,False,False,2026-10-26,5.54,1.73,22.6,17.07,980,0,256,2,254
+Shrirampur_1,487,Nashik,,,,20.409473,74.22327,571.68,current,False,False,2026-10-23,15.8,-3.15,20.95,5.15,622,0,160,0,160
+Somthane,487,Nashik,,,,19.951927,74.223483,521.0,current,False,False,2026-10-23,34.31,0.1,34.17,-0.14,980,0,254,0,254
+Sonambe,487,Nashik,,,,19.790145,73.934923,740.0,current,True,False,2026-10-26,3.9,0.23,,,971,331,172,0,172
+Sonari_2,487,Nashik,,,,19.790167,73.94909,793.31,current,False,False,2026-10-26,3.08,1.46,5.75,2.67,971,1,253,2,251
+Subhashnagar_1,487,Nashik,,,,20.419955,74.176857,611.71,current,False,False,2026-10-23,9.4,-0.15,8.19,-1.21,704,0,181,2,179
+Sundarpur_1,487,Nashik,,,,19.90994,74.03545,649.0,stale,False,False,2026-07-07,9.05,,,,145,0,41,2,39
+Tisgaon_1,487,Nashik,,,,20.426703,74.378485,587.84,stale,False,False,2026-09-26,17.6,1.55,12.88,-4.73,847,0,221,9,212
+Ujjani_3,487,Nashik,,,,19.903743,74.258317,612.0,current,False,False,2026-10-23,1.99,-0.57,2.81,0.82,622,0,160,0,160
+Umarane,487,Nashik,,,,20.420108,74.345073,593.42,current,False,False,2026-10-26,5.13,0.72,4.6,-0.53,959,0,256,0,256
+Vadagaon Pingala,487,Nashik,,,,19.872561,73.881157,582.0,current,False,False,2026-10-23,5.59,2.0,7.93,2.34,626,0,161,0,161
+Vadangali_1,487,Nashik,,,,19.92207,74.1628,548.0,current,False,False,2026-10-25,7.36,0.14,8.65,1.29,908,0,243,0,243
+Varhale,487,Nashik,,,,20.42737,74.41075,582.68,current,False,False,2026-10-26,4.33,0.03,4.29,-0.05,948,0,253,0,253
+Vasol,487,Nashik,,,,20.507692,74.263995,572.13,current,False,False,2026-10-23,7.09,-1.95,10.25,3.15,626,0,161,0,161
+Vighanwadi (Bharatpur),487,Nashik,,,,19.87931,74.316607,536.0,current,False,False,2026-10-26,5.63,2.17,22.69,17.06,969,0,254,1,253
+Vijaynagar_1,487,Nashik,,,,20.471165,74.215228,573.72,current,False,False,2026-10-23,2.38,-1.62,6.45,4.07,637,0,169,0,169
+Vinchor Dalvi,487,Nashik,,,,19.853557,73.855853,573.0,current,False,False,2026-10-26,7.46,2.1,10.97,3.51,975,0,256,0,256
+Wadgaon Sinnar,487,Nashik,,,,19.814128,73.969926,684.0,stale,True,False,2026-03-23,32.24,28.82,,,369,121,66,3,63
+Wajgaon,487,Nashik,,,,20.433998,74.141311,611.92,stale,False,False,2026-05-14,0.16,-2.28,0.71,0.55,523,58,119,0,119
+Wakhari,487,Nashik,,,,20.455981,74.210114,526.0,current,False,False,2026-10-24,5.84,-0.33,21.29,15.45,1072,0,277,7,270
+Waregaon_1,487,Nashik,,,,19.8288,74.33249,530.0,current,False,False,2026-10-25,0.73,0.17,1.3,0.57,976,30,252,0,252
+Warshi_1,487,Nashik,,,,20.409587,74.068449,722.0,current,False,False,2026-10-26,10.22,0.87,12.06,1.84,998,0,258,0,258
+Devlane,487,Nashik,BAGLAN,,,20.6375,74.30833611,570.0,stale,False,False,2026-06-01,12.34,1.43,11.25,-1.1,548,0,137,9,128
+Matane,487,Nashik,DEOLA,,,20.45972222,74.15000278,583.0,stale,False,False,2026-06-02,14.13,2.28,12.33,-1.8,536,0,134,8,126
+Dindori,487,Nashik,DINDORI,,,20.2,73.83611389,650.0,stale,False,False,2026-06-02,12.76,1.7,11.6,-1.16,568,0,142,12,130
+Kanchangaon,487,Nashik,IGATPURI,,,19.68722222,73.63389167,588.0,stale,False,False,2026-06-02,13.72,1.73,12.3,-1.42,564,0,141,7,134
+Nakode,487,Nashik,KALWAN,,,20.50888889,74.03833611,595.0,stale,False,False,2026-05-31,14.24,1.09,13.47,-0.76,556,0,139,10,129
+Zodge,487,Nashik,MALEGAON,,,20.65972222,74.67778056,430.0,stale,False,False,2026-06-02,14.61,2.18,12.91,-1.7,572,0,143,9,134
+Nandgaon (MCl),487,Nashik,NANDGAON,,,20.33194444,74.69444722,480.0,stale,False,False,2026-06-02,10.4,1.95,8.55,-1.85,552,0,138,4,134
+Belgaon Dhaga,487,Nashik,NASHIK,,,19.96333333,73.83333611,662.0,stale,False,False,2026-06-02,10.4,1.88,9.03,-1.37,560,0,140,6,134
+Pimpalgaon Baswant,487,Nashik,NIPHAD,,,20.17111111,73.99444722,585.0,stale,False,False,2026-06-02,11.18,1.11,10.21,-0.97,552,0,138,12,126
+Shivade,487,Nashik,SINNAR,,,19.79944444,73.88166944,662.0,stale,False,False,2026-06-02,13.9,2.27,12.14,-1.76,544,0,136,11,125
+Hatgad,487,Nashik,SURGANA,,,20.53888889,73.74166944,840.0,stale,False,False,2026-05-31,11.41,0.5,11.28,-0.13,560,0,140,11,129
+Khambale,487,Nashik,Trimbakeshwar,,,19.95416667,73.63361389,740.0,stale,False,False,2026-06-02,11.19,1.51,9.97,-1.22,535,0,134,8,126
+Andersul,487,Nashik,YEVLA,,,20.00611111,74.59028056,559.0,stale,False,False,2026-06-02,11.7,3.17,8.84,-2.86,568,0,142,7,135
+Alni_1,488,Osmanabad,,,,18.293293,76.010305,682.0,current,False,False,2026-10-23,15.56,-0.79,17.97,2.42,622,0,161,0,161
+Arni_2,488,Osmanabad,,,,18.304237,76.226938,663.0,insufficient,True,False,,,,,,594,594,0,0,0
+Bamniwadi,488,Osmanabad,,,,18.058961,76.166528,668.0,current,False,False,2026-10-23,27.48,-0.52,30.39,2.91,626,0,161,0,161
+Baramgaon,488,Osmanabad,,,,18.16075,76.138236,657.0,current,False,False,2026-10-26,8.86,3.04,20.85,11.99,983,1,256,1,255
+Bavi (Dhoki),488,Osmanabad,,,,18.314822,76.060551,655.0,current,False,False,2026-10-23,44.19,0.06,41.57,-2.61,653,0,172,0,172
+Bavi (ka),488,Osmanabad,,,,18.07959,76.096953,677.0,current,False,False,2026-10-26,27.11,20.89,34.5,7.39,975,0,254,10,244
+Bembali,488,Osmanabad,,,,18.141607,76.194476,633.0,current,False,False,2026-10-26,16.06,0.14,15.91,-0.15,967,1,256,2,254
+Bhadachiwadi,488,Osmanabad,,,,18.321131,76.025361,683.0,current,False,False,2026-10-23,10.76,0.13,10.88,0.12,614,0,164,0,164
+Bhagatwadi,488,Osmanabad,,,,17.956132,76.661366,629.0,current,False,False,2026-10-26,20.44,1.39,21.09,0.65,983,0,257,0,257
+Bhandarwadi,488,Osmanabad,,,,18.286632,76.182813,640.0,current,False,False,2026-10-23,10.2,-0.33,11.58,1.38,622,0,161,0,161
+Bhikarsarola,488,Osmanabad,,,,18.34928,76.193022,661.0,current,False,False,2026-10-23,2.05,1.81,3.0,0.95,654,0,171,3,168
+Bukanwadi,488,Osmanabad,,,,18.353458,76.141975,654.0,current,False,False,2026-10-26,18.88,1.34,18.62,-0.25,987,0,256,1,255
+Dhutta,488,Osmanabad,,,,18.133538,76.276967,617.0,current,False,False,2026-10-23,1.8,-9.48,26.81,25.01,633,0,169,9,160
+Dudhgaon,488,Osmanabad,,,,18.355489,76.024908,663.0,current,False,False,2026-10-23,12.66,-9.52,37.56,24.9,653,0,171,7,164
+Gopalwadi,488,Osmanabad,,,,18.410334,76.034387,695.0,current,False,False,2026-10-23,10.34,-28.25,11.33,0.99,665,0,175,7,168
+Gorewadi,488,Osmanabad,,,,18.371586,76.143372,659.0,current,False,False,2026-10-23,13.58,-0.38,17.89,4.31,629,0,169,0,169
+Govardhanvadi,488,Osmanabad,,,,18.347987,76.114616,657.0,current,False,False,2026-10-23,3.56,0.11,3.42,-0.15,642,0,170,0,170
+Jagji_1,488,Osmanabad,,,,18.343887,76.231299,668.0,current,False,False,2026-10-23,6.67,-1.02,9.85,3.17,625,0,163,0,163
+Jawala (Dumala),488,Osmanabad,,,,18.338203,76.009654,667.0,current,False,False,2026-10-23,3.81,-48.19,4.88,1.07,670,0,174,2,172
+Kangara,488,Osmanabad,,,,18.139272,76.247345,623.0,current,False,False,2026-10-22,37.02,,36.97,-0.05,535,0,142,0,142
+Kawalewadi,488,Osmanabad,,,,18.354771,76.123821,657.0,current,False,False,2026-10-23,1.36,-5.58,1.24,-0.12,645,0,168,1,167
+Keshegaon,488,Osmanabad,,,,18.09638,76.15959,648.0,current,False,False,2026-10-23,13.58,-5.15,21.33,7.75,618,0,163,0,163
+Khamaswadi,488,Osmanabad,,,,18.095914,76.122494,649.0,current,False,False,2026-10-26,3.35,1.47,4.99,1.63,967,12,252,2,250
+Khamgaon_2,488,Osmanabad,,,,18.336547,76.029,665.0,current,True,False,2026-10-23,6.37,-0.01,6.73,0.35,720,154,154,0,154
+Khed_4,488,Osmanabad,,,,18.301106,76.046259,668.0,current,False,False,2026-10-23,7.25,-1.1,8.09,0.84,650,0,170,0,170
+Kini_2,488,Osmanabad,,,,18.287721,76.07194,673.0,current,False,False,2026-10-23,11.43,-1.02,15.21,3.79,634,0,168,2,166
+Kumalwadi,488,Osmanabad,,,,18.277193,75.985697,702.0,current,False,False,2026-10-23,55.39,1.41,40.71,-14.67,630,0,168,0,168
+Mohtarwadi,488,Osmanabad,,,,18.314263,76.171648,650.0,stale,False,False,2026-04-14,49.25,-1.05,,,352,0,91,8,83
+Mulewadi,488,Osmanabad,,,,18.31448,76.099605,660.0,current,False,False,2026-10-26,51.89,-3.53,17.34,-34.55,761,0,194,10,184
+Naichakur,488,Osmanabad,,,,17.976068,76.654603,605.0,current,False,False,2026-10-23,3.29,0.28,13.39,10.1,650,0,170,0,170
+Padoli_1,488,Osmanabad,,,,18.19467,76.263063,639.0,current,False,False,2026-10-23,6.83,-16.31,28.59,21.77,646,0,169,2,167
+Palsap_1,488,Osmanabad,,,,18.368962,76.181795,669.0,current,False,False,2026-10-26,58.35,0.15,59.86,1.51,844,0,214,8,206
+Sawalsoor,488,Osmanabad,,,,17.962248,76.618109,644.0,current,False,False,2026-10-23,42.22,-0.1,43.27,1.05,634,0,167,0,167
+Sumbha_2,488,Osmanabad,,,,18.299475,76.244188,669.0,current,False,False,2026-10-23,9.88,-1.17,13.71,3.83,876,2,230,1,229
+Tadwala Kasbe,488,Osmanabad,,,,18.373297,76.045154,668.0,current,False,False,2026-10-23,4.53,-0.46,5.76,1.23,645,0,170,0,170
+Takli (Dhoki),488,Osmanabad,,,,18.274048,76.212828,643.0,current,False,False,2026-10-23,9.21,-0.04,9.61,0.4,646,0,171,0,171
+Takli Bembli,488,Osmanabad,,,,18.148575,76.263583,620.0,current,False,False,2026-10-23,1.39,0.63,0.95,-0.44,638,0,165,0,165
+Takwiki,488,Osmanabad,,,,18.038277,76.222297,654.0,stale,False,False,2026-05-14,32.28,1.26,32.13,-0.15,125,0,36,0,36
+Ter_4,488,Osmanabad,,,,18.317134,76.117439,643.0,current,False,False,2026-10-26,48.93,4.91,44.63,-4.3,971,0,256,1,255
+Tugaon_1,488,Osmanabad,,,,18.331148,76.074865,654.0,current,True,False,2026-10-23,2.22,0.99,13.68,11.45,964,319,171,5,166
+Umereghavan,488,Osmanabad,,,,18.106007,76.201206,637.0,current,False,False,2026-10-23,13.46,0.12,13.59,0.13,678,8,176,1,175
+Vitthalwadi_1,488,Osmanabad,,,,18.120593,76.180716,634.0,current,False,False,2026-10-23,4.11,1.34,0.82,-3.29,650,0,170,3,167
+Yedshi_1,488,Osmanabad,,,,18.314226,75.965595,690.0,current,False,False,2026-10-26,43.01,20.3,46.27,3.26,971,1,254,3,251
+Yeoti_1,488,Osmanabad,,,,18.264563,76.235476,648.0,current,False,False,2026-10-24,8.42,2.11,7.32,-1.1,959,2,253,0,253
+Bhoom,488,Osmanabad,BHUM,,,18.475,75.66111667,580.0,stale,False,False,2026-05-31,16.9,1.32,15.94,-0.96,536,0,134,14,120
+Lohara,488,Osmanabad,Lohara,,,17.99166667,76.33333611,620.0,stale,False,False,2026-06-02,9.91,2.1,8.14,-1.77,536,0,134,9,125
+Dhoki,488,Osmanabad,OSMANABAD,,,18.36666667,76.09444722,660.0,stale,False,False,2026-06-02,15.35,3.75,12.11,-3.24,564,0,141,6,135
+Paranda,488,Osmanabad,PARANDA,,,18.26944444,75.45361389,520.0,stale,False,False,2026-05-29,13.38,1.05,12.91,-0.48,532,0,133,7,126
+Jalkot,488,Osmanabad,TULJAPUR,,,17.82083333,76.33750278,580.0,stale,False,False,2026-06-02,10.64,1.59,9.3,-1.34,568,0,142,9,133
+Bedga,488,Osmanabad,UMARGA,,,17.74722222,76.647225,545.0,stale,False,False,2026-06-01,14.86,1.45,14.14,-0.71,528,0,132,13,119
+Dahifal,488,Osmanabad,Washi,,,18.61111111,75.72500278,698.0,stale,False,False,2026-06-01,10.22,1.56,9.05,-1.16,560,0,140,11,129
+Gangakhed_1,489,Parbhani,,,,18.967,76.95,390.0,stale,False,False,2026-05-30,11.28,0.44,11.25,-0.03,524,0,131,8,123
+BORI,489,Parbhani,JINTUR,,,19.49277778,76.73194722,407.0,stale,False,False,2026-06-02,12.46,2.6,10.36,-2.1,532,0,133,9,124
+MANWAT,489,Parbhani,MANWAT,,,19.30277778,76.49889167,420.0,stale,False,False,2026-05-31,17.5,1.78,16.56,-0.93,540,0,135,10,125
+PARBHANI,489,Parbhani,PARBHANI,,,19.2625,76.77500278,347.0,stale,False,False,2026-06-02,14.32,1.24,13.31,-1.01,572,0,143,7,136
+PATHRI,489,Parbhani,PATHRI,,,19.25,76.43444722,423.0,stale,False,False,2026-06-02,18.63,3.24,15.87,-2.76,564,0,141,10,131
+PALAM,489,Parbhani,Palam,,,19.01388889,76.95000556,399.0,stale,False,False,2026-06-02,15.75,1.62,14.37,-1.38,548,0,137,8,129
+KATNESHWAR,489,Parbhani,Purna,,,19.11111111,77.02916944,384.0,stale,False,False,2026-06-01,17.57,0.99,17.15,-0.42,564,0,141,11,130
+DHENGLI PIMPALGAON,489,Parbhani,Sailu,,,19.39583333,76.49861389,436.0,stale,False,False,2026-06-02,19.3,2.09,17.94,-1.37,552,0,138,10,128
+NILA,489,Parbhani,Sonpeth,,,18.94166667,76.634725,437.0,stale,False,False,2026-06-02,17.45,1.6,16.02,-1.43,532,0,133,7,126
+Ambale_2,490,Pune,,,,18.40661,74.166619,728.0,current,False,False,2026-10-23,47.81,-0.39,49.66,1.85,646,0,170,0,170
+Ambi Bk,490,Pune,,,,18.301106,74.282306,634.0,current,False,False,2026-10-23,12.38,-1.47,18.91,6.52,633,0,169,0,169
+Ambi Kh_1,490,Pune,,,,18.30734,74.286022,634.0,current,False,False,2026-10-25,32.76,,41.87,9.11,792,0,210,0,210
+Ambodi_1,490,Pune,,,,18.355312,74.04767,663.0,current,False,False,2026-10-23,49.19,3.18,51.36,2.17,688,0,183,9,174
+Anjangaon_1,490,Pune,,,,18.220593,74.507484,566.0,current,False,False,2026-10-23,4.97,1.21,12.83,7.86,634,0,168,1,167
+Askarwadi,490,Pune,,,,18.400956,73.912651,928.0,current,False,False,2026-10-23,0.88,-0.82,0.69,-0.19,645,0,170,0,170
+Baburdi,490,Pune,,,,18.272081,74.380473,601.0,current,False,False,2026-10-26,6.25,0.17,5.85,-0.4,975,1,255,1,254
+Barhanpur_1,490,Pune,,,,18.197522,74.518533,565.0,current,False,False,2026-10-23,6.13,-1.11,9.06,2.94,638,0,168,3,165
+Belsar_2,490,Pune,,,,18.31405,74.129873,761.15,stale,False,False,2026-09-02,1.85,-6.5,9.21,7.36,1064,171,226,0,226
+Bhilarwadi,490,Pune,,,,18.208888,74.457191,576.0,current,False,False,2026-10-23,2.36,-1.68,4.7,2.34,642,0,170,0,170
+Bhivari,490,Pune,,,,18.389055,73.930257,876.0,current,True,False,2026-10-23,11.8,0.15,13.16,1.36,1141,263,228,12,216
+Bhondvewadi,490,Pune,,,,18.303608,74.315114,626.0,stale,False,False,2026-10-15,4.11,-3.61,12.69,8.58,803,0,207,15,192
+Bhosalewadi,490,Pune,,,,18.344482,74.15547,711.0,current,False,False,2026-10-23,16.77,3.5,8.87,-7.91,617,0,162,0,162
+Bopgaon,490,Pune,,,,18.385975,73.956004,855.0,current,False,False,2026-10-26,4.08,0.45,4.54,0.46,1064,0,271,0,271
+Chambali,490,Pune,,,,18.368706,73.975029,837.0,current,False,False,2026-10-26,6.37,0.34,11.2,4.83,1064,1,271,1,270
+Chandgude Wadi,490,Pune,,,,18.317014,74.308235,639.0,current,False,False,2026-10-23,30.51,-0.69,35.44,4.93,661,0,171,0,171
+Chaudharwadi,490,Pune,,,,18.166194,74.266564,587.4,current,False,False,2026-10-23,7.97,-0.31,14.46,6.49,630,0,161,0,161
+Chopadaj,490,Pune,,,,18.143988,74.334332,560.0,current,False,False,2026-10-23,1.55,0.22,2.32,0.77,622,0,160,0,160
+Dandwadi,490,Pune,,,,18.341609,74.429352,652.0,stale,True,False,2026-05-14,9.29,-0.68,,,387,280,29,0,29
+Deulgaon Rasal,490,Pune,,,,18.296968,74.465313,535.7,current,False,False,2026-10-23,13.36,-9.31,38.22,24.87,634,0,169,7,162
+Dhakale,490,Pune,,,,18.174466,74.438853,599.0,current,False,False,2026-10-23,6.67,0.12,6.64,-0.03,618,0,164,0,164
+Dhekalwadi,490,Pune,,,,18.107096,74.667844,525.0,current,False,False,2026-10-23,0.54,0.38,0.71,0.16,637,0,169,0,169
+Dive_1,490,Pune,,,,18.38391,74.016176,800.0,current,False,False,2026-10-23,8.39,-0.2,9.43,1.04,638,0,169,0,169
+Dorlewadi_1,490,Pune,,,,18.092065,74.613804,528.0,current,False,False,2026-10-23,48.75,-1.42,54.3,5.55,642,0,170,2,168
+Ekhatpur,490,Pune,,,,18.334464,74.08169,739.0,current,True,False,2026-10-26,4.86,4.01,4.87,0.0,1064,264,205,1,204
+Gojubavi,490,Pune,,,,18.231616,74.569979,576.0,current,False,False,2026-10-23,2.77,0.27,4.14,1.37,638,0,167,0,167
+Gunavadi,490,Pune,,,,18.13288,74.582996,535.41,current,False,False,2026-10-23,44.12,-0.07,42.83,-1.28,1086,104,251,0,251
+Gurholi,490,Pune,,,,18.405985,74.093286,798.0,stale,False,False,2026-07-01,20.09,0.17,19.9,-0.19,534,0,144,3,141
+Hivare,490,Pune,,,,18.356355,73.996776,792.0,current,False,False,2026-10-23,2.6,2.07,4.55,1.96,626,8,160,0,160
+Hol_3,490,Pune,,,,18.096935,74.346598,540.0,current,False,False,2026-10-24,9.13,0.29,9.09,-0.04,779,0,207,0,207
+Jalgaon KadePathar,490,Pune,,,,18.224067,74.447957,567.0,current,False,False,2026-10-23,4.19,-0.31,5.78,1.59,634,0,168,0,168
+Jalgaon Supe,490,Pune,,,,18.239066,74.461933,581.0,current,False,False,2026-10-23,9.08,-1.05,11.15,2.07,645,0,168,0,168
+Jaradwadi,490,Pune,,,,18.266512,74.547272,599.0,current,False,False,2026-10-23,0.26,-0.56,3.08,2.82,638,0,169,0,169
+Jogwadi,490,Pune,,,,18.243526,74.264111,654.0,current,False,False,2026-10-23,4.34,3.3,5.49,1.16,650,0,169,0,169
+Kalkhairewadi,490,Pune,,,,18.297088,74.35685,623.0,stale,False,False,2026-06-23,10.57,0.16,10.34,-0.23,640,0,161,0,161
+Kanheri_1,490,Pune,,,,18.15485,74.653783,564.0,current,False,False,2026-10-23,4.21,-1.24,5.14,0.93,646,0,170,0,170
+Karanje_1,490,Pune,,,,18.135227,74.283317,576.63,current,False,False,2026-10-23,5.91,-3.92,10.37,4.46,637,0,167,0,167
+Karanjepul,490,Pune,,,,18.121425,74.282228,562.0,current,False,False,2026-10-23,8.72,1.02,11.9,3.18,654,0,171,0,171
+Karhati_1,490,Pune,,,,18.259574,74.422613,587.0,current,False,False,2026-10-23,6.31,0.18,7.42,1.12,630,0,161,0,161
+Karhavagaj,490,Pune,,,,18.189728,74.482744,550.0,current,False,False,2026-10-26,13.27,0.45,11.88,-1.39,967,0,255,0,255
+Karkhel,490,Pune,,,,18.293454,74.499339,593.0,current,False,False,2026-10-23,8.29,1.27,4.21,-4.08,629,0,166,0,166
+Katewadi,490,Pune,,,,18.124844,74.659676,547.0,current,False,False,2026-10-23,1.34,-13.86,22.09,20.75,641,0,169,3,166
+Khandobachiwadi,490,Pune,,,,18.122929,74.245822,559.0,current,False,False,2026-10-23,2.01,-0.46,3.95,1.94,649,0,171,0,171
+Khanvadi,490,Pune,,,,18.331159,74.094941,724.0,current,False,False,2026-10-26,6.3,0.98,6.55,0.25,880,0,233,1,232
+Kharade Wadi,490,Pune,,,,18.310966,74.512455,615.0,current,False,False,2026-10-23,8.15,-0.03,8.53,0.38,654,0,171,0,171
+Kololi,490,Pune,,,,18.317242,74.446774,628.0,current,False,False,2026-10-23,17.6,-0.71,19.61,2.0,637,0,166,0,166
+Kothale,490,Pune,,,,18.318215,74.156312,696.0,current,False,False,2026-10-26,1.42,-0.14,0.88,-0.54,859,46,217,0,217
+Kumbharvalan,490,Pune,,,,18.342821,74.067636,773.0,current,False,False,2026-10-21,5.3,0.17,5.92,0.62,1037,0,265,0,265
+Kutwalwadi,490,Pune,,,,18.339959,74.325483,638.0,current,False,False,2026-10-23,3.71,0.21,7.84,4.13,634,0,169,3,166
+Loni Bhapkar,490,Pune,,,,18.217291,74.365799,619.0,current,True,False,2026-10-23,10.35,0.63,13.85,3.5,977,320,170,0,170
+Magarwadi,490,Pune,,,,18.156012,74.301126,587.46,current,False,False,2026-10-23,32.09,-1.51,32.83,0.74,645,0,170,0,170
+Malad (Baramati),490,Pune,,,,18.133655,74.574241,541.14,current,False,False,2026-10-23,33.01,-1.88,44.62,11.61,638,0,170,7,163
+Malshiras_1,490,Pune,,,,18.409387,74.231109,717.0,current,False,False,2026-10-19,54.73,8.78,57.75,3.02,659,0,178,5,173
+Malwadi Loni,490,Pune,,,,18.255573,74.411393,591.0,current,False,False,2026-10-23,6.87,-0.69,11.1,4.22,830,0,216,2,214
+Masalwadi,490,Pune,,,,18.222005,74.334152,560.0,current,False,False,2026-10-23,5.42,5.02,3.74,-1.68,646,0,171,0,171
+Mawadi Kade Pathar,490,Pune,,,,18.274869,74.24545,653.0,current,False,False,2026-10-26,4.78,0.57,5.42,0.63,1068,0,272,0,272
+Mawadi Supe,490,Pune,,,,18.348413,74.204691,674.0,current,False,False,2026-10-23,72.28,0.15,71.77,-0.52,625,0,165,0,165
+Medad,490,Pune,,,,18.169521,74.52104,547.0,current,True,False,2026-10-23,8.67,-0.7,12.58,3.92,792,182,159,0,159
+Modhave,490,Pune,,,,18.208584,74.276603,618.0,current,False,False,2026-10-26,2.07,-0.06,2.14,0.07,1061,0,271,0,271
+Moralwadi,490,Pune,,,,18.196225,74.306468,598.0,current,False,False,2026-10-23,2.77,-2.47,3.51,0.74,622,0,168,3,165
+Morgaon_1,490,Pune,,,,18.27864,74.311743,617.0,current,False,False,2026-10-25,15.8,1.04,12.54,-3.26,970,0,256,0,256
+Mudhale,490,Pune,,,,18.193492,74.417752,595.0,current,False,False,2026-10-23,8.97,-0.14,11.23,2.26,630,0,166,0,166
+Murti_1,490,Pune,,,,18.212788,74.283191,610.0,current,False,False,2026-10-23,5.74,-0.04,1.96,-3.78,638,0,170,0,170
+Naroli_2,490,Pune,,,,18.32243,74.435628,627.0,current,False,False,2026-10-23,5.92,-0.38,6.96,1.05,646,0,168,0,168
+Nawali_1,490,Pune,,,,18.227858,74.218373,668.0,current,False,False,2026-10-23,3.52,-1.81,5.98,2.45,634,0,169,0,169
+Naygaon_2,490,Pune,,,,18.36583,74.235328,683.0,current,False,False,2026-10-23,44.66,-0.34,45.01,0.35,654,72,159,0,159
+Nazare Supe,490,Pune,,,,18.307121,74.229241,643.0,current,False,False,2026-10-23,19.24,1.43,22.51,3.27,626,0,166,1,165
+Palshiwadi,490,Pune,,,,18.1957,74.335826,557.0,current,False,False,2026-10-23,12.07,-0.22,14.01,1.94,626,0,165,0,165
+Pansarewadi,490,Pune,,,,18.29295,74.401154,606.0,current,False,False,2026-10-23,6.35,-0.87,9.68,3.32,654,0,170,0,170
+Pargaon_2,490,Pune,,,,18.357772,74.120151,739.0,current,False,False,2026-10-23,42.46,-0.21,38.37,-4.09,618,0,165,4,161
+Pimpali_1,490,Pune,,,,18.130577,74.622206,537.0,current,False,False,2026-10-23,3.17,-0.71,3.95,0.78,646,0,171,0,171
+Pimpri_2,490,Pune,,,,18.32889,74.21732,663.0,current,False,False,2026-10-23,35.57,-1.88,47.18,11.61,630,0,168,6,162
+Pisarve,490,Pune,,,,18.371927,74.190686,695.0,stale,False,False,2026-09-23,6.23,0.28,7.86,1.63,967,88,231,0,231
+Pise_1,490,Pune,,,,18.358237,74.299039,667.0,current,False,False,2026-10-26,3.8,0.78,5.58,1.78,971,0,255,0,255
+Rajewadi_1,490,Pune,,,,18.393307,74.154052,725.0,stale,False,False,2026-06-03,30.3,2.42,29.94,-0.36,533,0,138,4,134
+Rajuri_1,490,Pune,,,,18.370974,74.272288,694.0,current,False,False,2026-10-23,1.85,-0.26,6.64,4.79,662,0,173,0,173
+Ranmala,490,Pune,,,,18.313336,74.175337,689.0,current,False,False,2026-10-26,11.93,2.11,19.62,7.7,963,2,248,8,240
+Rise_1,490,Pune,,,,18.351015,74.286614,694.0,current,False,False,2026-10-20,3.56,0.06,4.96,1.4,601,1,164,0,164
+Sadobachiwadi,490,Pune,,,,18.119012,74.339057,546.0,stale,False,False,2026-07-09,16.05,,14.96,-1.09,681,0,173,0,173
+Sansar (Hinganewadi),490,Pune,,,,18.093407,74.70401,525.0,current,False,False,2026-10-23,3.02,-0.68,7.69,4.67,657,0,170,0,170
+Sapkalwadi,490,Pune,,,,18.09538,74.68863,533.0,current,False,False,2026-10-23,3.64,-0.69,8.89,5.25,625,0,165,0,165
+Sastewadi,490,Pune,,,,18.13876,74.32729,568.0,stale,True,False,2026-06-22,0.17,0.09,0.11,-0.06,618,469,51,0,51
+Sawal_1,490,Pune,,,,18.186739,74.646312,575.0,current,False,False,2026-10-23,29.3,0.06,26.69,-2.61,649,0,169,0,169
+Sayambachiwadi,490,Pune,,,,18.207965,74.40615,560.0,current,False,False,2026-10-23,4.41,-0.2,5.83,1.41,641,0,168,0,168
+Shivaji Nagar_1,490,Pune,,,,18.533452,73.845387,566.14,stale,False,False,2026-06-02,19.62,2.9,17.93,-1.69,564,0,141,12,129
+Singapur_2,490,Pune,,,,18.386648,74.111705,767.0,current,False,False,2026-10-23,16.37,-5.41,30.96,14.59,827,0,216,12,204
+Songaon_1,490,Pune,,,,18.072672,74.65452,515.0,current,False,False,2026-10-23,1.26,-0.21,1.1,-0.16,638,0,169,0,169
+Sonkaswadi,490,Pune,,,,18.174806,74.46888,584.0,current,False,False,2026-10-23,5.05,0.11,8.99,3.94,625,0,160,0,160
+Sonori,490,Pune,,,,18.393595,74.050546,808.0,current,False,False,2026-10-25,12.37,3.18,25.19,12.82,1060,0,270,0,270
+Sonvadisupe,490,Pune,,,,18.259841,74.511377,578.0,current,False,False,2026-10-23,42.27,-0.13,44.32,2.06,642,0,169,0,169
+Soratewadi,490,Pune,,,,18.116969,74.29831,554.0,current,False,False,2026-10-26,2.23,0.77,1.88,-0.35,933,1,244,0,244
+Supe_1,490,Pune,,,,18.334098,74.373153,645.0,current,False,False,2026-10-23,7.85,1.05,1.06,-6.79,646,0,168,0,168
+Tardoli,490,Pune,,,,18.262595,74.344545,606.0,current,False,False,2026-10-23,6.85,-0.17,9.32,2.47,642,0,168,0,168
+Tawashi_1,490,Pune,,,,18.07274,74.676063,514.0,current,False,False,2026-10-23,12.94,3.22,15.22,2.29,641,0,168,0,168
+Tekavadi,490,Pune,,,,18.402129,74.19564,713.0,current,False,False,2026-10-23,5.78,-0.25,6.74,0.96,641,0,167,0,167
+Udachiwadi,490,Pune,,,,18.378537,74.081074,792.0,current,False,False,2026-10-23,13.43,-0.15,16.41,2.98,649,0,169,0,169
+Undavadi Kade Pathar,490,Pune,,,,18.247317,74.539867,579.0,stale,False,False,2026-06-01,13.14,0.15,13.14,-0.0,509,30,127,0,127
+Undavadisupe,490,Pune,,,,18.285143,74.520348,590.0,current,False,False,2026-10-26,3.77,0.02,4.8,1.03,798,0,207,5,202
+Vadgaon Nimbalkar,490,Pune,,,,18.128394,74.363767,551.0,current,False,False,2026-10-26,3.8,-0.07,4.0,0.21,971,4,255,0,255
+Vanjarwadi,490,Pune,,,,18.200666,74.622156,573.0,current,False,False,2026-10-23,5.43,-0.65,5.82,0.39,638,0,169,0,169
+Vanpuri,490,Pune,,,,18.373302,74.06574,781.0,current,False,False,2026-10-20,11.75,,14.56,2.81,555,0,148,0,148
+Waghapur_1,490,Pune,,,,18.397862,74.12547,762.0,current,False,False,2026-10-23,6.22,-5.82,15.39,9.17,637,0,167,0,167
+Waki_2,490,Pune,,,,18.163645,74.321474,572.0,current,False,False,2026-10-23,2.6,0.07,2.41,-0.19,641,0,168,0,168
+Zaragadwadi,490,Pune,,,,18.084095,74.659676,514.0,current,False,False,2026-10-23,9.9,-0.4,11.38,1.47,700,9,181,1,180
+Zendewadi_2,490,Pune,,,,18.41487,74.0158,848.0,current,False,False,2026-10-23,2.55,2.33,1.81,-0.74,650,0,170,1,169
+Kanase,490,Pune,AMBEGAON,,,19.08194444,73.77916944,667.0,stale,False,False,2026-05-31,11.06,0.93,10.55,-0.51,564,0,141,11,130
+Morgaon,490,Pune,BARAMATI,,,18.29916667,74.31444722,617.0,stale,False,False,2026-06-02,15.65,2.05,13.83,-1.82,536,0,134,8,126
+Venawadi,490,Pune,BHOR,,,18.14194444,73.82750278,607.0,stale,False,False,2026-06-01,7.31,1.05,6.53,-0.78,524,0,131,7,124
+Patas,490,Pune,DAUND,,,18.43611111,74.46805833,553.69,stale,False,False,2026-05-30,7.35,0.7,7.02,-0.34,576,0,144,10,134
+Loni-Kand,490,Pune,HAVELI,HAVELI,Lonikand,18.61944444,74.025,,stale,False,False,2026-05-31,10.73,0.59,10.51,-0.22,572,0,143,9,134
+Tawashi,490,Pune,INDAPUR,,,18.07083333,74.672225,516.0,stale,False,False,2026-06-02,10.8,1.18,10.06,-0.74,552,0,138,7,131
+Narayangaon,490,Pune,JUNNAR,,,19.13277778,73.95889167,670.65,stale,False,False,2026-06-02,9.55,2.41,7.38,-2.17,560,0,140,10,130
+Chas,490,Pune,KHED,,,18.925,73.83333611,624.98,stale,False,False,2026-06-02,17.86,2.67,15.75,-2.11,552,0,138,9,129
+Somtane Fata,490,Pune,MAWAL,,,18.70277778,73.68055833,601.0,stale,False,False,2026-06-01,6.75,0.97,6.12,-0.63,568,0,142,5,137
+Khamsewadi,490,Pune,MULSHI,,,18.58527778,73.61944722,648.0,stale,False,False,2026-05-31,7.37,0.77,7.08,-0.29,560,0,140,9,131
+Dive,490,Pune,PURANDHAR,,,18.38138889,74.017225,802.0,stale,False,False,2026-05-30,13.04,0.74,12.91,-0.14,560,0,140,10,130
+Kondhapuri,490,Pune,SHIRUR,,,18.72277778,74.19861389,591.0,stale,False,False,2026-05-31,17.62,1.44,17.04,-0.58,556,0,139,18,121
+Margasani,490,Pune,VELHE,,,18.28166667,73.74166944,680.0,stale,False,False,2026-05-31,8.88,0.51,8.65,-0.23,552,0,138,10,128
+Beldarpada,491,Raigad,,,,18.90085,72.929782,,stale,False,False,2026-06-01,9.38,1.86,7.93,-1.46,540,0,135,12,123
+Zirad,491,Raigad,ALIBAG,,,18.75277778,72.88916944,4.85,stale,False,False,2026-06-02,8.75,1.71,7.13,-1.63,560,0,140,8,132
+kalamb(garudpada),491,Raigad,KARJAT,,,19.09638889,73.39444722,51.55,stale,False,False,2026-06-01,7.61,0.59,7.11,-0.5,556,0,139,8,131
+Chauk,491,Raigad,KHALAPUR,,,18.89583333,73.24500278,43.78,stale,False,False,2026-06-02,7.14,1.19,6.15,-1.0,568,0,142,8,134
+Kumble,491,Raigad,MAHAD,,,18.07694444,73.354725,19.0,stale,False,False,2026-06-02,9.27,1.8,7.85,-1.42,560,0,140,10,130
+Goregaon,491,Raigad,MANGAON,,,18.15333333,73.292225,10.85,stale,False,False,2026-06-02,19.04,2.09,17.41,-1.63,560,0,140,9,131
+Lipane Vave,491,Raigad,MHASLA,,,18.07916667,73.20833611,3.93,stale,False,False,2026-06-02,6.95,1.76,5.44,-1.51,556,0,139,4,135
+Dattwadi,491,Raigad,MURUD,,,18.33138889,72.96889167,11.9,stale,False,False,2026-06-02,8.5,2.25,6.28,-2.22,524,0,131,9,122
+Panvel,491,Raigad,PANVEL,,,18.98611111,73.11250278,10.29,stale,False,False,2026-06-02,8.54,1.67,7.25,-1.3,556,0,139,11,128
+Pen,491,Raigad,PEN,,,18.73611111,73.10139167,24.38,stale,False,False,2026-06-02,9.94,1.29,8.82,-1.12,552,0,138,6,132
+Parle,491,Raigad,POLADPUR,,,17.98277778,73.46389167,13.91,stale,False,False,2026-06-01,5.41,0.29,5.25,-0.16,536,0,134,11,123
+Durtoli Sutarvadi,491,Raigad,ROHA,,,18.42555556,73.28333611,36.01,stale,False,False,2026-06-02,5.27,1.94,3.48,-1.78,536,0,134,7,127
+Shrivardhan,491,Raigad,SHRIVARDHAN,,,18.05111111,73.02139167,5.19,stale,False,False,2026-06-01,6.97,0.84,6.34,-0.64,552,0,138,9,129
+Vahard jambulpada,491,Raigad,SUDHAGAD,,,18.65111111,73.29639167,22.91,stale,False,False,2026-05-31,9.4,0.7,8.87,-0.52,564,0,141,10,131
+Usar Khurd,491,Raigad,TALA,,,18.23888889,73.17583611,77.22,stale,False,False,2026-06-01,7.22,1.01,6.39,-0.83,548,0,137,12,125
+Kapsal,492,Ratnagiri,CHIPLUN,,,17.50972222,73.50278056,15.0,stale,False,False,2026-06-02,8.47,1.95,6.9,-1.57,556,0,139,10,129
+Dabhol,492,Ratnagiri,DAPOLI,,,17.5875,73.18333611,30.0,stale,False,False,2026-05-31,7.78,0.43,7.54,-0.24,532,0,133,9,124
+Guhagar,492,Ratnagiri,GUHAGAR,,,17.48333333,73.19166944,8.0,stale,False,False,2026-05-31,6.2,0.55,5.84,-0.36,556,0,139,10,129
+Astan,492,Ratnagiri,KHED,,,17.77416667,73.53305833,122.0,stale,False,False,2026-06-02,6.86,2.07,4.97,-1.89,576,0,144,9,135
+Lanja,492,Ratnagiri,LANJA,,,16.86111111,73.55000278,122.0,stale,False,False,2026-06-02,14.57,2.49,12.65,-1.93,564,0,141,12,129
+Mhapral,492,Ratnagiri,MANDANGAD,,,18.04722222,73.27916944,15.0,stale,False,False,2026-06-02,6.7,1.45,5.51,-1.19,556,0,139,9,130
+Konde Tarf Saundal,492,Ratnagiri,RAJAPUR,,,16.59722222,73.57500278,127.0,stale,False,False,2026-06-02,7.96,1.21,6.87,-1.09,552,0,138,8,130
+Khedshi,492,Ratnagiri,RATNAGIRI,,,17.01944444,73.372225,130.63,stale,False,False,2026-06-01,16.64,2.37,14.58,-2.05,548,0,137,10,127
+Devrukh,492,Ratnagiri,SANGAMESHWAR,,,17.06111111,73.62500278,165.0,stale,False,False,2026-06-02,16.2,1.4,15.04,-1.15,552,0,138,11,127
+Agalgaon_1,493,Sangli,,,,17.085835,74.915158,776.74,current,False,False,2026-10-26,6.14,1.03,8.02,1.88,975,1,257,0,257
+Alkud (S),493,Sangli,,,,17.014098,74.94749,608.43,current,False,False,2026-10-23,4.31,-0.0,1.97,-2.33,645,0,170,0,170
+Alkud(M),493,Sangli,,,,16.977511,74.760635,673.38,current,False,False,2026-10-26,6.16,1.42,6.65,0.49,963,1,251,0,251
+Anjani_2,493,Sangli,,,,17.08497,74.784678,655.66,current,False,False,2026-10-26,15.22,0.71,16.96,1.74,959,1,254,0,254
+Ankale,493,Sangli,,,,17.044336,75.02377,653.79,current,False,False,2026-10-26,4.12,-2.52,7.85,3.72,999,1,257,0,257
+Arewadi_1,493,Sangli,,,,17.109687,74.955686,759.62,current,False,False,2026-10-26,32.49,0.74,25.63,-6.86,975,0,256,1,255
+Baj_2,493,Sangli,,,,17.04774,75.06468,635.77,current,False,False,2026-10-26,3.55,-0.14,5.38,1.83,968,0,254,0,254
+Balavdi Kh,493,Sangli,,,,17.302359,74.729272,813.03,current,False,False,2026-10-26,5.74,-0.07,6.68,0.94,942,1,248,0,248
+Bambavade_1,493,Sangli,,,,17.084557,74.496916,589.0,stale,False,False,2026-06-02,10.55,1.97,9.0,-1.55,552,0,138,10,128
+Banewadi,493,Sangli,,,,16.956325,74.800485,728.1,current,True,False,2026-10-23,19.24,-0.83,20.97,1.73,1073,503,154,0,154
+Basargi,493,Sangli,,,,16.899993,75.184276,635.13,current,False,False,2026-10-23,6.2,0.04,9.98,3.78,653,0,170,0,170
+Bassappachi Wadi,493,Sangli,,,,17.030283,75.008373,712.04,current,False,False,2026-10-25,8.88,1.54,5.24,-3.63,916,0,238,0,238
+Belunkhi,493,Sangli,,,,17.02936,75.075454,639.18,current,False,False,2026-10-26,2.43,-0.68,5.99,3.56,983,0,256,0,256
+Benapur_1,493,Sangli,,,,17.262333,74.745503,827.69,current,False,False,2026-10-26,9.89,-0.35,13.11,3.21,967,1,254,0,254
+Bilur_1,493,Sangli,,,,16.94616,75.183466,629.79,current,False,False,2026-10-26,9.61,-0.88,11.57,1.96,975,1,255,0,255
+Biranwadi,493,Sangli,,,,17.16136,74.744769,663.74,current,False,False,2026-10-26,7.89,3.97,3.27,-4.62,977,0,256,0,256
+Borgaon_2,493,Sangli,,,,17.017167,74.789066,650.1,insufficient,True,False,,,,,,967,967,0,0,0
+Chabukswarwadi,493,Sangli,,,,16.892893,74.94459,630.16,current,False,False,2026-10-26,9.21,1.53,11.11,1.9,971,1,254,0,254
+Dafalapur,493,Sangli,,,,17.000475,75.071105,643.94,current,False,False,2026-10-26,8.1,0.93,8.61,0.51,979,0,256,0,256
+Dahiwadi_1,493,Sangli,,,,17.167572,74.80517,623.89,current,False,False,2026-10-26,22.7,,31.51,8.81,824,0,214,2,212
+Deshing,493,Sangli,,,,16.975369,74.806021,621.8,current,False,False,2026-10-26,5.37,-0.16,5.95,0.58,964,0,254,0,254
+Dhalewadi,493,Sangli,,,,17.085875,74.972603,742.98,current,False,False,2026-10-26,1.14,0.23,1.19,0.05,979,3,255,0,255
+Dhondewadi,493,Sangli,,,,17.211702,74.723473,843.23,current,False,False,2026-10-26,6.21,2.88,3.38,-2.83,975,0,253,0,253
+Dhulgaon_1,493,Sangli,,,,16.966375,74.923203,694.25,current,False,False,2026-10-26,10.11,0.39,11.22,1.12,975,1,257,1,256
+Dongarsoni,493,Sangli,,,,17.119525,74.819533,626.48,current,False,False,2026-10-26,34.39,-0.52,35.0,0.61,975,2,256,0,256
+Dorli_1,493,Sangli,,,,17.08,74.998333,667.5,current,False,False,2026-10-26,24.28,3.6,25.68,1.4,971,1,254,21,233
+Ekundi,493,Sangli,,,,16.935768,75.101239,641.87,current,False,False,2026-10-26,6.31,0.66,6.04,-0.27,975,3,254,0,254
+Garjewadi,493,Sangli,,,,17.126111,74.880833,689.37,current,False,False,2026-10-26,9.88,0.95,10.39,0.51,924,0,244,0,244
+Gavhan_1,493,Sangli,,,,17.055384,74.76857,663.47,current,False,False,2026-10-26,6.63,0.04,6.43,-0.2,983,0,256,0,256
+Gorewadi_1,493,Sangli,,,,17.290467,74.704901,837.38,current,False,False,2026-10-26,14.93,0.42,17.49,2.57,963,0,254,0,254
+Gugwad,493,Sangli,,,,16.882894,75.15624,647.89,current,False,False,2026-10-26,16.2,2.86,13.36,-2.83,975,0,257,20,237
+Haroli_1,493,Sangli,,,,16.971946,74.800647,724.15,current,False,False,2026-10-26,5.13,0.38,4.79,-0.34,975,1,256,0,256
+Hingangaon_1,493,Sangli,,,,16.977104,74.859632,699.17,current,False,False,2026-10-26,11.06,0.89,13.64,2.58,971,0,254,0,254
+Hivare,493,Sangli,,,,17.224097,74.788356,813.23,insufficient,True,False,2026-03-03,6.22,,,,981,977,2,0,2
+Irali_1,493,Sangli,,,,17.055558,74.976695,720.58,current,False,False,2026-10-26,11.08,4.62,10.2,-0.88,964,1,255,9,246
+Jadhavwadi,493,Sangli,,,,17.04389,74.86261,711.33,current,False,False,2026-10-26,8.82,1.62,7.46,-1.37,971,0,256,2,254
+Jakhapur,493,Sangli,,,,17.089314,74.870172,771.24,current,False,False,2026-10-26,4.83,0.29,5.53,0.7,971,3,255,0,255
+Jarandi,493,Sangli,,,,17.178371,74.836275,559.05,current,False,False,2026-10-26,10.39,0.17,18.66,8.27,967,0,255,0,255
+Jaygavan,493,Sangli,,,,17.051582,74.813018,696.47,stale,False,False,2026-09-27,10.06,-0.98,19.43,9.37,860,1,226,5,221
+Jirgyal,493,Sangli,,,,16.951533,75.097365,623.45,current,False,False,2026-10-23,6.71,0.22,4.76,-1.95,646,0,169,0,169
+Karalhetti(Nv),493,Sangli,,,,16.961859,75.007019,722.84,current,False,False,2026-10-23,14.25,1.55,11.53,-2.73,698,0,180,0,180
+Karanje_2,493,Sangli,,,,17.223363,74.756941,849.56,current,True,False,2026-10-26,5.54,-5.72,8.05,2.51,980,232,196,0,196
+Karoli T,493,Sangli,,,,16.954463,74.881956,702.63,current,False,False,2026-10-26,7.31,0.56,10.39,3.08,979,0,257,11,246
+Kerewadi,493,Sangli,,,,17.122385,74.929706,764.2,current,False,False,2026-10-23,9.46,-0.47,0.97,-8.49,666,0,172,3,169
+Khalati,493,Sangli,,,,17.007821,75.130026,613.45,current,False,False,2026-10-26,18.04,0.2,18.16,0.13,991,0,257,1,256
+Khanapur_4,493,Sangli,,,,17.261155,74.708306,825.71,current,False,False,2026-10-26,11.67,-0.09,12.09,0.42,951,0,247,0,247
+Kharshing,493,Sangli,,,,16.953447,74.783961,768.92,current,False,False,2026-10-26,14.2,2.8,19.06,4.86,987,1,257,4,253
+Khilarwadi,493,Sangli,,,,16.941054,75.133886,638.46,current,False,False,2026-10-23,35.83,0.71,35.05,-0.78,642,0,171,0,171
+Khojan Wadi,493,Sangli,,,,16.953727,75.247847,641.25,current,False,False,2026-10-23,9.09,-0.07,11.71,2.62,646,0,171,0,171
+Kognole,493,Sangli,,,,16.914915,74.903815,638.0,stale,True,False,2026-06-03,0.92,-2.81,2.1,1.18,979,453,139,0,139
+Kokale,493,Sangli,,,,16.990803,75.024401,641.12,current,False,False,2026-10-26,9.73,-0.1,9.81,0.08,983,0,256,0,256
+Kuchi_3,493,Sangli,,,,17.059216,74.863276,730.48,current,False,False,2026-10-22,7.56,-0.17,7.39,-0.17,947,0,250,0,250
+Kudnur,493,Sangli,,,,16.978231,75.027444,598.41,current,False,False,2026-10-26,6.61,-0.59,6.26,-0.35,967,2,254,0,254
+Kuktoli,493,Sangli,,,,16.922762,74.84059,699.29,current,False,False,2026-10-26,13.11,2.25,13.59,0.48,972,0,255,0,255
+Kundlapur,493,Sangli,,,,17.117609,74.864886,853.97,current,False,False,2026-10-23,12.53,0.07,12.35,-0.19,638,0,170,0,170
+Langarpeth,493,Sangli,,,,17.074258,74.948195,750.14,current,False,False,2026-10-19,22.46,0.02,21.8,-0.66,787,0,211,3,208
+Lokarewadi,493,Sangli,,,,17.089025,74.840535,573.68,current,False,False,2026-10-26,39.84,0.03,41.13,1.29,971,2,254,0,254
+Lonarwadi_1,493,Sangli,,,,16.93872,74.952002,763.58,current,False,False,2026-10-26,15.48,-0.14,14.26,-1.22,987,0,256,0,256
+Malangaon_2,493,Sangli,,,,17.036356,74.786842,697.93,current,False,False,2026-10-26,5.95,0.5,6.87,0.92,973,0,255,0,255
+Mhaisal(M),493,Sangli,,,,16.954248,74.875803,703.44,stale,True,False,2026-08-30,2.56,,7.78,5.22,975,475,131,0,131
+Mirwad,493,Sangli,,,,16.977883,75.096922,635.15,current,False,False,2026-10-26,12.72,0.32,13.14,0.42,957,0,251,0,251
+Moghamwadi,493,Sangli,,,,17.031865,74.987029,655.73,current,False,False,2026-10-26,9.08,-3.12,11.31,2.23,971,0,256,0,256
+Mohi_1,493,Sangli,,,,17.230758,74.727129,813.76,stale,True,False,2026-07-14,0.29,-1.59,5.8,5.5,991,386,158,0,158
+Morgaon_1,493,Sangli,,,,16.993538,74.82574,703.44,current,False,False,2026-10-26,3.52,0.96,3.49,-0.03,955,0,252,0,252
+Nagewadi_1,493,Sangli,,,,17.071982,74.794112,549.58,current,False,False,2026-10-26,25.08,3.73,29.96,4.89,983,0,256,3,253
+Nangole,493,Sangli,,,,17.03322,74.921952,729.01,current,False,False,2026-10-26,21.32,10.35,19.84,-1.48,970,1,254,7,247
+Narsinghgaon (Landagewadi),493,Sangli,,,,17.028657,74.828657,653.41,current,False,False,2026-10-26,36.85,-0.15,36.51,-0.34,971,1,256,0,256
+Palashi_3,493,Sangli,,,,17.222816,74.819753,913.86,current,False,False,2026-10-26,34.9,-0.16,35.75,0.85,987,1,256,0,256
+Pimpalwadi_1,493,Sangli,,,,16.999956,74.922064,625.44,current,False,False,2026-10-26,12.27,-0.84,14.37,2.1,979,0,256,0,256
+Posewadi,493,Sangli,,,,17.255963,74.695479,838.94,current,False,False,2026-10-26,15.62,0.54,16.28,0.66,981,1,256,0,256
+Rajani_1,493,Sangli,,,,17.001759,74.931468,637.89,current,False,False,2026-10-23,3.51,0.68,,,445,0,114,0,114
+Ramnagar_7,493,Sangli,,,,17.236657,74.738645,84.66,current,False,False,2026-10-23,20.97,0.69,33.5,12.53,650,0,170,0,170
+Rampurewadi,493,Sangli,,,,16.938135,74.910025,663.89,current,False,False,2026-10-26,5.72,-0.19,8.33,2.61,984,1,256,0,256
+Salmalgewadi,493,Sangli,,,,16.979736,75.154314,649.78,current,False,False,2026-10-26,47.6,-0.28,46.91,-0.7,975,0,254,0,254
+Sarati_1,493,Sangli,,,,16.927124,74.897255,624.82,current,False,False,2026-10-23,5.67,-1.12,7.99,2.32,690,0,178,0,178
+Savalj,493,Sangli,,,,17.111876,74.766587,574.35,current,False,False,2026-10-26,28.84,4.11,40.16,11.31,979,1,255,0,255
+Shelkewadi,493,Sangli,,,,17.101823,74.896011,737.81,current,False,False,2026-10-26,14.8,1.39,15.27,0.46,983,0,257,0,257
+Shendagewadi,493,Sangli,,,,16.967883,74.840527,817.91,current,False,False,2026-10-26,20.05,-0.3,20.48,0.43,975,1,255,0,255
+Shingnapur_2,493,Sangli,,,,16.946678,75.047431,637.23,current,False,False,2026-10-23,6.5,0.21,6.66,0.16,638,0,167,0,167
+Shirdhon_1,493,Sangli,,,,17.021331,74.808662,656.62,current,False,False,2026-10-26,8.73,0.17,10.7,1.97,975,1,255,0,255
+Sidhhewadi,493,Sangli,,,,17.148488,74.794462,577.88,current,False,False,2026-10-26,33.39,12.26,39.58,6.19,979,0,257,1,256
+Sindewadi (H),493,Sangli,,,,16.967883,74.840527,728.83,current,False,False,2026-10-26,3.89,0.54,4.31,0.42,964,0,254,3,251
+Sindur_2,493,Sangli,,,,16.865278,75.2043,668.94,current,False,False,2026-10-23,20.84,1.05,14.05,-6.79,633,0,169,0,169
+Sultangade,493,Sangli,,,,17.252629,74.748203,801.83,current,False,False,2026-10-25,11.62,1.61,25.28,13.66,975,0,254,5,249
+Thabadewadi,493,Sangli,,,,17.036557,74.899487,760.22,current,False,False,2026-10-23,35.74,-1.17,40.43,4.69,758,0,199,8,191
+Umarani,493,Sangli,,,,16.905512,75.251857,637.14,stale,True,False,2026-05-23,33.12,1.27,32.89,-0.22,631,137,128,1,127
+Vajrachounde,493,Sangli,,,,17.066668,74.76059,565.98,current,False,False,2026-10-26,12.47,1.38,13.46,0.99,975,0,256,5,251
+Vithurayachiwadi,493,Sangli,,,,16.982939,74.872247,647.22,stale,False,False,2026-09-17,0.13,-4.54,8.44,8.31,963,112,224,0,224
+Wadgaon_2,493,Sangli,,,,17.075981,74.816178,543.48,stale,True,False,2026-05-24,0.11,-4.28,1.83,1.72,956,488,126,0,126
+Waifale,493,Sangli,,,,17.180972,74.757117,783.16,current,False,False,2026-10-26,30.56,2.41,30.65,0.09,975,0,257,1,256
+Wajrawad,493,Sangli,,,,16.906641,75.135275,616.69,current,False,False,2026-10-26,16.97,1.7,15.67,-1.3,963,0,250,0,250
+Yamgarwadi,493,Sangli,,,,17.192891,74.792891,789.8,current,False,False,2026-10-26,9.01,-0.6,9.76,0.75,983,0,257,3,254
+Yeldari_1,493,Sangli,,,,16.988251,75.18712,707.62,current,False,False,2026-10-26,32.97,-1.82,35.19,2.22,979,0,256,0,256
+Zurewadi,493,Sangli,,,,17.029298,74.856769,716.09,current,False,False,2026-10-26,5.77,0.45,7.46,1.69,898,3,235,0,235
+Pandharewadi,493,Sangli,ATPADI,,,17.53944444,74.93750278,540.7,stale,False,False,2026-06-01,20.52,3.05,17.76,-2.76,568,0,142,13,129
+Sankh,493,Sangli,JAT,,,17.07055556,75.50194722,527.0,stale,False,False,2026-06-01,12.0,1.65,11.06,-0.94,556,0,139,12,127
+Kuchi,493,Sangli,KAVATHE-MAHANKAL,,,17.05972222,74.86444722,578.0,stale,False,False,2026-06-02,11.15,3.0,8.41,-2.74,548,0,137,6,131
+Vejegaon,493,Sangli,KHANAPUR,,,17.37527778,74.59166944,639.0,stale,False,False,2026-06-02,14.06,2.58,12.3,-1.77,536,0,134,11,123
+Kavalapur,493,Sangli,MIRAJ,,,16.91527778,74.614725,501.0,stale,False,False,2026-06-01,18.04,0.59,18.07,0.03,536,0,134,11,123
+Kadegaon,493,Sangli,PALUS,,,17.3,74.33333611,674.0,stale,False,False,2026-05-31,11.95,0.99,11.36,-0.59,540,0,135,11,124
+Shirala,493,Sangli,SHIRALA,,,16.98472222,74.134725,608.0,stale,False,False,2026-06-02,12.83,2.09,11.08,-1.75,568,0,142,11,131
+Shirgaon Visapur,493,Sangli,TASGAON,,,17.10666667,74.56805833,513.0,stale,False,False,2026-05-31,12.13,1.06,11.73,-0.4,540,0,135,9,126
+Tandulwadi,493,Sangli,WALWA,,,16.925,74.28889167,554.0,stale,False,False,2026-05-31,9.81,0.96,9.25,-0.55,564,0,141,10,131
+Akoshi,494,Satara,,,,17.97281,73.771857,811.26,current,False,False,2026-10-26,5.2,0.26,8.2,3.0,989,0,254,10,244
+Andhali_2,494,Satara,,,,17.763232,74.478408,785.4,current,False,False,2026-10-23,38.9,16.62,16.66,-22.24,626,0,161,4,157
+Anpatwadi,494,Satara,,,,17.908028,73.878188,738.31,current,False,False,2026-10-23,1.98,-0.11,2.05,0.07,630,0,164,0,164
+Asale_2,494,Satara,,,,17.890112,73.940942,1500.0,current,False,False,2026-10-26,5.47,1.19,6.37,0.9,979,0,255,1,254
+Banpuri,494,Satara,,,,17.526073,74.516933,760.21,current,False,False,2026-10-26,3.08,-2.6,6.77,3.69,726,0,190,3,187
+Bavdhan,494,Satara,,,,17.917805,73.889898,777.64,current,False,False,2026-10-23,11.77,-0.21,7.67,-4.11,626,0,161,3,158
+Bhandavali,494,Satara,,,,17.782018,74.436934,816.0,current,False,False,2026-10-23,8.67,-1.19,11.76,3.09,816,0,215,0,215
+Bhurakwadi,494,Satara,,,,17.633892,74.400696,748.0,current,False,False,2026-10-23,19.15,1.41,21.52,2.37,634,0,169,0,169
+Bidal_1,494,Satara,,,,17.736755,74.518412,396.18,current,False,False,2026-10-23,12.23,0.48,10.29,-1.94,630,0,161,0,161
+Bodake,494,Satara,,,,17.741928,74.498689,756.0,current,False,False,2026-10-23,16.28,0.03,16.14,-0.14,614,0,160,0,160
+Bombale,494,Satara,,,,17.59698,74.523095,810.95,current,False,False,2026-10-23,25.58,-0.39,27.44,1.86,653,0,171,0,171
+Borgaon Bk,494,Satara,,,,17.939555,73.749748,792.0,current,False,False,2026-10-26,3.93,1.85,5.11,1.18,967,0,254,5,249
+Boriv_1,494,Satara,,,,17.972098,73.81942,731.0,current,False,False,2026-10-23,14.34,-1.88,25.95,11.61,630,0,161,6,155
+Bothe,494,Satara,,,,17.780054,74.379535,1067.0,current,False,False,2026-10-23,24.88,0.71,22.89,-1.99,630,0,161,0,161
+Chikhali_2,494,Satara,,,,17.939072,73.790116,796.0,current,False,False,2026-10-23,15.26,-5.82,24.42,9.17,618,0,161,0,161
+Dahivadi_1,494,Satara,,,,17.701378,74.545771,673.2,current,False,False,2026-10-23,4.94,-2.02,9.73,4.79,714,0,187,1,186
+Dahyat,494,Satara,,,,17.94262,73.729607,812.0,current,False,False,2026-10-26,3.23,-0.03,4.87,1.65,951,0,252,0,252
+Dalmodi,494,Satara,,,,17.5851,74.496424,770.5,current,False,False,2026-10-23,12.99,0.59,14.5,1.51,654,0,170,0,170
+Darajai,494,Satara,,,,17.669268,74.409503,837.94,stale,True,False,2026-05-03,7.85,,,,490,171,85,0,85
+Darewadi,494,Satara,,,,17.906714,73.860394,786.66,current,False,False,2026-10-23,3.99,2.47,3.25,-0.74,616,0,160,2,158
+Daruj,494,Satara,,,,17.659553,74.402052,763.58,stale,False,False,2026-09-26,10.38,-0.9,11.63,1.25,881,0,228,0,228
+Dasawadi,494,Satara,,,,17.957226,73.795771,2400.0,current,False,False,2026-10-23,11.58,0.04,15.36,3.78,622,0,161,0,161
+Dhambewadi,494,Satara,,,,17.596737,74.553773,791.0,current,False,False,2026-10-24,56.59,7.64,59.26,2.67,630,0,162,1,161
+Dharpudi,494,Satara,,,,17.677477,74.388852,869.42,current,False,False,2026-10-25,19.71,3.4,36.04,16.32,959,1,252,7,245
+Diwadi(M'Gad),494,Satara,,,,17.677354,74.437127,701.0,stale,False,False,2026-07-31,8.61,0.46,11.14,2.54,655,1,175,1,174
+Dorgewadi (Naravane),494,Satara,,,,17.590154,74.591974,746.0,current,False,False,2026-10-23,25.4,-0.21,21.29,-4.11,626,0,161,3,158
+Ekasar,494,Satara,,,,17.966534,73.840876,716.0,current,False,False,2026-10-23,6.23,0.22,4.29,-1.95,622,0,161,0,161
+Enkul_1,494,Satara,,,,17.560624,74.581514,809.96,current,False,False,2026-10-23,2.94,-0.52,4.38,1.44,622,0,161,0,161
+Fadatarvadi,494,Satara,,,,17.731278,74.328016,804.35,current,False,False,2026-10-23,30.87,2.24,23.17,-7.71,646,0,168,3,165
+Ganeshwadi,494,Satara,,,,17.574904,74.465752,769.95,stale,False,False,2026-10-16,2.69,-7.64,9.11,6.42,912,2,236,33,203
+Golegaon_1,494,Satara,,,,17.949308,73.700787,836.0,current,False,False,2026-10-23,57.28,0.71,56.5,-0.78,622,0,161,0,161
+Gondavale Bk_1,494,Satara,,,,17.688182,74.590821,733.3,insufficient,True,False,,,,,,971,971,0,0,0
+Gondavale Kh,494,Satara,,,,17.665109,74.615281,673.06,current,False,False,2026-10-23,25.44,-1.88,37.05,11.61,626,0,161,6,155
+Hingane_1,494,Satara,,,,17.609337,74.497215,743.0,current,False,False,2026-10-23,8.46,-0.1,8.46,-0.0,653,0,170,0,170
+Jor_2,494,Satara,,,,17.982108,73.670597,826.0,current,False,False,2026-10-23,6.49,-0.06,9.08,2.59,610,0,159,0,159
+Kadegaon_1,494,Satara,,,,17.900019,73.935855,734.71,current,False,False,2026-10-23,6.12,0.27,6.75,0.64,630,0,164,0,164
+Kalewadi,494,Satara,,,,17.62666,74.59853,715.0,current,False,False,2026-10-23,4.73,-5.82,13.9,9.17,630,0,161,0,161
+Kanasewadi,494,Satara,,,,17.557197,74.604535,811.82,current,False,False,2026-10-23,61.45,9.48,54.95,-6.5,646,0,169,8,161
+Kanur_3,494,Satara,,,,17.916571,73.873141,844.89,current,False,False,2026-10-23,3.96,0.68,0.71,-3.26,642,0,164,0,164
+Kasarwadi (Andhali),494,Satara,,,,17.745129,74.46002,785.0,current,False,False,2026-10-23,4.79,2.47,4.05,-0.74,626,0,161,2,159
+Katalgewadi,494,Satara,,,,17.729582,74.394114,855.0,current,False,False,2026-10-23,7.94,-0.13,7.96,0.02,642,0,168,0,168
+Katarkhatav,494,Satara,,,,17.568621,74.520968,723.45,current,False,False,2026-10-23,13.76,0.31,10.09,-3.67,625,0,165,0,165
+Katgun,494,Satara,,,,17.698282,74.34792,819.2,current,False,False,2026-10-23,17.29,-0.29,15.93,-1.36,629,0,169,0,169
+Khatav_1,494,Satara,,,,17.662438,74.357184,777.2,current,False,False,2026-10-23,9.62,1.05,2.83,-6.79,634,0,164,0,164
+Khatwal,494,Satara,,,,17.538931,74.5758,759.73,current,False,False,2026-10-26,2.1,0.33,3.18,1.08,963,0,254,0,254
+Kiraksal,494,Satara,,,,17.631141,74.566097,722.64,current,False,False,2026-10-26,2.78,-0.0,3.53,0.75,956,0,255,0,255
+Kolewadi,494,Satara,,,,17.711582,74.443111,856.99,current,False,False,2026-10-23,9.05,0.04,12.83,3.78,630,0,161,0,161
+Kondawali,494,Satara,,,,17.954972,73.761863,1247.0,current,False,False,2026-10-26,3.82,-0.26,3.84,0.02,975,0,255,0,255
+Kulakjai,494,Satara,,,,17.800746,74.392006,1008.99,stale,True,False,2026-09-11,6.81,0.03,6.79,-0.02,987,201,215,0,215
+Kusgaon,494,Satara,,,,17.948967,73.822138,795.06,stale,False,False,2026-09-28,4.12,0.63,6.5,2.38,904,0,233,0,233
+Lodhavade,494,Satara,,,,17.644407,74.633642,737.0,current,False,False,2026-10-26,7.81,-0.58,9.38,1.57,967,0,253,0,253
+Mahimangad,494,Satara,,,,17.704154,74.461918,935.59,current,False,False,2026-10-23,2.81,0.22,0.86,-1.95,630,0,161,0,161
+Malatpur Dhavali,494,Satara,,,,17.947602,73.776837,762.0,current,False,False,2026-10-26,8.53,0.54,9.0,0.47,971,3,253,1,252
+Malavadi_1,494,Satara,,,,17.765968,74.452875,853.29,current,False,False,2026-10-23,3.11,0.71,2.33,-0.78,611,0,160,0,160
+Mandave_1,494,Satara,,,,17.646043,74.488412,770.99,current,False,False,2026-10-23,8.4,0.3,7.07,-1.33,645,0,171,0,171
+Manetupewadi,494,Satara,,,,17.541847,74.533406,734.64,current,False,False,2026-10-23,9.16,0.67,6.12,-3.04,642,0,167,0,167
+Mankarnewadi,494,Satara,,,,17.664536,74.649036,649.0,current,False,False,2026-10-26,10.74,0.86,13.94,3.2,975,0,255,0,255
+Mugaon_1,494,Satara,,,,17.95946,73.799308,759.0,current,False,False,2026-10-26,2.25,0.34,2.37,0.12,971,16,253,0,253
+Nagewadi_2,494,Satara,,,,17.922124,73.835349,938.0,current,False,False,2026-10-26,20.52,1.75,22.37,1.84,979,0,254,4,250
+Nandgane,494,Satara,,,,17.952442,73.726853,756.0,current,False,False,2026-10-26,8.38,0.8,9.07,0.69,968,0,254,0,254
+Naravane,494,Satara,,,,17.603765,74.618491,701.0,current,False,False,2026-10-23,1.01,-0.06,3.62,2.62,617,0,161,0,161
+Nidhal,494,Satara,,,,17.708902,74.407718,645.0,current,False,False,2026-10-26,6.37,2.91,8.3,1.93,992,24,252,2,250
+Palasgaon_1,494,Satara,,,,17.54472,74.549075,718.54,current,False,False,2026-10-23,12.38,-0.08,13.81,1.44,672,0,174,3,171
+Palashi_4,494,Satara,,,,17.671074,74.679715,658.02,current,False,False,2026-10-23,1.74,0.21,1.9,0.16,626,0,161,0,161
+Pandharechiwadi,494,Satara,,,,17.906059,73.895063,817.28,current,False,False,2026-10-23,7.63,0.21,7.79,0.16,630,0,161,0,161
+Pandharwadi_1,494,Satara,,,,17.698093,74.429433,800.0,current,False,False,2026-10-23,11.1,1.05,4.31,-6.79,625,0,160,0,160
+Paratavadi,494,Satara,,,,17.954998,73.730681,796.0,current,False,False,2026-10-23,5.25,-0.29,10.03,4.78,634,0,163,0,163
+Parkhandi,494,Satara,,,,17.799928,74.464917,838.0,current,False,False,2026-10-23,5.46,0.17,2.99,-2.47,622,0,161,0,161
+Pasarni,494,Satara,,,,17.947794,73.850275,760.58,current,False,False,2026-10-23,2.62,1.05,4.17,1.54,630,0,161,0,161
+Pedgaon_1,494,Satara,,,,17.648483,74.454598,764.01,current,False,False,2026-10-23,14.87,4.68,18.68,3.81,645,0,171,2,169
+Pimpari,494,Satara,,,,17.64659,74.667488,669.0,current,False,False,2026-10-25,12.22,8.0,12.95,0.73,963,0,252,1,251
+Pingali Bk,494,Satara,,,,17.678272,74.512773,802.48,current,False,False,2026-10-26,33.53,1.37,28.35,-5.19,947,1,251,13,238
+Pingali Kh,494,Satara,,,,17.669427,74.546577,722.21,current,False,False,2026-10-26,16.62,2.69,,,755,0,199,4,195
+Purna Vyahali,494,Satara,,,,17.893408,73.933957,703.64,current,False,False,2026-10-23,4.04,0.17,1.57,-2.47,617,0,160,0,160
+Pusegaon,494,Satara,,,,17.709941,74.322825,819.0,current,False,False,2026-10-23,4.15,-0.44,8.01,3.86,662,0,172,0,172
+Satewadi,494,Satara,,,,17.616763,74.439707,735.33,current,False,False,2026-10-23,55.5,-5.15,65.33,9.83,650,0,172,0,172
+Satrewadi (Malavadi),494,Satara,,,,17.74968,74.433415,896.94,current,False,False,2026-10-23,5.73,0.65,5.33,-0.4,622,0,160,0,160
+Shindi Bk,494,Satara,,,,17.71385,74.49044,778.0,current,False,False,2026-10-23,3.59,0.07,3.4,-0.19,618,0,161,0,161
+Shindi Kh,494,Satara,,,,17.786571,74.434299,785.43,current,False,False,2026-10-26,8.79,0.51,10.16,1.37,979,1,255,0,255
+Shiravali_1,494,Satara,,,,17.760533,74.405606,906.0,current,False,False,2026-10-23,5.46,0.67,0.8,-4.67,622,0,161,0,161
+Shripalavan,494,Satara,,,,17.833747,74.41917,1051.8,current,False,False,2026-10-23,12.92,0.69,25.45,12.53,630,0,161,0,161
+Swarupkhanwadi,494,Satara,,,,17.671559,74.491189,839.58,current,False,False,2026-10-26,11.02,0.58,6.86,-4.15,975,0,254,0,254
+Tadawale,494,Satara,,,,17.632826,74.513768,831.23,current,False,False,2026-10-23,7.94,0.98,7.12,-0.83,630,0,161,0,161
+Taighat,494,Satara,,,,17.924648,73.785967,1205.2,stale,False,False,2026-09-29,5.48,2.09,9.04,3.56,676,1,180,0,180
+Takewadi_1,494,Satara,,,,17.793165,74.484223,806.0,current,False,False,2026-10-23,16.0,1.39,18.77,2.76,622,0,161,0,161
+Ukirde,494,Satara,,,,17.693971,74.463813,896.63,stale,False,False,2026-09-02,1.51,0.11,3.48,1.97,987,165,211,1,210
+Ulumb,494,Satara,,,,17.959728,73.718749,793.5,current,False,False,2026-10-23,11.21,0.65,10.82,-0.39,626,0,161,0,161
+Umbarmale,494,Satara,,,,17.715468,74.368466,881.51,current,False,False,2026-10-23,7.22,1.02,3.44,-3.79,622,0,160,0,160
+Vaduj,494,Satara,,,,17.596828,74.450189,710.2,current,False,False,2026-10-23,49.31,0.25,48.61,-0.7,642,0,164,0,164
+Vaigaon,494,Satara,,,,17.946762,73.721455,812.0,current,False,False,2026-10-23,19.57,0.98,16.23,-3.34,634,0,164,0,164
+Vitthalwadi,494,Satara,,,,17.944142,73.816059,722.0,current,False,False,2026-10-25,10.36,4.23,10.58,0.22,969,2,254,0,254
+Vyajawadi,494,Satara,,,,17.887811,73.914194,821.33,current,False,False,2026-10-23,2.62,0.07,2.44,-0.19,626,0,161,0,161
+Wakeshwar,494,Satara,,,,17.601214,74.421335,691.29,current,False,False,2026-10-26,1.52,0.16,1.9,0.38,963,1,254,0,254
+Warugad,494,Satara,,,,17.834115,74.444761,1034.46,current,False,False,2026-10-23,15.23,0.6,17.09,1.87,630,0,161,0,161
+Yashvantnagar,494,Satara,,,,17.932251,73.892155,700.0,current,False,False,2026-10-26,6.36,1.59,6.29,-0.07,983,0,255,0,255
+Yelmarwadi,494,Satara,,,,17.58294,74.556817,755.0,current,False,False,2026-10-26,10.66,0.18,12.25,1.59,959,0,254,0,254
+Yeralwadi_1,494,Satara,,,,17.549358,74.50073,679.98,current,False,False,2026-10-23,12.01,1.29,5.96,-6.05,626,0,160,0,160
+Medha,494,Satara,JAOLI,,,17.79444444,73.83194722,681.0,stale,False,False,2026-06-02,7.39,1.69,5.89,-1.5,528,0,132,8,124
+Beldare,494,Satara,KARAD,,,17.34305556,74.084725,679.0,stale,False,False,2026-06-02,14.58,3.58,11.45,-3.13,572,0,143,9,134
+Khed Bk,494,Satara,KHANDALA,,,18.03944444,74.139725,624.0,stale,False,False,2026-06-02,18.81,3.14,16.29,-2.52,564,4,140,10,130
+Shiddheshwar Kuroli,494,Satara,KHATAV,,,17.59666667,74.39166944,759.0,stale,False,False,2026-06-02,13.19,1.85,11.72,-1.47,556,0,139,7,132
+Satara Road(Padali),494,Satara,KOREGAON,,,17.76444444,74.11833611,665.0,stale,False,False,2026-06-02,13.99,2.0,12.26,-1.73,548,0,137,9,128
+Pachgani,494,Satara,MAHABALESHWAR,,,17.92444444,73.80611389,1223.0,stale,False,False,2026-05-31,18.4,1.49,17.38,-1.02,556,0,139,14,125
+Shirtav,494,Satara,MAN,,,17.58888889,74.81111389,594.0,stale,False,False,2026-06-02,11.82,2.9,9.09,-2.74,532,0,133,6,127
+Tarale,494,Satara,PATAN,,,17.51333333,73.98000278,627.0,stale,False,False,2026-06-02,12.15,1.63,10.92,-1.23,556,0,139,13,126
+Adarki Kh,494,Satara,PHALTAN,,,17.91111111,74.17083611,698.0,stale,False,False,2026-06-02,10.53,0.81,9.93,-0.6,544,0,136,9,127
+Kuran,494,Satara,SATARA,,,17.76527778,73.98889444,731.0,stale,False,False,2026-05-30,7.84,0.6,7.68,-0.16,552,0,138,10,128
+Kadegaon,494,Satara,WAI,,,17.90694444,73.934725,686.0,stale,False,False,2026-06-02,11.67,2.05,10.04,-1.63,544,0,136,10,126
+Jamsande,495,Sindudurg,DEVGAD,,,16.37527778,73.37833611,5.0,stale,False,False,2026-06-02,15.19,2.32,13.3,-1.88,552,0,138,11,127
+Kasai-Dodamarg,495,Sindudurg,Dodamarg,,,15.67916667,73.96750278,40.0,stale,False,False,2026-06-02,9.47,1.81,8.01,-1.46,552,0,138,9,129
+Kankavli,495,Sindudurg,KANKAVLI,,,16.26166667,73.71083611,40.0,stale,False,False,2026-06-02,12.37,1.76,10.94,-1.42,556,0,139,7,132
+Kasal,495,Sindudurg,KUDAL,,,16.155,73.68278056,40.0,stale,False,False,2026-06-01,10.67,1.05,9.91,-0.76,556,0,139,7,132
+Nandrukh,495,Sindudurg,MALWAN,,,16.07555556,73.53555833,120.0,stale,False,False,2026-06-02,6.1,1.77,4.43,-1.68,552,0,138,6,132
+Sawantwadi,495,Sindudurg,SAWANTWADI,,,15.91416667,73.81750278,100.0,stale,False,False,2026-05-31,8.31,0.71,7.97,-0.34,576,0,144,8,136
+Achirne,495,Sindudurg,VAIBHAVVADI,,,16.4375,73.76111389,120.0,stale,False,False,2026-06-01,6.88,0.75,6.31,-0.56,536,0,134,15,119
+Vengurla,495,Sindudurg,VENGURLA,,,15.86222222,73.63055833,10.0,stale,False,False,2026-06-02,9.01,1.37,7.91,-1.1,544,0,136,13,123
+Adhiv_1,496,Solapur,,,,17.729675,75.361494,538.0,current,False,False,2026-10-26,14.93,0.03,14.89,-0.04,983,0,256,0,256
+Anadnagar,496,Solapur,,,,17.906742,74.986238,551.0,current,False,False,2026-10-23,14.74,3.5,7.03,-7.71,625,0,161,0,161
+Angar_3,496,Solapur,,,,17.892731,75.575132,473.0,current,False,True,2026-10-26,53.89,0.02,,,504,0,136,1,135
+Anjangaon (Khi),496,Solapur,,,,17.933847,75.54585,557.0,current,False,True,2026-10-26,35.94,0.0,35.95,0.01,971,0,252,1,251
+Aran_2,496,Solapur,,,,17.933303,75.366962,573.0,current,True,False,2026-10-25,17.68,0.01,17.63,-0.05,896,506,138,0,138
+Ashti_2,496,Solapur,,,,17.845727,75.407957,556.0,stale,False,False,2026-09-28,14.07,0.14,12.85,-1.22,859,0,226,0,226
+Babhulgaon_2,496,Solapur,,,,17.76545,75.381887,555.0,current,False,False,2026-10-23,15.0,-0.18,16.63,1.63,690,0,182,0,182
+Babhulgaon_2,496,Solapur,,,,17.948538,75.162024,528.0,current,False,False,2026-10-22,21.61,-0.33,21.7,0.09,894,0,232,0,232
+Baghechiwadi,496,Solapur,,,,17.88319,74.988553,557.0,insufficient,True,False,,,,,,947,947,0,0,0
+Bairagvadi,496,Solapur,,,,17.888853,75.372058,535.0,current,False,False,2026-10-24,48.39,40.72,10.8,-37.59,716,0,186,3,183
+Bairagwadi,496,Solapur,,,,17.868247,75.369583,551.0,stale,False,False,2026-09-21,16.12,,16.08,-0.04,599,0,157,0,157
+Bavi_1,496,Solapur,,,,17.9399,75.42939,541.0,current,False,False,2026-10-23,0.92,-0.2,16.82,15.9,638,0,164,2,162
+Bhamb_1,496,Solapur,,,,17.797087,74.788794,676.0,current,False,False,2026-10-23,10.06,-0.21,5.96,-4.11,626,0,160,4,156
+Bhamburdi,496,Solapur,,,,17.848119,74.86054,589.0,current,False,False,2026-10-26,2.67,0.12,2.72,0.05,968,0,254,0,254
+Bhend_1,496,Solapur,,,,17.9839,75.368238,555.0,current,False,False,2026-10-26,51.87,-0.37,51.11,-0.76,995,2,258,0,258
+Bijwadi,496,Solapur,,,,17.924209,75.048776,540.0,current,False,False,2026-10-23,45.68,2.24,37.98,-7.71,622,0,161,3,158
+Bitale,496,Solapur,,,,17.884221,75.604144,544.0,current,False,False,2026-10-26,38.64,1.73,31.82,-6.81,840,0,226,0,226
+Borgaon_2,496,Solapur,,,,17.833985,75.108351,483.0,current,False,False,2026-10-26,4.91,0.26,4.83,-0.07,963,0,254,0,254
+"Chakore, Pratapnagar",496,Solapur,,,,17.911493,74.939,554.0,current,False,False,2026-10-23,1.01,-0.1,1.01,-0.0,622,0,159,0,159
+Chikhali_1,496,Solapur,,,,17.843928,75.551142,570.0,current,False,False,2026-10-23,6.8,0.46,4.86,-1.94,618,0,160,0,160
+Choundeshewarwadi,496,Solapur,,,,17.843145,75.014137,560.0,insufficient,True,False,,,,,,967,967,0,0,0
+Degaon_2,496,Solapur,,,,17.72457,75.384935,530.0,current,False,False,2026-10-26,6.19,0.02,6.15,-0.04,973,0,256,0,256
+Deodi,496,Solapur,,,,17.88141,75.504618,572.0,current,False,False,2026-10-23,7.65,0.03,7.28,-0.38,630,0,161,0,161
+Deshmukhwadi_1,496,Solapur,,,,18.013115,74.696308,540.0,current,False,False,2026-10-23,7.84,0.38,8.47,0.62,638,0,164,0,164
+Dharmpuri_2,496,Solapur,,,,17.940498,74.674463,572.0,current,False,False,2026-10-23,4.7,-2.55,14.44,9.74,618,0,163,0,163
+Dombalwadi (Ku),496,Solapur,,,,17.825903,74.950085,567.0,current,False,False,2026-10-25,14.59,0.02,14.55,-0.04,932,0,245,0,245
+Dombhalwadi (Khu),496,Solapur,,,,17.825977,74.94967,609.0,current,False,False,2026-10-25,10.72,1.91,12.76,2.04,910,0,239,0,239
+Galandwadi,496,Solapur,,,,17.931639,75.590382,546.0,current,False,False,2026-10-23,21.72,-0.34,31.0,9.28,678,0,177,4,173
+Ganeshgaon_1,496,Solapur,,,,17.945023,75.12043,540.0,stale,True,False,2026-05-14,6.24,0.51,6.07,-0.17,987,638,94,0,94
+Girzani,496,Solapur,,,,17.86466,74.980064,505.0,current,False,True,2026-10-26,33.32,0.01,33.18,-0.14,987,0,257,1,256
+Goradwadi_1,496,Solapur,,,,17.790485,74.877981,655.0,current,False,False,2026-10-26,3.04,0.22,3.66,0.62,971,0,256,0,256
+Gursale_1,496,Solapur,,,,17.959319,74.695237,560.0,current,False,False,2026-10-23,4.69,-1.24,8.92,4.23,630,0,164,0,164
+Hanumanwadi,496,Solapur,,,,18.002119,74.707178,611.0,current,False,False,2026-10-23,64.18,-9.31,89.07,24.9,630,0,161,7,154
+Hivare (Mohol),496,Solapur,,,,17.841502,75.536284,549.0,current,False,False,2026-10-26,42.33,0.02,41.98,-0.35,963,1,255,1,254
+Ishwar Wathar,496,Solapur,,,,17.723638,75.409867,343.0,current,False,True,2026-10-26,60.04,-0.01,60.05,0.01,971,0,255,0,255
+Islampur_3,496,Solapur,,,,17.804578,74.844524,621.0,current,False,False,2026-10-23,7.14,-0.12,7.17,0.03,626,0,161,0,161
+Jadhavvadi,496,Solapur,,,,17.898166,75.352136,560.0,current,False,False,2026-10-26,28.86,,23.3,-5.55,483,0,134,0,134
+Jadhavwadi_1,496,Solapur,,,,17.848033,74.853162,625.0,current,False,False,2026-10-23,14.85,3.5,7.43,-7.43,634,0,164,0,164
+Jalbhavi,496,Solapur,,,,17.753584,74.849508,666.0,current,False,False,2026-10-26,38.13,0.98,32.84,-5.29,967,1,254,0,254
+Jambud_1,496,Solapur,,,,17.814522,75.164197,498.0,current,False,False,2026-10-26,8.45,-0.19,9.78,1.33,979,132,224,1,223
+Kachrewadi,496,Solapur,,,,17.900625,74.91969,548.0,current,False,False,2026-10-26,2.06,-0.83,2.99,0.93,978,0,257,0,257
+Kanher_2,496,Solapur,,,,17.806073,74.838203,621.0,current,False,False,2026-10-25,6.04,0.35,6.98,0.94,933,0,241,0,241
+Karunde,496,Solapur,,,,17.910456,74.667856,602.0,current,False,False,2026-10-23,15.0,1.01,11.26,-3.74,638,0,164,0,164
+Khairevadi,496,Solapur,,,,17.977734,75.571794,555.0,stale,False,False,2026-05-22,12.15,2.45,11.3,-0.85,495,0,128,0,128
+"Khandali, Dattanagar",496,Solapur,,,,17.834088,75.04287,596.0,current,False,False,2026-10-26,28.38,-17.1,52.72,24.33,995,0,260,4,256
+Khandali_1,496,Solapur,,,,17.828731,75.454982,553.0,current,False,False,2026-10-26,20.11,1.22,10.8,-9.3,983,0,256,0,256
+Khandobachiwadi,496,Solapur,,,,17.900053,75.527572,559.0,current,False,False,2026-10-26,29.56,0.08,29.13,-0.43,979,0,257,0,257
+Kharatvadi,496,Solapur,,,,17.81721,75.373752,569.0,current,False,False,2026-10-25,9.5,-0.13,9.66,0.16,904,1,240,0,240
+Khudus,496,Solapur,,,,17.823332,74.973302,559.0,current,False,False,2026-10-23,26.69,0.38,22.36,-4.33,618,0,161,0,161
+"Kondbhavi (Vatpali), Watpali",496,Solapur,,,,17.902349,74.957441,554.0,current,False,False,2026-10-23,14.84,-0.32,13.47,-1.37,630,0,161,0,161
+Kondharpatta,496,Solapur,,,,17.842797,75.201178,523.0,stale,False,False,2026-09-19,0.37,-6.73,26.16,25.79,915,98,212,0,212
+Konheri,496,Solapur,,,,17.807364,75.51823,557.0,stale,False,False,2026-09-20,6.3,,5.94,-0.36,576,1,152,0,152
+Kumbhej,496,Solapur,,,,17.957788,75.604587,545.0,current,False,False,2026-10-23,45.36,0.68,40.69,-4.67,626,0,161,0,161
+Kuranwadi (Ashti),496,Solapur,,,,17.873775,75.413205,558.0,current,False,False,2026-10-23,20.74,-0.21,16.63,-4.11,626,0,161,3,158
+Kuranwadi_1,496,Solapur,,,,17.873602,75.564374,550.0,current,False,False,2026-10-26,13.14,0.03,13.09,-0.04,979,0,257,0,257
+Kurbavi,496,Solapur,,,,18.024719,74.716895,580.0,current,False,False,2026-10-23,13.84,1.0,10.47,-3.37,626,0,161,0,161
+Lawang,496,Solapur,,,,17.886419,75.124411,533.0,insufficient,True,False,,,,,,971,971,0,0,0
+Londhewadi,496,Solapur,,,,17.966465,75.574889,560.0,current,False,False,2026-10-23,14.49,0.69,27.02,12.53,641,0,164,1,163
+Mahalung_1,496,Solapur,,,,17.870478,75.094113,540.0,current,False,False,2026-10-23,3.74,2.46,20.18,16.45,622,0,161,2,159
+Malewadi (Bo),496,Solapur,,,,17.829351,75.085723,572.0,current,False,False,2026-10-26,8.34,0.72,5.36,-2.98,971,1,255,0,255
+Malewadi_1,496,Solapur,,,,17.859094,75.049441,577.0,current,False,False,2026-10-23,35.0,4.99,27.16,-7.84,622,0,160,0,160
+Malikpeth,496,Solapur,,,,17.874827,75.6404,519.0,current,False,False,2026-10-23,3.09,-0.08,3.09,0.0,618,0,161,0,161
+Malinagar,496,Solapur,,,,17.894006,75.048382,543.0,current,True,False,2026-10-26,10.7,1.44,,,979,482,145,9,136
+Malkhambi,496,Solapur,,,,17.815463,75.122263,553.0,current,False,True,2026-10-26,32.34,0.01,32.29,-0.05,987,0,257,7,250
+Manaki_1,496,Solapur,,,,17.780855,74.838495,646.0,current,False,False,2026-10-26,35.84,2.06,35.47,-0.38,946,1,251,1,250
+Medad,496,Solapur,,,,17.895753,74.871473,570.0,current,False,False,2026-10-26,14.8,-0.48,15.67,0.87,971,0,254,0,254
+Mire_1,496,Solapur,,,,17.864908,75.135417,524.0,stale,False,False,2026-08-27,7.71,-9.79,22.63,14.92,592,0,154,3,151
+Modnimb,496,Solapur,,,,17.911789,75.406976,494.0,current,False,False,2026-10-23,15.47,-1.39,27.05,11.58,626,0,161,0,161
+Motewadi,496,Solapur,,,,17.803161,74.911427,596.0,current,False,False,2026-10-23,71.11,-0.23,64.1,-7.02,638,0,164,0,164
+Nalbandwadi,496,Solapur,,,,17.879582,75.545563,554.0,current,False,False,2026-10-23,57.88,2.29,49.81,-8.07,622,0,161,3,158
+Narayan Chincholi_1,496,Solapur,,,,17.721683,75.398127,515.0,current,False,False,2026-10-23,35.19,-0.11,35.23,0.04,630,0,161,0,161
+Nevare,496,Solapur,,,,17.836338,75.183158,527.0,current,False,False,2026-10-23,16.58,0.98,15.77,-0.81,622,0,160,0,160
+Padsali_1,496,Solapur,,,,17.980012,75.389793,500.0,current,False,False,2026-10-26,15.14,0.03,15.09,-0.04,995,0,257,0,257
+Paniv,496,Solapur,,,,17.84674,74.975027,577.0,current,False,False,2026-10-26,19.92,0.01,13.49,-6.43,979,102,237,2,235
+Papari,496,Solapur,,,,17.826528,75.473818,530.0,current,False,False,2026-10-26,46.67,-0.02,44.56,-2.11,969,0,256,1,255
+Pennur,496,Solapur,,,,17.771244,75.505802,496.0,current,False,False,2026-10-26,41.69,-0.05,42.69,1.0,984,0,256,0,256
+Pisewadi,496,Solapur,,,,17.800388,75.007443,598.0,stale,True,False,2026-06-30,0.95,-8.82,14.34,13.39,971,447,138,0,138
+Purandavade,496,Solapur,,,,17.869981,74.854358,588.0,current,True,False,2026-10-26,66.47,3.59,68.78,2.31,972,251,191,0,191
+Rede_1,496,Solapur,,,,17.779832,74.816416,622.0,current,False,False,2026-10-23,13.78,-16.0,39.12,25.34,638,0,164,4,160
+Ropale,496,Solapur,,,,17.789296,75.401465,542.0,stale,False,False,2026-09-28,16.13,0.24,16.73,0.6,727,0,199,0,199
+Ropale Kh,496,Solapur,,,,17.96493,75.459074,510.0,current,False,False,2026-10-23,13.64,0.69,26.18,12.54,626,0,163,0,163
+Sangam_5,496,Solapur,,,,17.968965,75.135966,527.0,stale,True,False,2026-02-14,4.3,,,,983,890,26,0,26
+Sangramnagar,496,Solapur,,,,17.887614,75.003852,535.0,current,False,False,2026-10-23,24.04,1.43,26.25,2.21,642,0,164,0,164
+Savatgavhan,496,Solapur,,,,17.904432,75.056106,550.0,current,False,False,2026-10-23,10.54,-0.55,13.39,2.85,823,0,210,13,197
+Shetphal_2,496,Solapur,,,,17.906146,75.42887,567.0,current,False,False,2026-10-25,0.15,-3.51,13.1,12.95,926,1,243,7,236
+Shindhewadi,496,Solapur,,,,18.001139,74.677345,556.0,current,False,False,2026-10-23,46.31,-0.25,47.65,1.33,630,0,163,0,163
+Siddhewadi_1,496,Solapur,,,,17.916042,75.45901,560.0,current,False,False,2026-10-23,4.92,2.58,7.03,2.12,735,0,188,6,182
+Solankarwadi,496,Solapur,,,,17.949357,75.39912,515.0,current,False,False,2026-10-23,19.11,1.35,18.49,-0.62,634,0,164,0,164
+Tambve,496,Solapur,,,,17.90713,75.09369,561.0,current,False,False,2026-10-23,7.2,-1.01,4.12,-3.08,626,0,161,0,161
+Telangwadi,496,Solapur,,,,17.884755,75.456758,566.0,current,False,False,2026-10-23,6.29,-0.1,6.31,0.01,618,0,160,0,160
+Tirwandi,496,Solapur,,,,17.915998,74.899745,555.0,current,False,False,2026-10-23,16.22,0.86,18.91,2.7,634,0,164,0,164
+Tungat,496,Solapur,,,,17.744061,75.43469,540.0,current,False,False,2026-10-23,9.48,0.39,5.16,-4.32,626,0,161,0,161
+Ughadewadi,496,Solapur,,,,17.803649,75.08987,584.0,stale,False,False,2026-10-17,41.77,9.04,47.69,5.92,939,1,245,14,231
+Umbre Dahigaon,496,Solapur,,,,17.940717,74.873555,579.0,current,False,False,2026-10-26,3.54,-0.36,4.6,1.06,979,1,255,0,255
+Umbre Velapur,496,Solapur,,,,17.8768,75.190167,528.0,current,False,False,2026-10-26,7.49,-12.82,18.52,11.04,983,0,256,26,230
+Undargaon,496,Solapur,,,,18.026115,75.581238,500.0,current,False,False,2026-10-26,37.14,0.72,22.58,-14.55,975,1,254,0,254
+Uplai Bk,496,Solapur,,,,17.969438,75.493706,545.0,insufficient,True,False,2026-08-01,43.91,,,,900,877,8,0,8
+Uplai Kh,496,Solapur,,,,17.991077,75.527018,537.0,current,False,False,2026-10-23,6.86,0.39,5.0,-1.86,618,0,159,0,159
+Velapur_1,496,Solapur,,,,17.788966,75.055235,294.0,current,False,True,2026-10-26,40.23,0.0,40.23,0.0,975,0,256,0,256
+Vijaywadi,496,Solapur,,,,17.837199,74.992359,582.0,current,False,False,2026-10-23,28.36,0.22,26.42,-1.95,638,0,164,0,164
+Vitthalwadi,496,Solapur,,,,17.986291,75.555508,614.0,current,False,False,2026-10-26,23.91,-0.03,18.41,-5.5,991,0,258,0,258
+Vitthalwadi_2,496,Solapur,,,,17.803599,75.142334,492.0,current,False,False,2026-10-25,8.77,0.32,10.01,1.24,996,1,258,0,258
+Vizhori,496,Solapur,,,,17.832032,75.004668,579.0,current,False,False,2026-10-23,18.02,1.44,12.34,-5.68,622,0,161,0,161
+Wadachivadi,496,Solapur,,,,17.852672,75.513106,562.0,current,False,False,2026-10-23,63.56,9.08,55.13,-8.43,626,0,161,6,155
+Wadachiwadi,496,Solapur,,,,17.945477,75.474066,540.0,current,False,False,2026-10-23,14.9,-0.39,16.76,1.86,638,0,164,0,164
+Wafale,496,Solapur,,,,17.913098,75.503088,535.0,current,False,False,2026-10-24,29.27,0.05,25.16,-4.11,888,0,231,0,231
+Wafegaon,496,Solapur,,,,17.935812,75.175119,563.0,stale,True,False,2026-09-14,5.24,,4.44,-0.79,971,638,89,3,86
+Wagholi_3,496,Solapur,,,,17.910643,75.160529,487.0,current,False,False,2026-10-23,11.69,-0.04,12.07,0.38,642,0,164,0,164
+Wakav,496,Solapur,,,,17.986679,75.59842,537.0,current,False,False,2026-10-23,12.04,-0.79,18.46,6.42,630,0,161,0,161
+Yashwantnagar_1,496,Solapur,,,,17.863959,75.004201,574.0,current,False,False,2026-10-23,56.54,15.93,34.15,-22.4,618,0,161,3,158
+Yeliv,496,Solapur,,,,17.876268,74.863633,583.0,current,False,False,2026-10-26,5.36,0.02,5.32,-0.03,983,0,257,0,257
+Yevati,496,Solapur,,,,17.78724,75.442344,494.0,current,False,False,2026-10-23,45.95,-0.72,48.41,2.45,626,0,163,0,163
+Zunjewadi,496,Solapur,,,,17.802863,74.943927,591.0,stale,True,False,2026-08-17,1.12,-8.94,9.28,8.16,971,237,192,0,192
+Tadawal,496,Solapur,AKKALKOT,,,17.39583333,75.98278056,377.0,stale,False,False,2026-06-02,9.34,2.06,7.47,-1.87,532,0,133,10,123
+Shendri,496,Solapur,BARSHI,,,18.17638889,75.55833611,499.0,stale,False,False,2026-06-02,17.38,2.02,16.13,-1.24,540,4,134,8,126
+Bhilarwadi,496,Solapur,KARMALA,,,18.34166667,74.89583611,566.0,stale,False,False,2026-06-02,20.17,3.28,16.58,-3.59,536,0,134,15,119
+Aran,496,Solapur,MADHA,,,17.90833333,75.32528056,503.0,stale,False,False,2026-06-02,18.37,2.95,15.87,-2.49,552,0,138,13,125
+Gursale,496,Solapur,MALSHIRAS,,,17.87777778,74.66805833,541.0,stale,False,False,2026-06-01,8.14,1.14,7.27,-0.86,544,0,136,9,127
+Diksal,496,Solapur,MANGALVEDHE,,,17.40694444,75.52778056,469.0,stale,False,False,2026-06-02,20.44,3.23,18.15,-2.29,556,0,139,8,131
+Hivare,496,Solapur,MOHOL,,,17.84305556,75.53750278,465.0,stale,False,False,2026-06-02,19.41,3.08,17.11,-2.3,560,0,140,17,123
+Gardi,496,Solapur,PANDHARPUR,,,17.64027778,75.14861389,494.0,stale,False,False,2026-05-31,12.37,0.81,12.02,-0.35,556,0,139,10,129
+Pachegaon Bk,496,Solapur,SANGOLE,,,17.19722222,74.89305833,687.0,stale,False,False,2026-06-02,12.47,3.35,9.35,-3.12,556,0,139,8,131
+Mardi,496,Solapur,SOLAPUR NORTH,,,17.80277778,75.90000278,493.0,stale,False,False,2026-06-01,13.14,1.88,11.79,-1.35,560,0,140,11,129
+Takali,496,Solapur,SOLAPUR SOUTH,,,17.49194444,75.82528056,356.0,stale,False,False,2026-06-02,15.19,2.59,12.9,-2.29,544,0,136,9,127
+Kanhor,497,Thane,Ambarnath,,,19.14305556,73.28611389,34.0,stale,False,False,2026-06-02,8.46,2.03,6.62,-1.84,568,0,142,9,133
+Sange,497,Thane,BHIWANDI,,,19.3,73.16944722,20.2,stale,False,False,2026-06-02,6.24,1.2,5.24,-0.99,560,0,140,8,132
+Jawhar,497,Thane,JAWHAR,,,19.90416667,73.23055833,60.0,stale,False,False,2026-06-02,11.25,2.58,9.04,-2.21,556,0,139,10,129
+Titwala,497,Thane,KALYAN,,,19.3,73.22361389,19.1,stale,False,False,2026-06-02,6.78,1.31,5.68,-1.1,548,0,137,9,128
+Sasne,497,Thane,MURBAD,,,19.2,73.43333611,89.1,stale,False,False,2026-06-01,8.34,0.94,7.83,-0.5,544,0,136,12,124
+Washind,497,Thane,SHAHAPUR,,,19.40805556,73.26528056,20.5,stale,False,False,2026-06-02,9.55,1.55,8.31,-1.24,556,0,139,10,129
+Thane,497,Thane,THANE,,,19.19583333,72.97916944,7.81,stale,False,False,2026-06-02,8.86,2.73,6.39,-2.48,560,0,140,12,128
+Devli,497,Thane,VADA,,,19.69166667,73.15000278,55.0,stale,False,False,2026-05-31,6.45,1.09,5.79,-0.66,552,0,138,12,126
+Kasa Bk,497,Thane,VIKRAMGAD,,,19.925,73.04583611,80.0,stale,False,False,2026-06-02,10.68,2.83,8.04,-2.64,560,0,140,11,129
+Bhidi_1,498,Wardha,,,,20.573,78.403055,250.0,stale,False,False,2026-06-01,9.89,1.38,9.01,-0.88,564,0,141,12,129
+Sirsoli,498,Wardha,ASHTI,,,21.18277778,78.09750278,300.0,stale,False,False,2026-06-02,20.62,3.94,17.9,-2.72,552,0,138,9,129
+Allipur,498,Wardha,HINGANGHAT,,,20.54444444,78.697225,230.0,stale,False,False,2026-06-02,8.48,2.44,6.18,-2.3,564,0,141,8,133
+Karanja,498,Wardha,KARANJA,,,21.16944444,78.41250278,440.0,stale,False,False,2026-06-02,13.58,2.84,10.95,-2.63,560,0,140,9,131
+Kandhali,498,Wardha,SAMUDRAPUR,,,20.73972222,78.924725,233.0,stale,False,False,2026-06-01,12.1,1.16,11.32,-0.78,540,0,135,6,129
+Anji,498,Wardha,WARDHA,,,20.84583333,78.54305833,275.0,stale,False,False,2026-06-02,12.54,1.78,11.06,-1.48,560,0,140,11,129
+Dhanaj Bk,499,Washim,KARANJA,,,20.65361111,77.62500278,330.0,stale,False,False,2026-06-01,9.97,1.42,8.86,-1.11,544,0,136,12,124
+Medshi,499,Washim,MALEGAON,,,20.325,76.94583611,460.0,stale,False,False,2026-06-01,10.96,0.91,10.22,-0.73,540,0,135,5,130
+Inzori,499,Washim,MANORA,,,20.39444444,77.51111389,400.0,stale,False,False,2026-06-02,14.92,2.63,13.19,-1.73,544,0,136,9,127
+Risod,499,Washim,RISOD,,,19.97305556,76.78278056,540.0,stale,False,False,2026-06-01,10.42,1.77,8.75,-1.67,560,0,140,9,131
+Warla,499,Washim,WASHIM,,,19.99305556,77.26166944,535.0,stale,False,False,2026-06-02,11.39,2.05,9.6,-1.79,548,0,137,13,124
+Bhojala,500,Yavatmal,,,,19.9546,77.5335,495.0,stale,False,False,2026-06-01,8.33,1.79,6.69,-1.64,540,0,135,11,124
+Pahapal_1,500,Yavatmal,,,,19.997244,78.488611,226.0,stale,False,False,2026-06-01,9.23,1.22,8.46,-0.77,532,0,133,11,122
+Sasani_1,500,Yavatmal,,,,20.11523,78.232515,310.0,stale,False,False,2026-06-02,8.33,1.9,6.65,-1.68,552,0,138,16,122
+Sawana,500,Yavatmal,,,,19.8146,77.7319,290.0,stale,False,False,2026-06-02,13.66,2.1,12.09,-1.56,552,0,138,12,126
+Mandwa,500,Yavatmal,DIGRAS,,,20.15833333,77.69305833,333.0,stale,False,False,2026-06-01,7.5,0.81,6.91,-0.59,540,0,135,9,126
+Satephal,500,Yavatmal,KALAMB,,,20.51805556,78.33611389,247.0,stale,False,False,2026-06-02,16.77,2.42,14.87,-1.9,568,0,142,6,136
+Jalaka,500,Yavatmal,MAREGAON,,,20.13194444,78.66805833,307.0,stale,False,False,2026-06-02,12.69,2.52,10.5,-2.19,532,0,133,15,118
+Khadaki,500,Yavatmal,RALEGAON,,,20.29583333,78.70000278,213.0,stale,False,False,2026-06-02,14.14,2.26,12.22,-1.92,552,0,138,9,129
+Dhanaki,500,Yavatmal,UMARKHED,,,19.56666667,77.85000278,402.0,stale,False,False,2026-06-01,13.01,1.43,12.01,-1.0,548,0,137,12,125
+Punwat,500,Yavatmal,WANI,,,19.95333333,79.05333611,182.0,stale,False,False,2026-06-01,9.12,1.22,8.1,-1.02,536,0,134,8,126
+Shilonde,665,Palghar,DAHANU,,,20.06388889,73.02083611,25.0,stale,False,False,2026-06-02,13.14,2.37,11.17,-1.97,528,0,132,9,123
+Mokhada,665,Palghar,MOKHADA,,,19.93611111,73.34166944,390.0,stale,False,False,2026-06-02,12.41,2.68,10.22,-2.19,560,0,140,7,133
+Makunsar,665,Palghar,PALGHAR,,,19.59444444,72.77500278,9.0,stale,False,False,2026-05-30,8.76,0.71,8.42,-0.34,544,0,136,13,123
+Kajali,665,Palghar,TALASARI,,,20.2125,72.88333611,60.0,stale,False,False,2026-06-02,15.31,3.88,11.95,-3.36,548,0,137,5,132
+Sakwar,665,Palghar,VASAI,,,19.53194444,72.92500278,32.0,stale,False,False,2026-06-02,6.21,0.84,5.5,-0.71,560,0,140,8,132

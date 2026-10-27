@@ -1,0 +1,25 @@
+{
+  "publisher": "Groundwater Surveys and Development Agency (GSDA), Government of Maharashtra, via the National Water Data Portal",
+  "datasetPage": "https://nwdp.nwic.gov.in/dataset/ground-water-level-telemetry-daily-maharashtra-gw",
+  "sourceUrl": "https://nwdp.nwic.gov.in/dataset/3e0f97ab-5bf6-498f-96c5-7b23dfdb9a70/resource/7a821ef4-b73b-4243-9a42-4f1a6f300230/download/gwl_tel_6_hourly_maharashtra_gw_mh_2026_2030.csv",
+  "sha256": "a49ec13b9be734e0294c211184caf1b3dafc57a682cb1a4cdae8f6fa289b3c37",
+  "bytes": 145315049,
+  "sourceLastModified": "Tue, 27 Oct 2026 00:17:08 GMT",
+  "downloadedOn": "2026-10-27",
+  "builtAt": "2026-10-27T18:23:14+00:00",
+  "firstObservation": "2026-01-01",
+  "lastObservation": "2026-10-26",
+  "method": {
+    "signConvention": "Source values are negative metres; NWDP describes them as groundwater depth below the surface. Shown here as positive depth.",
+    "validRange": "0 < depth <= 200 m; other readings excluded and counted",
+    "daily": "median of the day's six-hourly readings (timestamps as published, assumed IST)",
+    "spikes": "daily value dropped if more than max(3 x scaled MAD, 1 m) from the median of the surrounding +/-3 days",
+    "current": "median of the last 3 clean days; station 'current' if that is within 7 days of the dataset's last observation",
+    "change30d": "current depth minus the median of clean days 30+/-3 days earlier; positive = water further down",
+    "vsMay": "May median depth minus current depth (needs 10+ clean May days); positive = water higher than before the monsoon",
+    "trend": "falling / rising when the 30-day change exceeds 0.5 m; otherwise steady",
+    "erratic": "more than 20% of readings excluded or 20% of days flagged as spikes; left out of district medians",
+    "flat": "clean readings varied less than 0.1 m over the last 90 days; the well may be dry below the sensor or the sensor stuck. Shown with a note and kept in medians"
+  },
+  "script": "scripts/import-groundwater.py"
+}

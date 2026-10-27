@@ -1,0 +1,335 @@
+{
+  "meta": {
+    "checkedAt": "2026-10-27",
+    "sourceUrl": "https://github.com/guneetnarula/indian-district-boundaries",
+    "license": "MIT",
+    "method": "Largest polygon centroid with interior-grid fallback",
+    "limitations": "Derived from community visualization boundaries with Census 2011/2014 vintages. These are approximate district display/query points, not towns, observation stations or village coordinates."
+  },
+  "points": [
+    {
+      "code": "476",
+      "districtCode": "476",
+      "name": "Gondia",
+      "lat": 21.159174,
+      "lon": 80.212067,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "471",
+      "districtCode": "471",
+      "name": "Bhandara",
+      "lat": 21.122241,
+      "lon": 79.758772,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "478",
+      "districtCode": "478",
+      "name": "Jalgaon",
+      "lat": 20.93348,
+      "lon": 75.486649,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "498",
+      "districtCode": "498",
+      "name": "Wardha",
+      "lat": 20.797132,
+      "lon": 78.585911,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "472",
+      "districtCode": "472",
+      "name": "Buldhana",
+      "lat": 20.51096,
+      "lon": 76.407352,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "467",
+      "districtCode": "467",
+      "name": "Akola",
+      "lat": 20.747849,
+      "lon": 77.054582,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "487",
+      "districtCode": "487",
+      "name": "Nashik",
+      "lat": 20.259527,
+      "lon": 74.071252,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "475",
+      "districtCode": "475",
+      "name": "Gadchiroli",
+      "lat": 19.788756,
+      "lon": 80.24036,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "499",
+      "districtCode": "499",
+      "name": "Washim",
+      "lat": 20.234092,
+      "lon": 77.216109,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "473",
+      "districtCode": "473",
+      "name": "Chandrapur",
+      "lat": 20.118367,
+      "lon": 79.440077,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "500",
+      "districtCode": "500",
+      "name": "Yavatmal",
+      "lat": 20.083121,
+      "lon": 78.160821,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "479",
+      "districtCode": "479",
+      "name": "Jalna",
+      "lat": 19.80835,
+      "lon": 75.980422,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "466",
+      "districtCode": "466",
+      "name": "Ahilyanagar",
+      "lat": 19.204561,
+      "lon": 74.675156,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "477",
+      "districtCode": "477",
+      "name": "Hingoli",
+      "lat": 19.620687,
+      "lon": 77.100911,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "485",
+      "districtCode": "485",
+      "name": "Nanded",
+      "lat": 19.110996,
+      "lon": 77.617054,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "489",
+      "districtCode": "489",
+      "name": "Parbhani",
+      "lat": 19.27154,
+      "lon": 76.677871,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "490",
+      "districtCode": "490",
+      "name": "Pune",
+      "lat": 18.570765,
+      "lon": 74.068534,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "470",
+      "districtCode": "470",
+      "name": "Beed",
+      "lat": 18.94627,
+      "lon": 75.837641,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "482",
+      "districtCode": "482",
+      "name": "Mumbai",
+      "lat": 18.962117,
+      "lon": 72.851134,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "481",
+      "districtCode": "481",
+      "name": "Latur",
+      "lat": 18.373897,
+      "lon": 76.759368,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "488",
+      "districtCode": "488",
+      "name": "Dharashiv",
+      "lat": 18.188177,
+      "lon": 76.037505,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "496",
+      "districtCode": "496",
+      "name": "Solapur",
+      "lat": 17.79019,
+      "lon": 75.483614,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "494",
+      "districtCode": "494",
+      "name": "Satara",
+      "lat": 17.669544,
+      "lon": 74.172437,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "492",
+      "districtCode": "492",
+      "name": "Ratnagiri",
+      "lat": 17.2732,
+      "lon": 73.455187,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "493",
+      "districtCode": "493",
+      "name": "Sangli",
+      "lat": 17.113159,
+      "lon": 74.76815,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "480",
+      "districtCode": "480",
+      "name": "Kolhapur",
+      "lat": 16.469919,
+      "lon": 74.157997,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "495",
+      "districtCode": "495",
+      "name": "Sindhudurg",
+      "lat": 16.132403,
+      "lon": 73.73826,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "497",
+      "districtCode": "497",
+      "name": "Thane",
+      "lat": 19.361309,
+      "lon": 73.322007,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "665",
+      "districtCode": "665",
+      "name": "Palghar",
+      "lat": 19.793503,
+      "lon": 73.019245,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "486",
+      "districtCode": "486",
+      "name": "Nandurbar",
+      "lat": 21.550081,
+      "lon": 74.216751,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "468",
+      "districtCode": "468",
+      "name": "Amravati",
+      "lat": 21.187173,
+      "lon": 77.571331,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "474",
+      "districtCode": "474",
+      "name": "Dhule",
+      "lat": 21.110487,
+      "lon": 74.600132,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "484",
+      "districtCode": "484",
+      "name": "Nagpur",
+      "lat": 21.178173,
+      "lon": 79.085043,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "469",
+      "districtCode": "469",
+      "name": "Chhatrapati Sambhajinagar",
+      "lat": 20.028629,
+      "lon": 75.280975,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "491",
+      "districtCode": "491",
+      "name": "Raigad",
+      "lat": 18.521403,
+      "lon": 73.217337,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    },
+    {
+      "code": "483",
+      "districtCode": "483",
+      "name": "Mumbai Suburban",
+      "lat": 19.131975,
+      "lon": 72.884274,
+      "label": "District representative point",
+      "method": "largest polygon centroid"
+    }
+  ]
+}

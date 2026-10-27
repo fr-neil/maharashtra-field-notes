@@ -1,0 +1,35 @@
+{
+  "publisher": "Nashik District Administration, Government of Maharashtra",
+  "sourceUrl": "https://nashik.gov.in/en/document/dam-storage-information-2/",
+  "documentUrl": "https://cdn.s3waas.gov.in/s3b3967a0e938dc2a6340e258630febd5a/uploads/2026/10/17927334843677.pdf",
+  "documentDate": "2026-10-23",
+  "retrievedAt": "2026-10-27T17:49:53+00:00",
+  "sha256": "4407465c74822ee6e29d3505bc93824258dbf6e659b9bc575676e3c9c1e527f8",
+  "bytes": 595314,
+  "pages": 1,
+  "sourceStorageUnitPrinted": "द.ल.घ.फु",
+  "sourceStorageUnit": "million cubic feet",
+  "sourceOutflowUnitPrinted": "क्युसेस",
+  "sourceOutflowUnit": "cubic feet per second",
+  "method": "Visual transcription of one-page Marathi scanned official PDF; checksum-pinned and totals-validated",
+  "script": "scripts/import-reservoirs.py",
+  "validation": {
+    "recordCountMatchesPrintedSummary": true,
+    "capacitySumMatchesPrintedTotal": true,
+    "currentStorageSumMatchesPrintedTotal": true,
+    "currentPercentMatchesWithinRounding": true,
+    "previousYearRowsMatchPrintedTotal": false,
+    "warnings": [
+      {
+        "field": "previousYearStorageMcft",
+        "message": "Printed rows 11–18 sum to 23467 Mcft, but their printed subtotal is 18511. Printed 2025 grand total is 65065 Mcft, whereas all 26 printed rows sum to 70021 Mcft. Values retained as printed; discrepancy is 4956 Mcft."
+      }
+    ]
+  },
+  "statewideSourceInvestigation": {
+    "officialReferrer": "https://wrd.maharashtra.gov.in/",
+    "officialDashboardLink": "https://mwrdpravah.in/damstorage",
+    "checkedOn": "2026-10-27",
+    "finding": "WRD homepage links Pravah, but linked page returned a Water Resource Department login form. No statewide reservoir values imported from this page."
+  }
+}
