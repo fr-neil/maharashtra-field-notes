@@ -1,0 +1,57 @@
+name: Refresh official data
+# Daily IMD and Maharain rainfall, weekly GSDA groundwater. Each importer checks its source
+# before writing and leaves the previous files in place on any failure, so a bad day never
+# blanks the site. Only changed data is committed; GitHub Pages then rebuilds.
+on:
+  schedule:
+    - cron: '30 13 * * *'   # 19:00 IST, after IMD's afternoon district report
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      HUB_PUBLIC_DIR: ${{ github.workspace }}
+      HUB_WORK_DIR: ${{ github.workspace }}/.work
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install pdftotext
+        run: sudo apt-get update && sudo apt-get install -y poppler-utils
+      - name: IMD district rainfall
+        id: imd
+        continue-on-error: true
+        run: python tools/import-rainfall.py
+      - name: Maharain season rainfall by taluka and circle
+        id: maharain
+        continue-on-error: true
+        run: python tools/import-maharain.py
+      - name: GSDA groundwater (Mondays, or when run by hand)
+        id: groundwater
+        continue-on-error: true
+        run: |
+          if [ "$(date -u +%u)" = "1" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            python tools/import-groundwater.py --download
+          else
+            echo "Groundwater refreshes on Mondays."
+          fi
+      - name: Commit refreshed data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "No data changed."; exit 0; fi
+          git commit -m "chore: refresh official data $(date -u +%Y-%m-%d)"
+          git push
+      - name: Flag failed imports
+        if: steps.imd.outcome == 'failure' || steps.maharain.outcome == 'failure' || steps.groundwater.outcome == 'failure'
+        run: |
+          echo "::warning::An import failed (IMD: ${{ steps.imd.outcome }}, Maharain: ${{ steps.maharain.outcome }}, groundwater: ${{ steps.groundwater.outcome }}). The previous data was kept."
+          exit 1

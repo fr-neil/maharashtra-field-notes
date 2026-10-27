@@ -1,16 +1,20 @@
-# Maharashtra Field Notes (public read-only copy)
+# Maharashtra Field Notes · महाराष्ट्र फील्ड नोट्स
 
 Live: https://fr-neil.github.io/maharashtra-field-notes/
 
-Official water and weather readings for Maharashtra districts, each with its date and source:
+A Marathi-first, read-only site for farmers and villagers in the 2026 drought. Choose a district and taluka to see:
 
-- **Rainfall**: IMD district report, month to date, all 36 districts (`data/rainfall/`).
-- **Groundwater**: depth to water at GSDA telemetry wells, with the change since May and over 30 days (`data/groundwater/`). Wells in 21 districts stopped reporting around 2 June 2026.
-- **Dam storage**: the Nashik district report (`data/reservoirs/`).
-- A 7-day point forecast from Open-Meteo, plus the source register, research notes and the official location directory.
+- **Drought status** from the Relief and Rehabilitation Department order of 25 Sep 2026 (265 talukas), plus the 39 talukas reported added on 14 Oct.
+- **The 12 relief measures** in plain Marathi, filtered by who you are (land, loan, pump, animals, labourer, student), with where to ask and what to carry. The order's own wording is quoted.
+- **Crop loss**: the separate compensation order still to come, the announced ₹5,000 advance, panchnama and crop insurance (14447).
+- **Rain this season** by taluka and revenue circle (Maharain) and this month by district (IMD); groundwater at GSDA monitoring wells; Nashik dam storage.
+- **Animals and fodder**: what is announced and what is not yet published, care that does not wait for a scheme, questions to ask, helpline 1962.
+- **Share** as a WhatsApp message, print a notice-board page, or listen in Marathi.
 
-Each data folder holds `index.json`, a CSV and `provenance.json` (publisher, original URL, SHA256, report date and retrieval time). A well's depth or a dam's storage is not a village's water supply; see each file's `limitations`.
+Every number shows its date and source. News reports are labelled as news, not as orders. This is not a government website; confirm at the Talathi or tehsil office.
 
-This is a static build with no sign-in. Field reports, the fodder board and follow-ups run in the peers' private workspace. Pages are marked `noindex`.
+## Data and refresh
 
-Built from the `maharashtra-hub` source with `npm run build:static`; the import scripts are in its `scripts/` folder.
+Each folder under `data/` holds `index.json`, a CSV and provenance (publisher, original URL, SHA256, report date, retrieval time). `.github/workflows/refresh-data.yml` refreshes IMD and Maharain rainfall daily at 19:00 IST and GSDA groundwater on Mondays, using the importers in `tools/`. An importer that cannot validate its source leaves the previous files in place, and the workflow run is marked as failed.
+
+Pages are `noindex`. Built from the `maharashtra-hub` source with `npm run build:static`.

@@ -1,0 +1,3695 @@
+{
+  "meta": {
+    "title": "Drought declaration status by taluka",
+    "titleMr": "तालुकानिहाय दुष्काळ स्थिती",
+    "gr": {
+      "number": "समिती-२०२६/प्र.क्र.८२/मदत-२",
+      "date": "2026-09-25",
+      "signed": "2026-09-26",
+      "department": "Relief and Rehabilitation Department, Government of Maharashtra",
+      "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202609261117494941.pdf",
+      "localUrl": "data/drought/gr-2026-09-25-drought-265-talukas.pdf",
+      "sha256": "4642d81b6f3805bf57e81acbb084a2c4917d114910752ece3a3d07cc802d4eef",
+      "talukas": 265
+    },
+    "statuses": {
+      "declared": "Named in the 25 Sep 2026 GR (Trigger-1).",
+      "added": "Announced as added on 14 Oct 2026 (two newspapers print the same list); the GR for the addition has not been seen.",
+      "not-declared": "Not in the 25 Sep GR or the 14 Oct additions as reported. Ask at the tehsil office if you think this has changed."
+    },
+    "sources": {
+      "gr": {
+        "title": "GR समिती-२०२६/प्र.क्र.८२/मदत-२, 25 Sep 2026, Appendix-1",
+        "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/Marathi/202609261117494941.pdf",
+        "kind": "government order"
+      },
+      "fpj-nashik-13": {
+        "title": "Free Press Journal: Nashik, 13 talukas declared drought-hit (updated 19 Oct 2026)",
+        "url": "https://www.freepressjournal.in/pune/nashik-13-talukas-declared-drought-hit-administration-prepares-village-level-action-plans",
+        "kind": "news report"
+      },
+      "pudhari-40": {
+        "title": "Pudhari: 40 more talukas declared drought-hit, 305 in total (14 Oct 2026)",
+        "url": "https://pudhari.news/maharashtra/mumbai/maharashtra-drought-update-40-more-talukas-declared-drought-hit-total-reaches-305-know-the-names-rs98",
+        "kind": "news report"
+      },
+      "tarunbharat-40": {
+        "title": "Tarun Bharat: list of 40 additional drought-hit talukas (14 Oct 2026)",
+        "url": "https://www.tarunbharat.net/Encyc/2026/10/14/drought-hit-talukas-government-announces-list-of-40-additional-drought-hit-talukas.html",
+        "kind": "news report"
+      }
+    },
+    "transcription": "Visual transcription of GR Appendix-1 (pages 4–6); per-district counts and the total of 265 checked.",
+    "matchesToReview": [
+      {
+        "printed": "बागलाण",
+        "lgd": "बागलण",
+        "english": "Baglan",
+        "score": 0.91
+      },
+      {
+        "printed": "कळवण",
+        "lgd": "कालवण",
+        "english": "Kalwan",
+        "score": 0.89
+      },
+      {
+        "printed": "सिंदखेडा",
+        "lgd": "सिंदखेडे",
+        "english": "Sindkhede",
+        "score": 0.88
+      },
+      {
+        "printed": "बोदवड",
+        "lgd": "बोधवड",
+        "english": "Bodvad",
+        "score": 0.8
+      },
+      {
+        "printed": "मुक्ताईनगर",
+        "lgd": "मुक्ताईनगर(एदलाबाद)",
+        "english": "Muktainagar (Edlabad)",
+        "score": 0.74
+      },
+      {
+        "printed": "राहाता",
+        "lgd": "रहाता",
+        "english": "Rahta",
+        "score": 0.91
+      },
+      {
+        "printed": "सांगोला",
+        "lgd": "सांगोले",
+        "english": "Sangole",
+        "score": 0.86
+      },
+      {
+        "printed": "मंगळवेढा",
+        "lgd": "मंगळवेढे",
+        "english": "Mangalvedhe",
+        "score": 0.88
+      },
+      {
+        "printed": "कवठेमहाकाळ",
+        "lgd": "कवठेमहांकाळ",
+        "english": "Kavathemahankal",
+        "score": 0.95
+      },
+      {
+        "printed": "परांडा",
+        "lgd": "परंडा",
+        "english": "Paranda",
+        "score": 0.91
+      },
+      {
+        "printed": "किनवट",
+        "lgd": "किनवत",
+        "english": "Kinwat",
+        "score": 0.8
+      },
+      {
+        "printed": "नायगाव",
+        "lgd": "नायगाव (खैरगाव)",
+        "english": "Naigaon (Khairgaon)",
+        "score": 0.67
+      },
+      {
+        "printed": "पाथरी",
+        "lgd": "पाथ्री",
+        "english": "Pathri",
+        "score": 0.91
+      },
+      {
+        "printed": "देऊळगावराजा",
+        "lgd": "देउळगाव राजा",
+        "english": "Deolgaon Raja",
+        "score": 0.91
+      },
+      {
+        "printed": "शिंदेखेडराजा",
+        "lgd": "सिंदखेड राजा",
+        "english": "Sindkhed Raja",
+        "score": 0.87
+      },
+      {
+        "printed": "मंगळूरपीर",
+        "lgd": "मंगरूळपीर",
+        "english": "Mangrulpir",
+        "score": 0.78
+      },
+      {
+        "printed": "आर्णी",
+        "lgd": "अर्नी",
+        "english": "Arni",
+        "score": 0.8
+      },
+      {
+        "printed": "गोंडपिंपरी",
+        "lgd": "गोंडपिपरी",
+        "english": "Gondpipri",
+        "score": 0.95
+      },
+      {
+        "printed": "पोंभुर्णा",
+        "lgd": "पोम्भूर्णा",
+        "english": "Pombhurna",
+        "score": 0.84
+      }
+    ],
+    "limitations": [
+      "Status shows the taluka declaration only; relief reaches villages through local orders and surveys.",
+      "The 14 Oct additions come from news reports until their GR is found. The reports name 40, of which 'Vita' is a town in Khanapur taluka, so 39 are listed here."
+    ]
+  },
+  "talukas": [
+    {
+      "code": "4201",
+      "districtCode": "466",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "अकोले",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4202",
+      "districtCode": "466",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "संगमनेर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4203",
+      "districtCode": "466",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "कोपरगाव",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4204",
+      "districtCode": "466",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "राहाता",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4205",
+      "districtCode": "466",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "श्रीरामपूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4206",
+      "districtCode": "466",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "नेवासा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4207",
+      "districtCode": "466",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "शेवगाव",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4208",
+      "districtCode": "466",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "पाथर्डी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4209",
+      "districtCode": "466",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "नगर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4210",
+      "districtCode": "466",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "राहुरी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4211",
+      "districtCode": "466",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "पारनेर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4212",
+      "districtCode": "466",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "श्रीगोंदा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4213",
+      "districtCode": "466",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "कर्जत",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4214",
+      "districtCode": "466",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "जामखेड",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3988",
+      "districtCode": "467",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "तेल्हारा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3989",
+      "districtCode": "467",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "अकोट",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3990",
+      "districtCode": "467",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "बाळापूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3991",
+      "districtCode": "467",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "अकोला",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3992",
+      "districtCode": "467",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "मुर्तीजापूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3993",
+      "districtCode": "467",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "पातूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3994",
+      "districtCode": "467",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "बार्शीटाकळी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4001",
+      "districtCode": "468",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "धारणी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4002",
+      "districtCode": "468",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "चिखलदरा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4003",
+      "districtCode": "468",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "अंजनगावसुर्जी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4004",
+      "districtCode": "468",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "अचलपूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4005",
+      "districtCode": "468",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "चांदुरबाजार",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4006",
+      "districtCode": "468",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "मोर्शी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4007",
+      "districtCode": "468",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "वरुड",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4008",
+      "districtCode": "468",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "तिवसा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4009",
+      "districtCode": "468",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "अमरावती",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4010",
+      "districtCode": "468",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "भातकुली",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4011",
+      "districtCode": "468",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "दर्यापूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4012",
+      "districtCode": "468",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "नांदगाव खं.",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4013",
+      "districtCode": "468",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "चांदूर रेल्वे",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4014",
+      "districtCode": "468",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "धामणगाव रेल्वे",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4133",
+      "districtCode": "469",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "कन्नड",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4134",
+      "districtCode": "469",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "सोयगाव",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4135",
+      "districtCode": "469",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "सिल्लोड",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4136",
+      "districtCode": "469",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "फुलंब्री",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4137",
+      "districtCode": "469",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "छ. संभाजीनगर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4138",
+      "districtCode": "469",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "खुलताबाद",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4139",
+      "districtCode": "469",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "वैजापूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4140",
+      "districtCode": "469",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "गंगापूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4141",
+      "districtCode": "469",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "पैठण",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4215",
+      "districtCode": "470",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "आष्टी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4216",
+      "districtCode": "470",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "पाटोदा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4217",
+      "districtCode": "470",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "शिरूर कासार",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4218",
+      "districtCode": "470",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "गेवराई",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4219",
+      "districtCode": "470",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "माजलगाव",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4220",
+      "districtCode": "470",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "वडवणी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4221",
+      "districtCode": "470",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "बीड",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4222",
+      "districtCode": "470",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "केज",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4223",
+      "districtCode": "470",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "धारूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4224",
+      "districtCode": "470",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "परळी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4225",
+      "districtCode": "470",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "आंबेजोगाई",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4037",
+      "districtCode": "471",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4038",
+      "districtCode": "471",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4039",
+      "districtCode": "471",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "भंडारा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4040",
+      "districtCode": "471",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4041",
+      "districtCode": "471",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4042",
+      "districtCode": "471",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "पवनी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4043",
+      "districtCode": "471",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "लाखंदूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3975",
+      "districtCode": "472",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "जळगावजामोद",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3976",
+      "districtCode": "472",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "संग्रामपूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3977",
+      "districtCode": "472",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "शेगाव",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3978",
+      "districtCode": "472",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "नांदुरा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3979",
+      "districtCode": "472",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "मलकापूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3980",
+      "districtCode": "472",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "मोताळा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3981",
+      "districtCode": "472",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "खामगाव",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3982",
+      "districtCode": "472",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "मेहकर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3983",
+      "districtCode": "472",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "चिखली",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3984",
+      "districtCode": "472",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "बुलडाणा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3985",
+      "districtCode": "472",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "देऊळगावराजा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3986",
+      "districtCode": "472",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "शिंदेखेडराजा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3987",
+      "districtCode": "472",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "लोणार",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4064",
+      "districtCode": "473",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "वरोरा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4065",
+      "districtCode": "473",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "चिमूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4066",
+      "districtCode": "473",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "नागभिड",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4067",
+      "districtCode": "473",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4068",
+      "districtCode": "473",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "सावली",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4069",
+      "districtCode": "473",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "सिंदेवाही",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4070",
+      "districtCode": "473",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "भद्रावती",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4071",
+      "districtCode": "473",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "चंद्रपूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4072",
+      "districtCode": "473",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "मूल",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4073",
+      "districtCode": "473",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "पोंभुर्णा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4074",
+      "districtCode": "473",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4075",
+      "districtCode": "473",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "कोरपना",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4076",
+      "districtCode": "473",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4077",
+      "districtCode": "473",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "राजूरा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4078",
+      "districtCode": "473",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "गोंडपिंपरी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3956",
+      "districtCode": "474",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "शिरपूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3957",
+      "districtCode": "474",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "सिंदखेडा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3958",
+      "districtCode": "474",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "साक्री",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3959",
+      "districtCode": "474",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "धुळे",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4052",
+      "districtCode": "475",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4053",
+      "districtCode": "475",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4054",
+      "districtCode": "475",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4055",
+      "districtCode": "475",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4056",
+      "districtCode": "475",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4057",
+      "districtCode": "475",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "गडचिरोली",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4058",
+      "districtCode": "475",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "चामोर्शी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4059",
+      "districtCode": "475",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4060",
+      "districtCode": "475",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4061",
+      "districtCode": "475",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4062",
+      "districtCode": "475",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4063",
+      "districtCode": "475",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4044",
+      "districtCode": "476",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "तिरोडा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4045",
+      "districtCode": "476",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4046",
+      "districtCode": "476",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4047",
+      "districtCode": "476",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4048",
+      "districtCode": "476",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4049",
+      "districtCode": "476",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4050",
+      "districtCode": "476",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4051",
+      "districtCode": "476",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4111",
+      "districtCode": "477",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "सेनगाव",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4112",
+      "districtCode": "477",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "हिंगोली",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4113",
+      "districtCode": "477",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "औंढा नागनाथ",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4114",
+      "districtCode": "477",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "कळमनुरी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4115",
+      "districtCode": "477",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "वसमत",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3960",
+      "districtCode": "478",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "चोपडा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3961",
+      "districtCode": "478",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "यावल",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3962",
+      "districtCode": "478",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "रावेर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3963",
+      "districtCode": "478",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "मुक्ताईनगर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3964",
+      "districtCode": "478",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "बोदवड",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3965",
+      "districtCode": "478",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "भुसावळ",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3966",
+      "districtCode": "478",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "जळगाव",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3967",
+      "districtCode": "478",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "एरंडोल",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3968",
+      "districtCode": "478",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "धरणगाव",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3969",
+      "districtCode": "478",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "अमळनेर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3970",
+      "districtCode": "478",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "पारोळा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3971",
+      "districtCode": "478",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "भडगाव",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3972",
+      "districtCode": "478",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "चाळीसगाव",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3973",
+      "districtCode": "478",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "पाचोरा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3974",
+      "districtCode": "478",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "जामनेर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4125",
+      "districtCode": "479",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "भोकरदन",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4126",
+      "districtCode": "479",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "जाफ्राबाद",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4127",
+      "districtCode": "479",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "जालना",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4128",
+      "districtCode": "479",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "बदनापूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4129",
+      "districtCode": "479",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "अंबड",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4130",
+      "districtCode": "479",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "घनसावंगी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4131",
+      "districtCode": "479",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "परतूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4132",
+      "districtCode": "479",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "मंठा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4283",
+      "districtCode": "480",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4284",
+      "districtCode": "480",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "पन्हाळा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4285",
+      "districtCode": "480",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4286",
+      "districtCode": "480",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4287",
+      "districtCode": "480",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4288",
+      "districtCode": "480",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "गगनबावडा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4289",
+      "districtCode": "480",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "राधानगरी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4290",
+      "districtCode": "480",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4291",
+      "districtCode": "480",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "भुदरगड",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4292",
+      "districtCode": "480",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "आजरा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4293",
+      "districtCode": "480",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4294",
+      "districtCode": "480",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "चंदगड",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4226",
+      "districtCode": "481",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "लातूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4227",
+      "districtCode": "481",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "रेणापूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4228",
+      "districtCode": "481",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "अहमदपूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4229",
+      "districtCode": "481",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "जळकोट",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4230",
+      "districtCode": "481",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "चाकूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4231",
+      "districtCode": "481",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "शिरुरअनंतपाळ",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4232",
+      "districtCode": "481",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "औसा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4233",
+      "districtCode": "481",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "निलंगा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4234",
+      "districtCode": "481",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "देवणी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4235",
+      "districtCode": "481",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "उदगीर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "7179",
+      "districtCode": "483",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "7180",
+      "districtCode": "483",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "7181",
+      "districtCode": "483",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4023",
+      "districtCode": "484",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "नरखेड",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4024",
+      "districtCode": "484",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "काटोल",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4025",
+      "districtCode": "484",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "कळमेश्वर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4026",
+      "districtCode": "484",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "सावनेर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4027",
+      "districtCode": "484",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "पारशिवनी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4028",
+      "districtCode": "484",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "रामटेक",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4029",
+      "districtCode": "484",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "मौदा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4030",
+      "districtCode": "484",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "कामठी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4031",
+      "districtCode": "484",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "नागपूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4032",
+      "districtCode": "484",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "नागपूर शहर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4033",
+      "districtCode": "484",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "हिंगणा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4034",
+      "districtCode": "484",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "उमरेड",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4035",
+      "districtCode": "484",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "कुही",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4036",
+      "districtCode": "484",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "भिवापूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4095",
+      "districtCode": "485",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "माहूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4096",
+      "districtCode": "485",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "किनवट",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4097",
+      "districtCode": "485",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "हिमायतनगर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4098",
+      "districtCode": "485",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "हदगाव",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4099",
+      "districtCode": "485",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "अर्धापूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4100",
+      "districtCode": "485",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "नांदेड",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4101",
+      "districtCode": "485",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4102",
+      "districtCode": "485",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "भोकर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4103",
+      "districtCode": "485",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "उमरी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4104",
+      "districtCode": "485",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "धर्माबाद",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4105",
+      "districtCode": "485",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "बिलोली",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4106",
+      "districtCode": "485",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "नायगाव",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4107",
+      "districtCode": "485",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "लोहा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4108",
+      "districtCode": "485",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "कंधार",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4109",
+      "districtCode": "485",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4110",
+      "districtCode": "485",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "देगलूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3950",
+      "districtCode": "486",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "अक्कलकुवा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3951",
+      "districtCode": "486",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "अक्राणी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3952",
+      "districtCode": "486",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "तळोदा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3953",
+      "districtCode": "486",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "शहादा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3954",
+      "districtCode": "486",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "नंदूरबार",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3955",
+      "districtCode": "486",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "नवापूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4142",
+      "districtCode": "487",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "सुरगणा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4143",
+      "districtCode": "487",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "कळवण",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4144",
+      "districtCode": "487",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "देवळा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4145",
+      "districtCode": "487",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "बागलाण",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4146",
+      "districtCode": "487",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "मालेगाव",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4147",
+      "districtCode": "487",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "नांदगाव",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4148",
+      "districtCode": "487",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40",
+        "fpj-nashik-13"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4149",
+      "districtCode": "487",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4150",
+      "districtCode": "487",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "पेठ",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4151",
+      "districtCode": "487",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40",
+        "fpj-nashik-13"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4152",
+      "districtCode": "487",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4153",
+      "districtCode": "487",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "इगतपुरी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4154",
+      "districtCode": "487",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "सिन्नर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4155",
+      "districtCode": "487",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40",
+        "fpj-nashik-13"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4156",
+      "districtCode": "487",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "येवला",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4236",
+      "districtCode": "488",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "परांडा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4237",
+      "districtCode": "488",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "भूम",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4238",
+      "districtCode": "488",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "वाशी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4239",
+      "districtCode": "488",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "कळंब",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4240",
+      "districtCode": "488",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "धाराशिव",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4241",
+      "districtCode": "488",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "तुळजापूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4242",
+      "districtCode": "488",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "लोहारा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4243",
+      "districtCode": "488",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "उमरगा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4116",
+      "districtCode": "489",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "सेलू",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4117",
+      "districtCode": "489",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "जिंतूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4118",
+      "districtCode": "489",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "परभणी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4119",
+      "districtCode": "489",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "मानवत",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4120",
+      "districtCode": "489",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "पाथरी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4121",
+      "districtCode": "489",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "सोनपेठ",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4122",
+      "districtCode": "489",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "गंगाखेड",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4123",
+      "districtCode": "489",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "पालम",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4124",
+      "districtCode": "489",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "पूर्णा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4187",
+      "districtCode": "490",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4188",
+      "districtCode": "490",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4189",
+      "districtCode": "490",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "शिरूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4190",
+      "districtCode": "490",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "खेड",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4191",
+      "districtCode": "490",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4192",
+      "districtCode": "490",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4193",
+      "districtCode": "490",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4194",
+      "districtCode": "490",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4195",
+      "districtCode": "490",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "दौंड",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4196",
+      "districtCode": "490",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "पुरंदर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4197",
+      "districtCode": "490",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "वेल्हा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4198",
+      "districtCode": "490",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "भोर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4199",
+      "districtCode": "490",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "बारामती",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4200",
+      "districtCode": "490",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "इंदापूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4172",
+      "districtCode": "491",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4173",
+      "districtCode": "491",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4174",
+      "districtCode": "491",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4175",
+      "districtCode": "491",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4176",
+      "districtCode": "491",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4177",
+      "districtCode": "491",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4178",
+      "districtCode": "491",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4179",
+      "districtCode": "491",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4180",
+      "districtCode": "491",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4181",
+      "districtCode": "491",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4182",
+      "districtCode": "491",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4183",
+      "districtCode": "491",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "श्रीवर्धन",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4184",
+      "districtCode": "491",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4185",
+      "districtCode": "491",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4186",
+      "districtCode": "491",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4266",
+      "districtCode": "492",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4267",
+      "districtCode": "492",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4268",
+      "districtCode": "492",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4269",
+      "districtCode": "492",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4270",
+      "districtCode": "492",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4271",
+      "districtCode": "492",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "रत्नागिरी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4272",
+      "districtCode": "492",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "संगमेश्वर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4273",
+      "districtCode": "492",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4274",
+      "districtCode": "492",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "राजापूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4295",
+      "districtCode": "493",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4296",
+      "districtCode": "493",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4297",
+      "districtCode": "493",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4298",
+      "districtCode": "493",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4299",
+      "districtCode": "493",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4300",
+      "districtCode": "493",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "आटपाडी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4301",
+      "districtCode": "493",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4302",
+      "districtCode": "493",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "मिरज",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4303",
+      "districtCode": "493",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "कवठेमहाकाळ",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4304",
+      "districtCode": "493",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "जत",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4255",
+      "districtCode": "494",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "महाबळेश्वर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4256",
+      "districtCode": "494",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4257",
+      "districtCode": "494",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "खंडाळा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4258",
+      "districtCode": "494",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "फलटण",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4259",
+      "districtCode": "494",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "माण",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4260",
+      "districtCode": "494",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "खटाव",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4261",
+      "districtCode": "494",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4262",
+      "districtCode": "494",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "सातारा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4263",
+      "districtCode": "494",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4264",
+      "districtCode": "494",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4265",
+      "districtCode": "494",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4275",
+      "districtCode": "495",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "देवगड",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4276",
+      "districtCode": "495",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "वैभववाडी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4277",
+      "districtCode": "495",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "कणकवली",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4278",
+      "districtCode": "495",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "मालवण",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4279",
+      "districtCode": "495",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "वेंगुर्ला",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4280",
+      "districtCode": "495",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "कुडाळ",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4281",
+      "districtCode": "495",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "सावंतवाडी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4282",
+      "districtCode": "495",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "दोडामार्ग",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4244",
+      "districtCode": "496",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "करमाळा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4245",
+      "districtCode": "496",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "माढा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4246",
+      "districtCode": "496",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "बार्शी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4247",
+      "districtCode": "496",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "उ. सोलापूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4248",
+      "districtCode": "496",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "मोहोळ",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4249",
+      "districtCode": "496",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "पंढरपूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4250",
+      "districtCode": "496",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "माळशिरस",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4251",
+      "districtCode": "496",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "सांगोला",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4252",
+      "districtCode": "496",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "मंगळवेढा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4253",
+      "districtCode": "496",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "द. सोलापूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4254",
+      "districtCode": "496",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "अक्कलकोट",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4165",
+      "districtCode": "497",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4166",
+      "districtCode": "497",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4167",
+      "districtCode": "497",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4168",
+      "districtCode": "497",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4169",
+      "districtCode": "497",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4170",
+      "districtCode": "497",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4171",
+      "districtCode": "497",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4015",
+      "districtCode": "498",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "आष्टी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4016",
+      "districtCode": "498",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4017",
+      "districtCode": "498",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "आर्वी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4018",
+      "districtCode": "498",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "सेलू",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4019",
+      "districtCode": "498",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "वर्धा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4020",
+      "districtCode": "498",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "देवळी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4021",
+      "districtCode": "498",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "हिंगणघाट",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4022",
+      "districtCode": "498",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "समुद्रपूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3995",
+      "districtCode": "499",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "मालेगाव",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3996",
+      "districtCode": "499",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "मंगळूरपीर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3997",
+      "districtCode": "499",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "कारंजा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3998",
+      "districtCode": "499",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "मानोरा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "3999",
+      "districtCode": "499",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "वाशीम",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4000",
+      "districtCode": "499",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "रिसोड",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4079",
+      "districtCode": "500",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "नेर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4080",
+      "districtCode": "500",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "बाभुळगाव",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4081",
+      "districtCode": "500",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "कळंब",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4082",
+      "districtCode": "500",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "यवतमाळ",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4083",
+      "districtCode": "500",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "दारव्हा",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4084",
+      "districtCode": "500",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "दिग्रस",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4085",
+      "districtCode": "500",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "पुसद",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4086",
+      "districtCode": "500",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "उमरखेड",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4087",
+      "districtCode": "500",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "महागाव",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4088",
+      "districtCode": "500",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "आर्णी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4089",
+      "districtCode": "500",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "घाटंजी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4090",
+      "districtCode": "500",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "केळापूर",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4091",
+      "districtCode": "500",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "राळेगाव",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4092",
+      "districtCode": "500",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "मारेगाव",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4093",
+      "districtCode": "500",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "झरी-जामणी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4094",
+      "districtCode": "500",
+      "status": "declared",
+      "since": "2026-09-25",
+      "printedName": "वणी",
+      "sourceIds": [
+        "gr"
+      ]
+    },
+    {
+      "code": "4157",
+      "districtCode": "665",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4158",
+      "districtCode": "665",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4159",
+      "districtCode": "665",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4160",
+      "districtCode": "665",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4161",
+      "districtCode": "665",
+      "status": "added",
+      "sourceIds": [
+        "pudhari-40",
+        "tarunbharat-40"
+      ],
+      "since": "2026-10-14"
+    },
+    {
+      "code": "4162",
+      "districtCode": "665",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4163",
+      "districtCode": "665",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    },
+    {
+      "code": "4164",
+      "districtCode": "665",
+      "status": "not-declared",
+      "sourceIds": [
+        "gr",
+        "pudhari-40"
+      ]
+    }
+  ]
+}
