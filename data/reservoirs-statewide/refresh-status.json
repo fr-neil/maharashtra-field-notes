@@ -1,7 +1,7 @@
 {
   "status": "error",
-  "checkedAt": "2026-10-28T13:52:19+00:00",
-  "error": "Page.wait_for_selector: Timeout 60000ms exceeded.\nCall log:\nwaiting for locator(\"a[href*=\\\"/admin/storage/bulletins/\\\"]\") to be visible\n",
+  "checkedAt": "2026-10-28T14:07:28+00:00",
+  "error": "HTTP Error 401: Unauthorized",
   "lastGoodRetained": true,
   "sourceUrl": "https://rsms.cwc.gov.in/frameWork/web/bulletin-report-page"
 }
