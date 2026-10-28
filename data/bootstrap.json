@@ -12,7 +12,34 @@
     "mapNote": "Community visualization boundaries include Census 2011 and 2014 source vintages. Current LGD labels are crosswalked; geometry is not a current legal boundary survey.",
     "scope": "Maharashtra: 36 districts and 358 talukas; verified Nashik village index; manual village entry elsewhere",
     "weatherConnected": true,
-    "villageCoverage": "1981 verified Nashik villages; other districts accept manual entry"
+    "villageCoverage": "1981 verified Nashik villages; other districts accept manual entry",
+    "marathiDisplayNameCorrections": {
+      "checkedDate": "2026-10-28",
+      "sourceUrl": "https://nashik.gov.in/जिल्ह्या-बद्दल/तालुका-निहाय-नकाशे/",
+      "scope": "Nashik taluka display spellings only; English names and LGD identifiers unchanged",
+      "records": [
+        {
+          "code": "4153",
+          "originalMr": "इगतपूरी",
+          "displayMr": "इगतपुरी"
+        },
+        {
+          "code": "4143",
+          "originalMr": "कालवण",
+          "displayMr": "कळवण"
+        },
+        {
+          "code": "4142",
+          "originalMr": "सुरगना",
+          "displayMr": "सुरगाणा"
+        },
+        {
+          "code": "4151",
+          "originalMr": "त्र्यंबक",
+          "displayMr": "त्र्यंबकेश्वर"
+        }
+      ]
+    }
   },
   "districts": [
     {
@@ -2334,20 +2361,22 @@
     {
       "code": "4153",
       "name": "Igatpuri",
-      "nameMr": "इगतपूरी",
+      "nameMr": "इगतपुरी",
       "districtCode": "487",
       "villageCount": 126,
       "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
-      "checkedAt": "2026-10-27"
+      "checkedAt": "2026-10-27",
+      "nameMrOriginal": "इगतपूरी"
     },
     {
       "code": "4143",
       "name": "Kalwan",
-      "nameMr": "कालवण",
+      "nameMr": "कळवण",
       "districtCode": "487",
       "villageCount": 152,
       "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
-      "checkedAt": "2026-10-27"
+      "checkedAt": "2026-10-27",
+      "nameMrOriginal": "कालवण"
     },
     {
       "code": "4146",
@@ -2406,20 +2435,22 @@
     {
       "code": "4142",
       "name": "Surgana",
-      "nameMr": "सुरगना",
+      "nameMr": "सुरगाणा",
       "districtCode": "487",
       "villageCount": 191,
       "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
-      "checkedAt": "2026-10-27"
+      "checkedAt": "2026-10-27",
+      "nameMrOriginal": "सुरगना"
     },
     {
       "code": "4151",
       "name": "Trimbakeshwar",
-      "nameMr": "त्र्यंबक",
+      "nameMr": "त्र्यंबकेश्वर",
       "districtCode": "487",
       "villageCount": 125,
       "sourceUrl": "https://mahavillages.mahabhumi.gov.in/all_list.php",
-      "checkedAt": "2026-10-27"
+      "checkedAt": "2026-10-27",
+      "nameMrOriginal": "त्र्यंबक"
     },
     {
       "code": "4156",
@@ -4107,7 +4138,7 @@
       "name": "Nashik district dam storage report",
       "category": "reservoirs",
       "url": "https://nashik.gov.in/en/document/dam-storage-information-2/",
-      "stated_resolution": "dam (26 large and medium projects and one barrage)",
+      "stated_resolution": "26 reservoir projects listed in the Nashik report",
       "reference_period": "report dated 23 Oct 2026",
       "checked_date": "2026-10-27",
       "access_status": "scanned one-page Marathi PDF downloaded; SHA256 pinned",
