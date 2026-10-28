@@ -8,6 +8,7 @@ on:
     branches: [main]
   schedule:
     - cron: '30 13 * * *'   # 19:00 IST, after IMD's afternoon district report
+    - cron: '45 16 * * *'   # 22:15 IST backup: GitHub delays or drops some scheduled runs
   workflow_dispatch:
 permissions:
   contents: write
@@ -66,11 +67,8 @@ jobs:
         id: reservoirs
         if: github.event_name != 'push' && steps.due.outputs.reservoirs == 'true'
         continue-on-error: true
-        run: |
-          # The bulletin page lists its PDFs only after its script runs, so a browser reads it.
-          pip install --quiet playwright==1.48.0
-          python -m playwright install --with-deps chromium
-          python tools/import-statewide-reservoirs.py
+        # Checks the next expected public PDF names; the JS bulletin page doesn't load from overseas runners.
+        run: python tools/import-statewide-reservoirs.py
       - name: Record refresh results
         if: github.event_name != 'push'
         env:

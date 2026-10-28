@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """Refresh Maharashtra's CWC-monitored reservoir subset from the public bulletin.
 
-Production dependencies: Python 3.11+, poppler-utils (pdftotext), and Playwright
-with Chromium. The public JS bulletin page is opened without a login; only its
-published PDF links are collected. No private API, credentials or app secrets
+Production dependencies: Python 3.11+ and poppler-utils (pdftotext) or PyMuPDF.
+Scheduled refreshes find newer bulletins by their public file names. The first
+import, or --discover, opens the public JS bulletin page with Playwright and
+Chromium, without a login, and collects only its published PDF links. No private API, credentials or app secrets
 are used. If any download / validation step fails, the existing dataset remains.
 """
 from __future__ import annotations
@@ -19,9 +20,10 @@ import shutil
 import subprocess
 import sys
 import tempfile
+import urllib.error
 import urllib.parse
 import urllib.request
-from datetime import date, datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 APP = Path(__file__).resolve().parents[1]
@@ -114,6 +116,50 @@ def bulletin_date(url: str) -> date:
         raise ValueError("Unrecognized official bulletin filename date")
     day, month, year = map(int, match.groups())
     return date(year, month, day)
+
+
+BULLETIN_BASE = "https://rsms.cwc.gov.in/admin/storage/bulletins/"
+SEQUENCED_NAME = re.compile(r"bulletin-(\d{2})-(\d{2})-(\d{4})-(\d+)\.pdf$")
+# Bulletins appear weekly; older than this with no successor means the naming
+# pattern changed or publication stopped, so the refresh reports a failure.
+STALE_AFTER_DAYS = 13
+
+
+def pdf_exists(url: str) -> bool:
+    request = urllib.request.Request(url, method="HEAD", headers={"User-Agent": "MaharashtraFieldNotes/1.0 (public official bulletin import)"})
+    try:
+        with urllib.request.urlopen(request, timeout=30) as response:
+            return response.status == 200 and "pdf" in response.headers.get("Content-Type", "").lower()
+    except urllib.error.HTTPError as error:
+        if error.code == 404:
+            return False
+        raise
+
+
+def probe_latest(previous_url: str, today: date, exists=pdf_exists) -> tuple[str | None, list[str]]:
+    """Find newer bulletins by their public file names: weekly date, serial +1 per week.
+
+    The bulletin page lists these PDFs only through an encrypted API that needs a
+    browser, which official hosts often block from overseas CI runners; the PDFs
+    themselves are plain public files.
+    """
+    match = SEQUENCED_NAME.search(urllib.parse.urlparse(previous_url).path)
+    if not match:
+        raise ValueError("Published bulletin URL has no serial number to continue from; run with --discover")
+    day, month, year, serial = map(int, match.groups())
+    last = date(year, month, day)
+    tried = []
+    for weeks in range(4, 0, -1):  # newest first, so a missed week is skipped over
+        for shift in (0, -1, 1, -2, 2):  # the usual weekday, then nearby days
+            when = last + timedelta(days=7 * weeks + shift)
+            if when > today:
+                continue
+            for number in (serial + weeks, serial + weeks + 1):
+                url = f"{BULLETIN_BASE}bulletin-{when:%d-%m-%Y}-{number}.pdf"
+                tried.append(url)
+                if exists(url):
+                    return url, tried
+    return None, tried
 
 
 def discover_pdf(browser_executable: str | None = None) -> tuple[str, list[dict]]:
@@ -323,6 +369,7 @@ def main() -> int:
     parser.add_argument("--pdf", type=Path, help="Parse an already downloaded source PDF")
     parser.add_argument("--text", type=Path, help="Parse saved layout text, while still preserving and hashing --pdf")
     parser.add_argument("--url", help="Official document URL for a local --pdf; omitted in scheduled auto-discovery")
+    parser.add_argument("--discover", action="store_true", help="Read the bulletin page in a browser instead of checking the expected file names")
     parser.add_argument("--browser-executable", help="Optional locally installed Chrome/Chromium path")
     parser.add_argument("--output-dir", type=Path, default=PUBLIC)
     parser.add_argument("--work-dir", type=Path, default=WORK)
@@ -341,7 +388,20 @@ def main() -> int:
         else:
             if args.url:
                 raise ValueError("Scheduled refresh discovers its own public bulletin; --url is only for a local --pdf fixture")
-            url, links = discover_pdf(args.browser_executable)
+            index_path = args.output_dir / "index.json"
+            published = json.loads(index_path.read_text(encoding="utf8")) if index_path.exists() else None
+            if published and not args.discover:
+                url, probed = probe_latest(published["meta"]["sourceDocumentUrl"], date.today())
+                links = [{"url": item, "method": "file-name check"} for item in probed]
+                if url is None:
+                    age = (date.today() - date.fromisoformat(published["meta"]["reportDate"])).days
+                    if age > STALE_AFTER_DAYS:
+                        raise ValueError(f"No newer CWC bulletin at the expected file names, and the published one is {age} days old; check {INDEX_URL} or run with --discover")
+                    write_json_atomic(status_path, {"status": "unchanged", "checkedAt": checked_at, "reportDate": published["meta"]["reportDate"], "recordCount": published["meta"]["recordCount"], "lastGoodRetained": True, "sourceUrl": INDEX_URL, "checkedUrls": probed})
+                    print(json.dumps({"status": "unchanged", "reportDate": published["meta"]["reportDate"], "checkedUrls": len(probed)}))
+                    return 0
+            else:
+                url, links = discover_pdf(args.browser_executable)
             raw = fetch(url)
         source_url = urllib.parse.urlparse(url)
         if source_url.scheme != "https" or source_url.netloc != "rsms.cwc.gov.in" or not source_url.path.startswith("/admin/storage/bulletins/"):
@@ -369,7 +429,7 @@ def main() -> int:
             "documentDate": observed_date.isoformat(), "retrievedAt": checked_at,
             "sha256": dataset["meta"]["sha256"], "bytes": len(raw),
             "method": dataset["meta"]["extractionMethod"],
-            "publicDiscovery": "Fresh anonymous browser reads PDF links displayed on the official public Bulletin page. No login or private API.",
+            "publicDiscovery": "Checked the expected public file names (weekly date, serial +1) in the official bulletin store. No login or private API." if links and links[0].get("method") == "file-name check" else "Fresh anonymous browser reads PDF links displayed on the official public Bulletin page. No login or private API.",
             "discoveredLinks": links, "districtMatches": DISTRICTS, "alsoDistrictMatches": ALSO_DISTRICTS,
             "validation": dataset["validation"],
         }

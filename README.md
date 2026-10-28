@@ -19,7 +19,7 @@ The language choice is kept in the URL and shared links, and restores on reload 
 
 ## Data and refresh
 
-Each folder under `data/` holds `index.json`, a CSV and provenance (publisher, original URL, SHA256, report date, retrieval time). `.github/workflows/refresh-data.yml` runs the importers in `tools/` at 19:00 IST:
+Each folder under `data/` holds `index.json`, a CSV and provenance (publisher, original URL, SHA256, report date, retrieval time). `.github/workflows/refresh-data.yml` runs the importers in `tools/` at 19:00 IST, with a backup run at 22:15 IST:
 - IMD and Maharain rainfall and district notices: daily
 - GSDA groundwater: Mondays
 - the CWC dam bulletin: Mondays and Fridays
