@@ -8,6 +8,8 @@ A Marathi-first, read-only site for farmers and villagers in the 2026 drought. C
 - **The 12 relief measures** in plain Marathi, filtered by who you are (land, loan, pump, animals, labourer, student), with where to ask and what to carry. The order's own wording is quoted.
 - **Crop loss**: the separate compensation order still to come, the announced ₹5,000 advance, panchnama and crop insurance (14447).
 - **Rain this season** by taluka and revenue circle (Maharain) and this month by district (IMD); groundwater at GSDA monitoring wells; Nashik dam storage.
+- **Dams across Maharashtra**: the 38 reservoirs in the Central Water Commission's weekly bulletin, each with its district from a named government source. The two boundary dams, Upper Wardha and Manjara, are listed for both districts.
+- **District notices and contacts** from official district websites, **villages** for every district, and **livestock (2019 census) and farm statistics** with their reference years.
 - **Animals and fodder**: what is announced and what is not yet published, care that does not wait for a scheme, questions to ask, helpline 1962.
 - **Share** as a WhatsApp message, print a notice-board page, or listen in Marathi.
 
@@ -17,6 +19,11 @@ The language choice is kept in the URL and shared links, and restores on reload 
 
 ## Data and refresh
 
-Each folder under `data/` holds `index.json`, a CSV and provenance (publisher, original URL, SHA256, report date, retrieval time). `.github/workflows/refresh-data.yml` refreshes IMD and Maharain rainfall daily at 19:00 IST and GSDA groundwater on Mondays, using the importers in `tools/`. The workflow explicitly stages public files, uploads a Pages artifact and deploys it after pushes and refreshes. An importer that cannot validate its source leaves the previous files in place; the available snapshot is deployed and the failed import is flagged. Repository tooling is excluded from the public artifact.
+Each folder under `data/` holds `index.json`, a CSV and provenance (publisher, original URL, SHA256, report date, retrieval time). `.github/workflows/refresh-data.yml` runs the importers in `tools/` at 19:00 IST:
+- IMD and Maharain rainfall and district notices: daily
+- GSDA groundwater: Mondays
+- the CWC dam bulletin: Mondays and Fridays
+
+A manual run refreshes all of them, and `data/refresh-status.json` records each feed's result. The workflow explicitly stages public files, uploads a Pages artifact and deploys it after pushes and refreshes. An importer that cannot validate its source leaves the previous files in place; the available snapshot is deployed and the failed import is flagged. Repository tooling is excluded from the public artifact.
 
 Pages are `noindex`. Built from the `maharashtra-hub` source with `npm run build:static`.

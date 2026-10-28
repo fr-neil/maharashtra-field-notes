@@ -1,0 +1,1847 @@
+{
+  "meta": {
+    "title": "Maharashtra district livestock and agricultural context",
+    "retrievedAt": "2026-10-28T12:11:56.318875+00:00",
+    "censusReferenceYear": 2019,
+    "contextPublication": "Economic Survey of Maharashtra 2025-26",
+    "sources": [
+      {
+        "id": "mh-livestock-2019",
+        "title": "20th Livestock Census 2019 — Maharashtra, table 3.11",
+        "pageUrl": "https://dahd.maharashtra.gov.in/en/publication/20-th-livestock-census/",
+        "url": "https://cdnbbsr.s3waas.gov.in/s369dafe8b58066478aea48f3d0f384820/uploads/2024/02/202402131605550676.pdf",
+        "referenceYear": 2019,
+        "pdfPages": [
+          48,
+          49
+        ],
+        "bytes": 5485107,
+        "sha256": "bbd785a8f701d0cdf43bd52073170f51ac7fc61b1407b6d4ace5a81af7443f1a"
+      },
+      {
+        "id": "mh-des-district-indicators-2025-26",
+        "title": "DES Economic Survey 2025-26 — selected district indicators",
+        "pageUrl": "https://mahaces.maharashtra.gov.in/esm.do?type=R",
+        "url": "https://mahaces.maharashtra.gov.in/files/EconomicSurvey/ind_d_e.pdf",
+        "pdfPages": [
+          3,
+          6
+        ],
+        "printedPages": [
+          314,
+          317
+        ],
+        "bytes": 7891737,
+        "sha256": "f1e240e80ef8eb3ea45dd1e1b1815c80bdf42b6a70a40e11efe742b4f1baaf1c"
+      }
+    ],
+    "coverage": {
+      "districtLookups": 36,
+      "uniqueLivestockReportingUnits": 35,
+      "individualDistrictUnits": 34,
+      "combinedMumbaiCodes": [
+        "482",
+        "483"
+      ],
+      "contextDistrictRows": 36,
+      "holdingValuesAvailable": 34
+    },
+    "method": "Parsed original count columns from both halves of table 3.11; district sums match printed state species totals. Rounded cattle-unit equivalents are excluded. DES continuation rows match the explicitly checked district order.",
+    "limitations": [
+      "Livestock values are Census 2019 counts, not a current animal inventory.",
+      "Mumbai City and Mumbai Suburban share one source reporting unit; count that unit once in aggregates.",
+      "Total livestock includes cattle, buffalo, sheep, goat, pigs, horses/ponies, mules, donkeys and camels; excludes poultry, dogs, rabbits and elephants.",
+      "Operational holding size is a dated agricultural statistic, not current ownership, farmer count or household income.",
+      "Agricultural context cells for the two Mumbai districts are unavailable in the source.",
+      "No household income brackets, current farmer counts, individual land records or family sizes are inferred."
+    ],
+    "locationMappingSource": "https://mahavillages.mahabhumi.gov.in/all_list.php",
+    "refreshPolicy": "Scheduled imports re-check the pinned official reports. Their historical reference years remain unchanged; a new census/report edition requires source and parser review."
+  },
+  "indicators": [
+    {
+      "key": "cattle",
+      "label": "Cattle",
+      "labelMr": "गाई-बैल",
+      "unit": "animals",
+      "referenceYear": 2019
+    },
+    {
+      "key": "buffalo",
+      "label": "Buffalo",
+      "labelMr": "म्हशी-रेडे",
+      "unit": "animals",
+      "referenceYear": 2019
+    },
+    {
+      "key": "sheep",
+      "label": "Sheep",
+      "labelMr": "मेंढ्या",
+      "unit": "animals",
+      "referenceYear": 2019
+    },
+    {
+      "key": "goat",
+      "label": "Goats",
+      "labelMr": "शेळ्या",
+      "unit": "animals",
+      "referenceYear": 2019
+    },
+    {
+      "key": "pig",
+      "label": "Pigs",
+      "labelMr": "डुकरे",
+      "unit": "animals",
+      "referenceYear": 2019
+    },
+    {
+      "key": "horsesPonies",
+      "label": "Horses and ponies",
+      "labelMr": "घोडे व तट्टे",
+      "unit": "animals",
+      "referenceYear": 2019
+    },
+    {
+      "key": "mules",
+      "label": "Mules",
+      "labelMr": "खेचरे",
+      "unit": "animals",
+      "referenceYear": 2019
+    },
+    {
+      "key": "donkeys",
+      "label": "Donkeys",
+      "labelMr": "गाढवे",
+      "unit": "animals",
+      "referenceYear": 2019
+    },
+    {
+      "key": "camels",
+      "label": "Camels",
+      "labelMr": "उंट",
+      "unit": "animals",
+      "referenceYear": 2019
+    },
+    {
+      "key": "poultryCommercial",
+      "label": "Commercial poultry",
+      "labelMr": "व्यावसायिक कुक्कुट",
+      "unit": "birds",
+      "referenceYear": 2019
+    },
+    {
+      "key": "poultryBackyard",
+      "label": "Backyard poultry",
+      "labelMr": "परसातील कुक्कुट",
+      "unit": "birds",
+      "referenceYear": 2019
+    },
+    {
+      "key": "poultry",
+      "label": "Total poultry",
+      "labelMr": "एकूण कुक्कुट",
+      "unit": "birds",
+      "referenceYear": 2019
+    },
+    {
+      "key": "totalLivestock",
+      "label": "Total livestock",
+      "labelMr": "एकूण पशुधन",
+      "unit": "animals",
+      "referenceYear": 2019
+    }
+  ],
+  "contextIndicators": [
+    {
+      "key": "netSownAreaPercent",
+      "label": "Net sown area / geographical area",
+      "labelMr": "भौगोलिक क्षेत्रापैकी निव्वळ पेरणी क्षेत्र",
+      "unit": "percent",
+      "referenceYear": "2023-24",
+      "estimated": true,
+      "sourceColumn": 26,
+      "sourceId": "mh-des-district-indicators-2025-26",
+      "pdfPage": 6,
+      "printedPage": 317
+    },
+    {
+      "key": "perCapitaFoodgrainKg",
+      "label": "Foodgrain production per capita",
+      "labelMr": "दरडोई अन्नधान्य उत्पादन",
+      "unit": "kg per person",
+      "referenceYear": "2024-25",
+      "estimated": true,
+      "sourceColumn": 27,
+      "sourceId": "mh-des-district-indicators-2025-26",
+      "pdfPage": 6,
+      "printedPage": 317
+    },
+    {
+      "key": "croppingIntensityPercent",
+      "label": "Cropping intensity",
+      "labelMr": "पीक घनता",
+      "unit": "percent",
+      "referenceYear": "2023-24",
+      "estimated": true,
+      "sourceColumn": 28,
+      "sourceId": "mh-des-district-indicators-2025-26",
+      "pdfPage": 6,
+      "printedPage": 317
+    },
+    {
+      "key": "averageOperationalHoldingHa",
+      "label": "Average operational holding size",
+      "labelMr": "सरासरी वहिती धारण क्षेत्र",
+      "unit": "hectares per operational holding",
+      "referenceYear": "2015-16",
+      "estimated": false,
+      "sourceColumn": 29,
+      "note": "An operational holding is not a current farmer household or ownership count.",
+      "sourceId": "mh-des-district-indicators-2025-26",
+      "pdfPage": 6,
+      "printedPage": 317
+    }
+  ],
+  "stateTotals": {
+    "cattle": 13992304,
+    "buffalo": 5603692,
+    "sheep": 2680329,
+    "goat": 10604883,
+    "pig": 161000,
+    "horsesPonies": 18892,
+    "mules": 681,
+    "donkeys": 17572,
+    "camels": 465,
+    "poultryCommercial": 52184570,
+    "poultryBackyard": 22113195,
+    "poultry": 74297765,
+    "totalLivestock": 33079818
+  },
+  "reportingUnits": [
+    {
+      "id": "mumbai-combined",
+      "sourceName": "Mumbai",
+      "name": "Mumbai City and Mumbai Suburban (combined)",
+      "districtCodes": [
+        "482",
+        "483"
+      ],
+      "combined": true,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 3226,
+        "buffalo": 24388,
+        "sheep": 458,
+        "goat": 6389,
+        "pig": 406,
+        "horsesPonies": 100,
+        "mules": 1,
+        "donkeys": 38,
+        "camels": 13,
+        "poultryCommercial": 15935,
+        "poultryBackyard": 4128,
+        "poultry": 20063,
+        "totalLivestock": 35019
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "497",
+      "sourceName": "Thane",
+      "name": "Thane",
+      "districtCodes": [
+        "497"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 79522,
+        "buffalo": 92521,
+        "sheep": 1827,
+        "goat": 60045,
+        "pig": 1961,
+        "horsesPonies": 217,
+        "mules": 8,
+        "donkeys": 53,
+        "camels": 0,
+        "poultryCommercial": 2414048,
+        "poultryBackyard": 562420,
+        "poultry": 2976468,
+        "totalLivestock": 236154
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "665",
+      "sourceName": "Palghar",
+      "name": "Palghar",
+      "districtCodes": [
+        "665"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 238404,
+        "buffalo": 70233,
+        "sheep": 2843,
+        "goat": 113538,
+        "pig": 1559,
+        "horsesPonies": 246,
+        "mules": 109,
+        "donkeys": 14,
+        "camels": 10,
+        "poultryCommercial": 613169,
+        "poultryBackyard": 1360330,
+        "poultry": 1973499,
+        "totalLivestock": 426956
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "491",
+      "sourceName": "Raigad",
+      "name": "Raigad",
+      "districtCodes": [
+        "491"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 176906,
+        "buffalo": 62225,
+        "sheep": 2203,
+        "goat": 90188,
+        "pig": 513,
+        "horsesPonies": 235,
+        "mules": 0,
+        "donkeys": 11,
+        "camels": 7,
+        "poultryCommercial": 3098220,
+        "poultryBackyard": 946632,
+        "poultry": 4044852,
+        "totalLivestock": 332288
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "492",
+      "sourceName": "Ratnagiri",
+      "name": "Ratnagiri",
+      "districtCodes": [
+        "492"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 235060,
+        "buffalo": 41112,
+        "sheep": 1212,
+        "goat": 38161,
+        "pig": 128,
+        "horsesPonies": 20,
+        "mules": 2,
+        "donkeys": 115,
+        "camels": 1,
+        "poultryCommercial": 52475,
+        "poultryBackyard": 807509,
+        "poultry": 859984,
+        "totalLivestock": 315811
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "495",
+      "sourceName": "Sindhudurg",
+      "name": "Sindhudurg",
+      "districtCodes": [
+        "495"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 105920,
+        "buffalo": 51334,
+        "sheep": 22,
+        "goat": 30935,
+        "pig": 1364,
+        "horsesPonies": 3,
+        "mules": 0,
+        "donkeys": 0,
+        "camels": 0,
+        "poultryCommercial": 336470,
+        "poultryBackyard": 582631,
+        "poultry": 919101,
+        "totalLivestock": 189578
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "487",
+      "sourceName": "Nashik",
+      "name": "Nashik",
+      "districtCodes": [
+        "487"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 895050,
+        "buffalo": 221234,
+        "sheep": 243373,
+        "goat": 626644,
+        "pig": 7616,
+        "horsesPonies": 1492,
+        "mules": 15,
+        "donkeys": 274,
+        "camels": 22,
+        "poultryCommercial": 7335008,
+        "poultryBackyard": 678253,
+        "poultry": 8013261,
+        "totalLivestock": 1995720
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "474",
+      "sourceName": "Dhule",
+      "name": "Dhule",
+      "districtCodes": [
+        "474"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 354544,
+        "buffalo": 97659,
+        "sheep": 492632,
+        "goat": 332041,
+        "pig": 9116,
+        "horsesPonies": 907,
+        "mules": 0,
+        "donkeys": 74,
+        "camels": 5,
+        "poultryCommercial": 1681165,
+        "poultryBackyard": 357860,
+        "poultry": 2039025,
+        "totalLivestock": 1286978
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "486",
+      "sourceName": "Nandurbar",
+      "name": "Nandurbar",
+      "districtCodes": [
+        "486"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 304305,
+        "buffalo": 73966,
+        "sheep": 36210,
+        "goat": 323264,
+        "pig": 7314,
+        "horsesPonies": 224,
+        "mules": 0,
+        "donkeys": 198,
+        "camels": 9,
+        "poultryCommercial": 325082,
+        "poultryBackyard": 615112,
+        "poultry": 940194,
+        "totalLivestock": 745490
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "478",
+      "sourceName": "Jalgaon",
+      "name": "Jalgaon",
+      "districtCodes": [
+        "478"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 577302,
+        "buffalo": 269105,
+        "sheep": 70471,
+        "goat": 433156,
+        "pig": 9599,
+        "horsesPonies": 1228,
+        "mules": 16,
+        "donkeys": 342,
+        "camels": 93,
+        "poultryCommercial": 667255,
+        "poultryBackyard": 363405,
+        "poultry": 1030660,
+        "totalLivestock": 1361312
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "466",
+      "sourceName": "Ahmednagar",
+      "name": "Ahilyanagar",
+      "districtCodes": [
+        "466"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 1378303,
+        "buffalo": 221355,
+        "sheep": 285751,
+        "goat": 1194052,
+        "pig": 5466,
+        "horsesPonies": 2497,
+        "mules": 2,
+        "donkeys": 825,
+        "camels": 5,
+        "poultryCommercial": 7446833,
+        "poultryBackyard": 1524654,
+        "poultry": 8971487,
+        "totalLivestock": 3088256
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "490",
+      "sourceName": "Pune",
+      "name": "Pune",
+      "districtCodes": [
+        "490"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 846745,
+        "buffalo": 298148,
+        "sheep": 290633,
+        "goat": 575905,
+        "pig": 11439,
+        "horsesPonies": 3160,
+        "mules": 410,
+        "donkeys": 223,
+        "camels": 42,
+        "poultryCommercial": 13986514,
+        "poultryBackyard": 2419944,
+        "poultry": 16406458,
+        "totalLivestock": 2026705
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "494",
+      "sourceName": "Satara",
+      "name": "Satara",
+      "districtCodes": [
+        "494"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 352436,
+        "buffalo": 326896,
+        "sheep": 185905,
+        "goat": 364348,
+        "pig": 313,
+        "horsesPonies": 757,
+        "mules": 0,
+        "donkeys": 767,
+        "camels": 2,
+        "poultryCommercial": 2482618,
+        "poultryBackyard": 1513358,
+        "poultry": 3995976,
+        "totalLivestock": 1231424
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "493",
+      "sourceName": "Sangli",
+      "name": "Sangli",
+      "districtCodes": [
+        "493"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 324756,
+        "buffalo": 493998,
+        "sheep": 130754,
+        "goat": 454125,
+        "pig": 3317,
+        "horsesPonies": 1115,
+        "mules": 3,
+        "donkeys": 1223,
+        "camels": 0,
+        "poultryCommercial": 2793362,
+        "poultryBackyard": 950925,
+        "poultry": 3744287,
+        "totalLivestock": 1409291
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "496",
+      "sourceName": "Solapur",
+      "name": "Solapur",
+      "districtCodes": [
+        "496"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 745404,
+        "buffalo": 496454,
+        "sheep": 125386,
+        "goat": 962504,
+        "pig": 10457,
+        "horsesPonies": 640,
+        "mules": 29,
+        "donkeys": 1903,
+        "camels": 30,
+        "poultryCommercial": 927626,
+        "poultryBackyard": 2171436,
+        "poultry": 3099062,
+        "totalLivestock": 2342807
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "480",
+      "sourceName": "Kolhapur",
+      "name": "Kolhapur",
+      "districtCodes": [
+        "480"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 283637,
+        "buffalo": 568884,
+        "sheep": 96176,
+        "goat": 130053,
+        "pig": 806,
+        "horsesPonies": 1122,
+        "mules": 9,
+        "donkeys": 36,
+        "camels": 5,
+        "poultryCommercial": 2706260,
+        "poultryBackyard": 674353,
+        "poultry": 3380613,
+        "totalLivestock": 1080728
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "469",
+      "sourceName": "Aurangabad",
+      "name": "Chhatrapati Sambhajinagar",
+      "districtCodes": [
+        "469"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 538572,
+        "buffalo": 94430,
+        "sheep": 88244,
+        "goat": 431182,
+        "pig": 10646,
+        "horsesPonies": 683,
+        "mules": 11,
+        "donkeys": 325,
+        "camels": 6,
+        "poultryCommercial": 310794,
+        "poultryBackyard": 291347,
+        "poultry": 602141,
+        "totalLivestock": 1164099
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "479",
+      "sourceName": "Jalna",
+      "name": "Jalna",
+      "districtCodes": [
+        "479"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 421975,
+        "buffalo": 82073,
+        "sheep": 30534,
+        "goat": 300988,
+        "pig": 4074,
+        "horsesPonies": 281,
+        "mules": 0,
+        "donkeys": 200,
+        "camels": 2,
+        "poultryCommercial": 7285,
+        "poultryBackyard": 286834,
+        "poultry": 294119,
+        "totalLivestock": 840127
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "489",
+      "sourceName": "Parbhani",
+      "name": "Parbhani",
+      "districtCodes": [
+        "489"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 299861,
+        "buffalo": 98495,
+        "sheep": 31673,
+        "goat": 171698,
+        "pig": 6428,
+        "horsesPonies": 309,
+        "mules": 0,
+        "donkeys": 656,
+        "camels": 7,
+        "poultryCommercial": 13148,
+        "poultryBackyard": 160089,
+        "poultry": 173237,
+        "totalLivestock": 609127
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "470",
+      "sourceName": "Beed",
+      "name": "Beed",
+      "districtCodes": [
+        "470"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 496368,
+        "buffalo": 258440,
+        "sheep": 68693,
+        "goat": 468149,
+        "pig": 3803,
+        "horsesPonies": 511,
+        "mules": 0,
+        "donkeys": 481,
+        "camels": 3,
+        "poultryCommercial": 636639,
+        "poultryBackyard": 903451,
+        "poultry": 1540090,
+        "totalLivestock": 1296448
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "481",
+      "sourceName": "Latur",
+      "name": "Latur",
+      "districtCodes": [
+        "481"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 257508,
+        "buffalo": 257187,
+        "sheep": 35094,
+        "goat": 148886,
+        "pig": 6165,
+        "horsesPonies": 302,
+        "mules": 3,
+        "donkeys": 438,
+        "camels": 14,
+        "poultryCommercial": 305227,
+        "poultryBackyard": 198821,
+        "poultry": 504048,
+        "totalLivestock": 705597
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "488",
+      "sourceName": "Osmanabad",
+      "name": "Dharashiv",
+      "districtCodes": [
+        "488"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 362422,
+        "buffalo": 188446,
+        "sheep": 22131,
+        "goat": 217400,
+        "pig": 590,
+        "horsesPonies": 274,
+        "mules": 2,
+        "donkeys": 26,
+        "camels": 25,
+        "poultryCommercial": 384993,
+        "poultryBackyard": 374617,
+        "poultry": 759610,
+        "totalLivestock": 791316
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "485",
+      "sourceName": "Nanded",
+      "name": "Nanded",
+      "districtCodes": [
+        "485"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 502428,
+        "buffalo": 236386,
+        "sheep": 76893,
+        "goat": 318564,
+        "pig": 6529,
+        "horsesPonies": 457,
+        "mules": 12,
+        "donkeys": 4634,
+        "camels": 125,
+        "poultryCommercial": 204887,
+        "poultryBackyard": 352484,
+        "poultry": 557371,
+        "totalLivestock": 1146028
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "477",
+      "sourceName": "Hingoli",
+      "name": "Hingoli",
+      "districtCodes": [
+        "477"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 232203,
+        "buffalo": 74125,
+        "sheep": 16907,
+        "goat": 154284,
+        "pig": 1670,
+        "horsesPonies": 169,
+        "mules": 0,
+        "donkeys": 71,
+        "camels": 0,
+        "poultryCommercial": 766,
+        "poultryBackyard": 171103,
+        "poultry": 171869,
+        "totalLivestock": 479429
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "468",
+      "sourceName": "Amravati",
+      "name": "Amravati",
+      "districtCodes": [
+        "468"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 464967,
+        "buffalo": 129627,
+        "sheep": 83200,
+        "goat": 340681,
+        "pig": 4801,
+        "horsesPonies": 526,
+        "mules": 1,
+        "donkeys": 1591,
+        "camels": 1,
+        "poultryCommercial": 1123950,
+        "poultryBackyard": 265833,
+        "poultry": 1389783,
+        "totalLivestock": 1025395
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "467",
+      "sourceName": "Akola",
+      "name": "Akola",
+      "districtCodes": [
+        "467"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 233271,
+        "buffalo": 49797,
+        "sheep": 9581,
+        "goat": 151076,
+        "pig": 1356,
+        "horsesPonies": 342,
+        "mules": 0,
+        "donkeys": 2364,
+        "camels": 1,
+        "poultryCommercial": 107511,
+        "poultryBackyard": 80518,
+        "poultry": 188029,
+        "totalLivestock": 447788
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "499",
+      "sourceName": "Washim",
+      "name": "Washim",
+      "districtCodes": [
+        "499"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 168091,
+        "buffalo": 53826,
+        "sheep": 9394,
+        "goat": 127477,
+        "pig": 7193,
+        "horsesPonies": 125,
+        "mules": 36,
+        "donkeys": 59,
+        "camels": 2,
+        "poultryCommercial": 51780,
+        "poultryBackyard": 75327,
+        "poultry": 127107,
+        "totalLivestock": 366203
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "472",
+      "sourceName": "Buldhana",
+      "name": "Buldhana",
+      "districtCodes": [
+        "472"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 461529,
+        "buffalo": 134148,
+        "sheep": 125280,
+        "goat": 364689,
+        "pig": 5251,
+        "horsesPonies": 379,
+        "mules": 8,
+        "donkeys": 328,
+        "camels": 5,
+        "poultryCommercial": 96638,
+        "poultryBackyard": 303483,
+        "poultry": 400121,
+        "totalLivestock": 1091617
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "500",
+      "sourceName": "Yavatmal",
+      "name": "Yavatmal",
+      "districtCodes": [
+        "500"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 596113,
+        "buffalo": 88384,
+        "sheep": 22587,
+        "goat": 349979,
+        "pig": 1406,
+        "horsesPonies": 329,
+        "mules": 2,
+        "donkeys": 198,
+        "camels": 19,
+        "poultryCommercial": 414656,
+        "poultryBackyard": 472128,
+        "poultry": 886784,
+        "totalLivestock": 1059017
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "484",
+      "sourceName": "Nagpur",
+      "name": "Nagpur",
+      "districtCodes": [
+        "484"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 418548,
+        "buffalo": 72482,
+        "sheep": 15476,
+        "goat": 289098,
+        "pig": 1909,
+        "horsesPonies": 73,
+        "mules": 0,
+        "donkeys": 47,
+        "camels": 5,
+        "poultryCommercial": 1074016,
+        "poultryBackyard": 291342,
+        "poultry": 1365358,
+        "totalLivestock": 797638
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "498",
+      "sourceName": "Wardha",
+      "name": "Wardha",
+      "districtCodes": [
+        "498"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 275880,
+        "buffalo": 46649,
+        "sheep": 5358,
+        "goat": 161359,
+        "pig": 590,
+        "horsesPonies": 35,
+        "mules": 0,
+        "donkeys": 26,
+        "camels": 1,
+        "poultryCommercial": 140007,
+        "poultryBackyard": 134726,
+        "poultry": 274733,
+        "totalLivestock": 489898
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "471",
+      "sourceName": "Bhandara",
+      "name": "Bhandara",
+      "districtCodes": [
+        "471"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 213036,
+        "buffalo": 106861,
+        "sheep": 3169,
+        "goat": 199183,
+        "pig": 83,
+        "horsesPonies": 46,
+        "mules": 0,
+        "donkeys": 12,
+        "camels": 3,
+        "poultryCommercial": 9404,
+        "poultryBackyard": 306370,
+        "poultry": 315774,
+        "totalLivestock": 522393
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "476",
+      "sourceName": "Gondia",
+      "name": "Gondia",
+      "districtCodes": [
+        "476"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 292627,
+        "buffalo": 92527,
+        "sheep": 1189,
+        "goat": 194975,
+        "pig": 366,
+        "horsesPonies": 73,
+        "mules": 2,
+        "donkeys": 0,
+        "camels": 0,
+        "poultryCommercial": 330968,
+        "poultryBackyard": 310575,
+        "poultry": 641543,
+        "totalLivestock": 581759
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "473",
+      "sourceName": "Chandrapur",
+      "name": "Chandrapur",
+      "districtCodes": [
+        "473"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 395914,
+        "buffalo": 64038,
+        "sheep": 50465,
+        "goat": 240280,
+        "pig": 1556,
+        "horsesPonies": 13,
+        "mules": 0,
+        "donkeys": 20,
+        "camels": 2,
+        "poultryCommercial": 75671,
+        "poultryBackyard": 596418,
+        "poultry": 672089,
+        "totalLivestock": 752288
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "475",
+      "sourceName": "Gadchiroli",
+      "name": "Gadchiroli",
+      "districtCodes": [
+        "475"
+      ],
+      "combined": false,
+      "referenceYear": 2019,
+      "values": {
+        "cattle": 459471,
+        "buffalo": 66259,
+        "sheep": 18605,
+        "goat": 239587,
+        "pig": 25210,
+        "horsesPonies": 2,
+        "mules": 0,
+        "donkeys": 0,
+        "camels": 0,
+        "poultryCommercial": 14190,
+        "poultryBackyard": 1004779,
+        "poultry": 1018969,
+        "totalLivestock": 809134
+      },
+      "sourceId": "mh-livestock-2019",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "sourcePrintedPages": [
+        35,
+        36
+      ]
+    }
+  ],
+  "districts": [
+    {
+      "code": "466",
+      "name": "Ahilyanagar",
+      "reportingUnitId": "466",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 58.3,
+        "perCapitaFoodgrainKg": 254.8,
+        "croppingIntensityPercent": 161.9,
+        "averageOperationalHoldingHa": 1.2
+      }
+    },
+    {
+      "code": "467",
+      "name": "Akola",
+      "reportingUnitId": "467",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 75.1,
+        "perCapitaFoodgrainKg": 140.6,
+        "croppingIntensityPercent": 155.0,
+        "averageOperationalHoldingHa": 1.6
+      }
+    },
+    {
+      "code": "468",
+      "name": "Amravati",
+      "reportingUnitId": "468",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 62.4,
+        "perCapitaFoodgrainKg": 137.4,
+        "croppingIntensityPercent": 134.7,
+        "averageOperationalHoldingHa": 1.6
+      }
+    },
+    {
+      "code": "470",
+      "name": "Beed",
+      "reportingUnitId": "470",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 73.8,
+        "perCapitaFoodgrainKg": 224.4,
+        "croppingIntensityPercent": 154.0,
+        "averageOperationalHoldingHa": 1.2
+      }
+    },
+    {
+      "code": "471",
+      "name": "Bhandara",
+      "reportingUnitId": "471",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 41.1,
+        "perCapitaFoodgrainKg": 527.7,
+        "croppingIntensityPercent": 191.3,
+        "averageOperationalHoldingHa": 0.9
+      }
+    },
+    {
+      "code": "472",
+      "name": "Buldhana",
+      "reportingUnitId": "472",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 66.0,
+        "perCapitaFoodgrainKg": 296.7,
+        "croppingIntensityPercent": 167.8,
+        "averageOperationalHoldingHa": 1.4
+      }
+    },
+    {
+      "code": "473",
+      "name": "Chandrapur",
+      "reportingUnitId": "473",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 44.1,
+        "perCapitaFoodgrainKg": 219.7,
+        "croppingIntensityPercent": 123.7,
+        "averageOperationalHoldingHa": 1.7
+      }
+    },
+    {
+      "code": "469",
+      "name": "Chhatrapati Sambhajinagar",
+      "reportingUnitId": "469",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 68.8,
+        "perCapitaFoodgrainKg": 224.0,
+        "croppingIntensityPercent": 150.5,
+        "averageOperationalHoldingHa": 1.3
+      }
+    },
+    {
+      "code": "488",
+      "name": "Dharashiv",
+      "reportingUnitId": "488",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 68.3,
+        "perCapitaFoodgrainKg": 343.9,
+        "croppingIntensityPercent": 175.0,
+        "averageOperationalHoldingHa": 1.6
+      }
+    },
+    {
+      "code": "474",
+      "name": "Dhule",
+      "reportingUnitId": "474",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 59.2,
+        "perCapitaFoodgrainKg": 150.9,
+        "croppingIntensityPercent": 119.8,
+        "averageOperationalHoldingHa": 1.7
+      }
+    },
+    {
+      "code": "475",
+      "name": "Gadchiroli",
+      "reportingUnitId": "475",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 14.1,
+        "perCapitaFoodgrainKg": 440.8,
+        "croppingIntensityPercent": 139.8,
+        "averageOperationalHoldingHa": 1.6
+      }
+    },
+    {
+      "code": "476",
+      "name": "Gondia",
+      "reportingUnitId": "476",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 35.4,
+        "perCapitaFoodgrainKg": 484.4,
+        "croppingIntensityPercent": 187.3,
+        "averageOperationalHoldingHa": 0.8
+      }
+    },
+    {
+      "code": "477",
+      "name": "Hingoli",
+      "reportingUnitId": "477",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 71.7,
+        "perCapitaFoodgrainKg": 223.5,
+        "croppingIntensityPercent": 188.2,
+        "averageOperationalHoldingHa": 1.5
+      }
+    },
+    {
+      "code": "478",
+      "name": "Jalgaon",
+      "reportingUnitId": "478",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 70.1,
+        "perCapitaFoodgrainKg": 510.3,
+        "croppingIntensityPercent": 134.4,
+        "averageOperationalHoldingHa": 1.6
+      }
+    },
+    {
+      "code": "479",
+      "name": "Jalna",
+      "reportingUnitId": "479",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 75.4,
+        "perCapitaFoodgrainKg": 117.0,
+        "croppingIntensityPercent": 166.4,
+        "averageOperationalHoldingHa": 1.3
+      }
+    },
+    {
+      "code": "480",
+      "name": "Kolhapur",
+      "reportingUnitId": "480",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 55.4,
+        "perCapitaFoodgrainKg": 103.6,
+        "croppingIntensityPercent": 134.6,
+        "averageOperationalHoldingHa": 0.7
+      }
+    },
+    {
+      "code": "481",
+      "name": "Latur",
+      "reportingUnitId": "481",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 74.6,
+        "perCapitaFoodgrainKg": 150.8,
+        "croppingIntensityPercent": 166.6,
+        "averageOperationalHoldingHa": 1.4
+      }
+    },
+    {
+      "code": "482",
+      "name": "Mumbai",
+      "reportingUnitId": "mumbai-combined",
+      "individualData": false,
+      "contextValues": {
+        "netSownAreaPercent": null,
+        "perCapitaFoodgrainKg": null,
+        "croppingIntensityPercent": null,
+        "averageOperationalHoldingHa": null
+      }
+    },
+    {
+      "code": "483",
+      "name": "Mumbai Suburban",
+      "reportingUnitId": "mumbai-combined",
+      "individualData": false,
+      "contextValues": {
+        "netSownAreaPercent": null,
+        "perCapitaFoodgrainKg": null,
+        "croppingIntensityPercent": null,
+        "averageOperationalHoldingHa": null
+      }
+    },
+    {
+      "code": "484",
+      "name": "Nagpur",
+      "reportingUnitId": "484",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 56.4,
+        "perCapitaFoodgrainKg": 126.8,
+        "croppingIntensityPercent": 126.9,
+        "averageOperationalHoldingHa": 1.8
+      }
+    },
+    {
+      "code": "485",
+      "name": "Nanded",
+      "reportingUnitId": "485",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 66.5,
+        "perCapitaFoodgrainKg": 96.4,
+        "croppingIntensityPercent": 161.6,
+        "averageOperationalHoldingHa": 1.3
+      }
+    },
+    {
+      "code": "486",
+      "name": "Nandurbar",
+      "reportingUnitId": "486",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 40.4,
+        "perCapitaFoodgrainKg": 156.5,
+        "croppingIntensityPercent": 158.0,
+        "averageOperationalHoldingHa": 1.8
+      }
+    },
+    {
+      "code": "487",
+      "name": "Nashik",
+      "reportingUnitId": "487",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 54.7,
+        "perCapitaFoodgrainKg": 215.7,
+        "croppingIntensityPercent": 125.6,
+        "averageOperationalHoldingHa": 1.5
+      }
+    },
+    {
+      "code": "665",
+      "name": "Palghar",
+      "reportingUnitId": "665",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 26.8,
+        "perCapitaFoodgrainKg": 57.6,
+        "croppingIntensityPercent": 100.1,
+        "averageOperationalHoldingHa": 1.5
+      }
+    },
+    {
+      "code": "489",
+      "name": "Parbhani",
+      "reportingUnitId": "489",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 81.6,
+        "perCapitaFoodgrainKg": 185.8,
+        "croppingIntensityPercent": 175.7,
+        "averageOperationalHoldingHa": 1.4
+      }
+    },
+    {
+      "code": "490",
+      "name": "Pune",
+      "reportingUnitId": "490",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 24.3,
+        "perCapitaFoodgrainKg": 59.6,
+        "croppingIntensityPercent": 173.9,
+        "averageOperationalHoldingHa": 1.3
+      }
+    },
+    {
+      "code": "491",
+      "name": "Raigad",
+      "reportingUnitId": "491",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 18.3,
+        "perCapitaFoodgrainKg": 69.1,
+        "croppingIntensityPercent": 107.9,
+        "averageOperationalHoldingHa": 1.0
+      }
+    },
+    {
+      "code": "492",
+      "name": "Ratnagiri",
+      "reportingUnitId": "492",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 27.8,
+        "perCapitaFoodgrainKg": 86.2,
+        "croppingIntensityPercent": 102.0,
+        "averageOperationalHoldingHa": 1.2
+      }
+    },
+    {
+      "code": "493",
+      "name": "Sangli",
+      "reportingUnitId": "493",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 68.6,
+        "perCapitaFoodgrainKg": 167.0,
+        "croppingIntensityPercent": 120.0,
+        "averageOperationalHoldingHa": 1.2
+      }
+    },
+    {
+      "code": "494",
+      "name": "Satara",
+      "reportingUnitId": "494",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 49.2,
+        "perCapitaFoodgrainKg": 171.7,
+        "croppingIntensityPercent": 123.3,
+        "averageOperationalHoldingHa": 0.8
+      }
+    },
+    {
+      "code": "495",
+      "name": "Sindhudurg",
+      "reportingUnitId": "495",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 27.2,
+        "perCapitaFoodgrainKg": 224.1,
+        "croppingIntensityPercent": 131.0,
+        "averageOperationalHoldingHa": 0.9
+      }
+    },
+    {
+      "code": "496",
+      "name": "Solapur",
+      "reportingUnitId": "496",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 62.4,
+        "perCapitaFoodgrainKg": 200.6,
+        "croppingIntensityPercent": 125.7,
+        "averageOperationalHoldingHa": 1.6
+      }
+    },
+    {
+      "code": "497",
+      "name": "Thane",
+      "reportingUnitId": "497",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 25.4,
+        "perCapitaFoodgrainKg": 10.0,
+        "croppingIntensityPercent": 101.7,
+        "averageOperationalHoldingHa": 1.2
+      }
+    },
+    {
+      "code": "498",
+      "name": "Wardha",
+      "reportingUnitId": "498",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 54.6,
+        "perCapitaFoodgrainKg": 224.0,
+        "croppingIntensityPercent": 167.0,
+        "averageOperationalHoldingHa": 2.1
+      }
+    },
+    {
+      "code": "499",
+      "name": "Washim",
+      "reportingUnitId": "499",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 74.5,
+        "perCapitaFoodgrainKg": 201.3,
+        "croppingIntensityPercent": 154.6,
+        "averageOperationalHoldingHa": 1.6
+      }
+    },
+    {
+      "code": "500",
+      "name": "Yavatmal",
+      "reportingUnitId": "500",
+      "individualData": true,
+      "contextValues": {
+        "netSownAreaPercent": 60.4,
+        "perCapitaFoodgrainKg": 133.1,
+        "croppingIntensityPercent": 135.7,
+        "averageOperationalHoldingHa": 2.0
+      }
+    }
+  ]
+}

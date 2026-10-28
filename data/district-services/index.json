@@ -1,0 +1,3456 @@
+{
+  "meta": {
+    "title": "Official Maharashtra district services and notices",
+    "retrievedAt": "2026-10-28T12:12:31.230292Z",
+    "directorySourceUrl": "https://maharashtra.s3waas.gov.in/",
+    "directoryFinalUrl": "https://maharashtra.s3waas.gov.in/",
+    "directorySha256": "1a243cee936e59ee9323012d7647226fdc4401d038d279eb9dfd9aa2c6c24c55",
+    "expectedDistrictCount": 36,
+    "districtCount": 36,
+    "contactCount": 126,
+    "noticeCount": 37,
+    "districtsWithContacts": 36,
+    "districtsWithNotices": 20,
+    "refreshMethod": "Public official HTML; no authenticated REST or RSS dependency",
+    "recommendedRefresh": "daily",
+    "dateSemantics": "startDate/endDate are website listing dates, not automatically legal effective/expiry dates; publishedAt only where explicitly supplied",
+    "contactSemantics": "Numbers verified as published on an official page; no phone calls or operational tests",
+    "coverageNote": "Bounded check of home and current announcements; no claim to exhaust historical notices or establish absence of a restriction",
+    "directoryBytes": 49080,
+    "datedNoticeCount": 37,
+    "downloads": {
+      "contacts": "contacts.csv",
+      "notices": "notices.csv"
+    }
+  },
+  "districts": [
+    {
+      "districtCode": "466",
+      "districtName": "Ahilyanagar",
+      "website": "https://ahilyanagar.maharashtra.gov.in/en/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "Citizen's Call center",
+          "number": "155300",
+          "numberPublished": "155300",
+          "sourceUrl": "https://ahilyanagar.maharashtra.gov.in/en/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "District Control Room",
+          "number": "1077",
+          "numberPublished": "1077",
+          "sourceUrl": "https://ahilyanagar.maharashtra.gov.in/en/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "District Control Room",
+          "number": "0241-2323844",
+          "numberPublished": "0241-2323844",
+          "sourceUrl": "https://ahilyanagar.maharashtra.gov.in/en/department/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [
+        {
+          "title": "Tanker Daily Report",
+          "description": "",
+          "url": "https://cdn.s3waas.gov.in/s345fbc6d3e05ebd93369ce542e8f2322d/uploads/2026/10/17923898882493.pdf",
+          "sourceUrl": "https://ahilyanagar.maharashtra.gov.in/en/notice_category/announcements/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s345fbc6d3e05ebd93369ce542e8f2322d/uploads/2026/10/17923898882493.pdf",
+          "documents": [
+            {
+              "title": "View (603 KB)",
+              "url": "https://cdn.s3waas.gov.in/s345fbc6d3e05ebd93369ce542e8f2322d/uploads/2026/10/17923898882493.pdf"
+            }
+          ],
+          "startDate": "2026-10-19",
+          "endDate": "2026-10-31",
+          "id": "466-d6766cc24bb881",
+          "category": "water",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        },
+        {
+          "title": "List of farmers in Ahilyangar District having Fodder Available for sale",
+          "description": "",
+          "url": "https://cdn.s3waas.gov.in/s345fbc6d3e05ebd93369ce542e8f2322d/uploads/2026/09/17915341247923.pdf",
+          "sourceUrl": "https://ahilyanagar.maharashtra.gov.in/en/notice_category/announcements/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s345fbc6d3e05ebd93369ce542e8f2322d/uploads/2026/09/17915341247923.pdf",
+          "documents": [
+            {
+              "title": "View (767 KB)",
+              "url": "https://cdn.s3waas.gov.in/s345fbc6d3e05ebd93369ce542e8f2322d/uploads/2026/09/17915341247923.pdf"
+            },
+            {
+              "title": "Farmer List (4 MB)",
+              "url": "https://cdn.s3waas.gov.in/s345fbc6d3e05ebd93369ce542e8f2322d/uploads/2026/09/17915341349766.pdf"
+            }
+          ],
+          "startDate": "2026-10-09",
+          "endDate": "2026-10-31",
+          "id": "466-bea78821446827",
+          "category": "fodder",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        }
+      ],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://ahilyanagar.maharashtra.gov.in/en/",
+          "sha256": "4bfbaac2daea0c9227b9447cd43e021666b4282f41b1cc46af8e0b3638e40667",
+          "bytes": 193798,
+          "role": "district-home"
+        },
+        {
+          "url": "https://ahilyanagar.maharashtra.gov.in/en/department/helpline/",
+          "sha256": "06c6d4ad4ad837cbf07b65bdc9437ff0857097d00265c18c2bce7b6e92ff9c07",
+          "bytes": 134756,
+          "role": "helplines"
+        },
+        {
+          "url": "https://ahilyanagar.maharashtra.gov.in/en/notice_category/announcements/",
+          "sha256": "ad671b348f3c2caaa0114afb255f0ef7a22d8e7f72937db9d1de4e47933e7fff",
+          "bytes": 146386,
+          "role": "notices-archive"
+        },
+        {
+          "url": "https://ahilyanagar.maharashtra.gov.in/en/notice/tanker-daily-report-2/",
+          "sha256": "d755d22a040dea41e7a8bf5b33ac64b84628c5d28c0b4a300694e336f5075638",
+          "bytes": 131853,
+          "role": "notice-detail"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z"
+    },
+    {
+      "districtCode": "467",
+      "districtName": "Akola",
+      "website": "https://akola.gov.in/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "जिल्हा आपत्कालीन मदतकेंद्र",
+          "number": "0724-2424444",
+          "numberPublished": "0724-2424444",
+          "sourceUrl": "https://akola.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Collector Akola Collector Office Akola",
+          "number": "0724-2424442",
+          "numberPublished": "0724-2424442",
+          "sourceUrl": "https://akola.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Add. Collector Collector Office Akola",
+          "number": "0724-2432153",
+          "numberPublished": "0724-2432153",
+          "sourceUrl": "https://akola.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Resident Dy Collector Collector Office Akola",
+          "number": "0724-2435193",
+          "numberPublished": "0724-2435193",
+          "sourceUrl": "https://akola.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [
+        {
+          "title": "Collector Office Akola – EGS – List of eligible beneficiaries of irrigation wells damaged due to heavy rains and floods in the Kharif season of the year 2025-26.",
+          "description": "Collector Office Akola – EGS – List of eligible beneficiaries of irrigation wells damaged due to heavy rains and floods in the Kharif season of the year 2025-26.",
+          "url": "https://cdn.s3waas.gov.in/s3f0e52b27a7a5d6a1a87373dffa53dbe5/uploads/2026/03/17730405536084.pdf",
+          "sourceUrl": "https://akola.gov.in/en/notice_category/announcements/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s3f0e52b27a7a5d6a1a87373dffa53dbe5/uploads/2026/03/17730405536084.pdf",
+          "documents": [
+            {
+              "title": "View (9 MB)",
+              "url": "https://cdn.s3waas.gov.in/s3f0e52b27a7a5d6a1a87373dffa53dbe5/uploads/2026/03/17730405536084.pdf"
+            }
+          ],
+          "startDate": "2026-03-09",
+          "endDate": "2027-03-09",
+          "id": "467-a35293987b23f3",
+          "category": "water",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        }
+      ],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://akola.gov.in/",
+          "sha256": "ee248141425b46057de75d0aba8e82b95c68e018ce238632e5323e09ac62994c",
+          "bytes": 204697,
+          "role": "district-home"
+        },
+        {
+          "url": "https://akola.gov.in/en/helpline/",
+          "sha256": "0b3f79f407835c48ed249407cecaab7815e21305511f6bd7a74089548b0e05a6",
+          "bytes": 123117,
+          "role": "helplines"
+        },
+        {
+          "url": "https://akola.gov.in/en/notice_category/announcements/",
+          "sha256": "4b3af2bda55df2c86f9fb749e45cec1a3ecafa2f2d35d2e841834fdafc08d149",
+          "bytes": 148581,
+          "role": "notices-archive"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z"
+    },
+    {
+      "districtCode": "468",
+      "districtName": "Amravati",
+      "website": "https://amravati.gov.in/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "जिल्हा नियंत्रण कक्ष",
+          "number": "07212662025",
+          "numberPublished": "07212662025",
+          "sourceUrl": "https://amravati.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Collector Office Helpline No.",
+          "number": "1077",
+          "numberPublished": "1077",
+          "sourceUrl": "https://amravati.gov.in/en/home3/directory/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Emergency Relief Centre on National Highway",
+          "number": "1033",
+          "numberPublished": "1033",
+          "sourceUrl": "https://amravati.gov.in/en/home3/directory/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [
+        {
+          "title": "जिल्हा पशुसंवर्धन उपआयुक्त, जिल्हा अमरावती यांचे कार्यालय ४४४६०२",
+          "description": "जिल्हा उपआयुक्त पशुसंवर्धन व दुग्धव्यवसाय, अमरावती या कार्यालयामध्ये कार्यालयीन खर्चा (२४०३००४२)-१३अंतर्गत संगणक, प्रिंटर्स, यु.पी.एस.यांची वार्षिक देखभाल करणे करीता दरपत्रक सुचना.",
+          "url": "https://amravati.gov.in/notice/%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b9%e0%a4%be-%e0%a4%aa%e0%a4%b6%e0%a5%81%e0%a4%b8%e0%a4%82%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a7%e0%a4%a8-%e0%a4%89%e0%a4%aa%e0%a4%86%e0%a4%af%e0%a5%81-2/",
+          "sourceUrl": "https://amravati.gov.in/notice/%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b9%e0%a4%be-%e0%a4%aa%e0%a4%b6%e0%a5%81%e0%a4%b8%e0%a4%82%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a7%e0%a4%a8-%e0%a4%89%e0%a4%aa%e0%a4%86%e0%a4%af%e0%a5%81-2/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s302522a2b2726fb0a03bb19f2d8d9524d/uploads/2026/10/17915346294213.pdf",
+          "documents": [
+            {
+              "title": "पहा (2 MB)",
+              "url": "https://cdn.s3waas.gov.in/s302522a2b2726fb0a03bb19f2d8d9524d/uploads/2026/10/17915346294213.pdf"
+            }
+          ],
+          "startDate": "2026-10-09",
+          "endDate": "2027-04-09",
+          "id": "468-cdf6ae83586aa7",
+          "category": "fodder",
+          "language": "mr",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        },
+        {
+          "title": "Water Supply and Sanitation Department, Regional Deputy Director, Ground Water Survey and Development Agency, Amravati- Tender / Tariff Notice",
+          "description": "Tender / Tariff Notice",
+          "url": "https://cdn.s3waas.gov.in/s302522a2b2726fb0a03bb19f2d8d9524d/uploads/2026/10/17908553452029.pdf",
+          "sourceUrl": "https://amravati.gov.in/en/notice_category/announcements/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s302522a2b2726fb0a03bb19f2d8d9524d/uploads/2026/10/17908553452029.pdf",
+          "documents": [
+            {
+              "title": "View (3 MB)",
+              "url": "https://cdn.s3waas.gov.in/s302522a2b2726fb0a03bb19f2d8d9524d/uploads/2026/10/17908553452029.pdf"
+            }
+          ],
+          "startDate": "2026-10-01",
+          "endDate": "2027-04-01",
+          "id": "468-0ac6a8124f87e3",
+          "category": "water",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        },
+        {
+          "title": "पाणी पुरवठा व स्वच्छता विभाग, प्रादेशिक उपसंचालक कार्यालय, भूजल सर्वेक्षण आणि विकास यंत्रणा, अमरावती- निविदा / दरपत्रक सूचना",
+          "description": "निविदा / दरपत्रक सूचना",
+          "url": "https://amravati.gov.in/notice/%e0%a4%aa%e0%a4%be%e0%a4%a3%e0%a5%80-%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a4%b5%e0%a4%a0%e0%a4%be-%e0%a4%b5-%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%9a%e0%a5%8d%e0%a4%9b%e0%a4%a4%e0%a4%be-%e0%a4%b5%e0%a4%bf-5/",
+          "sourceUrl": "https://amravati.gov.in/notice/%e0%a4%aa%e0%a4%be%e0%a4%a3%e0%a5%80-%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a4%b5%e0%a4%a0%e0%a4%be-%e0%a4%b5-%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%9a%e0%a5%8d%e0%a4%9b%e0%a4%a4%e0%a4%be-%e0%a4%b5%e0%a4%bf-5/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s302522a2b2726fb0a03bb19f2d8d9524d/uploads/2026/10/17908555513484.pdf",
+          "documents": [
+            {
+              "title": "पहा (3 MB)",
+              "url": "https://cdn.s3waas.gov.in/s302522a2b2726fb0a03bb19f2d8d9524d/uploads/2026/10/17908555513484.pdf"
+            }
+          ],
+          "startDate": "2026-10-01",
+          "endDate": "2027-04-01",
+          "id": "468-051520cdae35ac",
+          "category": "water",
+          "language": "mr",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        },
+        {
+          "title": "जिल्हा पशुसंवर्धन उपआयुक्त जिल्हा अमरावती यांचे कार्यालय ४४४६०२",
+          "description": "मुख्यमंत्री पशुस्वास्थ योज‌ना सन २०२६-२७ अंतर्गत फिरते पशुचिकीत्सालय पथक, अचलपुर येथिल वाहनाकरीता नविन टायर खरेदी करणेसाठी दरपत्रक मिळणेबाबत.",
+          "url": "https://amravati.gov.in/notice/%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b9%e0%a4%be-%e0%a4%aa%e0%a4%b6%e0%a5%81%e0%a4%b8%e0%a4%82%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a7%e0%a4%a8-%e0%a4%89%e0%a4%aa%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%95/",
+          "sourceUrl": "https://amravati.gov.in/notice/%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b9%e0%a4%be-%e0%a4%aa%e0%a4%b6%e0%a5%81%e0%a4%b8%e0%a4%82%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a7%e0%a4%a8-%e0%a4%89%e0%a4%aa%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%95/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s302522a2b2726fb0a03bb19f2d8d9524d/uploads/2026/09/17907735502733.pdf",
+          "documents": [
+            {
+              "title": "पहा (295 KB)",
+              "url": "https://cdn.s3waas.gov.in/s302522a2b2726fb0a03bb19f2d8d9524d/uploads/2026/09/17907735502733.pdf"
+            }
+          ],
+          "startDate": "2026-09-30",
+          "endDate": "2027-03-30",
+          "id": "468-1e7b618afc1fc6",
+          "category": "fodder",
+          "language": "mr",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        }
+      ],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://amravati.gov.in/",
+          "sha256": "6e24a3b77eb93e78a761df041a655d075a24438aaa16aaf485940ccfbc0b3fd7",
+          "bytes": 232054,
+          "role": "district-home"
+        },
+        {
+          "url": "https://amravati.gov.in/en/home3/directory/helpline/",
+          "sha256": "ce930b7582ae0d1e4478c96632d96fbeb512520bb8174271b6a36fc40124cb2b",
+          "bytes": 130255,
+          "role": "helplines"
+        },
+        {
+          "url": "https://amravati.gov.in/en/notice_category/announcements/",
+          "sha256": "edb4f110668af0812031390a5cce133ae25a8d994fb1d801d075817ba8e73472",
+          "bytes": 141229,
+          "role": "notices-archive"
+        },
+        {
+          "url": "https://amravati.gov.in/notice/%e0%a4%aa%e0%a4%be%e0%a4%a3%e0%a5%80-%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a4%b5%e0%a4%a0%e0%a4%be-%e0%a4%b5-%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%9a%e0%a5%8d%e0%a4%9b%e0%a4%a4%e0%a4%be-%e0%a4%b5%e0%a4%bf-5/",
+          "sha256": "46bba9b5b76c508e894b8a32e33b524d4ee9217d4813cfbd5b35a5c7514b23d9",
+          "bytes": 151451,
+          "role": "notice-detail"
+        },
+        {
+          "url": "https://amravati.gov.in/notice/%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b9%e0%a4%be-%e0%a4%aa%e0%a4%b6%e0%a5%81%e0%a4%b8%e0%a4%82%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a7%e0%a4%a8-%e0%a4%89%e0%a4%aa%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%95/",
+          "sha256": "6104c2ca68f75897b93aba547729653305fff742bb10df0740a7c53e2f5cd9f0",
+          "bytes": 149889,
+          "role": "notice-detail"
+        },
+        {
+          "url": "https://amravati.gov.in/notice/%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b9%e0%a4%be-%e0%a4%aa%e0%a4%b6%e0%a5%81%e0%a4%b8%e0%a4%82%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a7%e0%a4%a8-%e0%a4%89%e0%a4%aa%e0%a4%86%e0%a4%af%e0%a5%81-2/",
+          "sha256": "9d051272eb452272da6afaaa096ff321ff56585bb3c4990936aeed8ad0ae26cc",
+          "bytes": 150071,
+          "role": "notice-detail"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z"
+    },
+    {
+      "districtCode": "469",
+      "districtName": "Chhatrapati Sambhajinagar",
+      "website": "https://chhatrapatisambhajinagar.maharashtra.gov.in/en/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "Citizen’s Call center",
+          "number": "155300",
+          "numberPublished": "155300",
+          "sourceUrl": "https://chhatrapatisambhajinagar.maharashtra.gov.in/en/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [
+        {
+          "title": "Water Scarcity 2026-2027 Tender for Water Supply via Tankers / Trucks",
+          "description": "Water Scarcity 2026-2027 Tender for Water Supply via Tankers / Trucks",
+          "url": "https://chhatrapatisambhajinagar.maharashtra.gov.in/en/notice/water-scarcity-2026-2027-tender-for-water-supply-via-tankers-trucks/",
+          "sourceUrl": "https://chhatrapatisambhajinagar.maharashtra.gov.in/en/notice/water-scarcity-2026-2027-tender-for-water-supply-via-tankers-trucks/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s318d8042386b79e2c279fd162df0205c8/uploads/2026/10/17927611895821.pdf",
+          "documents": [
+            {
+              "title": "View (6 MB)",
+              "url": "https://cdn.s3waas.gov.in/s318d8042386b79e2c279fd162df0205c8/uploads/2026/10/17927611895821.pdf"
+            }
+          ],
+          "startDate": "2026-10-26",
+          "endDate": "2026-11-17",
+          "id": "469-5e6cc4142fe98c",
+          "category": "water",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        }
+      ],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://chhatrapatisambhajinagar.maharashtra.gov.in/en/",
+          "sha256": "19440034f3e9b1cf686dcac10f518dbc2c0244a57dc66f55015a3f05d00207e5",
+          "bytes": 203390,
+          "role": "district-home"
+        },
+        {
+          "url": "https://chhatrapatisambhajinagar.maharashtra.gov.in/en/helpline/",
+          "sha256": "74f84fd71d1b35d27a8ae00ae51cdc66800ad136768d67ecb76255344d5295c1",
+          "bytes": 126464,
+          "role": "helplines"
+        },
+        {
+          "url": "https://chhatrapatisambhajinagar.maharashtra.gov.in/en/notice_category/announcements/",
+          "sha256": "d596c780a5b374170a48700f5ded6122a39ddf41a0337a23b760b3cfaef20ef0",
+          "bytes": 128886,
+          "role": "notices-archive"
+        },
+        {
+          "url": "https://chhatrapatisambhajinagar.maharashtra.gov.in/en/notice/water-scarcity-2026-2027-tender-for-water-supply-via-tankers-trucks/",
+          "sha256": "2754bab23c91da74729d3b7026040333b41ba1378e3d06fc25fbcb8ec4015838",
+          "bytes": 127447,
+          "role": "notice-detail"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z"
+    },
+    {
+      "districtCode": "470",
+      "districtName": "Beed",
+      "website": "https://beed.gov.in/en/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "Citizen’s Call center",
+          "number": "155300",
+          "numberPublished": "155300",
+          "sourceUrl": "https://beed.gov.in/en/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Beed District Control Room",
+          "number": "1077",
+          "numberPublished": "1077",
+          "sourceUrl": "https://beed.gov.in/en/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Beed District Control Room",
+          "number": "02442-299299",
+          "numberPublished": "02442-299299",
+          "sourceUrl": "https://beed.gov.in/en/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "State Disaster Management Control Room",
+          "number": "02222027990",
+          "numberPublished": "02222027990",
+          "sourceUrl": "https://beed.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [
+        {
+          "title": "List of areas within the submerged zone of a reservoir that can be made available for cultivation (sowing in silt deposits) during drought conditions.",
+          "description": "List of areas within the submerged zone of a reservoir that can be made available for cultivation (sowing in silt deposits) during drought conditions.",
+          "url": "https://cdn.s3waas.gov.in/s353c3bce66e43be4f209556518c2fcb54/uploads/2026/10/17926717366799.pdf",
+          "sourceUrl": "https://beed.gov.in/en/notice_category/announcements/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s353c3bce66e43be4f209556518c2fcb54/uploads/2026/10/17926717366799.pdf",
+          "documents": [
+            {
+              "title": "View (2 MB)",
+              "url": "https://cdn.s3waas.gov.in/s353c3bce66e43be4f209556518c2fcb54/uploads/2026/10/17926717366799.pdf"
+            }
+          ],
+          "startDate": "2026-10-22",
+          "endDate": "2026-10-30",
+          "id": "470-3f5eae15314f62",
+          "category": "water",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        }
+      ],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://beed.gov.in/en/",
+          "sha256": "18fa819c722fbac4442d9ad22088c37b8816d23e52dbfaedca9e2a65c4f70d58",
+          "bytes": 219680,
+          "role": "district-home"
+        },
+        {
+          "url": "https://beed.gov.in/en/helpline/",
+          "sha256": "b4cc93d05380e4e0e35c97e1837e7e803a4cae16d248139ca532a840e048d1f7",
+          "bytes": 135820,
+          "role": "helplines"
+        },
+        {
+          "url": "https://beed.gov.in/en/notice_category/announcements/",
+          "sha256": "d98e7d6a347ed13cd6241fc9a0143d2e34d7369de076418f55f6075d328ed9a6",
+          "bytes": 133237,
+          "role": "notices-archive"
+        },
+        {
+          "url": "https://beed.gov.in/en/notice/list-of-areas-within-the-submerged-zone-of-a-reservoir-that-can-be-made-available-for-cultivation-sowing-in-silt-deposits-during-drought-conditions/",
+          "sha256": "9fe2fbfef2495363c918d5ea80c259c567a79d9460d075c0b22780ecd8d8d61c",
+          "bytes": 130600,
+          "role": "notice-detail"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z"
+    },
+    {
+      "districtCode": "471",
+      "districtName": "Bhandara",
+      "website": "https://bhandara.gov.in/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "Citizen’s Call center",
+          "number": "155300",
+          "numberPublished": "155300",
+          "sourceUrl": "https://bhandara.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://bhandara.gov.in/",
+          "sha256": "438dc118004c5160077e632cde682704baca93f67b923afaa7efc0787ca79431",
+          "bytes": 192456,
+          "role": "district-home"
+        },
+        {
+          "url": "https://bhandara.gov.in/helpline/",
+          "sha256": "e64ad929e92bd2b8b79cf9c9b5ea69b1049f29bb0fc5b6fc6c10ef9fa99ac8d7",
+          "bytes": 117103,
+          "role": "helplines"
+        },
+        {
+          "url": "https://bhandara.gov.in/notice_category/announcements/",
+          "sha256": "27c153b16c42d716bb25ee2d80eff8b54f0058b01454af9da77f535f7cc7e406",
+          "bytes": 131648,
+          "role": "notices-archive"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesStatus": "no-matching-items-in-checked-pages"
+    },
+    {
+      "districtCode": "472",
+      "districtName": "Buldhana",
+      "website": "https://buldhana.nic.in/en/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "Citizen’s Call center",
+          "number": "155300",
+          "numberPublished": "155300",
+          "sourceUrl": "https://buldhana.nic.in/en/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [
+        {
+          "title": "Land acquisition case no. 05/2025-26 Village. Pahurpurna(Agricultural Land) Taluka. Shegaon Dist. Buldhana regarding the publication of a declaration under Section 21(1) of the land acquisition, Rehabilitation and Resettlement Act 2013 for obtaining",
+          "description": "Land acquisition case no. 05/2025-26 Village. Pahurpurna(Agricultural Land) Taluka. Shegaon Dist. Buldhana regarding the publication of a declaration under Section 21(1) of the land acquisition, Rehabilitation and Resettlement Act 2013 for obtaining proper compensation and ensuring transparency during land acquisition, rehabilitation and resettlement in this case.",
+          "url": "https://buldhana.nic.in/en/notice/land-acquisition-case-no-05-2025-26-village-pahurpurnaagricultural-land-taluka-shegaon-dist-buldhana-regarding-the-publication-of-a-declaration-under-section-211-of-the-land-acquisition-rehab/",
+          "sourceUrl": "https://buldhana.nic.in/en/notice/land-acquisition-case-no-05-2025-26-village-pahurpurnaagricultural-land-taluka-shegaon-dist-buldhana-regarding-the-publication-of-a-declaration-under-section-211-of-the-land-acquisition-rehab/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s3a5771bce93e200c36f7cd9dfd0e5deaa/uploads/2026/10/17926643635984.pdf",
+          "documents": [
+            {
+              "title": "View (790 KB)",
+              "url": "https://cdn.s3waas.gov.in/s3a5771bce93e200c36f7cd9dfd0e5deaa/uploads/2026/10/17926643635984.pdf"
+            }
+          ],
+          "startDate": "2026-10-22",
+          "endDate": "2026-11-21",
+          "id": "472-b136ad3784deb5",
+          "category": "agriculture",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        },
+        {
+          "title": "Notification regarding Land Acquisition Case No. 01/2026-27 under Section 19 agricultural land at Mauje Jigaon Ta. Nandura, Dist. Buldhana",
+          "description": "Notification regarding Land Acquisition Case No. 01/2026-27 under Section 19 agricultural land at Mauje Jigaon Ta. Nandura, Dist. Buldhana",
+          "url": "https://buldhana.nic.in/en/notice/notification-regarding-land-acquisition-case-no-01-2026-27-under-section-19-agricultural-land-at-mauje-jigaon-ta-nandura-dist-buldhana/",
+          "sourceUrl": "https://buldhana.nic.in/en/notice/notification-regarding-land-acquisition-case-no-01-2026-27-under-section-19-agricultural-land-at-mauje-jigaon-ta-nandura-dist-buldhana/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s3a5771bce93e200c36f7cd9dfd0e5deaa/uploads/2026/10/17919773251227.pdf",
+          "documents": [
+            {
+              "title": "View (2 MB)",
+              "url": "https://cdn.s3waas.gov.in/s3a5771bce93e200c36f7cd9dfd0e5deaa/uploads/2026/10/17919773251227.pdf"
+            }
+          ],
+          "startDate": "2026-10-14",
+          "endDate": "2026-12-14",
+          "id": "472-90e2c8331e133e",
+          "category": "agriculture",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        },
+        {
+          "title": "Notification regarding Land Acquisition Case No. 08/2023-24 under Section 19 agricultural land at Mauje Kalwad, Ta. Shegaon, Dist. Buldhana",
+          "description": "Notification regarding Land Acquisition Case No. 08/2023-24 under Section 19 agricultural land at Mauje Kalwad, Ta. Shegaon, Dist. Buldhana",
+          "url": "https://buldhana.nic.in/en/notice/mauje-kalwad/",
+          "sourceUrl": "https://buldhana.nic.in/en/notice/mauje-kalwad/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s3a5771bce93e200c36f7cd9dfd0e5deaa/uploads/2026/10/17919765795908.pdf",
+          "documents": [
+            {
+              "title": "View (2 MB)",
+              "url": "https://cdn.s3waas.gov.in/s3a5771bce93e200c36f7cd9dfd0e5deaa/uploads/2026/10/17919765795908.pdf"
+            }
+          ],
+          "startDate": "2026-10-14",
+          "endDate": "2026-12-14",
+          "id": "472-d35250fa97ba3b",
+          "category": "agriculture",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        },
+        {
+          "title": "Declaration under Section 19(1) regarding Land Acquisition Case No. 03/2025-26 for Mauje Kanzara (Agricultural Land), Taluka Khamgaon, District Buldhana.",
+          "description": "Declaration under Section 19(1) regarding Land Acquisition Case No. 03/2025-26 for Mauje Kanzara (Agricultural Land), Taluka Khamgaon, District Buldhana.",
+          "url": "https://buldhana.nic.in/en/notice/declaration-under-section-191-regarding-land-acquisition-case-no-03-2025-26-for-mauje-kanzara-agricultural-land-taluka-khamgaon-district-buldhana/",
+          "sourceUrl": "https://buldhana.nic.in/en/notice/declaration-under-section-191-regarding-land-acquisition-case-no-03-2025-26-for-mauje-kanzara-agricultural-land-taluka-khamgaon-district-buldhana/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s3a5771bce93e200c36f7cd9dfd0e5deaa/uploads/2026/10/17915306194562.pdf",
+          "documents": [
+            {
+              "title": "View (2 MB)",
+              "url": "https://cdn.s3waas.gov.in/s3a5771bce93e200c36f7cd9dfd0e5deaa/uploads/2026/10/17915306194562.pdf"
+            }
+          ],
+          "startDate": "2026-10-08",
+          "endDate": "2026-12-07",
+          "id": "472-004dd85ad0518c",
+          "category": "agriculture",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        },
+        {
+          "title": "Declaration under Section 19(1) regarding Land Acquisition Case No. 05/2025-26 for Mauje Pahurpurna (agricultural land), Taluka Shegaon, District Buldhana",
+          "description": "Declaration under Section 19(1) regarding Land Acquisition Case No. 05/2025-26 for Mauje Pahurpurna (agricultural land), Taluka Shegaon, District Buldhana",
+          "url": "https://buldhana.nic.in/en/notice/mauje-pahurpurna-agricultural-land/",
+          "sourceUrl": "https://buldhana.nic.in/en/notice/mauje-pahurpurna-agricultural-land/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s3a5771bce93e200c36f7cd9dfd0e5deaa/uploads/2026/10/17915351535066.pdf",
+          "documents": [
+            {
+              "title": "View (2 MB)",
+              "url": "https://cdn.s3waas.gov.in/s3a5771bce93e200c36f7cd9dfd0e5deaa/uploads/2026/10/17915351535066.pdf"
+            }
+          ],
+          "startDate": "2026-08-24",
+          "endDate": "2026-10-23",
+          "id": "472-a060519357eb5e",
+          "category": "agriculture",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "ended"
+        }
+      ],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://buldhana.nic.in/en/",
+          "sha256": "42e5f070a35251cfbb97862ec67fe9c516baa1ec22c592b96df8fe311368eda6",
+          "bytes": 204908,
+          "role": "district-home"
+        },
+        {
+          "url": "https://buldhana.nic.in/en/helpline/",
+          "sha256": "719e66e4ad8c714cb623a596836167c1d77393bd373d139ef1465f0f18b61f41",
+          "bytes": 125689,
+          "role": "helplines"
+        },
+        {
+          "url": "https://buldhana.nic.in/en/notice_category/announcements/",
+          "sha256": "143aabba42cfea55a452da75fdfae2947c0620a413ff6d5f4d19bea4e476e431",
+          "bytes": 129672,
+          "role": "notices-archive"
+        },
+        {
+          "url": "https://buldhana.nic.in/en/notice/land-acquisition-case-no-05-2025-26-village-pahurpurnaagricultural-land-taluka-shegaon-dist-buldhana-regarding-the-publication-of-a-declaration-under-section-211-of-the-land-acquisition-rehab/",
+          "sha256": "95d3a00942b80499accc7534fb219083063f4bf03a9ac574f0fdb5ae72243157",
+          "bytes": 127392,
+          "role": "notice-detail"
+        },
+        {
+          "url": "https://buldhana.nic.in/en/notice/notification-regarding-land-acquisition-case-no-01-2026-27-under-section-19-agricultural-land-at-mauje-jigaon-ta-nandura-dist-buldhana/",
+          "sha256": "999ae38656d7d59e401ad78568719658694f0b8168e497fdebfb4e1114ba242b",
+          "bytes": 125454,
+          "role": "notice-detail"
+        },
+        {
+          "url": "https://buldhana.nic.in/en/notice/mauje-kalwad/",
+          "sha256": "90be28cf58dec6708923dc89447b9301307770842949d9523cb2c4236ca8576c",
+          "bytes": 125012,
+          "role": "notice-detail"
+        },
+        {
+          "url": "https://buldhana.nic.in/en/notice/mauje-pahurpurna-agricultural-land/",
+          "sha256": "859e9017d7aec01ac25a39da9add3a6d2550606c7fc7e635a8fb612810ea2810",
+          "bytes": 125366,
+          "role": "notice-detail"
+        },
+        {
+          "url": "https://buldhana.nic.in/en/notice/declaration-under-section-191-regarding-land-acquisition-case-no-03-2025-26-for-mauje-kanzara-agricultural-land-taluka-khamgaon-district-buldhana/",
+          "sha256": "1b6e5ad4dafb8b84db8f5d37feb265972b87652adaf8354ba7d2c55b88a7727d",
+          "bytes": 125735,
+          "role": "notice-detail"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z"
+    },
+    {
+      "districtCode": "473",
+      "districtName": "Chandrapur",
+      "website": "https://chanda.nic.in/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "आपत्कालीन हेल्पलाइन",
+          "number": "112",
+          "numberPublished": "११२",
+          "sourceUrl": "https://chanda.nic.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Rescue & Relief",
+          "number": "1077",
+          "numberPublished": "1077",
+          "sourceUrl": "https://chanda.nic.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Rescue & Relief",
+          "number": "07172-251597",
+          "numberPublished": "07172-251597",
+          "sourceUrl": "https://chanda.nic.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://chanda.nic.in/",
+          "sha256": "1196e4746d8a2133cb35ee26f3539fff3b1e3aed457ce606322e796684f80a6e",
+          "bytes": 206948,
+          "role": "district-home"
+        },
+        {
+          "url": "https://chanda.nic.in/en/helpline/",
+          "sha256": "965707b143396f53a74d5c405e39d55a04bd3a2062af096bdf4870390cf2f548",
+          "bytes": 127568,
+          "role": "helplines"
+        },
+        {
+          "url": "https://chanda.nic.in/en/notice_category/announcements/",
+          "sha256": "599e32ad6096db75209e8c718836b44e86a0f304e726923d39fe6227f74dbe39",
+          "bytes": 133274,
+          "role": "notices-archive"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesStatus": "no-matching-items-in-checked-pages"
+    },
+    {
+      "districtCode": "474",
+      "districtName": "Dhule",
+      "website": "https://dhule.gov.in/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "नागरिकांसाठी मदत केंद्र",
+          "number": "155300",
+          "numberPublished": "१५५३००",
+          "sourceUrl": "https://dhule.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "किसान कॉल सेंटर",
+          "number": "1551",
+          "numberPublished": "१५५१",
+          "sourceUrl": "https://dhule.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "आपत्ती निवारण कक्ष",
+          "number": "1077",
+          "numberPublished": "१०७७",
+          "sourceUrl": "https://dhule.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [
+        {
+          "title": "निम्न पांझरा अक्कलपाडा ता. साक्री जि. धुळे प्रकल्पात १००% जलसाठाबाबत संयुक्त मोजणी.",
+          "description": "निम्न पांझरा अक्कलपाडा ता. साक्री जि. धुळे प्रकल्पात १००% जलसाठाबाबत संयुक्त मोजणी.",
+          "url": "https://dhule.gov.in/notice/%e0%a4%a8%e0%a4%bf%e0%a4%ae%e0%a5%8d%e0%a4%a8-%e0%a4%aa%e0%a4%be%e0%a4%82%e0%a4%9d%e0%a4%b0%e0%a4%be-%e0%a4%85%e0%a4%95%e0%a5%8d%e0%a4%95%e0%a4%b2%e0%a4%aa%e0%a4%be%e0%a4%a1%e0%a4%be-%e0%a4%a4/",
+          "sourceUrl": "https://dhule.gov.in/notice/%e0%a4%a8%e0%a4%bf%e0%a4%ae%e0%a5%8d%e0%a4%a8-%e0%a4%aa%e0%a4%be%e0%a4%82%e0%a4%9d%e0%a4%b0%e0%a4%be-%e0%a4%85%e0%a4%95%e0%a5%8d%e0%a4%95%e0%a4%b2%e0%a4%aa%e0%a4%be%e0%a4%a1%e0%a4%be-%e0%a4%a4/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s3a86c450b76fb8c371afead6410d55534/uploads/2026/10/17918781566342.pdf",
+          "documents": [
+            {
+              "title": "पहा (1,024 KB)",
+              "url": "https://cdn.s3waas.gov.in/s3a86c450b76fb8c371afead6410d55534/uploads/2026/10/17918781566342.pdf"
+            }
+          ],
+          "startDate": "2026-10-13",
+          "endDate": "2026-11-15",
+          "id": "474-2b665d9b92a258",
+          "category": "water",
+          "language": "mr",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        }
+      ],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://dhule.gov.in/",
+          "sha256": "6eccbcd7309ca0cee98a2fb37080ff8a3d81ba8537797fb7b7f4a3af2af60ee9",
+          "bytes": 233417,
+          "role": "district-home"
+        },
+        {
+          "url": "https://dhule.gov.in/en/helpline/",
+          "sha256": "d8938c7578dac915f662758dc211b1d43bb571cf3dae6d21701486b411a8e29b",
+          "bytes": 141128,
+          "role": "helplines"
+        },
+        {
+          "url": "https://dhule.gov.in/en/notice_category/announcements/",
+          "sha256": "be528e29abb663a2066e3d310c430b96bc76a8b41fa5f7008708ed60046f690c",
+          "bytes": 137654,
+          "role": "notices-archive"
+        },
+        {
+          "url": "https://dhule.gov.in/notice/%e0%a4%a8%e0%a4%bf%e0%a4%ae%e0%a5%8d%e0%a4%a8-%e0%a4%aa%e0%a4%be%e0%a4%82%e0%a4%9d%e0%a4%b0%e0%a4%be-%e0%a4%85%e0%a4%95%e0%a5%8d%e0%a4%95%e0%a4%b2%e0%a4%aa%e0%a4%be%e0%a4%a1%e0%a4%be-%e0%a4%a4/",
+          "sha256": "51a7f601295b87d6a4d1ad4bc77ed8bbb640c33a5b4a813cc48d96f3bbb26a11",
+          "bytes": 159421,
+          "role": "notice-detail"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z"
+    },
+    {
+      "districtCode": "475",
+      "districtName": "Gadchiroli",
+      "website": "https://gadchiroli.gov.in/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "Citizen’s Call center",
+          "number": "155300",
+          "numberPublished": "155300",
+          "sourceUrl": "https://gadchiroli.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Disaster Management Cell Gadchiroli",
+          "number": "07132 222031",
+          "numberPublished": "07132 222031",
+          "sourceUrl": "https://gadchiroli.gov.in/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [
+        {
+          "title": "Final award under the Private Land Act, 2013, for the construction of the pump house, rising main, access road, approach channel, distribution tank, and other civil works for the Dongargaon-Thanegaon Lift Irrigation Scheme (Taluka Armori, District Ga",
+          "description": "Final award under the Private Land Act, 2013, for the construction of the pump house, rising main, access road, approach channel, distribution tank, and other civil works for the Dongargaon-Thanegaon Lift Irrigation Scheme (Taluka Armori, District Gadchiroli).",
+          "url": "https://cdn.s3waas.gov.in/s35e388103a391daabe3de1d76a6739ccd/uploads/2026/10/17918704484301.pdf",
+          "sourceUrl": "https://gadchiroli.gov.in/notice_category/announcements/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s35e388103a391daabe3de1d76a6739ccd/uploads/2026/10/17918704484301.pdf",
+          "documents": [
+            {
+              "title": "View (9 MB)",
+              "url": "https://cdn.s3waas.gov.in/s35e388103a391daabe3de1d76a6739ccd/uploads/2026/10/17918704484301.pdf"
+            }
+          ],
+          "startDate": "2026-10-13",
+          "endDate": "2027-10-13",
+          "id": "475-b3a998c1de7c7d",
+          "category": "water",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        },
+        {
+          "title": "Final Notification – Land Acquisition for Talodhi Mokasa Lift Irrigation Project",
+          "description": "Final Notification – Land Acquisition for Talodhi Mokasa Lift Irrigation Project",
+          "url": "https://cdn.s3waas.gov.in/s35e388103a391daabe3de1d76a6739ccd/uploads/2026/10/17914536445662.pdf",
+          "sourceUrl": "https://gadchiroli.gov.in/notice_category/announcements/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s35e388103a391daabe3de1d76a6739ccd/uploads/2026/10/17914536445662.pdf",
+          "documents": [
+            {
+              "title": "View (2 MB)",
+              "url": "https://cdn.s3waas.gov.in/s35e388103a391daabe3de1d76a6739ccd/uploads/2026/10/17914536445662.pdf"
+            }
+          ],
+          "startDate": "2026-09-25",
+          "endDate": "2027-10-01",
+          "id": "475-a6973773736a71",
+          "category": "water",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        }
+      ],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://gadchiroli.gov.in/",
+          "sha256": "4dd41aa4baff73b5af5326f3b2a5a29a9c7e3d1b26b7121babc8e5284074bf58",
+          "bytes": 181028,
+          "role": "district-home"
+        },
+        {
+          "url": "https://gadchiroli.gov.in/helpline/",
+          "sha256": "9126e766e60a4a8822ba046391632fc50217f23aa144392ac6317b7684bcb232",
+          "bytes": 121313,
+          "role": "helplines"
+        },
+        {
+          "url": "https://gadchiroli.gov.in/notice_category/announcements/",
+          "sha256": "a0e1cf08067f41d7c731f77d25a4013d14b7bd4a291984247ebbd25834e1815f",
+          "bytes": 134467,
+          "role": "notices-archive"
+        },
+        {
+          "url": "https://gadchiroli.gov.in/notice/final-award-under-the-private-land-act-2013-for-the-construction-of-the-pump-house-rising-main-access-road-approach-channel-distribution-tank-and-other-civil-works-for-the-dongargaon-thanegaon/",
+          "sha256": "da1720743e0c2ba6034bfae4029c8c57fe8ecd92781bda825d58503dfc9d458d",
+          "bytes": 124903,
+          "role": "notice-detail"
+        },
+        {
+          "url": "https://gadchiroli.gov.in/notice/final-notification-land-acquisition-for-talodhi-mokasa-lift-irrigation-project/",
+          "sha256": "f2dd4300ee43ac33011e3deb33b82243868cb6449ee5884d8ce99bf09e1e7fc7",
+          "bytes": 122352,
+          "role": "notice-detail"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z"
+    },
+    {
+      "districtCode": "476",
+      "districtName": "Gondia",
+      "website": "https://gondia.gov.in/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "नागरिकांचा कॉल सेंटर",
+          "number": "155300",
+          "numberPublished": "१५५३००",
+          "sourceUrl": "https://gondia.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://gondia.gov.in/",
+          "sha256": "4a9eb679c7e8b13892f150b6bde5fec417d3e44765935a887979de7ea9d814e9",
+          "bytes": 220109,
+          "role": "district-home"
+        },
+        {
+          "url": "https://gondia.gov.in/en/helpline/",
+          "sha256": "b2b95028ba830b51623093a237f71c3adae86282985561b799cd49013bac3b64",
+          "bytes": 121002,
+          "role": "helplines"
+        },
+        {
+          "url": "https://gondia.gov.in/en/notice_category/announcements/",
+          "sha256": "5c8473f1825b994e30154aaa4bc788a8b73f0ec6212d0e153ffbfc5966a785bb",
+          "bytes": 131027,
+          "role": "notices-archive"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesStatus": "no-matching-items-in-checked-pages"
+    },
+    {
+      "districtCode": "477",
+      "districtName": "Hingoli",
+      "website": "https://hingoli.nic.in/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "Collector office",
+          "number": "02456-221701",
+          "numberPublished": "02456-221701",
+          "sourceUrl": "https://hingoli.nic.in/en/telephone-directory/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Agriculture Office",
+          "number": "02456-220417",
+          "numberPublished": "02456-220417",
+          "sourceUrl": "https://hingoli.nic.in/en/telephone-directory/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [
+        {
+          "title": "डिग्रस साठवण तलाव ता.जि.हिंगोली भुसंपादन पुनर्वसन व पुनर्वसाहत करतांना उचित भरपाई मिळण्याचा व पारदर्शकता राखण्याचा हक्क अधिनियम 2013 ये कलम (11) पोट कलम (1) खालील अधिसूचना व जाहिर नोटीस प्रसिध्द करणे बाबत. मौजे डिग्रस कऱ्हाळे ता.जि.हिंगोली",
+          "description": "डिग्रस साठवण तलाव ता.जि.हिंगोली भुसंपादन पुनर्वसन व पुनर्वसाहत करतांना उचित भरपाई मिळण्याचा व पारदर्शकता राखण्याचा हक्क अधिनियम 2013 ये कलम (11) पोट कलम (1) खालील अधिसूचना व जाहिर नोटीस प्रसिध्द करणे बाबत. मौजे डिग्रस कऱ्हाळे ता.जि.हिंगोली",
+          "url": "https://hingoli.nic.in/notice/%e0%a4%a1%e0%a4%bf%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b8-%e0%a4%b8%e0%a4%be%e0%a4%a0%e0%a4%b5%e0%a4%a3-%e0%a4%a4%e0%a4%b2%e0%a4%be%e0%a4%b5-%e0%a4%a4%e0%a4%be-%e0%a4%9c%e0%a4%bf-%e0%a4%b9%e0%a4%bf-2/",
+          "sourceUrl": "https://hingoli.nic.in/notice/%e0%a4%a1%e0%a4%bf%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b8-%e0%a4%b8%e0%a4%be%e0%a4%a0%e0%a4%b5%e0%a4%a3-%e0%a4%a4%e0%a4%b2%e0%a4%be%e0%a4%b5-%e0%a4%a4%e0%a4%be-%e0%a4%9c%e0%a4%bf-%e0%a4%b9%e0%a4%bf-2/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s306409663226af2f3114485aa4e0a23b4/uploads/2026/08/17866231519402.pdf",
+          "documents": [
+            {
+              "title": "पहा (801 KB)",
+              "url": "https://cdn.s3waas.gov.in/s306409663226af2f3114485aa4e0a23b4/uploads/2026/08/17866231519402.pdf"
+            }
+          ],
+          "startDate": "2026-08-14",
+          "endDate": "2026-10-13",
+          "id": "477-f35377681b4ce0",
+          "category": "public-support",
+          "language": "mr",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "ended"
+        },
+        {
+          "title": "बोराळा साठवण तलाव क्रमांक 02 ता.जि.हिंगोली भुसंपादन पुनर्वसन व पुनर्वसाहत करतांना उचित भरपाई मिळण्याचा व पारदर्शकता राखण्याचा हक्क अधिनियम 2013 ये कलम (19) पोट कलम (1) खालील अधिसूचना व जाहिर नोटीस प्रसिध्द करणे बाबत. मौजे बोराळा ता.जि.हिंगोली",
+          "description": "बोराळा साठवण तलाव क्रमांक 02 ता.जि.हिंगोली भुसंपादन पुनर्वसन व पुनर्वसाहत करतांना उचित भरपाई मिळण्याचा व पारदर्शकता राखण्याचा हक्क अधिनियम 2013 ये कलम (19) पोट कलम (1) खालील अधिसूचना व जाहिर नोटीस प्रसिध्द करणे बाबत. मौजे बोराळा ता.जि.हिंगोली",
+          "url": "https://hingoli.nic.in/notice/%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a4%be%e0%a4%b3%e0%a4%be-%e0%a4%b8%e0%a4%be%e0%a4%a0%e0%a4%b5%e0%a4%a3-%e0%a4%a4%e0%a4%b2%e0%a4%be%e0%a4%b5-%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%ae%e0%a4%be%e0%a4%82-2/",
+          "sourceUrl": "https://hingoli.nic.in/notice/%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a4%be%e0%a4%b3%e0%a4%be-%e0%a4%b8%e0%a4%be%e0%a4%a0%e0%a4%b5%e0%a4%a3-%e0%a4%a4%e0%a4%b2%e0%a4%be%e0%a4%b5-%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%ae%e0%a4%be%e0%a4%82-2/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s306409663226af2f3114485aa4e0a23b4/uploads/2026/08/17866230122151.pdf",
+          "documents": [
+            {
+              "title": "पहा (627 KB)",
+              "url": "https://cdn.s3waas.gov.in/s306409663226af2f3114485aa4e0a23b4/uploads/2026/08/17866230122151.pdf"
+            }
+          ],
+          "startDate": "2026-08-14",
+          "endDate": "2026-10-13",
+          "id": "477-84d5701b28106b",
+          "category": "public-support",
+          "language": "mr",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "ended"
+        }
+      ],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://hingoli.nic.in/",
+          "sha256": "f328f6fccc0d598985c67b89a8033232a4b44b468e8f0f8d66c77cdec2f0491d",
+          "bytes": 248391,
+          "role": "district-home"
+        },
+        {
+          "url": "https://hingoli.nic.in/en/helpline/",
+          "sha256": "37f2dbb1ce0ceef24aea7108b5265d0f20cea3d3da6dde20d7fab0b33bf14796",
+          "bytes": 120905,
+          "role": "helplines"
+        },
+        {
+          "url": "https://hingoli.nic.in/en/telephone-directory/",
+          "sha256": "1566de57c026fe040a9953d74add3f5556dcb646a087ff91d6d08ad123a44ec2",
+          "bytes": 121620,
+          "role": "helplines"
+        },
+        {
+          "url": "https://hingoli.nic.in/en/notice_category/announcements/",
+          "sha256": "cfff84eaed569f78a720ec519f75948fc1f830ec5f86d2a5a0639bd5b6b40f1c",
+          "bytes": 132536,
+          "role": "notices-archive"
+        },
+        {
+          "url": "https://hingoli.nic.in/notice/%e0%a4%a1%e0%a4%bf%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b8-%e0%a4%b8%e0%a4%be%e0%a4%a0%e0%a4%b5%e0%a4%a3-%e0%a4%a4%e0%a4%b2%e0%a4%be%e0%a4%b5-%e0%a4%a4%e0%a4%be-%e0%a4%9c%e0%a4%bf-%e0%a4%b9%e0%a4%bf-2/",
+          "sha256": "90b027baae4dfa488ad179322a6e518e0198ad00e2aa281a30cd67d68d359843",
+          "bytes": 141411,
+          "role": "notice-detail"
+        },
+        {
+          "url": "https://hingoli.nic.in/notice/%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a4%be%e0%a4%b3%e0%a4%be-%e0%a4%b8%e0%a4%be%e0%a4%a0%e0%a4%b5%e0%a4%a3-%e0%a4%a4%e0%a4%b2%e0%a4%be%e0%a4%b5-%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%ae%e0%a4%be%e0%a4%82-2/",
+          "sha256": "0a5a38c0fffc2939c27217e5e2aade1acc7b12e3a06e7d29a35d10f7ebdfc695",
+          "bytes": 141437,
+          "role": "notice-detail"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z"
+    },
+    {
+      "districtCode": "478",
+      "districtName": "Jalgaon",
+      "website": "https://jalgaon.gov.in/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "आपत्ती व्यवस्थापन",
+          "number": "1077",
+          "numberPublished": "1077",
+          "sourceUrl": "https://jalgaon.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "नागरिकांचा कॉल सेंटर",
+          "number": "155300",
+          "numberPublished": "155300",
+          "sourceUrl": "https://jalgaon.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://jalgaon.gov.in/",
+          "sha256": "a873bb0862431aa83efc01505895cd11ace8ea28486db7cff59a53fb466a7cb5",
+          "bytes": 216917,
+          "role": "district-home"
+        },
+        {
+          "url": "https://jalgaon.gov.in/en/helpline/",
+          "sha256": "04e17d945b5f5d61af4c96a0c573da98455f1dd485480eb0c37dc2a572f01d50",
+          "bytes": 126564,
+          "role": "helplines"
+        },
+        {
+          "url": "https://jalgaon.gov.in/en/notice_category/announcements/",
+          "sha256": "c1ebdd47497d2a4070695d8c0dcc2466cca9edd111e84baeba282456b5ba04f3",
+          "bytes": 129171,
+          "role": "notices-archive"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesStatus": "no-matching-items-in-checked-pages"
+    },
+    {
+      "districtCode": "479",
+      "districtName": "Jalna",
+      "website": "https://jalna.gov.in/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "Control Room Helpline",
+          "number": "1077",
+          "numberPublished": "1077",
+          "sourceUrl": "https://jalna.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [
+        {
+          "title": "मौजे भाकरवाडी ता. बदनापूर जि. जालना येथील बाबुवाडी भाकरवाडी सिंचन तलाव साठी जमीन संपादन करणे बाबत.",
+          "description": "मौजे भाकरवाडी ता. बदनापूर जि. जालना येथील बाबुवाडी भाकरवाडी सिंचन तलाव साठी जमीन संपादन करणे बाबत.",
+          "url": "https://jalna.gov.in/notice/%e0%a4%ae%e0%a5%8c%e0%a4%9c%e0%a5%87-%e0%a4%ad%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a4%b5%e0%a4%be%e0%a4%a1%e0%a5%80-%e0%a4%a4%e0%a4%be-%e0%a4%ac%e0%a4%a6%e0%a4%a8%e0%a4%be%e0%a4%aa%e0%a5%82%e0%a4%b0/",
+          "sourceUrl": "https://jalna.gov.in/notice/%e0%a4%ae%e0%a5%8c%e0%a4%9c%e0%a5%87-%e0%a4%ad%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a4%b5%e0%a4%be%e0%a4%a1%e0%a5%80-%e0%a4%a4%e0%a4%be-%e0%a4%ac%e0%a4%a6%e0%a4%a8%e0%a4%be%e0%a4%aa%e0%a5%82%e0%a4%b0/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s3d67d8ab4f4c10bf22aa353e27879133c/uploads/2026/10/17930198099706.pdf",
+          "documents": [
+            {
+              "title": "पहा (1 MB)",
+              "url": "https://cdn.s3waas.gov.in/s3d67d8ab4f4c10bf22aa353e27879133c/uploads/2026/10/17930198099706.pdf"
+            }
+          ],
+          "startDate": "2026-10-26",
+          "endDate": "2026-11-30",
+          "id": "479-320bb8648c7045",
+          "category": "water",
+          "language": "mr",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        }
+      ],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://jalna.gov.in/",
+          "sha256": "59d97b4315be66ad38cf130a2640128fd721700e1f1af966f3b5694fb7c4fe01",
+          "bytes": 231989,
+          "role": "district-home"
+        },
+        {
+          "url": "https://jalna.gov.in/en/helpline/",
+          "sha256": "0a0a5ec6aaee1f211732a6edf5c7bec511c39e5721ed4cc68de8401be0a55f27",
+          "bytes": 136240,
+          "role": "helplines"
+        },
+        {
+          "url": "https://jalna.gov.in/en/notice_category/announcements/",
+          "sha256": "8e12b1cece5d3caf7a4dcb97c68553bb3edfcdebf6b104e77f9ff860b6b6f4b6",
+          "bytes": 138282,
+          "role": "notices-archive"
+        },
+        {
+          "url": "https://jalna.gov.in/notice/%e0%a4%ae%e0%a5%8c%e0%a4%9c%e0%a5%87-%e0%a4%ad%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a4%b5%e0%a4%be%e0%a4%a1%e0%a5%80-%e0%a4%a4%e0%a4%be-%e0%a4%ac%e0%a4%a6%e0%a4%a8%e0%a4%be%e0%a4%aa%e0%a5%82%e0%a4%b0/",
+          "sha256": "b9bc1e8e0a1681ebcb90c36617a9a0981c358416d8ba7caf83d892be2d9c6643",
+          "bytes": 149868,
+          "role": "notice-detail"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z"
+    },
+    {
+      "districtCode": "480",
+      "districtName": "Kolhapur",
+      "website": "https://kolhapur.gov.in/en/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "District Disaster Management Cell Toll Free",
+          "number": "1077",
+          "numberPublished": "1077",
+          "sourceUrl": "https://kolhapur.gov.in/en/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "District Disaster Management Cell Toll Free",
+          "number": "0231-2659232",
+          "numberPublished": "0231-2659232",
+          "sourceUrl": "https://kolhapur.gov.in/en/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "District Disaster Management Cell Toll Free",
+          "number": "2652950",
+          "numberPublished": "2652950",
+          "sourceUrl": "https://kolhapur.gov.in/en/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "District Disaster Management Cell Toll Free",
+          "number": "2652953",
+          "numberPublished": "2652953",
+          "sourceUrl": "https://kolhapur.gov.in/en/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "District Disaster Management Cell Toll Free",
+          "number": "2652954",
+          "numberPublished": "2652954",
+          "sourceUrl": "https://kolhapur.gov.in/en/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "District Disaster Management Cell Toll Free",
+          "number": "+91 8275121077",
+          "numberPublished": "+91 8275121077",
+          "sourceUrl": "https://kolhapur.gov.in/en/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Citizen’s Call center",
+          "number": "155300",
+          "numberPublished": "155300",
+          "sourceUrl": "https://kolhapur.gov.in/en/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Control Room",
+          "number": "0231-2545473",
+          "numberPublished": "0231-2545473",
+          "sourceUrl": "https://kolhapur.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Control Room",
+          "number": "8669052600",
+          "numberPublished": "8669052600",
+          "sourceUrl": "https://kolhapur.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Commissioner of Rescue & Relief",
+          "number": "1800-22-4950",
+          "numberPublished": "1800-22-4950",
+          "sourceUrl": "https://kolhapur.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Commissioner of Rescue & Relief",
+          "number": "1967",
+          "numberPublished": "1967",
+          "sourceUrl": "https://kolhapur.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [
+        {
+          "title": "Regarding the purchase, through private negotiation, of 3.4370 H.R. of private land required for the Minor Irrigation (MI) tank at Mauje Karivade in Bhudargad Taluka, Kolhapur District.",
+          "description": "Regarding the purchase, through private negotiation, of 3.4370 H.R. of private land required for the Minor Irrigation (MI) tank at Mauje Karivade in Bhudargad Taluka, Kolhapur District.",
+          "url": "https://cdn.s3waas.gov.in/s33d2d8ccb37df977cb6d9da15b76c3f3a/uploads/2026/10/17919598898876.pdf",
+          "sourceUrl": "https://kolhapur.gov.in/en/notice_category/announcements/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s33d2d8ccb37df977cb6d9da15b76c3f3a/uploads/2026/10/17919598898876.pdf",
+          "documents": [
+            {
+              "title": "View (1 MB)",
+              "url": "https://cdn.s3waas.gov.in/s33d2d8ccb37df977cb6d9da15b76c3f3a/uploads/2026/10/17919598898876.pdf"
+            }
+          ],
+          "startDate": "2026-10-13",
+          "endDate": "2026-12-13",
+          "id": "480-ad4eaa6293c4e9",
+          "category": "water",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        }
+      ],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://kolhapur.gov.in/en/",
+          "sha256": "799326877188ad9fe23919f50b5e331ce64e4a8262d3b860fece795558d075ce",
+          "bytes": 226921,
+          "role": "district-home"
+        },
+        {
+          "url": "https://kolhapur.gov.in/en/helpline/",
+          "sha256": "89ba9155e0a6f33ee3053740431bf3715f36ee0b5f9c9837a130fabdb863a6f5",
+          "bytes": 135469,
+          "role": "helplines"
+        },
+        {
+          "url": "https://kolhapur.gov.in/en/notice_category/announcements/",
+          "sha256": "b64b9a18143f04029cb834ed83794eeb8a165ab3e326bb0e7737e6232529dd21",
+          "bytes": 156240,
+          "role": "notices-archive"
+        },
+        {
+          "url": "https://kolhapur.gov.in/en/notice/regarding-the-purchase-through-private-negotiation-of-3-4370-h-r-of-private-land-required-for-the-minor-irrigation-mi-tank-at-mauje-karivade-in-bhudargad-taluka-kolhapur-district/",
+          "sha256": "fb234b21139c9282722e48b5ee03a793121e3ad23ee6d03098a1d5df5e066e63",
+          "bytes": 138156,
+          "role": "notice-detail"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z"
+    },
+    {
+      "districtCode": "481",
+      "districtName": "Latur",
+      "website": "https://latur.gov.in/en/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "Citizen's Call center",
+          "number": "155300",
+          "numberPublished": "155300",
+          "sourceUrl": "https://latur.gov.in/en/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [
+        {
+          "title": "Application form for the individual removal of silt from a lake",
+          "description": "Application form for the individual removal of silt from a lake",
+          "url": "https://cdn.s3waas.gov.in/s317e62166fc8586dfa4d1bc0e1742c08b/uploads/2026/10/17923018299576.pdf",
+          "sourceUrl": "https://latur.gov.in/en/notice_category/announcements/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s317e62166fc8586dfa4d1bc0e1742c08b/uploads/2026/10/17923018299576.pdf",
+          "documents": [
+            {
+              "title": "View (32 KB)",
+              "url": "https://cdn.s3waas.gov.in/s317e62166fc8586dfa4d1bc0e1742c08b/uploads/2026/10/17923018299576.pdf"
+            }
+          ],
+          "startDate": "2026-10-16",
+          "endDate": "2026-12-31",
+          "id": "481-39a73ac56bbcca",
+          "category": "water",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        },
+        {
+          "title": "Regarding the implementation of various provisions of the ‘Maharashtra Groundwater (Development and Management) Act, 2009’ in Latur district, in the context of drought conditions.",
+          "description": "",
+          "url": "https://cdn.s3waas.gov.in/s317e62166fc8586dfa4d1bc0e1742c08b/uploads/2026/10/17923016019150.pdf",
+          "sourceUrl": "https://latur.gov.in/en/notice_category/announcements/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s317e62166fc8586dfa4d1bc0e1742c08b/uploads/2026/10/17923016019150.pdf",
+          "documents": [
+            {
+              "title": "View (116 KB)",
+              "url": "https://cdn.s3waas.gov.in/s317e62166fc8586dfa4d1bc0e1742c08b/uploads/2026/10/17923016019150.pdf"
+            }
+          ],
+          "startDate": "2026-10-15",
+          "endDate": "2026-12-31",
+          "id": "481-0b384719e75391",
+          "category": "water",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        },
+        {
+          "title": "Regarding the prohibition of the sale and transportation—to locations outside the district—of fodder (green and dry), forage, grass, and crop residues (such as soybean straw/husk, sorghum stalks, sugarcane trash, etc.) across all talukas of Latur dis",
+          "description": "",
+          "url": "https://cdn.s3waas.gov.in/s317e62166fc8586dfa4d1bc0e1742c08b/uploads/2026/10/17923015088741.pdf",
+          "sourceUrl": "https://latur.gov.in/en/notice_category/announcements/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s317e62166fc8586dfa4d1bc0e1742c08b/uploads/2026/10/17923015088741.pdf",
+          "documents": [
+            {
+              "title": "View (136 KB)",
+              "url": "https://cdn.s3waas.gov.in/s317e62166fc8586dfa4d1bc0e1742c08b/uploads/2026/10/17923015088741.pdf"
+            }
+          ],
+          "startDate": "2026-10-15",
+          "endDate": "2026-12-31",
+          "id": "481-81ac651805de6c",
+          "category": "fodder",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        }
+      ],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://latur.gov.in/en/",
+          "sha256": "3caea4501c733d0fc8c63f85dd70f580ca715c9614322b641f6c63b1560a80b4",
+          "bytes": 192456,
+          "role": "district-home"
+        },
+        {
+          "url": "https://latur.gov.in/en/helpline/",
+          "sha256": "fee3ab9f12bbc88dd641281424f02d56d257ac2b5da0e445271fbec1fa79fe09",
+          "bytes": 125471,
+          "role": "helplines"
+        },
+        {
+          "url": "https://latur.gov.in/en/notice_category/announcements/",
+          "sha256": "ceb15f52f7d2863d2c6973e1bab7b4dd11ca8c7500606772dfc52345b0456d65",
+          "bytes": 134925,
+          "role": "notices-archive"
+        },
+        {
+          "url": "https://latur.gov.in/en/notice/application-form-for-the-individual-removal-of-silt-from-a-lake/",
+          "sha256": "d58cee388f46602aa9f0badd63ee0c30e99af8be611fd268ab6afb795942c388",
+          "bytes": 124585,
+          "role": "notice-detail"
+        },
+        {
+          "url": "https://latur.gov.in/en/notice/regarding-the-implementation-of-various-provisions-of-the-maharashtra-groundwater-development-and-management-act-2009-in-latur-district-in-the-context-of-drought-conditions/",
+          "sha256": "fd9401cc70131fa2aaaf08e298c06df7fb9717799ff830bd8bdbe8ecb92e0697",
+          "bytes": 126082,
+          "role": "notice-detail"
+        },
+        {
+          "url": "https://latur.gov.in/en/notice/regarding-the-prohibition-of-the-sale-and-transportation-to-locations-outside-the-district-of-fodder-green-and-dry-forage-grass-and-crop-residues-such-as-soybean-straw-husk-sorg/",
+          "sha256": "a5d5038279b8b0f08b2c774ed29e8ba129e1661bf464a0472165b3136ddfb278",
+          "bytes": 126816,
+          "role": "notice-detail"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z"
+    },
+    {
+      "districtCode": "482",
+      "districtName": "Mumbai",
+      "website": "https://mumbaicity.gov.in/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "नागरिकांचा कॉल सेंटर",
+          "number": "155300",
+          "numberPublished": "155300",
+          "sourceUrl": "https://mumbaicity.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "बचाव आणि मदत",
+          "number": "1070",
+          "numberPublished": "1070",
+          "sourceUrl": "https://mumbaicity.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "आपत्ती व्यवस्थापन मुंबई शहर जिल्हाधिकारी कार्यालय",
+          "number": "22664232",
+          "numberPublished": "२२६६४२३२",
+          "sourceUrl": "https://mumbaicity.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "बृहन्मुंबई महानगरपालिका नियंत्रण कक्ष",
+          "number": "22694725",
+          "numberPublished": "२२६९४७२५",
+          "sourceUrl": "https://mumbaicity.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "बृहन्मुंबई महानगरपालिका नियंत्रण कक्ष",
+          "number": "9833806409",
+          "numberPublished": "९८३३८०६४०९",
+          "sourceUrl": "https://mumbaicity.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "विभागीय आयुक्त कार्यालय नियंत्रण कक्ष",
+          "number": "27571516",
+          "numberPublished": "२७५७१५१६",
+          "sourceUrl": "https://mumbaicity.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "विभागीय आयुक्त कार्यालय नियंत्रण कक्ष",
+          "number": "27571517",
+          "numberPublished": "२७५७१५१७",
+          "sourceUrl": "https://mumbaicity.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "मंत्रालय नियंत्रण कक्ष",
+          "number": "22027990",
+          "numberPublished": "२२०२७९९०",
+          "sourceUrl": "https://mumbaicity.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "मंत्रालय नियंत्रण कक्ष",
+          "number": "22026712",
+          "numberPublished": "२२०२६७१२",
+          "sourceUrl": "https://mumbaicity.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "अग्निशामक नियंत्रण कक्ष",
+          "number": "23085991",
+          "numberPublished": "२३०८५९९१",
+          "sourceUrl": "https://mumbaicity.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "अग्निशामक नियंत्रण कक्ष",
+          "number": "23085992",
+          "numberPublished": "२३०८५९९२",
+          "sourceUrl": "https://mumbaicity.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "कुलाबा वेधशाळा नियंत्रण कक्ष",
+          "number": "22150431",
+          "numberPublished": "२२१५०४३१",
+          "sourceUrl": "https://mumbaicity.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://mumbaicity.gov.in/",
+          "sha256": "a2ffe23c768cf1cbdb628bdc942fead823b9409e4626842c1f1017953838ede1",
+          "bytes": 254018,
+          "role": "district-home"
+        },
+        {
+          "url": "https://mumbaicity.gov.in/en/helpline/",
+          "sha256": "4e340e8b1b18345d003d1c4e3c1226ea5c0567e7831ad1631b2f95f2aaaf062f",
+          "bytes": 133778,
+          "role": "helplines"
+        },
+        {
+          "url": "https://mumbaicity.gov.in/en/notice_category/announcements/",
+          "sha256": "ad4585019ec9d1e7d313555cdadede8c2d1cc7557397bdbb72e32c4c27ae8f12",
+          "bytes": 136139,
+          "role": "notices-archive"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesStatus": "no-matching-items-in-checked-pages"
+    },
+    {
+      "districtCode": "483",
+      "districtName": "Mumbai Suburban",
+      "website": "https://mumbaisuburban.gov.in/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "नागरिकांचा कॉल सेंटर",
+          "number": "155300",
+          "numberPublished": "155300",
+          "sourceUrl": "https://mumbaisuburban.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "बचाव आणि मदत",
+          "number": "1070",
+          "numberPublished": "1070",
+          "sourceUrl": "https://mumbaisuburban.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Emergency Operation Centre",
+          "number": "1916",
+          "numberPublished": "1916",
+          "sourceUrl": "https://mumbaisuburban.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Emergency Operation Centre",
+          "number": "22694725",
+          "numberPublished": "22694725",
+          "sourceUrl": "https://mumbaisuburban.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Emergency Operation Centre",
+          "number": "22704403",
+          "numberPublished": "22704403",
+          "sourceUrl": "https://mumbaisuburban.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Emergency Operation Centre",
+          "number": "22694719",
+          "numberPublished": "22694719",
+          "sourceUrl": "https://mumbaisuburban.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Emergency Operation Centre",
+          "number": "22620251",
+          "numberPublished": "22620251",
+          "sourceUrl": "https://mumbaisuburban.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Emergency Operation Centre",
+          "number": "9833806409",
+          "numberPublished": "9833806409",
+          "sourceUrl": "https://mumbaisuburban.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Emergency Operation Centre",
+          "number": "22027990",
+          "numberPublished": "22027990",
+          "sourceUrl": "https://mumbaisuburban.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Emergency Operation Centre",
+          "number": "9321587143",
+          "numberPublished": "9321587143",
+          "sourceUrl": "https://mumbaisuburban.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "National Disaster Management Division, North Block, New Delhi (internal security control room)",
+          "number": "011-23092923",
+          "numberPublished": "011-23092923",
+          "sourceUrl": "https://mumbaisuburban.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "National Disaster Management Division, North Block, New Delhi (internal security control room)",
+          "number": "011-23093054",
+          "numberPublished": "011-23093054",
+          "sourceUrl": "https://mumbaisuburban.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "National Disaster Management Division, North Block, New Delhi (internal security control room)",
+          "number": "011-29092885",
+          "numberPublished": "011-29092885",
+          "sourceUrl": "https://mumbaisuburban.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "National Disaster Management Division, North Block, New Delhi (internal security control room)",
+          "number": "011-23092763",
+          "numberPublished": "011-23092763",
+          "sourceUrl": "https://mumbaisuburban.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://mumbaisuburban.gov.in/",
+          "sha256": "605bb24db06f3660eb8c6ad2768b143f3948ab2984a1dcdf85d76f4efdbb4fc4",
+          "bytes": 238779,
+          "role": "district-home"
+        },
+        {
+          "url": "https://mumbaisuburban.gov.in/en/helpline/",
+          "sha256": "dc50007d7c8fec1cdfd1b668deec257edd30e639545a9b764fbf70d207c6e03c",
+          "bytes": 153319,
+          "role": "helplines"
+        },
+        {
+          "url": "https://mumbaisuburban.gov.in/en/notice_category/announcements/",
+          "sha256": "73d85f5f132ec2398bf9b63e4b0340e355a2f6d13e1ba3cc4a6f8714a5fbba6f",
+          "bytes": 146291,
+          "role": "notices-archive"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesStatus": "no-matching-items-in-checked-pages"
+    },
+    {
+      "districtCode": "484",
+      "districtName": "Nagpur",
+      "website": "https://nagpur.gov.in/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "Disaster Management",
+          "number": "0712-2562668",
+          "numberPublished": "0712-2562668",
+          "sourceUrl": "https://nagpur.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Citizen's Call center",
+          "number": "155300",
+          "numberPublished": "155300",
+          "sourceUrl": "https://nagpur.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [
+        {
+          "title": "Regarding providing financial assistance for flood repair work & irrigation wells that have been damaged and submerged due to heavy rains/floods during the Kharif season of the year 2025-2026.",
+          "description": "Regarding providing financial assistance for flood repair work & irrigation wells that have been damaged and submerged due to heavy rains/floods during the Kharif season of the year 2025-2026.",
+          "url": "https://cdn.s3waas.gov.in/s3d1f491a404d6854880943e5c3cd9ca25/uploads/2026/03/17730524929698.pdf",
+          "sourceUrl": "https://nagpur.gov.in/notice_category/announcements/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s3d1f491a404d6854880943e5c3cd9ca25/uploads/2026/03/17730524929698.pdf",
+          "documents": [
+            {
+              "title": "View (4 MB)",
+              "url": "https://cdn.s3waas.gov.in/s3d1f491a404d6854880943e5c3cd9ca25/uploads/2026/03/17730524929698.pdf"
+            }
+          ],
+          "startDate": "2026-03-09",
+          "endDate": "2026-12-31",
+          "id": "484-19317610939501",
+          "category": "water",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        }
+      ],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://nagpur.gov.in/",
+          "sha256": "f4720491b81167b5cc1976f98fd175849699e7dc0fe6dcbe8536c50a6ac5c2d5",
+          "bytes": 216182,
+          "role": "district-home"
+        },
+        {
+          "url": "https://nagpur.gov.in/helpline/",
+          "sha256": "aa62b57c98eb3d87cbf7a90c36909f45da344654752f176ff043b7c68f4247be",
+          "bytes": 135206,
+          "role": "helplines"
+        },
+        {
+          "url": "https://nagpur.gov.in/notice_category/announcements/",
+          "sha256": "d68f920324a9b12c80b18fb7322180c9a8e5a3c6d59523c5086bcc59d8bbb737",
+          "bytes": 137941,
+          "role": "notices-archive"
+        },
+        {
+          "url": "https://nagpur.gov.in/notice/regarding-providing-financial-assistance-for-flood-repair-work-irrigation-wells-that-have-been-damaged-and-submerged-due-to-heavy-rains-floods-during-the-kharif-season-of-the-year-2025-2026/",
+          "sha256": "cb82a1e6a4d18dcc95be09b355f1818846cd4f54ed7518fa4770f5df44f77e5b",
+          "bytes": 134009,
+          "role": "notice-detail"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z"
+    },
+    {
+      "districtCode": "485",
+      "districtName": "Nanded",
+      "website": "https://nanded.gov.in/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "आपत्ती व्यवस्थापन",
+          "number": "02462-262626",
+          "numberPublished": "02462-262626",
+          "sourceUrl": "https://nanded.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "नागरिकांचे कॉल सेंटर",
+          "number": "155300",
+          "numberPublished": "155300",
+          "sourceUrl": "https://nanded.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "District Control Room",
+          "number": "02462-233577",
+          "numberPublished": "02462-233577",
+          "sourceUrl": "https://nanded.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Kisan Call Center/किसान कॉल केंद्र",
+          "number": "1551",
+          "numberPublished": "1551",
+          "sourceUrl": "https://nanded.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Rescue & Relief/बचाव आणि मदत",
+          "number": "1070",
+          "numberPublished": "1070",
+          "sourceUrl": "https://nanded.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [
+        {
+          "title": "List of eligible beneficiaries from Nanded city whose houses were damaged due to water entering during the heavy rainfall in August 2025.",
+          "description": "List of eligible beneficiaries from Nanded city whose houses were damaged due to water entering during the heavy rainfall in August 2025.",
+          "url": "https://cdn.s3waas.gov.in/s32b24d495052a8ce66358eb576b8912c8/uploads/2025/10/17606904372707.pdf",
+          "sourceUrl": "https://nanded.gov.in/en/notice_category/announcements/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s32b24d495052a8ce66358eb576b8912c8/uploads/2025/10/17606904372707.pdf",
+          "documents": [
+            {
+              "title": "View (6 MB)",
+              "url": "https://cdn.s3waas.gov.in/s32b24d495052a8ce66358eb576b8912c8/uploads/2025/10/17606904372707.pdf"
+            }
+          ],
+          "startDate": "2025-10-17",
+          "endDate": "2026-12-31",
+          "id": "485-a9b1f0f1de0a1c",
+          "category": "water",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        }
+      ],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://nanded.gov.in/",
+          "sha256": "ef8baa87af252c86550dc7a5392fadf5bde4081755e2131d425481a2f5cfde2f",
+          "bytes": 231694,
+          "role": "district-home"
+        },
+        {
+          "url": "https://nanded.gov.in/en/helpline/",
+          "sha256": "a150463c58e479cc3890170f8fae4f0a3b7cd598fec30228c8a109077039b884",
+          "bytes": 135591,
+          "role": "helplines"
+        },
+        {
+          "url": "https://nanded.gov.in/en/notice_category/announcements/",
+          "sha256": "d315de1c642e7747918f11037b05a4e46c26bd8d3eb5c7ad2a56fe87229594d0",
+          "bytes": 144454,
+          "role": "notices-archive"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z"
+    },
+    {
+      "districtCode": "486",
+      "districtName": "Nandurbar",
+      "website": "https://nandurbar.gov.in/",
+      "checkedAt": "2026-10-28T12:12:31.230292Z",
+      "lastAttemptAt": "2026-10-28T12:12:31.230292Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "नागरिकांसाठी मदत केंद्र",
+          "number": "155300",
+          "numberPublished": "155300",
+          "sourceUrl": "https://nandurbar.gov.in/",
+          "checkedAt": "2026-10-28T12:12:31.230292Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "आपत्ती निवारण कक्ष",
+          "number": "1077",
+          "numberPublished": "1077",
+          "sourceUrl": "https://nandurbar.gov.in/",
+          "checkedAt": "2026-10-28T12:12:31.230292Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Disaster Managment",
+          "number": "02564 210006",
+          "numberPublished": "02564 210006",
+          "sourceUrl": "https://nandurbar.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:12:31.230292Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [
+        {
+          "title": "Notification of Section 25 under the Right to Fair Compensation and Transparency Act 2013-Land Acquisition,Rehabilitation and Resettlement",
+          "description": "1) Land Acqusition S.R.No.4/2020 Private land for mauje-Asane Prakasha Burai Sub-Irrigation Scheme for Storage Pond Mauje-Ranale,Tal.Dist.Nandurbar-Extension order",
+          "url": "https://cdn.s3waas.gov.in/s3db85e2590b6109813dafa101ceb2faeb/uploads/2026/10/17926533165648.pdf",
+          "sourceUrl": "https://nandurbar.gov.in/en/notice_category/announcements/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s3db85e2590b6109813dafa101ceb2faeb/uploads/2026/10/17926533165648.pdf",
+          "documents": [
+            {
+              "title": "View (907 KB)",
+              "url": "https://cdn.s3waas.gov.in/s3db85e2590b6109813dafa101ceb2faeb/uploads/2026/10/17926533165648.pdf"
+            }
+          ],
+          "startDate": "2026-10-22",
+          "endDate": "2026-11-08",
+          "id": "486-48014a226e0c69",
+          "category": "water",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:12:31.230292Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        }
+      ],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://nandurbar.gov.in/",
+          "sha256": "0d143eb8a6da616569563a98183e1625a5fbfba9e64d1452b23bb4ef4f38c816",
+          "bytes": 198588,
+          "role": "district-home"
+        },
+        {
+          "url": "https://nandurbar.gov.in/en/helpline/",
+          "sha256": "69ff59d1fedc227f6a58a5cbf99fe5a58b34e26e21a25f078c4cae331012a4ff",
+          "bytes": 124056,
+          "role": "helplines"
+        },
+        {
+          "url": "https://nandurbar.gov.in/en/notice_category/announcements/",
+          "sha256": "a4079a12a4ba8e2604706e457dafabbbe6fcc50fe65ea9a22610d70e1496a153",
+          "bytes": 134562,
+          "role": "notices-archive"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:12:31.230292Z",
+      "noticesCheckedAt": "2026-10-28T12:12:31.230292Z"
+    },
+    {
+      "districtCode": "487",
+      "districtName": "Nashik",
+      "website": "https://nashik.gov.in/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "नागरिक कॉल सेंटर",
+          "number": "18001208040",
+          "numberPublished": "18001208040",
+          "sourceUrl": "https://nashik.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "पीएमकिसान मदत",
+          "number": "011-23381092",
+          "numberPublished": "011-23381092",
+          "sourceUrl": "https://nashik.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "District Disaster Management Nashik",
+          "number": "1077",
+          "numberPublished": "1077",
+          "sourceUrl": "https://nashik.gov.in/en/helpline-3/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://nashik.gov.in/",
+          "sha256": "de79c5bc726eccb6a82a0515cd2476a0504056961e9b7017bbb03bc0eef1d310",
+          "bytes": 251617,
+          "role": "district-home"
+        },
+        {
+          "url": "https://nashik.gov.in/en/helpline-3/",
+          "sha256": "3d64119b3addfd036156199deed7611cab807121177786e22c0995b2f6b53b52",
+          "bytes": 130949,
+          "role": "helplines"
+        },
+        {
+          "url": "https://nashik.gov.in/en/notice_category/announcements/",
+          "sha256": "9dca2d6997ddd4a033f5ea1a3a5bd34be230e1e43e13254fc02f28634807dfd6",
+          "bytes": 132627,
+          "role": "notices-archive"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesStatus": "no-matching-items-in-checked-pages"
+    },
+    {
+      "districtCode": "488",
+      "districtName": "Dharashiv",
+      "website": "https://dharashiv.maharashtra.gov.in/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "Collector & DM",
+          "number": "02472-224501",
+          "numberPublished": "02472-224501",
+          "sourceUrl": "https://dharashiv.maharashtra.gov.in/government-offices/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Additional Collector",
+          "number": "02472-227303",
+          "numberPublished": "02472-227303",
+          "sourceUrl": "https://dharashiv.maharashtra.gov.in/government-offices/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Residential Dy. Collector",
+          "number": "02472-227301",
+          "numberPublished": "02472-227301",
+          "sourceUrl": "https://dharashiv.maharashtra.gov.in/government-offices/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Dy. Collector (Land Acquisition ) M.P. No. 2",
+          "number": "02472-226180",
+          "numberPublished": "02472-226180",
+          "sourceUrl": "https://dharashiv.maharashtra.gov.in/government-offices/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Deputy Collector (General Administration)",
+          "number": "02472-225619",
+          "numberPublished": "02472-225619",
+          "sourceUrl": "https://dharashiv.maharashtra.gov.in/government-offices/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Deputy Collector(Rehabilitation)",
+          "number": "02472-222716",
+          "numberPublished": "02472-222716",
+          "sourceUrl": "https://dharashiv.maharashtra.gov.in/government-offices/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [
+        {
+          "title": "Grant distribution list for farmers affected by Land Loss due to heavy rainfall in September 2025 GR date 17.10.2025, Kallamb",
+          "description": "Grant distribution list for farmers affected by Land Loss due to heavy rainfall in September 2025 GR date 17.10.2025, Kallamb",
+          "url": "https://cdn.s3waas.gov.in/s3642e92efb79421734881b53e1e1b18b6/uploads/2026/04/17764186327023.pdf",
+          "sourceUrl": "https://dharashiv.maharashtra.gov.in/notice_category/announcements/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s3642e92efb79421734881b53e1e1b18b6/uploads/2026/04/17764186327023.pdf",
+          "documents": [
+            {
+              "title": "View (1 MB)",
+              "url": "https://cdn.s3waas.gov.in/s3642e92efb79421734881b53e1e1b18b6/uploads/2026/04/17764186327023.pdf"
+            }
+          ],
+          "startDate": "2026-03-12",
+          "endDate": "2027-12-31",
+          "id": "488-bef8708f78ea9e",
+          "category": "agriculture",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        },
+        {
+          "title": "Grant distribution list for farmers affected by Land Loss due to heavy rainfall in August 2025 GR date 17.10.2025, Kallamb",
+          "description": "Grant distribution list for farmers affected by Land Loss due to heavy rainfall in August 2025 GR date 17.10.2025, Kallamb",
+          "url": "https://cdn.s3waas.gov.in/s3642e92efb79421734881b53e1e1b18b6/uploads/2026/04/17764183824105.pdf",
+          "sourceUrl": "https://dharashiv.maharashtra.gov.in/notice_category/announcements/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s3642e92efb79421734881b53e1e1b18b6/uploads/2026/04/17764183824105.pdf",
+          "documents": [
+            {
+              "title": "View (697 KB)",
+              "url": "https://cdn.s3waas.gov.in/s3642e92efb79421734881b53e1e1b18b6/uploads/2026/04/17764183824105.pdf"
+            }
+          ],
+          "startDate": "2026-03-12",
+          "endDate": "2027-12-31",
+          "id": "488-0807ed5cfb726a",
+          "category": "agriculture",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        },
+        {
+          "title": "Grant distribution list for farmers affected by crop damage due to heavy rainfall in August and September 2025(2 to 3 Hector)GR date 30.10.2025, Kallamb",
+          "description": "Grant distribution list for farmers affected by crop damage due to heavy rainfall in August and September 2025(2 to 3 Hector)GR date 30.10.2025, Kallamb",
+          "url": "https://cdn.s3waas.gov.in/s3642e92efb79421734881b53e1e1b18b6/uploads/2026/04/17764150572956.pdf",
+          "sourceUrl": "https://dharashiv.maharashtra.gov.in/notice_category/announcements/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s3642e92efb79421734881b53e1e1b18b6/uploads/2026/04/17764150572956.pdf",
+          "documents": [
+            {
+              "title": "View (2 MB)",
+              "url": "https://cdn.s3waas.gov.in/s3642e92efb79421734881b53e1e1b18b6/uploads/2026/04/17764150572956.pdf"
+            }
+          ],
+          "startDate": "2026-03-10",
+          "endDate": "2027-12-31",
+          "id": "488-1ea591363f110c",
+          "category": "agriculture",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        }
+      ],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://dharashiv.maharashtra.gov.in/",
+          "sha256": "04ef9907cab1099af75b6ae12453d725d990dd360f527e01443454552c25ef23",
+          "bytes": 179211,
+          "role": "district-home"
+        },
+        {
+          "url": "https://dharashiv.maharashtra.gov.in/helpline/",
+          "sha256": "7eb0964b6263e9cf8022b90aa7630a35095de3856e8285e9c978409c8c04feb3",
+          "bytes": 123010,
+          "role": "helplines"
+        },
+        {
+          "url": "https://dharashiv.maharashtra.gov.in/government-offices/",
+          "sha256": "cd35aa33ecd8b4124f2fc805de59dc97f51049e6047b89b31c2117b25ae9ebef",
+          "bytes": 145196,
+          "role": "helplines"
+        },
+        {
+          "url": "https://dharashiv.maharashtra.gov.in/notice_category/announcements/",
+          "sha256": "f01bbb5334cbfa4945c51eda4462ea8c9e334f9a11cb5d4453c9cf3289527a1e",
+          "bytes": 133647,
+          "role": "notices-archive"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z"
+    },
+    {
+      "districtCode": "489",
+      "districtName": "Parbhani",
+      "website": "https://parbhani.gov.in/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "नागरिक संपर्क केंद्र",
+          "number": "1077",
+          "numberPublished": "१०७७",
+          "sourceUrl": "https://parbhani.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "National Disaster Management Authority",
+          "number": "011-1078",
+          "numberPublished": "011-1078",
+          "sourceUrl": "https://parbhani.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Maharashtra Control Room",
+          "number": "022-22027990",
+          "numberPublished": "022-22027990",
+          "sourceUrl": "https://parbhani.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "District Control Room",
+          "number": "02452-226400",
+          "numberPublished": "02452-226400",
+          "sourceUrl": "https://parbhani.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Parbhani City Municipal Corporation Citizen HelpLine",
+          "number": "02452-222 425",
+          "numberPublished": "02452-222 425",
+          "sourceUrl": "https://parbhani.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Parbhani City Municipal Corporation Citizen HelpLine",
+          "number": "1800-233-1368",
+          "numberPublished": "1800-233-1368",
+          "sourceUrl": "https://parbhani.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Parbhani City Municipal Corporation Citizen HelpLine",
+          "number": "1800-233-1285",
+          "numberPublished": "1800-233-1285",
+          "sourceUrl": "https://parbhani.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [
+        {
+          "title": "List of Farmers without Farmer ID and pending eKYC",
+          "description": "List of Farmers without Farmer ID and pending eKYC",
+          "url": "https://cdn.s3waas.gov.in/s39cf81d8026a9018052c429cc4e56739b/uploads/2026/08/17860973846966.pdf",
+          "sourceUrl": "https://parbhani.gov.in/en/notice_category/announcements/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s39cf81d8026a9018052c429cc4e56739b/uploads/2026/08/17860973846966.pdf",
+          "documents": [
+            {
+              "title": "View (4 MB)",
+              "url": "https://cdn.s3waas.gov.in/s39cf81d8026a9018052c429cc4e56739b/uploads/2026/08/17860973846966.pdf"
+            }
+          ],
+          "startDate": "2026-08-07",
+          "endDate": "2026-10-31",
+          "id": "489-cf57ff1273df7c",
+          "category": "agriculture",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified",
+          "alternateTitles": [
+            "ई केवायसी प्रलंबित असलेल्या व फार्मर आयडी नसलेल्या शेतक-यांची यादी"
+          ]
+        },
+        {
+          "title": "List of eligible beneficiaries of irrigation wells that have been damaged and sunken due to heavy rains/floods during the Kharif season of the year 2025-26",
+          "description": "List of eligible beneficiaries of irrigation wells that have been damaged and sunken due to heavy rains/floods during the Kharif season of the year 2025-26",
+          "url": "https://cdn.s3waas.gov.in/s39cf81d8026a9018052c429cc4e56739b/uploads/2026/03/17724340402175.pdf",
+          "sourceUrl": "https://parbhani.gov.in/en/notice_category/announcements/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s39cf81d8026a9018052c429cc4e56739b/uploads/2026/03/17724340402175.pdf",
+          "documents": [
+            {
+              "title": "View (5 MB)",
+              "url": "https://cdn.s3waas.gov.in/s39cf81d8026a9018052c429cc4e56739b/uploads/2026/03/17724340402175.pdf"
+            }
+          ],
+          "startDate": "2026-03-02",
+          "endDate": "2026-12-31",
+          "id": "489-2f9400435b5fed",
+          "category": "water",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        }
+      ],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://parbhani.gov.in/",
+          "sha256": "6ba78414563538e9158210f642ebffe157efc1377dfe0059b090049ca77ce64e",
+          "bytes": 214882,
+          "role": "district-home"
+        },
+        {
+          "url": "https://parbhani.gov.in/en/helpline/",
+          "sha256": "6697df3aec471dc57991725f180db0d0f643d977375a7003375e83cc7dbf2260",
+          "bytes": 137504,
+          "role": "helplines"
+        },
+        {
+          "url": "https://parbhani.gov.in/en/notice_category/announcements/",
+          "sha256": "53b73175437881ddac4392b1ccdcc370ae8c597a3b1ce2f77c659965e76ad7c7",
+          "bytes": 142226,
+          "role": "notices-archive"
+        },
+        {
+          "url": "https://parbhani.gov.in/notice/%e0%a4%88-%e0%a4%95%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%af%e0%a4%b8%e0%a5%80-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b2%e0%a4%82%e0%a4%ac%e0%a4%bf%e0%a4%a4-%e0%a4%85%e0%a4%b8%e0%a4%b2%e0%a5%87%e0%a4%b2/",
+          "sha256": "ba65f57d7feb032eee08103587f067e023ed44f2d106677eeb91e3a2ec7e9add",
+          "bytes": 146035,
+          "role": "notice-detail"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z"
+    },
+    {
+      "districtCode": "490",
+      "districtName": "Pune",
+      "website": "https://pune.gov.in/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "आपत्ती व्यवस्थापन नियंत्रण कक्ष",
+          "number": "1077",
+          "numberPublished": "१०७७",
+          "sourceUrl": "https://pune.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://pune.gov.in/",
+          "sha256": "b1c37dab96dd5ace0f3a4939fb282ba1d1a3c521d97125e55bb77c17acfef7fe",
+          "bytes": 236759,
+          "role": "district-home"
+        },
+        {
+          "url": "https://pune.gov.in/en/helpline/",
+          "sha256": "311cf4538cb028891204e43754b013b619f68ce37deec0bea51233fc93b250d7",
+          "bytes": 134705,
+          "role": "helplines"
+        },
+        {
+          "url": "https://pune.gov.in/en/notice_category/announcements/",
+          "sha256": "c67c5956c2925b1ed7c5116a9865bb9d00382444321f5a3fabbb8256058df2a2",
+          "bytes": 137165,
+          "role": "notices-archive"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesStatus": "no-matching-items-in-checked-pages"
+    },
+    {
+      "districtCode": "491",
+      "districtName": "Raigad",
+      "website": "https://raigad.gov.in/en/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "Emergency and Disaster Management",
+          "number": "108",
+          "numberPublished": "108",
+          "sourceUrl": "https://raigad.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Emergency and Disaster Management",
+          "number": "1077",
+          "numberPublished": "1077",
+          "sourceUrl": "https://raigad.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Maritime SAR (Search and Rescue operation) Emergency services to Indian coast guards",
+          "number": "1554",
+          "numberPublished": "1554",
+          "sourceUrl": "https://raigad.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://raigad.gov.in/en/",
+          "sha256": "203a43be473cf56760b4231be5c5f23e879ae5a54fe49e2d142fe5b32b21e474",
+          "bytes": 236287,
+          "role": "district-home"
+        },
+        {
+          "url": "https://raigad.gov.in/en/helpline/",
+          "sha256": "dd1b629c960d1d6da93da47ee2e91275ddd888122eda613f310ead7c99aa01ec",
+          "bytes": 134069,
+          "role": "helplines"
+        },
+        {
+          "url": "https://raigad.gov.in/en/notice_category/announcements/",
+          "sha256": "3b7944fb4db5d794cd0adfa889f72cdf4b4cdd88c8b6844615710690af42f7cd",
+          "bytes": 147971,
+          "role": "notices-archive"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesStatus": "no-matching-items-in-checked-pages"
+    },
+    {
+      "districtCode": "492",
+      "districtName": "Ratnagiri",
+      "website": "https://ratnagiri.gov.in/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "जिल्हाधिकारी कार्यालय नियंत्रण कक्ष",
+          "number": "02352222233",
+          "numberPublished": "02352222233",
+          "sourceUrl": "https://ratnagiri.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "नागरिकांचा कॉल सेंटर",
+          "number": "155300",
+          "numberPublished": "155300",
+          "sourceUrl": "https://ratnagiri.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "बचाव आणि मदत",
+          "number": "1070",
+          "numberPublished": "1070",
+          "sourceUrl": "https://ratnagiri.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "महाराष्ट्र आपत्ती व्यवस्थापन नियंत्रण कक्ष",
+          "number": "02222027990",
+          "numberPublished": "02222027990",
+          "sourceUrl": "https://ratnagiri.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "जिल्हा आपत्ती व्यवस्थापन नियंत्रण कक्ष",
+          "number": "02352226248",
+          "numberPublished": "02352226248",
+          "sourceUrl": "https://ratnagiri.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://ratnagiri.gov.in/",
+          "sha256": "d2ed705dba614f21d043f53c5f38d78c46c3041db835543dde9cc2e6c45aea43",
+          "bytes": 201660,
+          "role": "district-home"
+        },
+        {
+          "url": "https://ratnagiri.gov.in/en/helpline/",
+          "sha256": "1273668f549681a50a05e3bc7ce846507d695ad968d69fc65d4a7b672b402813",
+          "bytes": 113513,
+          "role": "helplines"
+        },
+        {
+          "url": "https://ratnagiri.gov.in/en/notice_category/announcements/",
+          "sha256": "fb0fd1edcf97dd06f060ba36873e2e04a0b2749957ff09b358b65524383ab40b",
+          "bytes": 122264,
+          "role": "notices-archive"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesStatus": "no-matching-items-in-checked-pages"
+    },
+    {
+      "districtCode": "493",
+      "districtName": "Sangli",
+      "website": "https://sangli.nic.in/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "आपत्ती व्यवस्थापन",
+          "number": "0233-2600500",
+          "numberPublished": "०२३३-२६००५००",
+          "sourceUrl": "https://sangli.nic.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "नागरिक संपर्क केंद्र",
+          "number": "155300",
+          "numberPublished": "१५५३००",
+          "sourceUrl": "https://sangli.nic.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Disaster Management Helpline",
+          "number": "1077",
+          "numberPublished": "1077",
+          "sourceUrl": "https://sangli.nic.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [
+        {
+          "title": "सिंचन विहीर दुरुस्ती लाभार्थी यादी",
+          "description": "सिंचन विहीर दुरुस्ती लाभार्थी यादी",
+          "url": "https://sangli.nic.in/notice/%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%9a%e0%a4%a8-%e0%a4%b5%e0%a4%bf%e0%a4%b9%e0%a5%80%e0%a4%b0-%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%80-%e0%a4%b2%e0%a4%be%e0%a4%ad/",
+          "sourceUrl": "https://sangli.nic.in/notice/%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%9a%e0%a4%a8-%e0%a4%b5%e0%a4%bf%e0%a4%b9%e0%a5%80%e0%a4%b0-%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%80-%e0%a4%b2%e0%a4%be%e0%a4%ad/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s342a0e188f5033bc65bf8d78622277c4e/uploads/2026/01/17683135227013.pdf",
+          "documents": [
+            {
+              "title": "पहा (2 MB)",
+              "url": "https://cdn.s3waas.gov.in/s342a0e188f5033bc65bf8d78622277c4e/uploads/2026/01/17683135227013.pdf"
+            }
+          ],
+          "startDate": "2026-01-13",
+          "id": "493-0fccc956a4d48d",
+          "category": "water",
+          "language": "mr",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        },
+        {
+          "title": "Fruit and vegetable farmers in Sangli district",
+          "description": "Fruit and vegetable farmers in Sangli district",
+          "url": "https://cdn.s3waas.gov.in/s342a0e188f5033bc65bf8d78622277c4e/uploads/2025/11/17641360545431.pdf",
+          "sourceUrl": "https://sangli.nic.in/en/notice_category/announcements/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s342a0e188f5033bc65bf8d78622277c4e/uploads/2025/11/17641360545431.pdf",
+          "documents": [
+            {
+              "title": "View (1 MB)",
+              "url": "https://cdn.s3waas.gov.in/s342a0e188f5033bc65bf8d78622277c4e/uploads/2025/11/17641360545431.pdf"
+            }
+          ],
+          "startDate": "2025-11-26",
+          "endDate": "2035-11-30",
+          "id": "493-722acfbf37cdeb",
+          "category": "agriculture",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified",
+          "alternateTitles": [
+            "सांगली जिल्‍हयातील फळ व भाजीपाला उत्‍पादक शेतकरी"
+          ]
+        }
+      ],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://sangli.nic.in/",
+          "sha256": "b3fd14e640dfac84a029e335832eb90a8cdc25eb3aa08e4a7234679c5445c2e6",
+          "bytes": 209453,
+          "role": "district-home"
+        },
+        {
+          "url": "https://sangli.nic.in/en/helpline/",
+          "sha256": "2611d5550eac16c103366c163ade598ff0c4709b5e6786c4f2094162a2baa455",
+          "bytes": 126675,
+          "role": "helplines"
+        },
+        {
+          "url": "https://sangli.nic.in/en/notice_category/announcements/",
+          "sha256": "4fcd3046160f8eb3d27e941bb0e173090b3c5e177b44d416185775acd5990242",
+          "bytes": 138056,
+          "role": "notices-archive"
+        },
+        {
+          "url": "https://sangli.nic.in/notice/%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%9a%e0%a4%a8-%e0%a4%b5%e0%a4%bf%e0%a4%b9%e0%a5%80%e0%a4%b0-%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%80-%e0%a4%b2%e0%a4%be%e0%a4%ad/",
+          "sha256": "4ad24a31d2f8efe7eb99cbcc9791d9745296358a5881aeca561c6d17880e35a1",
+          "bytes": 137461,
+          "role": "notice-detail"
+        },
+        {
+          "url": "https://sangli.nic.in/notice/%e0%a4%b8%e0%a4%be%e0%a4%82%e0%a4%97%e0%a4%b2%e0%a5%80-%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b9%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%80%e0%a4%b2-%e0%a4%ab%e0%a4%b3-%e0%a4%b5-%e0%a4%ad-2/",
+          "sha256": "04956b1583efca1b0e8ae38c05b23e0d53d9569e4f9f388542001a10477df8bd",
+          "bytes": 138168,
+          "role": "notice-detail"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z"
+    },
+    {
+      "districtCode": "494",
+      "districtName": "Satara",
+      "website": "https://www.satara.gov.in/en/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "Citizen’s Call center",
+          "number": "155300",
+          "numberPublished": "155300",
+          "sourceUrl": "https://www.satara.gov.in/en/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://www.satara.gov.in/en/",
+          "sha256": "5aa2166bb6799673b8eae180b07cd7051f8dba5ba63b3f9aa48a4e7c3dc34485",
+          "bytes": 195780,
+          "role": "district-home"
+        },
+        {
+          "url": "https://www.satara.gov.in/en/helpline/",
+          "sha256": "fc4f92f9debecef91b0880c7da27daa50e05d9e316f4c899dc8e0c50da925c9c",
+          "bytes": 130817,
+          "role": "helplines"
+        },
+        {
+          "url": "https://www.satara.gov.in/en/notice_category/announcements/",
+          "sha256": "9db179fa69b061ace66b29253b183d008d4fa27cf57e23ed9a053d34e36a7c60",
+          "bytes": 138618,
+          "role": "notices-archive"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesStatus": "no-matching-items-in-checked-pages"
+    },
+    {
+      "districtCode": "495",
+      "districtName": "Sindhudurg",
+      "website": "https://sindhudurg.nic.in/en/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "Citizen’s Call center",
+          "number": "02362-228847",
+          "numberPublished": "02362-228847",
+          "sourceUrl": "https://sindhudurg.nic.in/en/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Smt. Trupti Dhodmise , IAS Collector Sindhudurg",
+          "number": "02362-228844",
+          "numberPublished": "02362-228844",
+          "sourceUrl": "https://sindhudurg.nic.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Smt. Shubhangi Sathe Additional Collector Sindhudurg",
+          "number": "02362-228855",
+          "numberPublished": "02362-228855",
+          "sourceUrl": "https://sindhudurg.nic.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Shri. Machchindra Sukate Resident Deputy Collector Sindhudurg",
+          "number": "02362-228845",
+          "numberPublished": "02362-228845",
+          "sourceUrl": "https://sindhudurg.nic.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [
+        {
+          "title": "List of Mango and Cashew Crop Loss Beneficiaries with Pending e-KYC – Tahsil Office, Malvan",
+          "description": "Collector Office Sindhudurg",
+          "url": "https://cdn.s3waas.gov.in/s3fae0b27c451c728867a567e8c1bb4e53/uploads/2026/09/17892009923612.pdf",
+          "sourceUrl": "https://sindhudurg.nic.in/en/notice_category/announcements/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s3fae0b27c451c728867a567e8c1bb4e53/uploads/2026/09/17892009923612.pdf",
+          "documents": [
+            {
+              "title": "View (673 KB)",
+              "url": "https://cdn.s3waas.gov.in/s3fae0b27c451c728867a567e8c1bb4e53/uploads/2026/09/17892009923612.pdf"
+            }
+          ],
+          "startDate": "2026-09-12",
+          "endDate": "2026-12-31",
+          "id": "495-63b868a9585f2b",
+          "category": "agriculture",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        }
+      ],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://sindhudurg.nic.in/en/",
+          "sha256": "ca09a33577a58814426273ea8a419a6d9c61aa7aabd04a68c34e2e38ee2c6891",
+          "bytes": 230392,
+          "role": "district-home"
+        },
+        {
+          "url": "https://sindhudurg.nic.in/en/helpline/",
+          "sha256": "2aeb16c00d9122e15ee676ae789f0e7aa78e0b4d2d18931bd27b652e0894a931",
+          "bytes": 139682,
+          "role": "helplines"
+        },
+        {
+          "url": "https://sindhudurg.nic.in/en/notice_category/announcements/",
+          "sha256": "1e32ae5dd81e3a7065848761e627dc9b68725fb0ba1f2328fe0fbe3a1c3615a2",
+          "bytes": 147019,
+          "role": "notices-archive"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z"
+    },
+    {
+      "districtCode": "496",
+      "districtName": "Solapur",
+      "website": "https://solapur.gov.in/en/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "Citizen’s Call center",
+          "number": "155300",
+          "numberPublished": "155300",
+          "sourceUrl": "https://solapur.gov.in/en/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://solapur.gov.in/en/",
+          "sha256": "193d00eca60683ac72beb0bfeec4e57980da09b2449ea16d9ab970485c7d5b6a",
+          "bytes": 191029,
+          "role": "district-home"
+        },
+        {
+          "url": "https://solapur.gov.in/en/helpline/",
+          "sha256": "c0c8cdf312406af188e70d19ce32e88cee2b607bb35ac31826234a0adb85978a",
+          "bytes": 131495,
+          "role": "helplines"
+        },
+        {
+          "url": "https://solapur.gov.in/en/notice_category/announcements/",
+          "sha256": "1b523de12182c0f207d666fa55357e726f24aa9a1a0575e56037292a78f609cd",
+          "bytes": 136527,
+          "role": "notices-archive"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesStatus": "no-matching-items-in-checked-pages"
+    },
+    {
+      "districtCode": "497",
+      "districtName": "Thane",
+      "website": "https://thane.nic.in/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "Rescue & Relief",
+          "number": "1070",
+          "numberPublished": "1070",
+          "sourceUrl": "https://thane.nic.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://thane.nic.in/",
+          "sha256": "dba7bc76ca8d3f0cddbb54d48e95a0116e516940c63a8d6f53974537a3ac9614",
+          "bytes": 198205,
+          "role": "district-home"
+        },
+        {
+          "url": "https://thane.nic.in/en/helpline/",
+          "sha256": "74a7e73a86da4b01a8ccc13224d87262d2023f73bee14f373b8b98bd9dd0daa1",
+          "bytes": 127349,
+          "role": "helplines"
+        },
+        {
+          "url": "https://thane.nic.in/en/notice_category/announcements/",
+          "sha256": "773effb191257ab7b494dedbac4dfa5faaf896616b8d9b3984382185d5a9d7ff",
+          "bytes": 138150,
+          "role": "notices-archive"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesStatus": "no-matching-items-in-checked-pages"
+    },
+    {
+      "districtCode": "498",
+      "districtName": "Wardha",
+      "website": "https://wardha.gov.in/en/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "District Disaster Management Helpline Number",
+          "number": "07152-243446",
+          "numberPublished": "07152-243446",
+          "sourceUrl": "https://wardha.gov.in/en/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "District Disaster Management Helpline Number",
+          "number": "1077",
+          "numberPublished": "1077",
+          "sourceUrl": "https://wardha.gov.in/en/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Resident Deputy Collector",
+          "number": "07152-240872",
+          "numberPublished": "07152-240872",
+          "sourceUrl": "https://wardha.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Superintendent collector office",
+          "number": "07152-243466",
+          "numberPublished": "07152-243466",
+          "sourceUrl": "https://wardha.gov.in/en/helpline/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://wardha.gov.in/en/",
+          "sha256": "b6d8dd56ef954bac4e13092c7a57412601bd1dfe85e0730fab9598011696e657",
+          "bytes": 221208,
+          "role": "district-home"
+        },
+        {
+          "url": "https://wardha.gov.in/en/helpline/",
+          "sha256": "5240f12bdab64c3bd6bdaf0a4445452be9b6133a2bf0cbc2a2802e4a31a6d094",
+          "bytes": 124859,
+          "role": "helplines"
+        },
+        {
+          "url": "https://wardha.gov.in/en/notice_category/announcements/",
+          "sha256": "27d7d4a5a68edd34b802f98c329454d018985d1b43c01b1f473b63369b435ee6",
+          "bytes": 135871,
+          "role": "notices-archive"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesStatus": "no-matching-items-in-checked-pages"
+    },
+    {
+      "districtCode": "499",
+      "districtName": "Washim",
+      "website": "https://washim.gov.in/en/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "Citizen's Call center",
+          "number": "155300",
+          "numberPublished": "155300",
+          "sourceUrl": "https://washim.gov.in/en/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Emergency and Disaster Management",
+          "number": "108",
+          "numberPublished": "108",
+          "sourceUrl": "https://washim.gov.in/en/helpline-2/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Emergency and Disaster Management",
+          "number": "1077",
+          "numberPublished": "1077",
+          "sourceUrl": "https://washim.gov.in/en/helpline-2/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "Maritime SAR (Search and Rescue operation) Emergency services to Indian coast guards",
+          "number": "1554",
+          "numberPublished": "1554",
+          "sourceUrl": "https://washim.gov.in/en/helpline-2/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://washim.gov.in/en/",
+          "sha256": "c9e0dbf37108a9f2349e8cf8d56fbfc0d9607a03fe463b5d4656872d24d2100b",
+          "bytes": 223452,
+          "role": "district-home"
+        },
+        {
+          "url": "https://washim.gov.in/en/helpline-2/",
+          "sha256": "a385adf68848f34c437cf8bca0f696718b93e1bdedf3afd1f3c2d42500ee23f1",
+          "bytes": 130479,
+          "role": "helplines"
+        },
+        {
+          "url": "https://washim.gov.in/en/notice_category/announcements/",
+          "sha256": "23c053f1649edaced1c6d0449d4b8f1e1d527f9456bc7cebd9a3acb7dc57e16c",
+          "bytes": 141098,
+          "role": "notices-archive"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesStatus": "no-matching-items-in-checked-pages"
+    },
+    {
+      "districtCode": "500",
+      "districtName": "Yavatmal",
+      "website": "https://yavatmal.gov.in/en/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "Resident Deputy Collector, District Collector Office, Yavatmal",
+          "number": "07232-242488",
+          "numberPublished": "07232-242488",
+          "sourceUrl": "https://yavatmal.gov.in/en/contact-us/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "District Collector District Collector Office, Yavatmal",
+          "number": "07232-242501",
+          "numberPublished": "07232-242501",
+          "sourceUrl": "https://yavatmal.gov.in/en/contact-us/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [
+        {
+          "title": "List of beneficiaries of irrigation wells that were damaged and submerged due to heavy rains/floods during the Kharif season of the year 2025-26",
+          "description": "List of beneficiaries of irrigation wells that were damaged and submerged due to heavy rains/floods during the Kharif season of the year 2025-26",
+          "url": "https://cdn.s3waas.gov.in/s39ad6aaed513b73148b7d49f70afcfb32/uploads/2026/03/17732145591644.pdf",
+          "sourceUrl": "https://yavatmal.gov.in/en/notice_category/announcements/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s39ad6aaed513b73148b7d49f70afcfb32/uploads/2026/03/17732145591644.pdf",
+          "documents": [
+            {
+              "title": "View (920 KB)",
+              "url": "https://cdn.s3waas.gov.in/s39ad6aaed513b73148b7d49f70afcfb32/uploads/2026/03/17732145591644.pdf"
+            }
+          ],
+          "startDate": "2026-03-11",
+          "endDate": "2027-12-31",
+          "id": "500-a73e165c16c552",
+          "category": "water",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        },
+        {
+          "title": "Regarding a list of beneficiaries of irrigation wells that have been damaged and sunken due to excess rainfall/flood conditions during the Kharif season of 2025-26.",
+          "description": "Regarding a list of beneficiaries of irrigation wells that have been damaged and sunken due to excess rainfall/flood conditions during the Kharif season of 2025-26.",
+          "url": "https://cdn.s3waas.gov.in/s39ad6aaed513b73148b7d49f70afcfb32/uploads/2026/02/17720246021832.pdf",
+          "sourceUrl": "https://yavatmal.gov.in/en/notice_category/announcements/",
+          "documentUrl": "https://cdn.s3waas.gov.in/s39ad6aaed513b73148b7d49f70afcfb32/uploads/2026/02/17720246021832.pdf",
+          "documents": [
+            {
+              "title": "View (1 MB)",
+              "url": "https://cdn.s3waas.gov.in/s39ad6aaed513b73148b7d49f70afcfb32/uploads/2026/02/17720246021832.pdf"
+            }
+          ],
+          "startDate": "2026-02-25",
+          "endDate": "2026-12-31",
+          "id": "500-b150aadec98ce6",
+          "category": "water",
+          "language": "en",
+          "kind": "official-notice",
+          "legalStatus": "not-assessed",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "dateStatus": "dated",
+          "listingPeriodStatus": "open-or-unspecified"
+        }
+      ],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://yavatmal.gov.in/en/",
+          "sha256": "8a61435977e95111de1f957b13e22a8072716ebd63fc2aec0947f8a5021511b1",
+          "bytes": 211264,
+          "role": "district-home"
+        },
+        {
+          "url": "https://yavatmal.gov.in/en/helpline/",
+          "sha256": "d08de87700c58c4aee89d44d7cbead75ad64b7f82390c83d93aa41111fa83322",
+          "bytes": 130029,
+          "role": "helplines"
+        },
+        {
+          "url": "https://yavatmal.gov.in/en/disaster-management/",
+          "sha256": "c5a47606f44957873e4e81b2b406cc03fe7b68480e310c9354d38d7c2377a77b",
+          "bytes": 130039,
+          "role": "helplines"
+        },
+        {
+          "url": "https://yavatmal.gov.in/en/contact-us/",
+          "sha256": "2d7e6bfbb86c7d6bcd55fc138095f6caee5dc40014863f1efcb10dffa08f4d40",
+          "bytes": 127040,
+          "role": "helplines"
+        },
+        {
+          "url": "https://yavatmal.gov.in/en/notice_category/announcements/",
+          "sha256": "a3375154f6a2aae02b9da52c922a082521cf860d6973e6297b8d8cc89d63de6c",
+          "bytes": 145879,
+          "role": "notices-archive"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z"
+    },
+    {
+      "districtCode": "665",
+      "districtName": "Palghar",
+      "website": "https://palghar.gov.in/",
+      "checkedAt": "2026-10-28T12:11:04.822939Z",
+      "lastAttemptAt": "2026-10-28T12:11:04.822939Z",
+      "status": "checked",
+      "helplines": [
+        {
+          "label": "नागरिकांचा कॉल सेंटर",
+          "number": "155300",
+          "numberPublished": "155300",
+          "sourceUrl": "https://palghar.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        },
+        {
+          "label": "बचाव व मदत",
+          "number": "1077",
+          "numberPublished": "1077",
+          "sourceUrl": "https://palghar.gov.in/",
+          "checkedAt": "2026-10-28T12:11:04.822939Z",
+          "verification": "published-on-official-site",
+          "operationallyTested": false
+        }
+      ],
+      "notices": [],
+      "failures": [],
+      "sources": [
+        {
+          "url": "https://palghar.gov.in/",
+          "sha256": "fcb6620b81dcecc9c7ae4e97d1c1382ac5ceb58fe3e67dea4b6482d0d426d305",
+          "bytes": 217409,
+          "role": "district-home"
+        },
+        {
+          "url": "https://palghar.gov.in/en/helpline/",
+          "sha256": "797f26ec04c760e1c7e137e612da0da3b9aa843d8313457ca2953fd006f9a54e",
+          "bytes": 131319,
+          "role": "helplines"
+        },
+        {
+          "url": "https://palghar.gov.in/en/notice_category/announcements/",
+          "sha256": "c5696953ce1466039ed5e6cc32a8a7d809563df90d9daa26db19d79345f42e4f",
+          "bytes": 127550,
+          "role": "notices-archive"
+        }
+      ],
+      "helplinesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesCheckedAt": "2026-10-28T12:11:04.822939Z",
+      "noticesStatus": "no-matching-items-in-checked-pages"
+    }
+  ]
+}

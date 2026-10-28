@@ -1,7 +1,8 @@
 name: Publish site and refresh official data
-# Daily IMD and Maharain rainfall, weekly GSDA groundwater. Each importer checks its source
-# before writing and leaves the previous files in place on any failure, so a bad day never
-# blanks the site. This workflow explicitly deploys its validated snapshot to Pages.
+# Daily IMD and Maharain rainfall and district notices; GSDA groundwater on Mondays; the CWC
+# dam bulletin on Mondays and Fridays. Each importer checks its source before writing and
+# leaves the previous files in place on any failure, so a bad day never blanks the site.
+# This workflow explicitly deploys its validated snapshot to Pages.
 on:
   push:
     branches: [main]
@@ -18,7 +19,7 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 40
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -43,16 +44,42 @@ jobs:
         if: github.event_name != 'push'
         continue-on-error: true
         run: python tools/import-maharain.py
+      - name: Decide which weekly feeds are due
+        id: due
+        if: github.event_name != 'push'
+        run: |
+          day=$(date -u +%u)
+          manual=${{ github.event_name == 'workflow_dispatch' }}
+          echo "groundwater=$( { [ "$day" = 1 ] || [ "$manual" = true ]; } && echo true || echo false)" >> "$GITHUB_OUTPUT"
+          echo "reservoirs=$( { [ "$day" = 1 ] || [ "$day" = 5 ] || [ "$manual" = true ]; } && echo true || echo false)" >> "$GITHUB_OUTPUT"
       - name: GSDA groundwater (Mondays, or when run by hand)
         id: groundwater
+        if: github.event_name != 'push' && steps.due.outputs.groundwater == 'true'
+        continue-on-error: true
+        run: python tools/import-groundwater.py --download
+      - name: District notices and public contacts
+        id: services
         if: github.event_name != 'push'
         continue-on-error: true
+        run: python tools/import-district-services.py
+      - name: CWC weekly dam bulletin (Mondays and Fridays, or when run by hand)
+        id: reservoirs
+        if: github.event_name != 'push' && steps.due.outputs.reservoirs == 'true'
+        continue-on-error: true
         run: |
-          if [ "$(date -u +%u)" = "1" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            python tools/import-groundwater.py --download
-          else
-            echo "Groundwater refreshes on Mondays."
-          fi
+          # The bulletin page lists its PDFs only after its script runs, so a browser reads it.
+          pip install --quiet playwright==1.48.0
+          python -m playwright install --with-deps chromium
+          python tools/import-statewide-reservoirs.py
+      - name: Record refresh results
+        if: github.event_name != 'push'
+        env:
+          FEED_RAINFALL: ${{ steps.imd.outcome }}
+          FEED_SEASON: ${{ steps.maharain.outcome }}
+          FEED_GROUNDWATER: ${{ steps.groundwater.outcome }}
+          FEED_SERVICES: ${{ steps.services.outcome }}
+          FEED_RESERVOIRS: ${{ steps.reservoirs.outcome }}
+        run: python tools/write-refresh-status.py
       - name: Commit refreshed data
         if: github.event_name != 'push'
         run: |
@@ -74,7 +101,7 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
       - name: Flag failed imports
-        if: steps.imd.outcome == 'failure' || steps.maharain.outcome == 'failure' || steps.groundwater.outcome == 'failure'
+        if: steps.imd.outcome == 'failure' || steps.maharain.outcome == 'failure' || steps.groundwater.outcome == 'failure' || steps.services.outcome == 'failure' || steps.reservoirs.outcome == 'failure'
         run: |
-          echo "::warning::An import failed (IMD: ${{ steps.imd.outcome }}, Maharain: ${{ steps.maharain.outcome }}, groundwater: ${{ steps.groundwater.outcome }}). The previous data was kept."
+          echo "::warning::An import failed (IMD: ${{ steps.imd.outcome }}, Maharain: ${{ steps.maharain.outcome }}, groundwater: ${{ steps.groundwater.outcome }}, district notices: ${{ steps.services.outcome }}, CWC dams: ${{ steps.reservoirs.outcome }}). The previous data was kept."
           exit 1
