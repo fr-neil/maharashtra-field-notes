@@ -1,8 +1,7 @@
 {
-  "status": "ok",
-  "checkedAt": "2026-10-28T12:12:46+00:00",
-  "reportDate": "2026-10-22",
-  "recordCount": 38,
-  "lastGoodRetained": false,
+  "status": "error",
+  "checkedAt": "2026-10-28T13:52:19+00:00",
+  "error": "Page.wait_for_selector: Timeout 60000ms exceeded.\nCall log:\nwaiting for locator(\"a[href*=\\\"/admin/storage/bulletins/\\\"]\") to be visible\n",
+  "lastGoodRetained": true,
   "sourceUrl": "https://rsms.cwc.gov.in/frameWork/web/bulletin-report-page"
 }
