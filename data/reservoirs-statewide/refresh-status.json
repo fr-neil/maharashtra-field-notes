@@ -1,7 +1,18 @@
 {
-  "status": "error",
-  "checkedAt": "2026-10-28T14:07:28+00:00",
-  "error": "HTTP Error 401: Unauthorized",
+  "status": "unchanged",
+  "checkedAt": "2026-10-28T14:10:14+00:00",
+  "reportDate": "2026-10-22",
+  "recordCount": 38,
   "lastGoodRetained": true,
-  "sourceUrl": "https://rsms.cwc.gov.in/frameWork/web/bulletin-report-page"
+  "sourceUrl": "https://rsms.cwc.gov.in/frameWork/web/bulletin-report-page",
+  "checkedUrls": [
+    "https://rsms.cwc.gov.in/admin/storage/bulletins/bulletin-28-10-2026-126.pdf",
+    "https://rsms.cwc.gov.in/admin/storage/bulletins/bulletin-28-10-2026-127.pdf",
+    "https://rsms.cwc.gov.in/admin/storage/bulletins/bulletin-28-10-2026-128.pdf",
+    "https://rsms.cwc.gov.in/admin/storage/bulletins/bulletin-28-10-2026-129.pdf",
+    "https://rsms.cwc.gov.in/admin/storage/bulletins/bulletin-27-10-2026-126.pdf",
+    "https://rsms.cwc.gov.in/admin/storage/bulletins/bulletin-27-10-2026-127.pdf",
+    "https://rsms.cwc.gov.in/admin/storage/bulletins/bulletin-27-10-2026-128.pdf",
+    "https://rsms.cwc.gov.in/admin/storage/bulletins/bulletin-27-10-2026-129.pdf"
+  ]
 }

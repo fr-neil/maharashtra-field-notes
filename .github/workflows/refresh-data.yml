@@ -1,8 +1,9 @@
 name: Publish site and refresh official data
-# Daily IMD and Maharain rainfall and district notices; GSDA groundwater on Mondays; the CWC
-# dam bulletin on Mondays and Fridays. Each importer checks its source before writing and
-# leaves the previous files in place on any failure, so a bad day never blanks the site.
-# This workflow explicitly deploys its validated snapshot to Pages.
+# Daily IMD and Maharain rainfall and district notices; GSDA groundwater on Mondays. Each
+# importer checks its source before writing and leaves the previous files in place on any
+# failure, so a bad day never blanks the site. This workflow explicitly deploys its
+# validated snapshot to Pages. The CWC dam bulletin refuses requests from outside India, so
+# it is refreshed from India by hand (see README) and pushed; a push redeploys.
 on:
   push:
     branches: [main]
@@ -52,7 +53,6 @@ jobs:
           day=$(date -u +%u)
           manual=${{ github.event_name == 'workflow_dispatch' }}
           echo "groundwater=$( { [ "$day" = 1 ] || [ "$manual" = true ]; } && echo true || echo false)" >> "$GITHUB_OUTPUT"
-          echo "reservoirs=$( { [ "$day" = 1 ] || [ "$day" = 5 ] || [ "$manual" = true ]; } && echo true || echo false)" >> "$GITHUB_OUTPUT"
       - name: GSDA groundwater (Mondays, or when run by hand)
         id: groundwater
         if: github.event_name != 'push' && steps.due.outputs.groundwater == 'true'
@@ -63,12 +63,6 @@ jobs:
         if: github.event_name != 'push'
         continue-on-error: true
         run: python tools/import-district-services.py
-      - name: CWC weekly dam bulletin (Mondays and Fridays, or when run by hand)
-        id: reservoirs
-        if: github.event_name != 'push' && steps.due.outputs.reservoirs == 'true'
-        continue-on-error: true
-        # Checks the next expected public PDF names; the JS bulletin page doesn't load from overseas runners.
-        run: python tools/import-statewide-reservoirs.py
       - name: Record refresh results
         if: github.event_name != 'push'
         env:
@@ -76,7 +70,6 @@ jobs:
           FEED_SEASON: ${{ steps.maharain.outcome }}
           FEED_GROUNDWATER: ${{ steps.groundwater.outcome }}
           FEED_SERVICES: ${{ steps.services.outcome }}
-          FEED_RESERVOIRS: ${{ steps.reservoirs.outcome }}
         run: python tools/write-refresh-status.py
       - name: Commit refreshed data
         if: github.event_name != 'push'
@@ -99,7 +92,7 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
       - name: Flag failed imports
-        if: steps.imd.outcome == 'failure' || steps.maharain.outcome == 'failure' || steps.groundwater.outcome == 'failure' || steps.services.outcome == 'failure' || steps.reservoirs.outcome == 'failure'
+        if: steps.imd.outcome == 'failure' || steps.maharain.outcome == 'failure' || steps.groundwater.outcome == 'failure' || steps.services.outcome == 'failure'
         run: |
-          echo "::warning::An import failed (IMD: ${{ steps.imd.outcome }}, Maharain: ${{ steps.maharain.outcome }}, groundwater: ${{ steps.groundwater.outcome }}, district notices: ${{ steps.services.outcome }}, CWC dams: ${{ steps.reservoirs.outcome }}). The previous data was kept."
+          echo "::warning::An import failed (IMD: ${{ steps.imd.outcome }}, Maharain: ${{ steps.maharain.outcome }}, groundwater: ${{ steps.groundwater.outcome }}, district notices: ${{ steps.services.outcome }}). The previous data was kept."
           exit 1

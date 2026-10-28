@@ -21,9 +21,8 @@
     },
     {
       "id": "reservoirs",
-      "status": "failed",
-      "lastSuccessAt": "2026-10-28T12:12:46+00:00",
-      "attemptedAt": "2026-10-28T14:07:29+00:00"
+      "status": "snapshot",
+      "lastSuccessAt": "2026-10-28T12:12:46+00:00"
     },
     {
       "id": "services",

@@ -22,8 +22,17 @@ The language choice is kept in the URL and shared links, and restores on reload 
 Each folder under `data/` holds `index.json`, a CSV and provenance (publisher, original URL, SHA256, report date, retrieval time). `.github/workflows/refresh-data.yml` runs the importers in `tools/` at 19:00 IST, with a backup run at 22:15 IST:
 - IMD and Maharain rainfall and district notices: daily
 - GSDA groundwater: Mondays
-- the CWC dam bulletin: Mondays and Fridays
 
-A manual run refreshes all of them, and `data/refresh-status.json` records each feed's result. The workflow explicitly stages public files, uploads a Pages artifact and deploys it after pushes and refreshes. An importer that cannot validate its source leaves the previous files in place; the available snapshot is deployed and the failed import is flagged. Repository tooling is excluded from the public artifact.
+A manual run refreshes all of them, and `data/refresh-status.json` records each feed's result.
+
+**CWC dam bulletin, by hand from India.** CWC publishes it every Thursday, but its server refuses requests from outside India, including GitHub's runners (HTTP 401). After Thursday, from a computer in India with Poppler `pdftotext` or PyMuPDF:
+
+```
+git pull
+HUB_PUBLIC_DIR=. HUB_WORK_DIR=.work python tools/import-statewide-reservoirs.py
+git add data && git commit -m "chore: CWC dam bulletin" && git push
+```
+
+The importer checks the bulletin's expected file names. It prints `unchanged` when nothing newer is out, and the push redeploys the site. The workflow explicitly stages public files, uploads a Pages artifact and deploys it after pushes and refreshes. An importer that cannot validate its source leaves the previous files in place; the available snapshot is deployed and the failed import is flagged. Repository tooling is excluded from the public artifact.
 
 Pages are `noindex`. Built from the `maharashtra-hub` source with `npm run build:static`.

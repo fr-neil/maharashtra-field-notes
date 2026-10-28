@@ -137,11 +137,11 @@ def pdf_exists(url: str) -> bool:
 
 
 def probe_latest(previous_url: str, today: date, exists=pdf_exists) -> tuple[str | None, list[str]]:
-    """Find newer bulletins by their public file names: weekly date, serial +1 per week.
+    """Find newer bulletins by their public file names: a weekly date and a rising serial.
 
     The bulletin page lists these PDFs only through an encrypted API that needs a
-    browser, which official hosts often block from overseas CI runners; the PDFs
-    themselves are plain public files.
+    browser. The PDFs themselves are plain public files. The host refuses requests
+    from outside India (HTTP 401 on GitHub's runners), so run this from India.
     """
     match = SEQUENCED_NAME.search(urllib.parse.urlparse(previous_url).path)
     if not match:
@@ -154,7 +154,7 @@ def probe_latest(previous_url: str, today: date, exists=pdf_exists) -> tuple[str
             when = last + timedelta(days=7 * weeks + shift)
             if when > today:
                 continue
-            for number in (serial + weeks, serial + weeks + 1):
+            for number in range(serial + 1, serial + weeks + 4):  # serials sometimes skip
                 url = f"{BULLETIN_BASE}bulletin-{when:%d-%m-%Y}-{number}.pdf"
                 tried.append(url)
                 if exists(url):
