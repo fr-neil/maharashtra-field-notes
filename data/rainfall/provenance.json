@@ -2,47 +2,18 @@
   "publisher": "India Meteorological Department (IMD), Ministry of Earth Sciences",
   "sourcePage": "https://mausam.imd.gov.in/imd_latest/contents/rainfall_statistics_3.php",
   "sourceDocumentUrl": "https://mausam.imd.gov.in/Rainfall/DISTRICT_RAINFALL_DISTRIBUTION_COUNTRY_INDIA_cd.pdf",
-  "reportDay": "2026-10-27",
+  "reportDay": "2026-10-28",
   "periodStart": "2026-10-01",
-  "periodEnd": "2026-10-27",
-  "retrievedAt": "2026-10-27T20:42:06+00:00",
-  "sha256": "1869260960ad0ae2a9aed49e0b40fc8e06b16126ebdc3fcd4c43b415c1140174",
-  "bytes": 2985861,
+  "periodEnd": "2026-10-28",
+  "retrievedAt": "2026-10-28T11:31:53+00:00",
+  "sha256": "836af8021c55160f33298e58f6157167e790a32c2a9688e7579188c0620aa678",
+  "bytes": 2994834,
   "extractionMethod": "pdftotext -raw text of IMD's machine-generated PDF; rows checked against page images on first import",
   "script": "scripts/import-rainfall.py",
   "validation": {
     "districtsFound": 36,
     "allDistrictsMapped": true,
-    "departureWarnings": [
-      {
-        "district": "BHANDARA",
-        "span": "day",
-        "printed": -86,
-        "calculated": -100.0,
-        "likelyCause": "trace rainfall printed as 0 mm"
-      },
-      {
-        "district": "BULDHANA",
-        "span": "day",
-        "printed": -98,
-        "calculated": -100.0,
-        "likelyCause": "trace rainfall printed as 0 mm"
-      },
-      {
-        "district": "CHANDRAPUR",
-        "span": "day",
-        "printed": -96,
-        "calculated": -100.0,
-        "likelyCause": "trace rainfall printed as 0 mm"
-      },
-      {
-        "district": "WARDHA",
-        "span": "day",
-        "printed": -94,
-        "calculated": -100.0,
-        "likelyCause": "trace rainfall printed as 0 mm"
-      }
-    ]
+    "departureWarnings": []
   },
   "apiCheck": "IMD district rainfall JSON APIs returned 401 (IP whitelisting) on 2026-10-27; the public PDF is used instead."
 }
