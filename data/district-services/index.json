@@ -1,14 +1,14 @@
 {
   "meta": {
     "title": "Official Maharashtra district services and notices",
-    "retrievedAt": "2026-10-29T19:13:45.359482Z",
+    "retrievedAt": "2026-10-29T21:30:47.278572Z",
     "directorySourceUrl": "https://maharashtra.s3waas.gov.in/",
     "directoryFinalUrl": "https://maharashtra.s3waas.gov.in/",
     "directorySha256": "1a243cee936e59ee9323012d7647226fdc4401d038d279eb9dfd9aa2c6c24c55",
     "expectedDistrictCount": 36,
     "districtCount": 36,
     "contactCount": 126,
-    "noticeCount": 36,
+    "noticeCount": 34,
     "districtsWithContacts": 36,
     "districtsWithNotices": 20,
     "refreshMethod": "Public official HTML; no authenticated REST or RSS dependency",
@@ -17,30 +17,30 @@
     "contactSemantics": "Numbers verified as published on an official page; no phone calls or operational tests",
     "coverageNote": "Bounded check of home and current announcements; no claim to exhaust historical notices or establish absence of a restriction",
     "directoryBytes": 49080,
-    "datedNoticeCount": 36,
+    "datedNoticeCount": 34,
     "downloads": {
       "contacts": "contacts.csv",
       "notices": "notices.csv"
     },
     "selectedDistrictCount": 36,
-    "selectedDistrictFailureCount": 3,
-    "refreshStatus": "partial"
+    "selectedDistrictFailureCount": 0,
+    "refreshStatus": "complete"
   },
   "districts": [
     {
       "districtCode": "466",
       "districtName": "Ahilyanagar",
       "website": "https://ahilyanagar.maharashtra.gov.in/en/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
-      "status": "stale-partial",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
+      "status": "checked",
       "helplines": [
         {
           "label": "Citizen's Call center",
           "number": "155300",
           "numberPublished": "155300",
           "sourceUrl": "https://ahilyanagar.maharashtra.gov.in/en/",
-          "checkedAt": "2026-10-28T21:24:17.458884Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -49,7 +49,7 @@
           "number": "1077",
           "numberPublished": "1077",
           "sourceUrl": "https://ahilyanagar.maharashtra.gov.in/en/",
-          "checkedAt": "2026-10-28T21:24:17.458884Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -58,7 +58,7 @@
           "number": "0241-2323844",
           "numberPublished": "0241-2323844",
           "sourceUrl": "https://ahilyanagar.maharashtra.gov.in/en/department/helpline/",
-          "checkedAt": "2026-10-28T21:24:17.458884Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -83,88 +83,41 @@
           "language": "en",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-28T21:24:17.458884Z",
-          "dateStatus": "dated",
-          "listingPeriodStatus": "open-or-unspecified"
-        },
-        {
-          "title": "List of farmers in Ahilyangar District having Fodder Available for sale",
-          "description": "",
-          "url": "https://cdn.s3waas.gov.in/s345fbc6d3e05ebd93369ce542e8f2322d/uploads/2026/09/17915341247923.pdf",
-          "sourceUrl": "https://ahilyanagar.maharashtra.gov.in/en/notice_category/announcements/",
-          "documentUrl": "https://cdn.s3waas.gov.in/s345fbc6d3e05ebd93369ce542e8f2322d/uploads/2026/09/17915341247923.pdf",
-          "documents": [
-            {
-              "title": "View (767 KB)",
-              "url": "https://cdn.s3waas.gov.in/s345fbc6d3e05ebd93369ce542e8f2322d/uploads/2026/09/17915341247923.pdf"
-            },
-            {
-              "title": "Farmer List (4 MB)",
-              "url": "https://cdn.s3waas.gov.in/s345fbc6d3e05ebd93369ce542e8f2322d/uploads/2026/09/17915341349766.pdf"
-            }
-          ],
-          "startDate": "2026-10-09",
-          "endDate": "2026-10-31",
-          "id": "466-bea78821446827",
-          "category": "fodder",
-          "language": "en",
-          "kind": "official-notice",
-          "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-28T21:24:17.458884Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         }
       ],
-      "failures": [
-        {
-          "section": "home",
-          "url": "https://ahilyanagar.maharashtra.gov.in/en/",
-          "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
-        }
-      ],
+      "failures": [],
       "sources": [
         {
           "url": "https://ahilyanagar.maharashtra.gov.in/en/",
-          "sha256": "4bfbaac2daea0c9227b9447cd43e021666b4282f41b1cc46af8e0b3638e40667",
-          "bytes": 193798,
-          "role": "district-home",
-          "retainedLastGood": true
+          "sha256": "c7d24c9022c046f029d045e0d16288acde8aba7ec850601ba76f811e94dca923",
+          "bytes": 193972,
+          "role": "district-home"
         },
         {
           "url": "https://ahilyanagar.maharashtra.gov.in/en/department/helpline/",
-          "sha256": "06c6d4ad4ad837cbf07b65bdc9437ff0857097d00265c18c2bce7b6e92ff9c07",
+          "sha256": "dd715270b8189cd97a351cfc53f1217daaa9ac73bcc55b9cfb02761e3dcfe290",
           "bytes": 134756,
-          "role": "helplines",
-          "retainedLastGood": true
+          "role": "helplines"
         },
         {
           "url": "https://ahilyanagar.maharashtra.gov.in/en/notice_category/announcements/",
-          "sha256": "ad671b348f3c2caaa0114afb255f0ef7a22d8e7f72937db9d1de4e47933e7fff",
-          "bytes": 146386,
-          "role": "notices-archive",
-          "retainedLastGood": true
-        },
-        {
-          "url": "https://ahilyanagar.maharashtra.gov.in/en/notice/tanker-daily-report-2/",
-          "sha256": "d755d22a040dea41e7a8bf5b33ac64b84628c5d28c0b4a300694e336f5075638",
-          "bytes": 131853,
-          "role": "notice-detail",
-          "retainedLastGood": true
+          "sha256": "a910ec6cfb17276a9dd02951e952b3c5c1e2e3f6b86b589c95daf489b9bb318d",
+          "bytes": 146217,
+          "role": "notices-archive"
         }
       ],
-      "helplinesCheckedAt": "2026-10-28T21:24:17.458884Z",
-      "noticesCheckedAt": "2026-10-28T21:24:17.458884Z",
-      "retainedLastGood": [
-        "helplines",
-        "notices"
-      ]
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z"
     },
     {
       "districtCode": "467",
       "districtName": "Akola",
       "website": "https://akola.gov.in/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -172,7 +125,7 @@
           "number": "0724-2424444",
           "numberPublished": "0724-2424444",
           "sourceUrl": "https://akola.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -181,7 +134,7 @@
           "number": "0724-2424442",
           "numberPublished": "0724-2424442",
           "sourceUrl": "https://akola.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -190,7 +143,7 @@
           "number": "0724-2432153",
           "numberPublished": "0724-2432153",
           "sourceUrl": "https://akola.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -199,7 +152,7 @@
           "number": "0724-2435193",
           "numberPublished": "0724-2435193",
           "sourceUrl": "https://akola.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -224,7 +177,7 @@
           "language": "en",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         }
@@ -233,7 +186,7 @@
       "sources": [
         {
           "url": "https://akola.gov.in/",
-          "sha256": "ee248141425b46057de75d0aba8e82b95c68e018ce238632e5323e09ac62994c",
+          "sha256": "265964556041ef62f54c921a49a8147482fa447b340dcae6dc48cb534baab338",
           "bytes": 204697,
           "role": "district-home"
         },
@@ -250,15 +203,15 @@
           "role": "notices-archive"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z"
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z"
     },
     {
       "districtCode": "468",
       "districtName": "Amravati",
       "website": "https://amravati.gov.in/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -266,7 +219,7 @@
           "number": "07212662025",
           "numberPublished": "07212662025",
           "sourceUrl": "https://amravati.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -275,7 +228,7 @@
           "number": "1077",
           "numberPublished": "1077",
           "sourceUrl": "https://amravati.gov.in/en/home3/directory/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -284,7 +237,7 @@
           "number": "1033",
           "numberPublished": "1033",
           "sourceUrl": "https://amravati.gov.in/en/home3/directory/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -309,7 +262,7 @@
           "language": "mr",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         },
@@ -332,7 +285,7 @@
           "language": "en",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         },
@@ -355,7 +308,7 @@
           "language": "mr",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         },
@@ -378,7 +331,7 @@
           "language": "mr",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         }
@@ -422,23 +375,23 @@
           "role": "notice-detail"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z"
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z"
     },
     {
       "districtCode": "469",
       "districtName": "Chhatrapati Sambhajinagar",
       "website": "https://chhatrapatisambhajinagar.maharashtra.gov.in/en/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
-      "status": "stale-partial",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
+      "status": "checked",
       "helplines": [
         {
           "label": "Citizen’s Call center",
           "number": "155300",
           "numberPublished": "155300",
           "sourceUrl": "https://chhatrapatisambhajinagar.maharashtra.gov.in/en/",
-          "checkedAt": "2026-10-28T21:24:17.458884Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -463,61 +416,47 @@
           "language": "en",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-28T21:24:17.458884Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         }
       ],
-      "failures": [
-        {
-          "section": "home",
-          "url": "https://chhatrapatisambhajinagar.maharashtra.gov.in/en/",
-          "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
-        }
-      ],
+      "failures": [],
       "sources": [
         {
           "url": "https://chhatrapatisambhajinagar.maharashtra.gov.in/en/",
-          "sha256": "19440034f3e9b1cf686dcac10f518dbc2c0244a57dc66f55015a3f05d00207e5",
-          "bytes": 203390,
-          "role": "district-home",
-          "retainedLastGood": true
+          "sha256": "a60095ed09250a18f7ffae7702caf619be003bcab1f09975bbc7fadc8cf1a94f",
+          "bytes": 203569,
+          "role": "district-home"
         },
         {
           "url": "https://chhatrapatisambhajinagar.maharashtra.gov.in/en/helpline/",
-          "sha256": "74f84fd71d1b35d27a8ae00ae51cdc66800ad136768d67ecb76255344d5295c1",
-          "bytes": 126464,
-          "role": "helplines",
-          "retainedLastGood": true
+          "sha256": "ed642fa5010b5fe0b705de9946fc34db2fe6b68192a824c15e92ef46c395a6ab",
+          "bytes": 126617,
+          "role": "helplines"
         },
         {
           "url": "https://chhatrapatisambhajinagar.maharashtra.gov.in/en/notice_category/announcements/",
-          "sha256": "d596c780a5b374170a48700f5ded6122a39ddf41a0337a23b760b3cfaef20ef0",
-          "bytes": 128886,
-          "role": "notices-archive",
-          "retainedLastGood": true
+          "sha256": "2affb18cae82eb7cfd05dbd3781a78066cacb8ec237ca1fcaed580e9b8d3d5c0",
+          "bytes": 129039,
+          "role": "notices-archive"
         },
         {
           "url": "https://chhatrapatisambhajinagar.maharashtra.gov.in/en/notice/water-scarcity-2026-2027-tender-for-water-supply-via-tankers-trucks/",
-          "sha256": "2754bab23c91da74729d3b7026040333b41ba1378e3d06fc25fbcb8ec4015838",
-          "bytes": 127447,
-          "role": "notice-detail",
-          "retainedLastGood": true
+          "sha256": "d835f34e247ba7ecd9b0bf1201a0bf6254ca3a36007910194e243b8d964c5997",
+          "bytes": 127600,
+          "role": "notice-detail"
         }
       ],
-      "helplinesCheckedAt": "2026-10-28T21:24:17.458884Z",
-      "noticesCheckedAt": "2026-10-28T21:24:17.458884Z",
-      "retainedLastGood": [
-        "helplines",
-        "notices"
-      ]
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z"
     },
     {
       "districtCode": "470",
       "districtName": "Beed",
       "website": "https://beed.gov.in/en/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -525,7 +464,7 @@
           "number": "155300",
           "numberPublished": "155300",
           "sourceUrl": "https://beed.gov.in/en/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -534,7 +473,7 @@
           "number": "1077",
           "numberPublished": "1077",
           "sourceUrl": "https://beed.gov.in/en/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -543,7 +482,7 @@
           "number": "02442-299299",
           "numberPublished": "02442-299299",
           "sourceUrl": "https://beed.gov.in/en/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -552,7 +491,7 @@
           "number": "02222027990",
           "numberPublished": "02222027990",
           "sourceUrl": "https://beed.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -577,7 +516,7 @@
           "language": "en",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         }
@@ -609,15 +548,15 @@
           "role": "notice-detail"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z"
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z"
     },
     {
       "districtCode": "471",
       "districtName": "Bhandara",
       "website": "https://bhandara.gov.in/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -625,7 +564,7 @@
           "number": "155300",
           "numberPublished": "155300",
           "sourceUrl": "https://bhandara.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -652,16 +591,16 @@
           "role": "notices-archive"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z",
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z",
       "noticesStatus": "no-matching-items-in-checked-pages"
     },
     {
       "districtCode": "472",
       "districtName": "Buldhana",
       "website": "https://buldhana.nic.in/en/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -669,7 +608,7 @@
           "number": "155300",
           "numberPublished": "155300",
           "sourceUrl": "https://buldhana.nic.in/en/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -694,7 +633,7 @@
           "language": "en",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         },
@@ -717,7 +656,7 @@
           "language": "en",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         },
@@ -740,7 +679,7 @@
           "language": "en",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         },
@@ -763,7 +702,7 @@
           "language": "en",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         }
@@ -813,15 +752,15 @@
           "role": "notice-detail"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z"
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z"
     },
     {
       "districtCode": "473",
       "districtName": "Chandrapur",
       "website": "https://chanda.nic.in/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -829,7 +768,7 @@
           "number": "112",
           "numberPublished": "११२",
           "sourceUrl": "https://chanda.nic.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -838,7 +777,7 @@
           "number": "1077",
           "numberPublished": "1077",
           "sourceUrl": "https://chanda.nic.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -847,7 +786,7 @@
           "number": "07172-251597",
           "numberPublished": "07172-251597",
           "sourceUrl": "https://chanda.nic.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -874,16 +813,16 @@
           "role": "notices-archive"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z",
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z",
       "noticesStatus": "no-matching-items-in-checked-pages"
     },
     {
       "districtCode": "474",
       "districtName": "Dhule",
       "website": "https://dhule.gov.in/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -891,7 +830,7 @@
           "number": "155300",
           "numberPublished": "१५५३००",
           "sourceUrl": "https://dhule.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -900,7 +839,7 @@
           "number": "1551",
           "numberPublished": "१५५१",
           "sourceUrl": "https://dhule.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -909,7 +848,7 @@
           "number": "1077",
           "numberPublished": "१०७७",
           "sourceUrl": "https://dhule.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -934,7 +873,7 @@
           "language": "mr",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         }
@@ -966,15 +905,15 @@
           "role": "notice-detail"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z"
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z"
     },
     {
       "districtCode": "475",
       "districtName": "Gadchiroli",
       "website": "https://gadchiroli.gov.in/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -982,7 +921,7 @@
           "number": "155300",
           "numberPublished": "155300",
           "sourceUrl": "https://gadchiroli.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -991,7 +930,7 @@
           "number": "07132 222031",
           "numberPublished": "07132 222031",
           "sourceUrl": "https://gadchiroli.gov.in/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -1016,7 +955,7 @@
           "language": "en",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         },
@@ -1039,7 +978,7 @@
           "language": "en",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         }
@@ -1077,15 +1016,15 @@
           "role": "notice-detail"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z"
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z"
     },
     {
       "districtCode": "476",
       "districtName": "Gondia",
       "website": "https://gondia.gov.in/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -1093,7 +1032,7 @@
           "number": "155300",
           "numberPublished": "१५५३००",
           "sourceUrl": "https://gondia.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -1120,16 +1059,16 @@
           "role": "notices-archive"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z",
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z",
       "noticesStatus": "no-matching-items-in-checked-pages"
     },
     {
       "districtCode": "477",
       "districtName": "Hingoli",
       "website": "https://hingoli.nic.in/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -1137,7 +1076,7 @@
           "number": "02456-221701",
           "numberPublished": "02456-221701",
           "sourceUrl": "https://hingoli.nic.in/en/telephone-directory/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1146,7 +1085,7 @@
           "number": "02456-220417",
           "numberPublished": "02456-220417",
           "sourceUrl": "https://hingoli.nic.in/en/telephone-directory/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -1171,7 +1110,7 @@
           "language": "mr",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "ended"
         },
@@ -1194,7 +1133,7 @@
           "language": "mr",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "ended"
         }
@@ -1238,15 +1177,15 @@
           "role": "notice-detail"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z"
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z"
     },
     {
       "districtCode": "478",
       "districtName": "Jalgaon",
       "website": "https://jalgaon.gov.in/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -1254,7 +1193,7 @@
           "number": "1077",
           "numberPublished": "1077",
           "sourceUrl": "https://jalgaon.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1263,7 +1202,7 @@
           "number": "155300",
           "numberPublished": "155300",
           "sourceUrl": "https://jalgaon.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -1290,16 +1229,16 @@
           "role": "notices-archive"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z",
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z",
       "noticesStatus": "no-matching-items-in-checked-pages"
     },
     {
       "districtCode": "479",
       "districtName": "Jalna",
       "website": "https://jalna.gov.in/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -1307,7 +1246,7 @@
           "number": "1077",
           "numberPublished": "1077",
           "sourceUrl": "https://jalna.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -1332,7 +1271,7 @@
           "language": "mr",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         }
@@ -1364,15 +1303,15 @@
           "role": "notice-detail"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z"
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z"
     },
     {
       "districtCode": "480",
       "districtName": "Kolhapur",
       "website": "https://kolhapur.gov.in/en/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -1380,7 +1319,7 @@
           "number": "1077",
           "numberPublished": "1077",
           "sourceUrl": "https://kolhapur.gov.in/en/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1389,7 +1328,7 @@
           "number": "0231-2659232",
           "numberPublished": "0231-2659232",
           "sourceUrl": "https://kolhapur.gov.in/en/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1398,7 +1337,7 @@
           "number": "2652950",
           "numberPublished": "2652950",
           "sourceUrl": "https://kolhapur.gov.in/en/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1407,7 +1346,7 @@
           "number": "2652953",
           "numberPublished": "2652953",
           "sourceUrl": "https://kolhapur.gov.in/en/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1416,7 +1355,7 @@
           "number": "2652954",
           "numberPublished": "2652954",
           "sourceUrl": "https://kolhapur.gov.in/en/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1425,7 +1364,7 @@
           "number": "+91 8275121077",
           "numberPublished": "+91 8275121077",
           "sourceUrl": "https://kolhapur.gov.in/en/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1434,7 +1373,7 @@
           "number": "155300",
           "numberPublished": "155300",
           "sourceUrl": "https://kolhapur.gov.in/en/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1443,7 +1382,7 @@
           "number": "0231-2545473",
           "numberPublished": "0231-2545473",
           "sourceUrl": "https://kolhapur.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1452,7 +1391,7 @@
           "number": "8669052600",
           "numberPublished": "8669052600",
           "sourceUrl": "https://kolhapur.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1461,7 +1400,7 @@
           "number": "1800-22-4950",
           "numberPublished": "1800-22-4950",
           "sourceUrl": "https://kolhapur.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1470,7 +1409,7 @@
           "number": "1967",
           "numberPublished": "1967",
           "sourceUrl": "https://kolhapur.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -1495,7 +1434,7 @@
           "language": "en",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         }
@@ -1527,15 +1466,15 @@
           "role": "notice-detail"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z"
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z"
     },
     {
       "districtCode": "481",
       "districtName": "Latur",
       "website": "https://latur.gov.in/en/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -1543,7 +1482,7 @@
           "number": "155300",
           "numberPublished": "155300",
           "sourceUrl": "https://latur.gov.in/en/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -1568,7 +1507,7 @@
           "language": "en",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         },
@@ -1591,7 +1530,7 @@
           "language": "en",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         },
@@ -1614,7 +1553,7 @@
           "language": "en",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         }
@@ -1658,15 +1597,15 @@
           "role": "notice-detail"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z"
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z"
     },
     {
       "districtCode": "482",
       "districtName": "Mumbai",
       "website": "https://mumbaicity.gov.in/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -1674,7 +1613,7 @@
           "number": "155300",
           "numberPublished": "155300",
           "sourceUrl": "https://mumbaicity.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1683,7 +1622,7 @@
           "number": "1070",
           "numberPublished": "1070",
           "sourceUrl": "https://mumbaicity.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1692,7 +1631,7 @@
           "number": "22664232",
           "numberPublished": "२२६६४२३२",
           "sourceUrl": "https://mumbaicity.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1701,7 +1640,7 @@
           "number": "22694725",
           "numberPublished": "२२६९४७२५",
           "sourceUrl": "https://mumbaicity.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1710,7 +1649,7 @@
           "number": "9833806409",
           "numberPublished": "९८३३८०६४०९",
           "sourceUrl": "https://mumbaicity.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1719,7 +1658,7 @@
           "number": "27571516",
           "numberPublished": "२७५७१५१६",
           "sourceUrl": "https://mumbaicity.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1728,7 +1667,7 @@
           "number": "27571517",
           "numberPublished": "२७५७१५१७",
           "sourceUrl": "https://mumbaicity.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1737,7 +1676,7 @@
           "number": "22027990",
           "numberPublished": "२२०२७९९०",
           "sourceUrl": "https://mumbaicity.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1746,7 +1685,7 @@
           "number": "22026712",
           "numberPublished": "२२०२६७१२",
           "sourceUrl": "https://mumbaicity.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1755,7 +1694,7 @@
           "number": "23085991",
           "numberPublished": "२३०८५९९१",
           "sourceUrl": "https://mumbaicity.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1764,7 +1703,7 @@
           "number": "23085992",
           "numberPublished": "२३०८५९९२",
           "sourceUrl": "https://mumbaicity.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1773,7 +1712,7 @@
           "number": "22150431",
           "numberPublished": "२२१५०४३१",
           "sourceUrl": "https://mumbaicity.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -1800,16 +1739,16 @@
           "role": "notices-archive"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z",
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z",
       "noticesStatus": "no-matching-items-in-checked-pages"
     },
     {
       "districtCode": "483",
       "districtName": "Mumbai Suburban",
       "website": "https://mumbaisuburban.gov.in/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -1817,7 +1756,7 @@
           "number": "155300",
           "numberPublished": "155300",
           "sourceUrl": "https://mumbaisuburban.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1826,7 +1765,7 @@
           "number": "1070",
           "numberPublished": "1070",
           "sourceUrl": "https://mumbaisuburban.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1835,7 +1774,7 @@
           "number": "1916",
           "numberPublished": "1916",
           "sourceUrl": "https://mumbaisuburban.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1844,7 +1783,7 @@
           "number": "22694725",
           "numberPublished": "22694725",
           "sourceUrl": "https://mumbaisuburban.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1853,7 +1792,7 @@
           "number": "22704403",
           "numberPublished": "22704403",
           "sourceUrl": "https://mumbaisuburban.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1862,7 +1801,7 @@
           "number": "22694719",
           "numberPublished": "22694719",
           "sourceUrl": "https://mumbaisuburban.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1871,7 +1810,7 @@
           "number": "22620251",
           "numberPublished": "22620251",
           "sourceUrl": "https://mumbaisuburban.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1880,7 +1819,7 @@
           "number": "9833806409",
           "numberPublished": "9833806409",
           "sourceUrl": "https://mumbaisuburban.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1889,7 +1828,7 @@
           "number": "22027990",
           "numberPublished": "22027990",
           "sourceUrl": "https://mumbaisuburban.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1898,7 +1837,7 @@
           "number": "9321587143",
           "numberPublished": "9321587143",
           "sourceUrl": "https://mumbaisuburban.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1907,7 +1846,7 @@
           "number": "011-23092923",
           "numberPublished": "011-23092923",
           "sourceUrl": "https://mumbaisuburban.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1916,7 +1855,7 @@
           "number": "011-23093054",
           "numberPublished": "011-23093054",
           "sourceUrl": "https://mumbaisuburban.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1925,7 +1864,7 @@
           "number": "011-29092885",
           "numberPublished": "011-29092885",
           "sourceUrl": "https://mumbaisuburban.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1934,7 +1873,7 @@
           "number": "011-23092763",
           "numberPublished": "011-23092763",
           "sourceUrl": "https://mumbaisuburban.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -1944,7 +1883,7 @@
       "sources": [
         {
           "url": "https://mumbaisuburban.gov.in/",
-          "sha256": "ed66f2981fc9fda4dc85fe25e519b947db2f2a43868277a17b93e95da5166408",
+          "sha256": "9d414d8b34b8479657af597f15219da8a3415a2aa05bf6537060397ea30b2a04",
           "bytes": 241310,
           "role": "district-home"
         },
@@ -1961,16 +1900,16 @@
           "role": "notices-archive"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z",
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z",
       "noticesStatus": "no-matching-items-in-checked-pages"
     },
     {
       "districtCode": "484",
       "districtName": "Nagpur",
       "website": "https://nagpur.gov.in/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -1978,7 +1917,7 @@
           "number": "0712-2562668",
           "numberPublished": "0712-2562668",
           "sourceUrl": "https://nagpur.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -1987,7 +1926,7 @@
           "number": "155300",
           "numberPublished": "155300",
           "sourceUrl": "https://nagpur.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -2012,7 +1951,7 @@
           "language": "en",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         }
@@ -2044,15 +1983,15 @@
           "role": "notice-detail"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z"
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z"
     },
     {
       "districtCode": "485",
       "districtName": "Nanded",
       "website": "https://nanded.gov.in/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -2060,7 +1999,7 @@
           "number": "02462-262626",
           "numberPublished": "02462-262626",
           "sourceUrl": "https://nanded.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2069,7 +2008,7 @@
           "number": "155300",
           "numberPublished": "155300",
           "sourceUrl": "https://nanded.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2078,7 +2017,7 @@
           "number": "02462-233577",
           "numberPublished": "02462-233577",
           "sourceUrl": "https://nanded.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2087,7 +2026,7 @@
           "number": "1551",
           "numberPublished": "1551",
           "sourceUrl": "https://nanded.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2096,7 +2035,7 @@
           "number": "1070",
           "numberPublished": "1070",
           "sourceUrl": "https://nanded.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -2121,7 +2060,7 @@
           "language": "en",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         }
@@ -2147,15 +2086,15 @@
           "role": "notices-archive"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z"
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z"
     },
     {
       "districtCode": "486",
       "districtName": "Nandurbar",
       "website": "https://nandurbar.gov.in/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -2163,7 +2102,7 @@
           "number": "155300",
           "numberPublished": "155300",
           "sourceUrl": "https://nandurbar.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2172,7 +2111,7 @@
           "number": "1077",
           "numberPublished": "1077",
           "sourceUrl": "https://nandurbar.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2181,7 +2120,7 @@
           "number": "02564 210006",
           "numberPublished": "02564 210006",
           "sourceUrl": "https://nandurbar.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -2206,7 +2145,7 @@
           "language": "en",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         }
@@ -2215,8 +2154,8 @@
       "sources": [
         {
           "url": "https://nandurbar.gov.in/",
-          "sha256": "0d143eb8a6da616569563a98183e1625a5fbfba9e64d1452b23bb4ef4f38c816",
-          "bytes": 198588,
+          "sha256": "5050d67b3b582b528a98bd62de71a1e0cf3f753603496cd546b08cf0e99bc35c",
+          "bytes": 198814,
           "role": "district-home"
         },
         {
@@ -2232,15 +2171,15 @@
           "role": "notices-archive"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z"
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z"
     },
     {
       "districtCode": "487",
       "districtName": "Nashik",
       "website": "https://nashik.gov.in/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -2248,7 +2187,7 @@
           "number": "18001208040",
           "numberPublished": "18001208040",
           "sourceUrl": "https://nashik.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2257,7 +2196,7 @@
           "number": "011-23381092",
           "numberPublished": "011-23381092",
           "sourceUrl": "https://nashik.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2266,7 +2205,7 @@
           "number": "1077",
           "numberPublished": "1077",
           "sourceUrl": "https://nashik.gov.in/en/helpline-3/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -2293,24 +2232,24 @@
           "role": "notices-archive"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z",
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z",
       "noticesStatus": "no-matching-items-in-checked-pages"
     },
     {
       "districtCode": "488",
       "districtName": "Dharashiv",
       "website": "https://dharashiv.maharashtra.gov.in/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
-      "status": "stale-partial",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
+      "status": "checked",
       "helplines": [
         {
           "label": "Collector & DM",
           "number": "02472-224501",
           "numberPublished": "02472-224501",
           "sourceUrl": "https://dharashiv.maharashtra.gov.in/government-offices/",
-          "checkedAt": "2026-10-28T21:24:17.458884Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2319,7 +2258,7 @@
           "number": "02472-227303",
           "numberPublished": "02472-227303",
           "sourceUrl": "https://dharashiv.maharashtra.gov.in/government-offices/",
-          "checkedAt": "2026-10-28T21:24:17.458884Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2328,7 +2267,7 @@
           "number": "02472-227301",
           "numberPublished": "02472-227301",
           "sourceUrl": "https://dharashiv.maharashtra.gov.in/government-offices/",
-          "checkedAt": "2026-10-28T21:24:17.458884Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2337,7 +2276,7 @@
           "number": "02472-226180",
           "numberPublished": "02472-226180",
           "sourceUrl": "https://dharashiv.maharashtra.gov.in/government-offices/",
-          "checkedAt": "2026-10-28T21:24:17.458884Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2346,7 +2285,7 @@
           "number": "02472-225619",
           "numberPublished": "02472-225619",
           "sourceUrl": "https://dharashiv.maharashtra.gov.in/government-offices/",
-          "checkedAt": "2026-10-28T21:24:17.458884Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2355,7 +2294,7 @@
           "number": "02472-222716",
           "numberPublished": "02472-222716",
           "sourceUrl": "https://dharashiv.maharashtra.gov.in/government-offices/",
-          "checkedAt": "2026-10-28T21:24:17.458884Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -2380,7 +2319,7 @@
           "language": "en",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-28T21:24:17.458884Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         },
@@ -2403,84 +2342,47 @@
           "language": "en",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-28T21:24:17.458884Z",
-          "dateStatus": "dated",
-          "listingPeriodStatus": "open-or-unspecified"
-        },
-        {
-          "title": "Grant distribution list for farmers affected by crop damage due to heavy rainfall in August and September 2025(2 to 3 Hector)GR date 30.10.2025, Kallamb",
-          "description": "Grant distribution list for farmers affected by crop damage due to heavy rainfall in August and September 2025(2 to 3 Hector)GR date 30.10.2025, Kallamb",
-          "url": "https://cdn.s3waas.gov.in/s3642e92efb79421734881b53e1e1b18b6/uploads/2026/04/17764150572956.pdf",
-          "sourceUrl": "https://dharashiv.maharashtra.gov.in/notice_category/announcements/",
-          "documentUrl": "https://cdn.s3waas.gov.in/s3642e92efb79421734881b53e1e1b18b6/uploads/2026/04/17764150572956.pdf",
-          "documents": [
-            {
-              "title": "View (2 MB)",
-              "url": "https://cdn.s3waas.gov.in/s3642e92efb79421734881b53e1e1b18b6/uploads/2026/04/17764150572956.pdf"
-            }
-          ],
-          "startDate": "2026-03-10",
-          "endDate": "2027-12-31",
-          "id": "488-1ea591363f110c",
-          "category": "agriculture",
-          "language": "en",
-          "kind": "official-notice",
-          "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-28T21:24:17.458884Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         }
       ],
-      "failures": [
-        {
-          "section": "home",
-          "url": "https://dharashiv.maharashtra.gov.in/",
-          "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
-        }
-      ],
+      "failures": [],
       "sources": [
         {
           "url": "https://dharashiv.maharashtra.gov.in/",
-          "sha256": "04ef9907cab1099af75b6ae12453d725d990dd360f527e01443454552c25ef23",
-          "bytes": 179211,
-          "role": "district-home",
-          "retainedLastGood": true
+          "sha256": "d5e09a801889dd0488ab79efcfef3f87231a5f367d8010e9e385aeb6e3d5de62",
+          "bytes": 179277,
+          "role": "district-home"
         },
         {
           "url": "https://dharashiv.maharashtra.gov.in/helpline/",
           "sha256": "7eb0964b6263e9cf8022b90aa7630a35095de3856e8285e9c978409c8c04feb3",
           "bytes": 123010,
-          "role": "helplines",
-          "retainedLastGood": true
+          "role": "helplines"
         },
         {
           "url": "https://dharashiv.maharashtra.gov.in/government-offices/",
           "sha256": "cd35aa33ecd8b4124f2fc805de59dc97f51049e6047b89b31c2117b25ae9ebef",
           "bytes": 145196,
-          "role": "helplines",
-          "retainedLastGood": true
+          "role": "helplines"
         },
         {
           "url": "https://dharashiv.maharashtra.gov.in/notice_category/announcements/",
-          "sha256": "f01bbb5334cbfa4945c51eda4462ea8c9e334f9a11cb5d4453c9cf3289527a1e",
-          "bytes": 133647,
-          "role": "notices-archive",
-          "retainedLastGood": true
+          "sha256": "abe1289a6db56aa943ff147cc84914179691e55210eb4e5e859fa20f27a84c89",
+          "bytes": 133771,
+          "role": "notices-archive"
         }
       ],
-      "helplinesCheckedAt": "2026-10-28T21:24:17.458884Z",
-      "noticesCheckedAt": "2026-10-28T21:24:17.458884Z",
-      "retainedLastGood": [
-        "helplines",
-        "notices"
-      ]
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z"
     },
     {
       "districtCode": "489",
       "districtName": "Parbhani",
       "website": "https://parbhani.gov.in/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -2488,7 +2390,7 @@
           "number": "1077",
           "numberPublished": "१०७७",
           "sourceUrl": "https://parbhani.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2497,7 +2399,7 @@
           "number": "011-1078",
           "numberPublished": "011-1078",
           "sourceUrl": "https://parbhani.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2506,7 +2408,7 @@
           "number": "022-22027990",
           "numberPublished": "022-22027990",
           "sourceUrl": "https://parbhani.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2515,7 +2417,7 @@
           "number": "02452-226400",
           "numberPublished": "02452-226400",
           "sourceUrl": "https://parbhani.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2524,7 +2426,7 @@
           "number": "02452-222 425",
           "numberPublished": "02452-222 425",
           "sourceUrl": "https://parbhani.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2533,7 +2435,7 @@
           "number": "1800-233-1368",
           "numberPublished": "1800-233-1368",
           "sourceUrl": "https://parbhani.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2542,7 +2444,7 @@
           "number": "1800-233-1285",
           "numberPublished": "1800-233-1285",
           "sourceUrl": "https://parbhani.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -2567,7 +2469,7 @@
           "language": "en",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         },
@@ -2590,7 +2492,7 @@
           "language": "en",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         }
@@ -2616,15 +2518,15 @@
           "role": "notices-archive"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z"
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z"
     },
     {
       "districtCode": "490",
       "districtName": "Pune",
       "website": "https://pune.gov.in/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -2632,7 +2534,7 @@
           "number": "1077",
           "numberPublished": "१०७७",
           "sourceUrl": "https://pune.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -2642,7 +2544,7 @@
       "sources": [
         {
           "url": "https://pune.gov.in/",
-          "sha256": "b4cc65b3633636ecb9d15a5c838209ef1bc6e6c7d290f274fddd042dd892f333",
+          "sha256": "3a407a7e985166fb9dcb731e13c42f1def5930bd3edf724d70b28be8bfc130d9",
           "bytes": 236759,
           "role": "district-home"
         },
@@ -2659,16 +2561,16 @@
           "role": "notices-archive"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z",
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z",
       "noticesStatus": "no-matching-items-in-checked-pages"
     },
     {
       "districtCode": "491",
       "districtName": "Raigad",
       "website": "https://raigad.gov.in/en/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -2676,7 +2578,7 @@
           "number": "108",
           "numberPublished": "108",
           "sourceUrl": "https://raigad.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2685,7 +2587,7 @@
           "number": "1077",
           "numberPublished": "1077",
           "sourceUrl": "https://raigad.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2694,7 +2596,7 @@
           "number": "1554",
           "numberPublished": "1554",
           "sourceUrl": "https://raigad.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -2721,16 +2623,16 @@
           "role": "notices-archive"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z",
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z",
       "noticesStatus": "no-matching-items-in-checked-pages"
     },
     {
       "districtCode": "492",
       "districtName": "Ratnagiri",
       "website": "https://ratnagiri.gov.in/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -2738,7 +2640,7 @@
           "number": "02352222233",
           "numberPublished": "02352222233",
           "sourceUrl": "https://ratnagiri.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2747,7 +2649,7 @@
           "number": "155300",
           "numberPublished": "155300",
           "sourceUrl": "https://ratnagiri.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2756,7 +2658,7 @@
           "number": "1070",
           "numberPublished": "1070",
           "sourceUrl": "https://ratnagiri.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2765,7 +2667,7 @@
           "number": "02222027990",
           "numberPublished": "02222027990",
           "sourceUrl": "https://ratnagiri.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2774,7 +2676,7 @@
           "number": "02352226248",
           "numberPublished": "02352226248",
           "sourceUrl": "https://ratnagiri.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -2801,16 +2703,16 @@
           "role": "notices-archive"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z",
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z",
       "noticesStatus": "no-matching-items-in-checked-pages"
     },
     {
       "districtCode": "493",
       "districtName": "Sangli",
       "website": "https://sangli.nic.in/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -2818,7 +2720,7 @@
           "number": "0233-2600500",
           "numberPublished": "०२३३-२६००५००",
           "sourceUrl": "https://sangli.nic.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2827,7 +2729,7 @@
           "number": "155300",
           "numberPublished": "१५५३००",
           "sourceUrl": "https://sangli.nic.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2836,7 +2738,7 @@
           "number": "1077",
           "numberPublished": "1077",
           "sourceUrl": "https://sangli.nic.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -2860,7 +2762,7 @@
           "language": "mr",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         },
@@ -2883,7 +2785,7 @@
           "language": "en",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified",
           "alternateTitles": [
@@ -2924,15 +2826,15 @@
           "role": "notice-detail"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z"
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z"
     },
     {
       "districtCode": "494",
       "districtName": "Satara",
       "website": "https://www.satara.gov.in/en/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -2940,7 +2842,7 @@
           "number": "155300",
           "numberPublished": "155300",
           "sourceUrl": "https://www.satara.gov.in/en/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -2967,16 +2869,16 @@
           "role": "notices-archive"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z",
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z",
       "noticesStatus": "no-matching-items-in-checked-pages"
     },
     {
       "districtCode": "495",
       "districtName": "Sindhudurg",
       "website": "https://sindhudurg.nic.in/en/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -2984,7 +2886,7 @@
           "number": "02362-228847",
           "numberPublished": "02362-228847",
           "sourceUrl": "https://sindhudurg.nic.in/en/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -2993,7 +2895,7 @@
           "number": "02362-228844",
           "numberPublished": "02362-228844",
           "sourceUrl": "https://sindhudurg.nic.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -3002,7 +2904,7 @@
           "number": "02362-228855",
           "numberPublished": "02362-228855",
           "sourceUrl": "https://sindhudurg.nic.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -3011,7 +2913,7 @@
           "number": "02362-228845",
           "numberPublished": "02362-228845",
           "sourceUrl": "https://sindhudurg.nic.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -3036,7 +2938,7 @@
           "language": "en",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         }
@@ -3062,15 +2964,15 @@
           "role": "notices-archive"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z"
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z"
     },
     {
       "districtCode": "496",
       "districtName": "Solapur",
       "website": "https://solapur.gov.in/en/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -3078,7 +2980,7 @@
           "number": "155300",
           "numberPublished": "155300",
           "sourceUrl": "https://solapur.gov.in/en/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -3105,16 +3007,16 @@
           "role": "notices-archive"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z",
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z",
       "noticesStatus": "no-matching-items-in-checked-pages"
     },
     {
       "districtCode": "497",
       "districtName": "Thane",
       "website": "https://thane.nic.in/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -3122,7 +3024,7 @@
           "number": "1070",
           "numberPublished": "1070",
           "sourceUrl": "https://thane.nic.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -3149,16 +3051,16 @@
           "role": "notices-archive"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z",
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z",
       "noticesStatus": "no-matching-items-in-checked-pages"
     },
     {
       "districtCode": "498",
       "districtName": "Wardha",
       "website": "https://wardha.gov.in/en/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -3166,7 +3068,7 @@
           "number": "07152-243446",
           "numberPublished": "07152-243446",
           "sourceUrl": "https://wardha.gov.in/en/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -3175,7 +3077,7 @@
           "number": "1077",
           "numberPublished": "1077",
           "sourceUrl": "https://wardha.gov.in/en/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -3184,7 +3086,7 @@
           "number": "07152-240872",
           "numberPublished": "07152-240872",
           "sourceUrl": "https://wardha.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -3193,7 +3095,7 @@
           "number": "07152-243466",
           "numberPublished": "07152-243466",
           "sourceUrl": "https://wardha.gov.in/en/helpline/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -3220,16 +3122,16 @@
           "role": "notices-archive"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z",
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z",
       "noticesStatus": "no-matching-items-in-checked-pages"
     },
     {
       "districtCode": "499",
       "districtName": "Washim",
       "website": "https://washim.gov.in/en/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -3237,7 +3139,7 @@
           "number": "155300",
           "numberPublished": "155300",
           "sourceUrl": "https://washim.gov.in/en/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -3246,7 +3148,7 @@
           "number": "108",
           "numberPublished": "108",
           "sourceUrl": "https://washim.gov.in/en/helpline-2/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -3255,7 +3157,7 @@
           "number": "1077",
           "numberPublished": "1077",
           "sourceUrl": "https://washim.gov.in/en/helpline-2/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -3264,7 +3166,7 @@
           "number": "1554",
           "numberPublished": "1554",
           "sourceUrl": "https://washim.gov.in/en/helpline-2/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -3291,16 +3193,16 @@
           "role": "notices-archive"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z",
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z",
       "noticesStatus": "no-matching-items-in-checked-pages"
     },
     {
       "districtCode": "500",
       "districtName": "Yavatmal",
       "website": "https://yavatmal.gov.in/en/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -3308,7 +3210,7 @@
           "number": "07232-242488",
           "numberPublished": "07232-242488",
           "sourceUrl": "https://yavatmal.gov.in/en/contact-us/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -3317,7 +3219,7 @@
           "number": "07232-242501",
           "numberPublished": "07232-242501",
           "sourceUrl": "https://yavatmal.gov.in/en/contact-us/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -3342,7 +3244,7 @@
           "language": "en",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         },
@@ -3365,7 +3267,7 @@
           "language": "en",
           "kind": "official-notice",
           "legalStatus": "not-assessed",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "dateStatus": "dated",
           "listingPeriodStatus": "open-or-unspecified"
         }
@@ -3374,7 +3276,7 @@
       "sources": [
         {
           "url": "https://yavatmal.gov.in/en/",
-          "sha256": "d9731857875e35acdefe9439cfcc667b06e91819055a628fede0b27e41312dd2",
+          "sha256": "cb78302f0df22435a4ed3ab257ca7cf9234d5f4e5bed163dcc50b5c3e2f49fbc",
           "bytes": 211249,
           "role": "district-home"
         },
@@ -3403,15 +3305,15 @@
           "role": "notices-archive"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z"
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z"
     },
     {
       "districtCode": "665",
       "districtName": "Palghar",
       "website": "https://palghar.gov.in/",
-      "checkedAt": "2026-10-29T19:13:45.359482Z",
-      "lastAttemptAt": "2026-10-29T19:13:45.359482Z",
+      "checkedAt": "2026-10-29T21:30:47.278572Z",
+      "lastAttemptAt": "2026-10-29T21:30:47.278572Z",
       "status": "checked",
       "helplines": [
         {
@@ -3419,7 +3321,7 @@
           "number": "155300",
           "numberPublished": "155300",
           "sourceUrl": "https://palghar.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         },
@@ -3428,7 +3330,7 @@
           "number": "1077",
           "numberPublished": "1077",
           "sourceUrl": "https://palghar.gov.in/",
-          "checkedAt": "2026-10-29T19:13:45.359482Z",
+          "checkedAt": "2026-10-29T21:30:47.278572Z",
           "verification": "published-on-official-site",
           "operationallyTested": false
         }
@@ -3455,8 +3357,8 @@
           "role": "notices-archive"
         }
       ],
-      "helplinesCheckedAt": "2026-10-29T19:13:45.359482Z",
-      "noticesCheckedAt": "2026-10-29T19:13:45.359482Z",
+      "helplinesCheckedAt": "2026-10-29T21:30:47.278572Z",
+      "noticesCheckedAt": "2026-10-29T21:30:47.278572Z",
       "noticesStatus": "no-matching-items-in-checked-pages"
     }
   ]
