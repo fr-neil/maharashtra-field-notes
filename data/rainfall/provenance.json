@@ -5,7 +5,7 @@
   "reportDay": "2026-10-30",
   "periodStart": "2026-10-01",
   "periodEnd": "2026-10-30",
-  "retrievedAt": "2026-10-30T18:43:46+00:00",
+  "retrievedAt": "2026-10-30T21:01:55+00:00",
   "sha256": "c29da614de3d990ee96d775bcd762cc8d955c52ee120171a5601978d747957b9",
   "bytes": 2996854,
   "extractionMethod": "pdftotext -raw text of IMD's machine-generated PDF; rows checked against page images on first import",
