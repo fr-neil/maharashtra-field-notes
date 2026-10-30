@@ -2,12 +2,12 @@
   "publisher": "India Meteorological Department (IMD), Ministry of Earth Sciences",
   "sourcePage": "https://mausam.imd.gov.in/imd_latest/contents/rainfall_statistics_3.php",
   "sourceDocumentUrl": "https://mausam.imd.gov.in/Rainfall/DISTRICT_RAINFALL_DISTRIBUTION_COUNTRY_INDIA_cd.pdf",
-  "reportDay": "2026-10-29",
+  "reportDay": "2026-10-30",
   "periodStart": "2026-10-01",
-  "periodEnd": "2026-10-29",
-  "retrievedAt": "2026-10-29T21:25:36+00:00",
-  "sha256": "c597017a330b6202ead4f00b47b1ed466b0506151607b03d442844391db7713a",
-  "bytes": 2994518,
+  "periodEnd": "2026-10-30",
+  "retrievedAt": "2026-10-30T18:43:46+00:00",
+  "sha256": "c29da614de3d990ee96d775bcd762cc8d955c52ee120171a5601978d747957b9",
+  "bytes": 2996854,
   "extractionMethod": "pdftotext -raw text of IMD's machine-generated PDF; rows checked against page images on first import",
   "script": "scripts/import-rainfall.py",
   "validation": {
@@ -15,73 +15,87 @@
     "allDistrictsMapped": true,
     "departureWarnings": [
       {
+        "district": "PUNE",
+        "span": "day",
+        "printed": -98,
+        "calculated": -100.0,
+        "likelyCause": "trace rainfall printed as 0 mm"
+      },
+      {
         "district": "AKOLA",
         "span": "day",
-        "printed": -69,
-        "calculated": -60.0,
+        "printed": -64,
+        "calculated": -75.0,
         "likelyCause": "unexplained"
       },
       {
         "district": "AMRAOTI",
         "span": "day",
-        "printed": -4,
-        "calculated": 0.0,
+        "printed": -41,
+        "calculated": -50.0,
         "likelyCause": "unexplained"
       },
       {
         "district": "BHANDARA",
         "span": "day",
         "printed": 229,
-        "calculated": 233.3,
+        "calculated": 200.0,
         "likelyCause": "unexplained"
       },
       {
         "district": "BULDHANA",
         "span": "day",
-        "printed": -88,
-        "calculated": -83.3,
-        "likelyCause": "unexplained"
+        "printed": -98,
+        "calculated": -100.0,
+        "likelyCause": "trace rainfall printed as 0 mm"
       },
       {
         "district": "CHANDRAPUR",
         "span": "day",
-        "printed": 422,
-        "calculated": 433.3,
+        "printed": 188,
+        "calculated": 200.0,
+        "likelyCause": "unexplained"
+      },
+      {
+        "district": "GADCHIROLI",
+        "span": "day",
+        "printed": 114,
+        "calculated": 100.0,
         "likelyCause": "unexplained"
       },
       {
         "district": "GONDIA",
         "span": "day",
-        "printed": 932,
-        "calculated": 937.5,
+        "printed": 456,
+        "calculated": 466.7,
         "likelyCause": "unexplained"
       },
       {
         "district": "NAGPUR",
         "span": "day",
-        "printed": 32,
-        "calculated": 25.0,
+        "printed": -62,
+        "calculated": -66.7,
         "likelyCause": "unexplained"
       },
       {
         "district": "WARDHA",
         "span": "day",
-        "printed": -67,
-        "calculated": -62.5,
+        "printed": -78,
+        "calculated": -75.0,
         "likelyCause": "unexplained"
       },
       {
         "district": "WASHIM",
         "span": "day",
-        "printed": -93,
-        "calculated": -100.0,
-        "likelyCause": "trace rainfall printed as 0 mm"
+        "printed": -22,
+        "calculated": -33.3,
+        "likelyCause": "unexplained"
       },
       {
         "district": "YEOTMAL",
         "span": "day",
-        "printed": 17,
-        "calculated": 25.0,
+        "printed": 55,
+        "calculated": 50.0,
         "likelyCause": "unexplained"
       }
     ]
