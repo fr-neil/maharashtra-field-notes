@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-06T21:53:00+00:00",
+  "updatedAt": "2026-11-07T18:16:13+00:00",
   "feeds": [
     {
       "id": "rainfall",
       "status": "ok",
-      "lastSuccessAt": "2026-11-06T21:45:08+00:00",
-      "attemptedAt": "2026-11-06T21:53:00+00:00"
+      "lastSuccessAt": "2026-11-07T18:09:54+00:00",
+      "attemptedAt": "2026-11-07T18:16:13+00:00"
     },
     {
       "id": "season",
       "status": "ok",
-      "lastSuccessAt": "2026-11-06T21:52:10+00:00",
-      "attemptedAt": "2026-11-06T21:53:00+00:00"
+      "lastSuccessAt": "2026-11-07T18:15:24+00:00",
+      "attemptedAt": "2026-11-07T18:16:13+00:00"
     },
     {
       "id": "groundwater",
@@ -26,8 +26,8 @@
     {
       "id": "services",
       "status": "ok",
-      "lastSuccessAt": "2026-11-06T21:52:10.906658Z",
-      "attemptedAt": "2026-11-06T21:53:00+00:00"
+      "lastSuccessAt": "2026-11-07T18:15:25.069691Z",
+      "attemptedAt": "2026-11-07T18:16:13+00:00"
     },
     {
       "id": "villages",
