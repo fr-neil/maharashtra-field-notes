@@ -5,13 +5,13 @@
     "publisher": "India Meteorological Department (IMD), Ministry of Earth Sciences",
     "sourcePage": "https://mausam.imd.gov.in/imd_latest/contents/rainfall_statistics_3.php",
     "sourceDocumentUrl": "https://mausam.imd.gov.in/Rainfall/DISTRICT_RAINFALL_DISTRIBUTION_COUNTRY_INDIA_cd.pdf",
-    "localDocumentUrl": "/data/rainfall/imd-district-rainfall-2026-11-23.pdf",
-    "reportDay": "2026-11-23",
+    "localDocumentUrl": "/data/rainfall/imd-district-rainfall-2026-11-24.pdf",
+    "reportDay": "2026-11-24",
     "periodStart": "2026-10-01",
-    "periodEnd": "2026-11-23",
-    "retrievedAt": "2026-11-24T03:02:22+00:00",
-    "sha256": "2321a9ff4b211a8ac3b4470e2dc20bad107b6bccc4c2cbb19ffa842dd9ba3a9c",
-    "bytes": 2991490,
+    "periodEnd": "2026-11-24",
+    "retrievedAt": "2026-11-24T23:11:51+00:00",
+    "sha256": "053ad06ae950ba3b71f0a4cad7fc48b4c6fb9738a32f3efc9b8ba3b36a163d45",
+    "bytes": 2991053,
     "recordCount": 36,
     "coverage": "All 36 Maharashtra districts as aggregated by IMD; district averages, not village or field rainfall",
     "extractionMethod": "pdftotext -raw text of IMD's machine-generated PDF; rows checked against page images on first import",
@@ -62,13 +62,13 @@
   "state": {
     "day": {
       "actualMm": 0.0,
-      "normalMm": 0.8,
+      "normalMm": 0.3,
       "departurePercent": -100,
       "category": "NR"
     },
     "period": {
       "actualMm": 6.0,
-      "normalMm": 88.9,
+      "normalMm": 89.2,
       "departurePercent": -93,
       "category": "LD"
     }
@@ -85,13 +85,13 @@
       "subdivision": "MADHYA MAHARASHTRA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 1.2,
+        "normalMm": 0.3,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 4.7,
-        "normalMm": 92.5,
+        "normalMm": 92.8,
         "departurePercent": -95,
         "category": "LD"
       }
@@ -102,13 +102,13 @@
       "subdivision": "VIDARBHA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 1.5,
+        "normalMm": 1.0,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 0.4,
-        "normalMm": 65.2,
+        "normalMm": 66.2,
         "departurePercent": -99,
         "category": "LD"
       }
@@ -119,13 +119,13 @@
       "subdivision": "VIDARBHA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 0.8,
+        "normalMm": 0.9,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
-        "actualMm": 1.3,
-        "normalMm": 60.4,
+        "actualMm": 1.4,
+        "normalMm": 61.3,
         "departurePercent": -98,
         "category": "LD"
       }
@@ -136,13 +136,13 @@
       "subdivision": "MARATHWADA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 1.7,
+        "normalMm": 0.3,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 0.0,
-        "normalMm": 76.3,
+        "normalMm": 76.6,
         "departurePercent": -100,
         "category": "NR"
       }
@@ -153,13 +153,13 @@
       "subdivision": "MARATHWADA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 0.8,
+        "normalMm": 0.5,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 0.0,
-        "normalMm": 92.2,
+        "normalMm": 92.7,
         "departurePercent": -100,
         "category": "NR"
       }
@@ -170,13 +170,13 @@
       "subdivision": "VIDARBHA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 0.3,
+        "normalMm": 0.8,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 2.0,
-        "normalMm": 62.7,
+        "normalMm": 63.5,
         "departurePercent": -97,
         "category": "LD"
       }
@@ -187,13 +187,13 @@
       "subdivision": "VIDARBHA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 0.6,
+        "normalMm": 0.4,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 0.2,
-        "normalMm": 66.5,
+        "normalMm": 66.9,
         "departurePercent": -99,
         "category": "LD"
       }
@@ -204,13 +204,13 @@
       "subdivision": "VIDARBHA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 0.2,
+        "normalMm": 0.1,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 4.6,
-        "normalMm": 76.4,
+        "normalMm": 76.5,
         "departurePercent": -94,
         "category": "LD"
       }
@@ -221,13 +221,13 @@
       "subdivision": "MADHYA MAHARASHTRA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 0.5,
+        "normalMm": 0.1,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 0.0,
-        "normalMm": 51.5,
+        "normalMm": 51.6,
         "departurePercent": -100,
         "category": "NR"
       }
@@ -238,13 +238,13 @@
       "subdivision": "VIDARBHA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 0.0,
+        "normalMm": 0.1,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 7.5,
-        "normalMm": 75.3,
+        "normalMm": 75.4,
         "departurePercent": -90,
         "category": "LD"
       }
@@ -255,14 +255,14 @@
       "subdivision": "VIDARBHA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 0.0,
+        "normalMm": 0.5,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 12.6,
-        "normalMm": 56.0,
-        "departurePercent": -77,
+        "normalMm": 56.5,
+        "departurePercent": -78,
         "category": "LD"
       }
     },
@@ -272,13 +272,13 @@
       "subdivision": "MARATHWADA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 0.8,
+        "normalMm": 0.4,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 0.0,
-        "normalMm": 82.8,
+        "normalMm": 83.2,
         "departurePercent": -100,
         "category": "NR"
       }
@@ -289,13 +289,13 @@
       "subdivision": "MADHYA MAHARASHTRA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 0.9,
+        "normalMm": 0.4,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 0.0,
-        "normalMm": 55.7,
+        "normalMm": 56.1,
         "departurePercent": -100,
         "category": "NR"
       }
@@ -306,13 +306,13 @@
       "subdivision": "MARATHWADA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 1.6,
+        "normalMm": 0.2,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 0.0,
-        "normalMm": 80.2,
+        "normalMm": 80.4,
         "departurePercent": -100,
         "category": "NR"
       }
@@ -323,13 +323,13 @@
       "subdivision": "MADHYA MAHARASHTRA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 1.2,
+        "normalMm": 0.2,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 25.4,
-        "normalMm": 143.1,
+        "normalMm": 143.3,
         "departurePercent": -82,
         "category": "LD"
       }
@@ -340,13 +340,13 @@
       "subdivision": "MARATHWADA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 0.0,
+        "normalMm": 0.2,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 0.0,
-        "normalMm": 99.4,
+        "normalMm": 99.6,
         "departurePercent": -100,
         "category": "NR"
       }
@@ -357,13 +357,13 @@
       "subdivision": "KONKAN & GOA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 0.1,
+        "normalMm": 0.5,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 0.0,
-        "normalMm": 87.1,
+        "normalMm": 87.6,
         "departurePercent": -100,
         "category": "NR"
       }
@@ -374,13 +374,13 @@
       "subdivision": "KONKAN & GOA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 0.0,
+        "normalMm": 0.4,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 14.6,
-        "normalMm": 94.2,
+        "normalMm": 94.6,
         "departurePercent": -85,
         "category": "LD"
       }
@@ -391,13 +391,13 @@
       "subdivision": "VIDARBHA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 0.5,
+        "normalMm": 0.9,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 1.6,
-        "normalMm": 62.4,
+        "normalMm": 63.3,
         "departurePercent": -97,
         "category": "LD"
       }
@@ -408,13 +408,13 @@
       "subdivision": "MARATHWADA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 0.1,
+        "normalMm": 0.4,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 0.2,
-        "normalMm": 88.7,
+        "normalMm": 89.1,
         "departurePercent": -99,
         "category": "LD"
       }
@@ -425,13 +425,13 @@
       "subdivision": "MADHYA MAHARASHTRA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 0.5,
+        "normalMm": 0.3,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 0.0,
-        "normalMm": 44.4,
+        "normalMm": 44.7,
         "departurePercent": -100,
         "category": "NR"
       }
@@ -442,13 +442,13 @@
       "subdivision": "MADHYA MAHARASHTRA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 0.6,
+        "normalMm": 0.1,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 3.9,
-        "normalMm": 83.4,
+        "normalMm": 83.5,
         "departurePercent": -95,
         "category": "LD"
       }
@@ -459,13 +459,13 @@
       "subdivision": "MARATHWADA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 0.5,
+        "normalMm": 0.3,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 0.0,
-        "normalMm": 103.1,
+        "normalMm": 103.4,
         "departurePercent": -100,
         "category": "NR"
       }
@@ -476,13 +476,13 @@
       "subdivision": "MARATHWADA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 0.6,
+        "normalMm": 0.1,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 0.0,
-        "normalMm": 87.4,
+        "normalMm": 87.5,
         "departurePercent": -100,
         "category": "NR"
       }
@@ -493,13 +493,13 @@
       "subdivision": "MADHYA MAHARASHTRA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 1.5,
+        "normalMm": 0.3,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 25.0,
-        "normalMm": 104.8,
+        "normalMm": 105.1,
         "departurePercent": -76,
         "category": "LD"
       }
@@ -510,13 +510,13 @@
       "subdivision": "KONKAN & GOA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 0.7,
+        "normalMm": 0.3,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 7.5,
-        "normalMm": 133.8,
+        "normalMm": 134.1,
         "departurePercent": -94,
         "category": "LD"
       }
@@ -527,13 +527,13 @@
       "subdivision": "KONKAN & GOA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 1.1,
+        "normalMm": 0.4,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 36.4,
-        "normalMm": 155.2,
+        "normalMm": 155.6,
         "departurePercent": -77,
         "category": "LD"
       }
@@ -544,13 +544,13 @@
       "subdivision": "MADHYA MAHARASHTRA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 1.0,
+        "normalMm": 0.4,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 13.9,
-        "normalMm": 124.3,
+        "normalMm": 124.7,
         "departurePercent": -89,
         "category": "LD"
       }
@@ -561,13 +561,13 @@
       "subdivision": "MADHYA MAHARASHTRA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 1.8,
+        "normalMm": 0.6,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 5.1,
-        "normalMm": 119.4,
+        "normalMm": 120.0,
         "departurePercent": -96,
         "category": "LD"
       }
@@ -578,13 +578,13 @@
       "subdivision": "KONKAN & GOA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 0.7,
+        "normalMm": 0.3,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 44.6,
-        "normalMm": 179.0,
+        "normalMm": 179.3,
         "departurePercent": -75,
         "category": "LD"
       }
@@ -595,7 +595,7 @@
       "subdivision": "MADHYA MAHARASHTRA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 1.2,
+        "normalMm": 0.0,
         "departurePercent": -100,
         "category": "NR"
       },
@@ -612,13 +612,13 @@
       "subdivision": "KONKAN & GOA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 0.4,
+        "normalMm": 0.2,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 11.6,
-        "normalMm": 83.4,
+        "normalMm": 83.6,
         "departurePercent": -86,
         "category": "LD"
       }
@@ -635,7 +635,7 @@
       },
       "period": {
         "actualMm": 0.8,
-        "normalMm": 67.1,
+        "normalMm": 67.5,
         "departurePercent": -99,
         "category": "LD"
       }
@@ -646,13 +646,13 @@
       "subdivision": "VIDARBHA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 0.5,
+        "normalMm": 0.3,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 0.5,
-        "normalMm": 71.4,
+        "normalMm": 71.7,
         "departurePercent": -99,
         "category": "LD"
       }
@@ -663,7 +663,7 @@
       "subdivision": "VIDARBHA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 0.2,
+        "normalMm": 0.0,
         "departurePercent": -100,
         "category": "NR"
       },
@@ -680,13 +680,13 @@
       "subdivision": "KONKAN & GOA",
       "day": {
         "actualMm": 0.0,
-        "normalMm": 1.0,
+        "normalMm": 0.3,
         "departurePercent": -100,
         "category": "NR"
       },
       "period": {
         "actualMm": 2.3,
-        "normalMm": 73.8,
+        "normalMm": 74.1,
         "departurePercent": -97,
         "category": "LD"
       }
